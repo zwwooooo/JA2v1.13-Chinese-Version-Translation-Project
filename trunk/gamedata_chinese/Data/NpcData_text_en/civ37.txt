@@ -1,0 +1,15 @@
+0:
+Surrender now and your lives will be spared.
+
+320:
+You don't have a chance. Surrender now.
+
+640:
+Surrender to Queen Deidranna or face certain death!
+
+960:
+You are but a small force against the Queen's army.  Surrender now and you will see another day.
+
+1280:
+We don't get too many visitors in the hole.
+

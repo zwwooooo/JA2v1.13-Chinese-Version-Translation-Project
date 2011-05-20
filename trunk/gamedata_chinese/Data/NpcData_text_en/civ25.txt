@@ -1,0 +1,45 @@
+0:
+I have no money to drink.
+
+320:
+Frank won't give me anymore credit.
+
+640:
+They took all my money.
+
+960:
+I gotta get it bad.
+
+1280:
+Got some coin for a thirsty man?
+
+1600:
+Somebody stole my wallet.
+
+1920:
+I need financial assistance. Madame Layla's girls took my money.
+
+2240:
+I have no money because of this town.
+
+2560:
+I am poor. Kingpin is rich, but I am poor.
+
+2880:
+If only I could fight, I could maybe earn some money.
+
+3200:
+Beware of your money in this town - it will end up in Kingpin's pocket before you realize it.
+
+3520:
+Kingpin will break my legs if I don't pay my debt soon.
+
+3840:
+Bandits took all my money.
+
+4160:
+I lost my money in the extreme fighting competition.
+
+4480:
+Beware! This town will rid you of all your earnings.
+

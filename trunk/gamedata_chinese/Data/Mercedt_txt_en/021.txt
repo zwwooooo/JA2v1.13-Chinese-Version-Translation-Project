@@ -1,0 +1,285 @@
+0:
+Enemies.
+
+480:
+That's what I've been waiting on.
+
+960:
+Problems here.
+
+1440:
+Mega-maggot over there.
+
+1920:
+That's one well-fed maggot.
+
+2400:
+It's the work of those monster maggots.
+
+2880:
+Wonder what that noise was.
+
+3360:
+(sniff) Those maggots can sure pass some mean gas.
+
+3840:
+Big trouble's comin'. Yeah...
+
+4320:
+Place is probably swarming with maggots.
+
+4800:
+I got maggots crawlin' up my ass here!
+
+5280:
+Someone drop something?
+
+5760:
+Lookit.
+
+6240:
+Gotta reload.
+
+6720:
+I'm fading, need help.
+
+8160:
+Poor Nails.
+
+8640:
+Whoa... What was I doing?
+
+9120:
+Uh-oh, jammed gun here.
+
+9600:
+C'mon, you sons o' bitches! Is that the best you can do?
+
+10080:
+Looks worse than it is.
+
+10560:
+Startin' to get exciting.
+
+11040:
+Probably just waste ammo.
+
+11520:
+Gotta do something about this bleeder before I need a freakin' transfusion.
+
+12000:
+Gotta catch some z's.
+
+12480:
+Gotta stop. Chest pain.
+
+12960:
+Lie still.
+
+13440:
+Dead bag of pus.
+
+14880:
+Maybe we should just cut the dead weight. Ain't that right, BIFF??
+
+15360:
+I wasted Mike. Not bad, huh?
+
+15840:
+Looks better without a head anyway.
+
+16800:
+Done here.
+
+17280:
+You know what you can do with THAT order, don't-cha?
+
+17760:
+Too bad I hadda kill her. She was my kinda gal... feisty.
+
+18240:
+Maggots lost their mommy!
+
+18720:
+I'm sick of that goddamned dumbass.
+
+19200:
+Gonna think twice before I lay my ass on the line for this outfit.
+
+19680:
+Great team, if you don't mind pullin' their redhot butts out of the fire every ten minutes.
+
+20160:
+Bombers!
+
+20640:
+We'd be better off throwing this cheap crap away and fighting hand-to-hand, bare-ass naked.
+
+21120:
+I don't believe in an eye-for-an-eye. Someone takes out my eye, I take out both of his.
+
+22080:
+Hard work and clean living pays off.
+
+22560:
+Freakin' brilliant.
+
+23040:
+Totally unpredictable.
+
+25440:
+Nails done good.
+
+25920:
+Not ready yet.
+
+26400:
+That's Mike. Good Merc. Too bad.
+
+26880:
+I can't see a damn thing!
+
+27360:
+Forget this!
+
+27840:
+Seemed all right.
+
+28320:
+From what I'm picking up, the sector's got a few too many people.
+
+28800:
+Some of them got lucky. Probably still close-by, I bet.
+
+29760:
+Nailed the sucker!
+
+30240:
+Could that be the missing kid over there? I should teach him to respect his mother.
+
+30720:
+Well, she's gotta another thing coming.
+
+31200:
+We fried 'em all. Got room to move around.
+
+31680:
+Shipment looks shy of a full load.
+
+32160:
+Nothing like poppin' it to someone who begged for it. They'll probably give us the key to the town.
+
+32640:
+Trophy sighting!
+
+33120:
+Yeah, good job. You need a job done right, you know who to call.
+
+33600:
+Looks like they didn't want to stay and play.
+
+34080:
+Gotta saw some logs before I punch someone. I'll be up in a bit.
+
+34560:
+Sleep makes me nice. And, yeah, I'm working.
+
+35040:
+You're not alone, pal.
+
+35520:
+This piece of... has shit the bed.
+
+36000:
+Whoa. Gotta nasty surprise here.
+
+36480:
+Lookit. Don't look good.
+
+36960:
+I... can't... float... much longer!
+
+37440:
+I'm here. What next?
+
+38400:
+Nothing burns me up more than a C.O. who doesn't know how to treat his guys. Call me when you figure it all out.
+
+38880:
+I don't do battle for reckless C.O.'s.
+
+39360:
+Sorry, I'm doin' an interview with "Soldier of Fortune." Try me again later.
+
+39840:
+Can't make it happen. Give me some warning next time.
+
+40320:
+John Peters. Not here right now. Leave a message.
+
+40800:
+Okay, I'm history.
+
+42240:
+No! You got Biff Apscott on the team. Looks like a carrot, fights like a pussy.
+
+42720:
+My contract's closin' down. You interested in doing something about it?
+
+43200:
+You got it.
+
+43680:
+I'll be there.
+
+45120:
+You got Nails signed up. That's good. That balances out your downside. Okay, you got it.
+
+45600:
+What, sign up for more of the same? In your dreams.
+
+46080:
+Once more...
+
+46560:
+Ya, right! What are you going to pay me with?
+
+47040:
+Ya, okay. That's it, then.
+
+47520:
+I don't do battle for reckless C.O.'s.
+
+48960:
+No! You got Biff Apscott on the team. Looks like a carrot, fights like a pussy.
+
+50400:
+You got Nails signed up. That's good. That balances out your downside. Okay, you got it.
+
+50880:
+Once more...
+
+51360:
+Ya, right! What are you going to pay me with?
+
+51840:
+Yes?
+
+52320:
+I like to break people's necks. Maybe you could use a guy like that.
+
+52800:
+You there or what?
+
+53280:
+For how long?
+
+53760:
+Call me when you're ready to do business. I'll think about answering.
+
+55200:
+Yeah, getting near that time. Contract's closin' down.
+
+55680:
+Ya gotta pay more to get more. And I'm more now.
+

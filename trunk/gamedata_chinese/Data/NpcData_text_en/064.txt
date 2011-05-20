@@ -1,0 +1,54 @@
+0:
+Hello.
+
+480:
+We meet again. How nice.
+
+960:
+I understand the necessity of war. But it just seems this whole thing could have been settled... with an assassination.
+
+1440:
+You're the hired guns I've heard of. I have a lot of respect for your line of work.
+
+1920:
+I don't want it.
+
+2400:
+I came down here to get away from it all. Finding myself in the middle of a war makes me nervous as hell. The Americans will come. They always come to a war! I don't like the Americans.
+
+2880:
+In case you hadn't noticed, I have a gun. Perhaps we can talk like professionals here.
+
+3360:
+No. Wasn't part of my plans.
+
+3840:
+I need a doctor...
+
+4320:
+Good talking to you.
+
+4800:
+Appreciated.
+
+5280:
+You should have backed out when you had the chance!
+
+5760:
+Stop! Okay, you know who I am. We can make a deal. How would you like to have the use of my talents? I'm an excellent sniper. Very comfortable on rooftops. Can pick off just about anything you want.
+
+6240:
+I tell you what... I'll give you a week. You get the services of Richard Ruttwen, free of charge, for one week. Then, we're even, and I walk. If you know anything about my reputation, you won't pass on the chance.
+
+6720:
+Okay... We got a deal. Just treat me like any of the others.
+
+7200:
+You deceitful bastard!
+
+7680:
+Don't be expecting me to do anything for it.
+
+8160:
+Still a lot of fighting going on here. Not a good time to be talking.
+

@@ -1,0 +1,669 @@
+0:
+We Know What You're Thinking
+
+640:
+2 3 *** KNOW YOUR CHARACTER *** 3 3 Can You Be Your Own Worst Enemy? 3 3 How Can You Best Use Your Talents? 3
+
+1280:
+2 3 FIND OUT WHO YOU REALLY ARE AT ... 3
+
+1920:
+2 3 I.M.P. 3 3 Institute for Mercenary Profiling 3 3 http://www.I.M.P.com 3
+
+2560:
+At IMP, we know the mercenary trade. We know the pressures you're under, and we know what it takes - advice you won't find at any candyass "pc" site. Our profiles are designed to elicit honest answers, accurate results and information you need to know. ¡À
+
+3200:
+2 Why you need us: 2 As professional armed "servicemen", you need psychological profiling (and sometimes counseling) to get ahead in your profession and to use your God-and-Smith-&-Wesson given talents to their fullest potential. IMP takes you there. ¡À
+
+3840:
+2 What you get: 2 IMP analyzes you scientifically. We look at your personality, your skills, your physical attributes ... right down to voice and portrait identification. You get a look at your character, an in-depth profile of who you are and what makes you tick (or get clocked). ¡À
+
+4480:
+2 How much: 2 WITH THIS SPECIAL EMAIL OFFER, you get it all for only $3,000! A savings of $2,500 off regularly advertised prices! ¡À
+
+5120:
+This is a *limited* offer by invitation only. 2 Your SECRET Activation Code: 2 XEP624 ¡À
+
+5760:
+Law Enforcement Agencies are requested to note that this is for entertainment only, and IMP does not (in any way that can be proven in a court of law - technically) supply actual mercenaries. ¡À
+
+6400:
+Good luck in Arulco
+
+7040:
+Just wanted to say that my thoughts are with you. Best of luck. Remember to seek out Miguel and deliver my letter to him. I'm sure you'll find him invaluable. ¡À
+
+7680:
+Enrico ¡À
+
+8320:
+A *little* knowledge is a dangerous thing...
+
+8960:
+3 2 *** HEY!!! WHAT ARE YOU WAITING FOR? *** 3 ¡À ¡À 3 KNOW YOUR CHARACTER 3 ¡À ¡À 3 We already do! 2 3 ¡À ¡À
+
+9600:
+At IMP, the Institute for Mercenary Profiling, we've already figured out that you're likely to pass up really good opportunities -- things that could make or break you out in the field. We know that you have a tendency to rush into things without checking out all possibilities. ¡À
+
+10240:
+You may also have a tendency to procrastinate. ¡À
+
+10880:
+FOR ONLY $3,000 we'll tell you a lot more about your character! ¡À
+
+11520:
+This is your last chance! (ok, not really, but pretend it is) ¡À ¡À Visit IMP now, and use your 2 SECRET activation code: 2 XEP624 ¡À
+
+12160:
+A New Recruiting Alternative
+
+12800:
+This is not spam! ¡À
+
+13440:
+Excuse me. I have received your name from a friend of a friend. I am Speck T. Kline, co-proprietor of a new mercenary recruitment center M.E.R.C. (More Economic Recruiting Center) that I think you'll find very interesting. ¡À
+
+14080:
+As an ex-member of A.I.M., and extremely familiar with their operations, I am confident that we can offer services on par with theirs. In fact, I know we can outperform A.I.M. in almost every aspect. ¡À ¡À For more information please visit our site at http://www.M.E.R.C.com. ¡À
+
+14720:
+Speck T. Kline ¡À
+
+15360:
+New Site Address
+
+16000:
+Please be advised our site has moved to a new location for improved connection speed. ¡À ¡À The site is now at: http://www.M.E.R.C.net. ¡À ¡À Speck T. Kline ¡À
+
+16640:
+Refund Applied to Account
+
+17280:
+This will confirm the transfer of $AMOUN$ to your account, representing a full refund of medical deposit for $MERCNAME$. ¡À
+
+17920:
+Hans Yorgan ¡À Director of A.I.M. Personnel ¡À
+
+18560:
+IMP Analysis Results.
+
+19200:
+Past Due!
+
+19840:
+It has come to my attention that your account is delinquent. It would trouble me deeply to have to revoke your priviledges, so please take a moment of your time and go to M.E.R.C. and AUTHORIZE the payment. ¡À ¡À Speck T. Kline ¡À
+
+20480:
+Important notice!
+
+21120:
+I'd like to take this moment to invite you to visit the M.E.R.C. website. It's been awhile since we last spoke, and I, for one, would greatly appreciate the opportunity to converse again. ¡À ¡À Speck T. Kline ¡À
+
+21760:
+New Personnel!
+
+22400:
+It is with supreme pleasure that I announce the expansion of M.E.R.C. We have recently acquired the services of some of the top talent in the business. Therefore, I invite you to visit our site, and profit from some of the most amazing deals being offered in the industry today. ¡À ¡À Speck T. Kline ¡À
+
+23040:
+Please Pay.
+
+23680:
+Apparently, there's been an oversight on your part. An outstanding balance remains on your account. I urge you to visit the M.E.R.C. website as soon as possible and correct this most troubling situation. It is as simple as authorizing payment directly and conveniently on our accounts page. ¡À ¡À Speck T. Kline ¡À
+
+24320:
+Notice of Fee Increase
+
+24960:
+Hereby be informed that due to Biff's past performance his fees for services rendered have undergone an increase. Personally, I'm not surprised. ¡À ¡À Speck T. Kline ¡À
+
+25600:
+Notice of Fee Increase
+
+26240:
+This notice is to inform you that due to Haywire's exemplary performance his fees have been revised. Effective immediately there will be an increase to his salary. ¡À ¡À Speck T. Kline ¡À
+
+26880:
+Notice of Fee Increase
+
+27520:
+Please be advised that, as of this moment, Gasket's fees for services rendered have increased to coincide with the increase in his abilities. ¡À ¡À Speck T. Kline ¡À
+
+28160:
+Notice of Fee Increase
+
+28800:
+Please be advised that Razor's experience entitles him to more equitable compensation. He's fees have therefore been increased to more accurately reflect his worth. ¡À ¡À Speck T. Kline ¡À
+
+29440:
+Notice of Fee Increase
+
+30080:
+Please consider yourself advised that Flo's improvement in the field merits an improvement in her compensation.  ¡À ¡À Speck T. Kline ¡À
+
+30720:
+Notice of Fee Increase
+
+31360:
+Please take note. Due to the improved performance of Gumpy his fees for services rendered have undergone an increase. ¡À ¡À Speck T. Kline ¡À
+
+32000:
+Notice of Fee Increase
+
+32640:
+Please be advised, in consideration of Larry's dedication and experience his daily fee has been increased. ¡À ¡À Speck T. Kline ¡À
+
+33280:
+Notice of Fee Increase
+
+33920:
+Please consider yourself notified that Cougar's exceptional service to date warrants an increase to his daily fee, effective immediately. ¡À ¡À Speck T. Kline ¡À
+
+34560:
+Notice of Fee Increase
+
+35200:
+Please consider this correspondance legal notice. Numb's daily fee has been increased to account for his improved performance. ¡À ¡À Speck T. Kline ¡À
+
+35840:
+Notice of Fee Increase
+
+36480:
+This is a legal notice that Bubba's fees for services provided has been increased to properly reflect his abilities. ¡À ¡À Speck T. Kline ¡À
+
+37120:
+FW from AIM Server: Message from Barry Unger
+
+37760:
+Hello. This is an electronically mailed display message from Barry Unger in response to your response to my telephone response mechanism. ¡À ¡À I have currently returned and am now available on the world wide web location site of AIM if you are still interested in the services I provide. ¡À  ¡À Thank you. ¡À
+
+38400:
+FW from AIM Server: Message from Keith Hanson
+
+39040:
+Hey, man, Blood here. Got your message. I'm back if you want to get in touch. ¡À ¡À Your call. ¡À
+
+39680:
+FW from AIM Server: Message from Rudy Roberts
+
+40320:
+Greetings. This is Rudy Roberts. Recently, you left a message for me, and as promised, I'm writing to let you know that I am now available. ¡À ¡À A word of caution, however. I regularly receive offers, so I encourage you to contact me at your earliest convenience. ¡À ¡À Thank you. ¡À
+
+40960:
+FW from AIM Server: Message from Steve Bornell
+
+41600:
+Steve Bornell Grizzly heer. You left a mesasage on my thing at AIM. I'm bacck. In the future please cnotact when I am there. I hate this techno crap. EXIT exit Send sned help stoip stop SEND \\http:stop //http:stop send. send /send ?help stop. SEND Send. //http.send send this fuc ¡À
+
+42240:
+FW from AIM Server: Message from Victoria Waters
+
+42880:
+Got your message, man. If you still in the market, you come by AIM, and we'll talk. ¡À
+
+43520:
+FW from AIM Server: Message from Trevor Colby
+
+44160:
+G'day. Got your message. Sheila and I are back now, but I presume it's me you rang for, unless of course Sheila's into something I don't know about. ¡À ¡À Drop by AIM and we'll work it all out. ¡À
+
+44800:
+FW from AIM Server: Message from Helmut Grunther
+
+45440:
+Hello. This is Grunty here. You left message on my machine. Now I leave one on yours. I have returned from assignment. ¡À
+
+46080:
+FW from AIM Server: Message from Ivan Dolvich
+
+46720:
+Hello. I am house now. ¡À
+
+47360:
+FW from AIM Server: Message from Bobby Gontarski
+
+48000:
+This is massage from Robert Gontarski to you. I am teling you now that I am hear in AIM and can servuce you. You stop at my face in Site. ¡À
+
+48640:
+FW from AIM Server: Message from Igor Dolvich
+
+49280:
+Hello! This is Igor Dolvich, nephew of legendary Ivan Dolvich, returning your message. I am currently available to discuss employment opportunities. ¡À ¡À I also am seeking corporate sponsorship from liquor companies who want their brand name on my gun in exchange for product. ¡À
+
+49920:
+FW from AIM Server: 50560:
+>>THIS MESSAGE FORWARDED TO AIM SERVER VIA ANONYMOUS EMAIL. You asked for Shadow. I might be available at the AIM site for a bit. You never really can tell. ¡À
+
+51200:
+FW from AIM Server: Message from Ernie Spragg
+
+51840:
+Greetings friend! Sorry I wasn't in to take your call, but it's been a booming time for me, if ya know what I mean! You give a call on Red. You'll find me at AIM, of course. ¡À
+
+52480:
+FW from AIM Server: Message from Carl Simmons
+
+53120:
+You left a message. Looks like we might have something to talk about. You know where to find me. ¡À
+
+53760:
+FW from AIM Server: Message from Fidel Dahan
+
+54400:
+Sorry I no contact you sooner. They take Fidel's computer. They say they find files of bad pictures. Is not true. I no know how they get there. Right now is good time for job far away. You come to AIM, we talk. ¡À
+
+55040:
+FW from AIM Server: Message from Cynthia Guzzman
+
+55680:
+Hello. You left a message for me? Let's talk and see if we can't get together for some action. ¡À
+
+56320:
+FW from AIM Server: Message from Sidney Nettleson
+
+56960:
+Thank you for your interest. As I am certain you are aware, I am one of AIM's most celebrated professionals. If you would like to discuss my credentials further, I am now available for consultation. ¡À
+
+57600:
+FW from AIM Server: Message from Gus Tarballs
+
+58240:
+Woody! Thought you'd never call! Heard you buzzed me while I was down golfing in the Middle East. ¡À ¡À Ain't busy right now. Maybe we can work us out a deal. ¡À
+
+58880:
+FW from AIM Server: Message from Monica Sonderguaad
+
+59520:
+Hello. I've returned to AIM, now. If you like, we can discuss the possibility of a contract. (And, Gumpy, if it was is you using another one of those free accounts you keep pulling out of magazines, I'm going to stuff your modem where the sun doesn't shine.) ¡À
+
+60160:
+FW from AIM Server: Message from Ice Williams
+
+60800:
+This is Ice. Heard you were asking around about me, and got your message. If you want to get together, I'll make some time. ¡À
+
+61440:
+FW from AIM Server: Message from Dr. Donna Houston
+
+62080:
+Thanks for contacting me. Dr. Donna Houston, here. Finished up my last shift and could talk with you for a few minutes now. Of course, I'm on call, so, regretably, I can't guarantee anything. ¡À
+
+62720:
+FW from AIM Server: Message from Dr. Clifford Highball
+
+63360:
+Dr. Clifford Highball is now available. ¡À
+
+64000:
+FW from AIM Server: Message from John Peters
+
+64640:
+I'm back. ¡À ¡À Bull. ¡À
+
+65280:
+FW from AIM Server: Message from Frank Hennessy
+
+65920:
+Hey, Ace. I got your message. I'll be hanging out here for a bit if you want to talk shop. ¡À
+
+66560:
+FW from AIM Server: Message from Louisa Garneau
+
+67200:
+If you need something shot, give me a call. Otherwise, I'm not interested. ¡À
+
+67840:
+FW from AIM Server: Message from Ron Higgens
+
+68480:
+Ron Higgens here. Got your message. ¡À
+
+69120:
+FW from AIM Server: Message from Charlene Higgens
+
+69760:
+Hi. This is Charlene. Should be here for a while, unless something else comes up. ¡À
+
+70400:
+FW from AIM Server: Message from Kirk Stevenson
+
+71040:
+You wanted to yak? I'm in. ¡À
+
+71680:
+FW from AIM Server: Message from Corp. Len Anderson
+
+72320:
+Thank you for contacting me. If you wish to discuss your assignment at this time, I can be reached through AIM. ¡À ¡À Thank you! ¡À ¡À Corporal Len Anderson. ¡À
+
+72960:
+FW from AIM Server: Message from Dr. Daniel Quinten
+
+73600:
+Good to hear from you. I have a few moments to meet with you if you're still looking for qualified medical personnel. I will gladly consider everything you have to say. ¡À
+
+74240:
+FW from AIM Server: Message from Earl Walker
+
+74880:
+I'm in. You want to talk? You know where to find me. ¡À
+
+75520:
+FW from AIM Server: Message from Stephen Rothman
+
+76160:
+Thank you for contacting me. As you are undoubtedly aware, I am considered to be one of AIM's top new members, and as such, I am often consulted and contracted for high-level, high-stress missions. ¡À ¡À While I am available to talk with you at present, I suspect it will be for a very limited time. ¡À
+
+76800:
+FW from AIM Server: Message from Robert James Sullivan
+
+77440:
+Got your bell, mate. I'm here in AIM now, and am always looking for new assignments. Drop by, and we'll have us a talk. Don't think anything's going to come up between now and then, but you never know. ¡À
+
+78080:
+FW from AIM Server: Message from J.P. Viau
+
+78720:
+Malice is in the office. I am standing by. ¡À
+
+79360:
+FW from AIM Server: Message from Dr. Q. Huaong
+
+80000:
+Your message was received. Should you still have matters which you wish to discuss with me personally, I would welcome a meeting at this time. ¡À
+
+80640:
+FW from AIM Server: Message from Edgar Smorth
+
+81280:
+Got it. You want it? Come get it. ¡À
+
+81920:
+FW from AIM Server: Message from Thor Kaufman
+
+82560:
+Hello. Sorry I wasn't in to talk your call. Been a busy week for me. ¡À ¡À Anyway, I haven't got anything booked right now if you're still interested in talking. ¡À
+
+83200:
+FW from AIM Server: Message from Sheila Sterling
+
+83840:
+Greetings. This is Scope Sterling, and I am, as promised, returning your message. Should you have matters to discuss with me, I shall be available through AIM. ¡À
+
+84480:
+FW from AIM Server: Message from Peter Sanderson
+
+85120:
+You rang? I was in the john. Call me back. ¡À
+
+85760:
+FW from AIM Server: Message from Dr. Michael Dawson
+
+86400:
+Great! I got your message, and am looking forward to hearing about any work you might have. ¡À ¡À Thank you! ¡À ¡À Michael Dawson, M.D. ¡À
+
+87040:
+FW from AIM Server: Message from Norma Jessop
+
+87680:
+Got your pathetic message on my machine. You want to occupy more of my valuable time, you know where I am. ¡À
+
+88320:
+Inquiry
+
+88960:
+You do not know me, however, I have been informed that you are in a position to help me. I wish to avoid divulging details of my predicament electronically, and wonder whether you can meet with me at your earliest convenience. ¡À
+
+89600:
+Yours Truly, ¡À Enrico Chivaldori ¡À
+
+90240:
+Follow up
+
+90880:
+Further to our discussion last night, I find your terms agreeable. I will need a couple of days to raise the money. While I am doing so, I trust you will be looking into my story, and we shall be able to conclude our deal shortly. ¡À
+
+91520:
+Yours Truly, ¡À Enrico Chivaldori ¡À
+
+92160:
+R.I.S. REPORT
+
+92800:
+As you have requested, please find the background information on Arulco as a file attachment to this message. ¡À ¡À Thank you for choosing our services. ¡À ¡À R.I.S. ¡À ¡À <attachment moved to FILES area> ¡À
+
+93440:
+Confirmed
+
+94080:
+I am available to meet with you at Petrinska Kavarna in Prague at the time and date you prescribed. I will bring the funds as required. ¡À ¡À Thank you. ¡À
+
+94720:
+Yours Truly, ¡À Enrico Chivaldori ¡À
+
+95360:
+Great news
+
+96000:
+I was happy to hear Miguel Cordona is alive and you have made contact with him. Please tell him I have never forgotten what he did for me and that I would have returned sooner had I the money or the means to do so. ¡À ¡À Thank you for keeping me abreast of the operation. ¡À
+
+96640:
+Yours Truly, ¡À Enrico Chivaldori ¡À
+
+97280:
+RE: Progress
+
+97920:
+From what I understand, it seems you have established a foothold in my country. It is a start, a commendable one, considering who you are up against and how long she has had to fortify her position. ¡À
+
+98560:
+Yours Truly, ¡À Enrico Chivaldori ¡À
+
+99200:
+Keep up the Good Work
+
+99840:
+Your message was most encouraging. I am finally beginning to accept that this cause is not hopeless. Do not misinterpret what I mean. I have always believed in you, otherwise I would not given you everything I owned. However, after all these years, it is hard to believe that Arulco may be freed. ¡À
+
+100480:
+Yours Truly, ¡À Enrico Chivaldori ¡À
+
+101120:
+The Final Push
+
+101760:
+I could not have received better news. I urge you to push forward and resist the temptation to celebrate prematurely. Until Deidranna is removed from power, no man can rest. ¡À
+
+102400:
+Yours Truly, ¡À Enrico Chivaldori ¡À
+
+103040:
+RE: Setback
+
+103680:
+I trust you will recover from this setback. The news, though distressing, I hope will only serve to strengthen your resolve. Deidranna is a formidable opponent, of that, I am well-aware. Do not despair. ¡À
+
+104320:
+Yours Truly, ¡À Enrico Chivaldori ¡À
+
+104960:
+Bad News
+
+105600:
+Do not allow your confidence to waiver. The situation is temporary. It was only a matter of time before Deidranna's forces made the necessary adjustments. ¡À ¡À I have faith in you and your team. ¡À
+
+106240:
+Yours Truly, ¡À Enrico Chivaldori ¡À
+
+106880:
+Most Troubling
+
+107520:
+I must say, it is hard to believe such a beast exists. However, if they do, I have no doubt that Deidranna is somehow behind them. I trust our arrangement includes their removal from the country as well. ¡À
+
+108160:
+I wish you luck locating the source of these beasts. ¡À ¡À Yours Truly, ¡À Enrico Chivaldori ¡À
+
+108800:
+Insurance Claim: $MERCNAME$
+
+109440:
+We have received a claim for benefits filed on your behalf by A.I.M. with regards to the unfortunate death of $MERCNAME$. ¡À ¡À This claim has been approved, and a deposit of $AMOUN$ has been made directly to your account as requested. ¡À
+
+110080:
+Brian Smily ¡À Claims Manager ¡À Malleus, Incus and Stapes ¡À
+
+110720:
+Insurance Claim: $MERCNAME$
+
+111360:
+We have on file a claim for death benefits with regards to the demise of $MERCNAME$. ¡À ¡À Due to the suspicious nature of the death, this claim will undergo further investigation. You will be notified when this process is complete and a decision rendered. ¡À
+
+112000:
+Brian Smily ¡À Claims Manager ¡À Malleus, Incus and Stapes ¡À
+
+112640:
+Insurance Claim: $MERCNAME$
+
+113280:
+Our investigation has been completed. Though certain matters concerning the death of $MERCNAME$ remain unclear, we have decided to award you the full amount of said claim. ¡À ¡À A check for $AMOUN$ has been deposited directly to your account. ¡À
+
+113920:
+Brian Smily ¡À Claims Manager ¡À Malleus, Incus and Stapes ¡À
+
+114560:
+Insurance claim: $MERCNAME$
+
+115200:
+We have received a death benefits claim for $MERCNAME$. Due to your history of suspicious filing, your current claim has been flagged for a complete and thorough investigation. ¡À ¡À We ask that you remain patient. A decision will be rendered in due course. ¡À
+
+115840:
+Brian Smily ¡À Claims Manager ¡À Malleus, Incus and Stapes ¡À
+
+116480:
+Thank You for Visiting Our Site
+
+117120:
+Your email address was captured upon your recent visit to Bobby Ray's Guns and Things website. ¡À
+
+117760:
+This is to notify you that, while the site was down for a temporary period of time, it is now fully operational. ¡À ¡À We look forward to your next visit. ¡À
+
+118400:
+READ NOW!
+
+119040:
+Let me get to the point, I know you took MY money. You have 48 hours to show up at my house and give it back to me, personally. And you're to bring an extra 25 per cent to cover my aggravation. ¡À
+
+119680:
+If you don't, my men will track you down and kill you as though you were partridge. Just so we're clear; I had no trouble finding you now, and they'll have no trouble finding you later. ¡À
+
+120320:
+Waiting for your prompt visit, ¡À ¡À Kingpin ¡À
+
+120960:
+Concerned
+
+121600:
+I understand that the operation is not an easy one. Your lack of progress, however, causes me grave concern. I hope the situation is only temporary, and your team will be taking the offensive shortly. ¡À
+
+122240:
+Yours Truly, ¡À Enrico Chivaldori ¡À
+
+122880:
+Getting Worried
+
+123520:
+You must understand that the needs of my people are urgent. Their suffering immeasurable. For every day that passes under her rule more innocent lives are lost. I beg you to consider a more aggressive course of action. ¡À
+
+124160:
+Thanking you in advance, ¡À Enrico Chivaldori ¡À
+
+124800:
+EXTREMELY IMPORTANT
+
+125440:
+I am growing impatient. Had I known you were this cautious I would have hired someone else. Your lack of initiative is unacceptable. I regret that my poor judgement has once again caused my people to suffer. ¡À
+
+126080:
+A terribly disappointed, ¡À Enrico Chivaldori ¡À
+
+126720:
+Shipment From Bobby Ray's Guns and Things
+
+127360:
+This is an automated email generated by our shipping system software to coincide with the expected arrival of your order.  ¡À
+
+128000:
+You order was shipped without delays and should have now arrived in the Drassen Airport Shipping and Receiving Department.  ¡À
+
+128640:
+Thank you for your patronage! ¡À
+
+129280:
+Well Hello There
+
+129920:
+It's me. John Kulba from Cleveland, Ohio. Just wanted to drop you a note to thank you for everything you've done. ¡À ¡À Can't tell you how happy I am to be back in the United States of America. A country with enough sense to never even have had a woman run for President. ¡À
+
+130560:
+I sent those guns I promised you off the other day. Sent them Express courier, so they should be in Drassen by now. Be careful with them. I made some modifications to those puppies - give ya a real bang for the buck. You'll want to make sure both your feet are firmly planted. ¡À
+
+131200:
+Anyway, you find yourself anywhere near the Gateway to the Great Lakes, you pop on in for a visit. I'll show you around. ¡À ¡À Thanks again, ¡À John Kulba ¡À
+
+131840:
+A.I.M. - Notification of Death
+
+132480:
+As a valued client of A.I.M., an organization concerned with your ability to plan your future combat needs, we must inform you of an unexpected departure from our personnel. ¡À
+
+133120:
+It is with regret that we announce $MERCNAME$ died in action, bravely, while serving on assignment in the Philippines. ¡À
+
+133760:
+We hope this news poses no unnecessary hardships for you, and wish to remind you of A.I.M.'s vast and diverse selection of mercenaries. ¡À
+
+134400:
+We trust we will continue to meet your needs and we look forward to doing business with you. ¡À ¡À Hans Yorgan ¡À Director of Personnel ¡À
+
+135040:
+Insurance Claim: $MERCNAME$
+
+135680:
+After a thorough investigation, we regret to inform you that your death benefit claim for $MERCNAME$ has been refused. As you may, or may not be aware, your policy contains a one hour exemption clause. Please refer to the Policy Regulations section of your policy for further details. ¡À
+
+136320:
+Yours Truly, ¡À Brian Smily ¡À Claims Manager ¡À Malleus, Incus and Stapes ¡À
+
+136960:
+Partial Refund Applied to Account
+
+137600:
+This will confirm the transfer of $AMOUN$ to your account, representing a partial refund of medical deposit for $MERCNAME$. ¡À ¡À As per A.I.M. policy, you are not entitled to full reimbursement as this person returned from your employment injured and the amount for treatment was deducted from said deposit. ¡À
+
+138240:
+Hans Yorgan ¡À Director of A.I.M. Personnel ¡À
+
+138880:
+Medical Deposit Garnished
+
+139520:
+Due to the death of $MERCNAME$ while under your employ, we regret to inform you that the related medical deposit has been garnished as per subsection 9.4 of A.I.M. policy. ¡À
+
+140160:
+Hans Yorgan ¡À Director of A.I.M. Personnel ¡À
+
+140800:
+Shipment From Bobby Ray's Guns and Things
+
+141440:
+This is an automated email generated by our shipping system software to coincide with the expected arrival of your order.  ¡À
+
+142080:
+You order was shipped without delays and should have now arrived in the Meduna Airport. ¡À
+
+142720:
+Thank you for your patronage! ¡À

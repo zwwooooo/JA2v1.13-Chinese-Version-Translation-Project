@@ -1,0 +1,207 @@
+0:
+Looking at trouble.
+
+480:
+I knew it couldn't stay quiet forever.
+
+960:
+Oh, boy...
+
+1440:
+Bug beast.
+
+1920:
+That's one heck of a scary looking thing.
+
+2400:
+Those bugs are going to devour this whole country.
+
+2880:
+What did I hear?
+
+3360:
+<sniff> Place smells like a neglected barn.
+
+3840:
+I wish they'd just show themselves. I hate this feeling.
+
+4320:
+It's sort of spooky around here.
+
+4800:
+These bugs are driving me crazy.
+
+5280:
+Might need that.
+
+5760:
+Here's stuff.
+
+6240:
+I need to find ammo fast.
+
+6720:
+With a little bit of luck... I might just pull through this. But god, it hurts.
+
+7200:
+Dynamo's dead? That man was like a father to me. Saved my butt in Tixa. Literally.
+
+8160:
+They got Ivan? That guy was unbelievable. Trust me, they can get anyone of us.
+
+8640:
+I'm a little confused.
+
+9120:
+I think there's a bullet stuck in my gun.
+
+9600:
+I need cover fire!
+
+10080:
+I didn't deserve that.
+
+10560:
+That was all too real.
+
+11040:
+I'm no expert, but can I really be expected to make that shot?
+
+11520:
+I could use some first aid.
+
+12000:
+I'm beat. I need to catch some winks.
+
+12480:
+Pace is brutal, can't catch my breath.
+
+12960:
+Discharged.
+
+13440:
+Feels good.
+
+15840:
+I don't think I ever want to see that again. Actually, I know I don't!
+
+16320:
+Water gives me nightmares. I saw a couple of my cousins go under when I was young. I haven't been comfortable since.
+
+16800:
+I'm done.
+
+17280:
+Can't you find someone else?
+
+17760:
+Too much! My name shall be etched in the history of this country forever. Breeham Druz, savior of Arulco.
+
+18240:
+I killed the beast. Be kinda sharp to have one of those antennas, wouldn't it?
+
+18720:
+Dipshit!
+
+19200:
+I'm not a professional, I know that. But this isn't half as exciting as I thought it would be.
+
+19680:
+Okay... so Arulco has its share of idiots. Just like any other country.
+
+20160:
+Airborne!
+
+20640:
+I know I'm not a great mercenary, but do I always have to get the leftovers?
+
+21120:
+The worst is behind us. It's smooth sailing from here on in.
+
+22080:
+I'll be a pro in no time.
+
+22560:
+There has to be a better way.
+
+23040:
+Pretty much the only result possible.
+
+24480:
+Dynamo hums!
+
+25440:
+Is this Ivan unbelievable or what?
+
+25920:
+I'm wondering when I am going to see the money you promised me.
+
+26400:
+You're laughing at me. I'm never going to see any money, am I? I'm going to work with the rebels.
+
+26880:
+Ahhh! The bug beast blinded me...
+
+27360:
+I'll be an old man before I ever get that.
+
+27840:
+It's nice to get some cooperation for a change.
+
+28320:
+I'm detecting an army presence.
+
+28800:
+The army is still close by.
+
+29280:
+Wow! I can't believe my luck.
+
+30240:
+It's Joey Graham. Let's not go too hard on the kid. I know where he's coming from.
+
+30720:
+I can't believe you aren't keeping me. Twenty measly bucks. You can't find twenty measly bucks?
+
+31200:
+Right on! Army lost another battle. None of them left alive.
+
+31680:
+I don't think it's all here. This is just like in prison, except there, I knew who took it.
+
+32160:
+She woulda made a good warden. And a good warden is a dead warden.
+
+32640:
+AHHHH! Bloody Bloodcat.
+
+33120:
+Hey! I did it, er, we did it! That make me a hero in your book? You know, I can't wait to see the look on my parents' faces when I tell them, ah, not that I really care.
+
+33600:
+The army musta retreated. There's no one here anymore.
+
+34080:
+I'm going to crash for a bit. I'll work again when I get up.
+
+34560:
+Okay, I'm on the job.
+
+35040:
+Read my mind. I was just thinking that.
+
+35520:
+This thing just isn't working right at all.
+
+36000:
+Hey! This could kill me!
+
+36480:
+Careful. I have a bad feeling about this area.
+
+36960:
+The... current.. gotta get out! Hey!.. someone... anyone... I can't... swim.
+
+37440:
+Okay, I'm here. Now what?
+

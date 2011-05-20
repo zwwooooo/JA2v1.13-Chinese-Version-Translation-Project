@@ -1,0 +1,176 @@
+0:
+Agents of enemy!
+
+480:
+960:
+¡Á¡§D¨° 1440:
+Fearsome beast!
+
+1920:
+Shitbag! Y¨°2400:
+Uh-no. The beast has feasted on innocents locally.
+
+2880:
+Shh! It is noise.
+
+3360:
+Ecch! 3840:
+Prepare to be attack.
+
+4320:
+There be fearsome beasts in area. I think.
+
+4800:
+Y¨°5280:
+Look.
+
+5760:
+I am curious about object.
+
+6240:
+Shitbag! I use all the ammunition for weapon.
+
+6720:
+¡Á¡§D¨°! Doctor!
+
+7200:
+7680:
+8640:
+9120:
+Shitbag! Broken gun.
+
+9600:
+10080:
+10560:
+Very close!
+
+11040:
+I cannot promise this shot.
+
+11520:
+Blood drip from my body.
+
+12000:
+¨¬¨ª12480:
+I breathe painfully.
+
+12960:
+Bye-Bye.
+
+13440:
+Good! 14880:
+Idiot! 15360:
+¨¬¨¤¨¦¨º 15840:
+16800:
+Finish.
+
+17280:
+Nyet!
+
+17760:
+Good! 18240:
+Thanks be to the God! ¨¬¨¤¨¬18720:
+19200:
+Y¨°19680:
+20160:
+Watch skies! 20640:
+Equipment of poor dangerous quality. 22080:
+I work hard. 22560:
+¨¬23040:
+Many surprises. ¨°24480:
+¨¬24960:
+Grunty superior mercenary!
+
+25920:
+I must take time, to think.
+
+26400:
+Mike! I have opportunity to kill lying Mike.
+
+26880:
+¡Á¡§D¨°. ¨ª¨¨ 27360:
+Not able to do.
+
+27840:
+Nice people in godforsaken country.
+
+28320:
+Enemy force located locally.
+
+28800:
+Must be careful. Still have enemy here.
+
+29280:
+30240:
+There...bad boy. 30720:
+We'll bring her down. I am highly trained killer. ¨¨ ¡Á¨°31200:
+Good! All dead.
+
+31680:
+Nyet! The equipment is not complete.
+
+32160:
+Y¨°¨¤ 32640:
+Cat! 33120:
+¨ª33600:
+Enemy has vacated property.
+
+34080:
+I sleep now.
+
+34560:
+I work now.
+
+35040:
+35520:
+Break. 36000:
+36480:
+Keep head to dirt. 36960:
+37440:
+I arrive. ¨¨¨ª¨°38400:
+Nyet! I seek commander who knows what he do. 38880:
+Nyet! It is not desire to die working for butcher!
+
+39360:
+Nyet, thank yous. ¨® ¨¬39840:
+Nyet! ¨¬40320:
+Y¨°40800:
+Thanks to yous.
+
+42240:
+Nyet. Bubba ¨¨42720:
+¨°43200:
+Okay, it good.
+
+43680:
+Good. ¨ª¨¤44160:
+Okay.¨°44640:
+Okay. Grunty is with you. ¨°45600:
+Nyet. I wish I met you never. ¡Á¨°46080:
+¨¨46560:
+Nyet! Problem. Money. 47040:
+Okay, thanks you. ¨¨47520:
+Nyet! It is not desire to die working for butcher!
+
+48960:
+Nyet. Bubba ¨¨49440:
+Okay. ¨°49920:
+Okay. Grunty is with you. ¨°50880:
+¨¨51360:
+Nyet! Problem. Money. 51840:
+Ivan Dolvich...
+
+52320:
+You do not speak Russian? Ah, I miss days when Russia was at war with everybody.
+
+52800:
+53280:
+Time. How much time?
+
+53760:
+I must do better things. Good-bye.
+
+55200:
+Time to say goodbye soon 55680:
+Ivan ask more money now.
+

@@ -1,0 +1,45 @@
+0:
+I'm Damon! Kingpin's personal bodyguard. Who the hell are you?
+
+480:
+You're back.
+
+960:
+Ya, whatever.
+
+1440:
+That's nice.
+
+1920:
+I don't want it.
+
+2400:
+Give it a rest.
+
+2880:
+Threaten me again, and I'll be the last person you ever threaten!
+
+3360:
+Already got a job.
+
+3840:
+Heal me up, so I can kick your ass.
+
+4320:
+Why don't you go play your little war games somewhere else.
+
+4800:
+I can't be bought.
+
+5280:
+Kingpin is expecting you. You'll find him in his gaming room to your right.
+
+5760:
+Oh, yeah?
+
+6240:
+Suck on this, sleezeball!
+
+6720:
+You're not expected, so you're not welcome.
+
