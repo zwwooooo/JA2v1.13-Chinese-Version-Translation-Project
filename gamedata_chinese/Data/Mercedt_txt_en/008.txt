@@ -1,0 +1,309 @@
+0:
+More evil peoples.
+
+480:
+I spy the evil peoples.
+
+960:
+Goddamn it to hell!
+
+1440:
+Ooh, monster!
+
+1920:
+Jesus and Mary. I would not have thought such monsters existed.
+
+2400:
+A monster was here.
+
+2880:
+I hear noise close by.
+
+3360:
+Ouwah, the stench of the monsters revolts me.
+
+3840:
+The hairs on the back of my neck are, umm, upstanding.
+
+4320:
+I pray the monsters are not here.
+
+4800:
+Monsters to the right! Monsters to the left! Goddamn!
+
+5280:
+What is that?
+
+5760:
+There's something there.
+
+6240:
+Gun is empty, dammit to hell!
+
+6720:
+My life is, uhh, flushing before my eyes.
+
+8160:
+This man Grizzly was larger than life to me. God save his soul. God save all our souls. Amen.
+
+8640:
+I forget...what am I thinking? Damn, damn, DAMN!
+
+9120:
+Gun is jamming up on me. Oohw!
+
+9600:
+Stupid fools push me too far!
+
+10080:
+They hardly lay hand on me... Oh, tooth come out.
+
+10560:
+That make my blood sing...
+
+11040:
+If I miss, it is okay?
+
+11520:
+My skin is punctured and leaking.
+
+12000:
+Need sleep to keep up strength.
+
+12480:
+I have no breath. It will pass.
+
+12960:
+Another falls before me.
+
+13440:
+The monsters are not so tough.
+
+13920:
+Something stinks. Maybe is Ivan? All his people have stench of tyranny.
+
+14400:
+If you find me dead with a knife in my back, I tell you now it is Igor. He is treacherous.
+
+15360:
+Mike thought he be immortal. He did not figure on meeting a Gontarski.
+
+15840:
+Repulsive. But no pain, I guess.
+
+16800:
+My assignment has come finished. What to do now?
+
+17280:
+Find someone else to do that.
+
+17760:
+Ah, she was only a woman. Naturally I am superior.
+
+18240:
+I assume I get big bonus for this.
+
+18720:
+That is not mercenary, that is dirt beneath my feet.
+
+19200:
+The way this outfit is run, I do not like.
+
+19680:
+They make bad team. Bad decisions. It should be me in charge.
+
+20160:
+Trouble in the sky!
+
+20640:
+There is limit to what I can do with these goddamn cheap supplies.
+
+21120:
+When in doubt, think, "What would Gontarski do here?"
+
+21600:
+I think of Russia like my mother, both could die I would not care.
+
+22080:
+At this rate, I soon be perfect.
+
+22560:
+This is not idea, this is fantasy.
+
+23040:
+As you say... "Back to drawing board," eh?
+
+23520:
+You want Ivan on your team? Then you DON'T want ME. I would stay behind if I had known you would let him to join.
+
+24000:
+I do not work with Communist like Igor. I stick to contract, but after that, if Igor still here, I make thought to leave.
+
+25440:
+Hehehehe... Grizzly is not bad, eh? I knew this.
+
+25920:
+No no no, not yet. Have to work out together more, yes?
+
+26400:
+Hey hey! Mike's here! Hahaha, now we see who is better man!
+
+26880:
+Dammit to Hell! I do not see what is going on.
+
+27360:
+Dammit! Dammit! Dammit! This is not possible!
+
+27840:
+Now... this guy I like. He good guy.
+
+28320:
+Peoples of evil be here!
+
+28800:
+We must not forget that we have left our enemies hiding.
+
+29280:
+Grandma Gontarski blesses me from above with great riches.
+
+30240:
+Look! It is that wild kid we are looking here and there for.
+
+30720:
+Miguel, I am "the man." These are other people. I will make her surrender to me in many ways.
+
+31200:
+Ha ha ha! All evil has been lifted and separated.
+
+31680:
+Dammit to hell! I do not see everthing here.
+
+32160:
+She was bad woman, and she die for the good of all people here.
+
+32640:
+Oh Mary!!
+
+33120:
+We did all of them good! Finished and evil is dead! Goddamn! This mean more money for me, yes?
+
+33600:
+Evil people cower like children in retreat. They catch wind of Gontarski, no doubt.
+
+34080:
+My lids close. I will sleep for you and be better.
+
+34560:
+I have arisen. Amen.
+
+35040:
+Me too, yes?
+
+35520:
+Dammit to hell! This is broken junk!
+
+36000:
+Stop! A large boob trap is present.
+
+36480:
+Slow! There is danger on ground there.
+
+36960:
+Grandma... I am... engulfed by the seas...
+
+37440:
+I took my hike. What now?
+
+38400:
+I apologize. Your reputation makes me, umm, discomfortable.
+
+38880:
+I am not a person with, umm, death wish. Perhaps you can improve, yes? Telephone me when better.
+
+39360:
+I going to Chicago. Is Pulaski Day celebration. I see you other time.
+
+39840:
+Uhh, Pope is making first visit to hometown. You let me know more time ahead next time, eh?
+
+40320:
+Robert Gontarski is, umm, unavoidable right now. Tell me who you are and what you want, and maybe I put him in touch with you, maybe not.
+
+40800:
+I thank you for, umm, giving me the business. I see you.
+
+41280:
+I don't work with Ivan. His people...hmm, I have nothing good to say.
+
+41760:
+No, no, no, you have Igor Dolvich on team. I sooner work with Germans.
+
+42720:
+My contract is, umm, up yours for renewal if you like job I do for you.
+
+43200:
+Very good! I am yours again.
+
+43680:
+It is an agreement!
+
+45120:
+The arrangement is not ideal. But I like to work beside Mr. Bornell. All right.
+
+45600:
+I am tired of your ways of working. I look elsewhere now.
+
+46080:
+I say again...
+
+46560:
+Without the, mmm, money to pay, I don't work.
+
+47040:
+You dismiss me quickly, but you too will see. It is mistake.
+
+47520:
+I am not a person with, umm, death wish. Perhaps you can improve, yes? Telephone me when better.
+
+48000:
+I don't work with Ivan. His people...hmm, I have nothing good to say.
+
+48480:
+No, no, no, you have Igor Dolvich on team. I sooner work with Germans.
+
+50400:
+The arrangement is not ideal. But I like to work beside Mr. Bornell. All right.
+
+50880:
+I say again...
+
+51360:
+Without the, umm, money to pay, I don't work.
+
+51840:
+This is Steroid Gontarski speaking.
+
+52320:
+If I work with your team, I whip other members into shape damn quick.
+
+52800:
+What you waiting for me to say?
+
+53280:
+How long you want me?
+
+53760:
+You decide if you want me to work, then you call.
+
+54240:
+I need job, so I say yes. But you must understand that I not like Ivan Dolvich. Please keep many trees between us.
+
+54720:
+To be forced to work with Igor Dolvich is to me displeasing. Please make him sit in corner by himself, not by me.
+
+55200:
+My contract is almost at, hmm, finish line.
+
+55680:
+I have been pushed from bottom up, and so now raise my rate of benefits.
+

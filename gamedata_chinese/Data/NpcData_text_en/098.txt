@@ -1,0 +1,81 @@
+0:
+I'm Pablo Greco. I run cargo department at airport. You want something, you see me.
+
+480:
+You again.
+
+960:
+Ya... It's nice talking to you, but I got a lot of friends. What I never got enough of is spending money.
+
+1440:
+I never stop, I tell you. Pace around here would bury somebody like you.
+
+1920:
+I already got enough stuff to keep track of.
+
+2400:
+I really don't care who you are or why you're here.
+
+2880:
+Relax...
+
+3360:
+Nah...
+
+3840:
+It hurts... I fraggin' hurt.
+
+4320:
+I got a lot of work to do.
+
+4800:
+Coffee money. Help me keep my eyes open, if you know what I mean.
+
+5280:
+Well... Whatever you were expecting isn't here. Could try again tomorrow.
+
+5760:
+Ya... I got something for you.
+
+6240:
+A small package came in...uh, just hope I didn't misplace it somewhere...
+
+6720:
+If I remember right, it was a decent size, too...
+
+7200:
+Oh, it's fraggin' heavy, too. Nearly pulled out my back. You movin' down here or something?
+
+7680:
+And, ah... In case you're not aware, I'm, ah... we're not responsible for anything that might be missing.
+
+8160:
+It wasn't me, man, I swear.
+
+8640:
+You don't scare me. I don't care what you do to me. I don't know nothing about your missing stuff.
+
+9120:
+Okay, don't go crazy on me. I'll see what I can do... I'll ask around. But I'll need time. Uh, maybe you can come back tomorrow.
+
+9600:
+I have good news for you. It wasn't easy, but I managed to find your missing stuff. Even threw in a couple of extra things I found lying around just to make up for the inconvenience.
+
+10080:
+A lot of people come in and out of here, you know. I can't be babysitting your shipments. Well, at least not for free.
+
+10560:
+Ah, thank you for your help.
+
+11040:
+Take care of the fighting, then I take care of you.
+
+11520:
+Personally, I don't care who wins the war. I just don't want no more shooting near the airport.
+
+12000:
+We, uh, have a problem with your shipment. I wasn't here, you understand, but when the plane landed, some people in Drassen would not let your stuff be unloaded. The pilot left with your goods still on the plane.
+
+12480:
+What is wrong with you!
+

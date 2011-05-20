@@ -1,0 +1,362 @@
+0:
+2 3 (press H to get help at any time) 3
+
+1280:
+Don't show me this type of help anymore
+
+2560:
+2 3 Welcome to Your Laptop 3 2
+
+3840:
+Overview
+
+5120:
+In this screen there are a number of programs to help organize your 'vacation' in Arulco. They are all helpful, but if you're just starting out, you'll want to check out your Email first, then use the web to visit the A.I.M. site to hire some mercs. ¡À ¡À You may also want to check out the I.M.P. site as well. ¡À ¡À 2 Tip: 2 the I.M.P. site will cost $3,000 so don't spend all your money on A.I.M.
+
+6400:
+If you want to save your game, you'll have to shutdown your laptop first. You can open it up again at any time. ¡À ¡À When you're ready to travel to Arulco, shutdown your laptop.
+
+7680:
+Email
+
+8960:
+One of the greatest forms of modern communication, use this tool to stay in touch with Enrico and various other contacts and businesses. ¡À ¡À You have already received Email which may be helpful to your cause.
+
+10240:
+Web
+
+11520:
+Use this to hire your team from A.I.M.'s website (Association of International Mercenaries) as well as obtaining other resources and services. Use your list of bookmarks to access the sites without having to remember web site addresses. ¡À ¡À When you learn of new sites, they will appear in your bookmarks.
+
+12800:
+Files
+
+14080:
+Use this to browse and view any files you receive, whether through Email or otherwise.
+
+15360:
+History
+
+16640:
+The History program is an electronic notebook that will keep track of various events and quests. ¡À ¡À Records shown in red indicate outstanding quests.
+
+17920:
+Personnel
+
+19200:
+Use this to review your current (or departed) team members' statistics. ¡À ¡À Numbers in parentheses beside skills and attributes represent gains that merc has made while in your employ.
+
+20480:
+Finances
+
+21760:
+Use this to review all your finances. Apart from a summary of the previous day's activities, you'll see a forecast of what your balance will be at the end of the following day.
+
+23040:
+You can also view a detailed record history of every financial transaction that has occurred.
+
+24320:
+Merc Stats
+
+25600:
+2 Salary 2 is the amount a merc charges for his services. A merc charges differing amounts depending on whether the contract is for a day, a week, or two weeks. A merc's salary comes directly out of your main bank account (A.I.M. mercs operate on a strictly cash-up-front-basis, for obvious reasons.) Don't blow your entire wad on expensive mercs until you can afford exceptional talents. Also, keep in mind that merc 2 skills 2 can develop over time.
+
+26880:
+A merc's statistics represent his overall ability in various areas. Each statistic ranges from 0 to 100, with 0 being pathetic and 100 being top of the line. ¡À ¡À 2 ATTRIBUTES 2 ¡À (these typically don't increase as much over time as do skills - see the skills section further down).
+
+28160:
+2 Health 2 represents both the physical well-being of a mercenary and the amount of damage he can take before death. A mercenary with 100 health is in perfect physical condition. A mercenary with 10 health could be killed by a stubbed toe. Health also influences the overall performance of a mercenary and the effectiveness of other statistics and skills. After all, it's hard to perform any job well when your arm is falling off.
+
+29440:
+2 Agility 2 measures how well a mercenary reacts physically to a new situation, whether it's a shotgun blast or a pesky mosquito. Agility affects the speed, coordination and control a merc displays while recognizing and reacting to an event, as well as the merc's traveling speed.
+
+30720:
+2 Dexterity 2 measures a mercenary's ability to perform delicate or precise movements correctly. For certain skills, like medical talents, a high dexterity is very important. Having read all the books doesn't do much good if your hands shake during surgery.
+
+32000:
+2 Strength 2 represents a mercenary's muscle and brawn. You'll find it particularly important in hand-to-hand combat and forcing things open.
+
+33280:
+2 Wisdom 2 affects a mercenary's ability to learn from experience and training. Naturally, it also affects his interpretation of things. Highly intelligent members have no difficulty mastering the inner workings of complex military items. Those not so mentally blessed take more time to absorb the intricacies of a skill or action. (Hey guys! Look at the funny metal pineapple with the pin in it!)
+
+34560:
+2 Leadership 2 measures charm, respect, and presence. Leadership affects your merc's performance in the field and their interactions with non-player characters.
+
+35840:
+2 SKILLS 2 ¡À In addition to attributes, mercs have four basic skills that lie at the heart of the mercenary trade. Skills range from 0 to 100 and may increase with practice. A skill of 0 however, will 2 never 2 improve. Some people just aren't cut out to be doctors or mechanics.
+
+37120:
+2 Medical: 2 Since they seldom get into firefights near hospitals, injured mercs must rely on one another for treatment. A merc's medical skill represents his current medical knowledge and ability to heal the wounded. A mercenary with a high medical skill could perform brain surgery with a can opener and a sewing kit, while a low skilled mercenary would have trouble applying a Band-Aid correctly.
+
+38400:
+2 Explosives: 2 A merc's explosive skill determines his ability to create, use, and disarm explosives without blowing himself sky-high. A highly skilled merc could disarm the most complex bomb without breaking a sweat, while an unskilled merc might destroy the building just by trying to light a sparkler.
+
+39680:
+2 Mechanical: 2 Mercenaries use all sorts of gadgets - their weapons, radios, locks and so on. Mechanical skill rates a merc's ability to repair damaged, worn-out or broken items or equipment (such as vehicles), jimmy locks, and to combine existing objects to form new ones.
+
+40960:
+2 Marksmanship: 2 A keen eye and a steady hand contribute to the sought-after talents of the marksman. A mercenary's marksmanship skill reflects his ability to precisely hit any given target with a firearm.
+
+42240:
+2 Experience Level 2 is the most important mercenary trait. It reflects the sum of their abilities: the amount of combat they've seen, and how knowledgeable they are in the field. As mercs increase their experience level, they also gain certain benefits:
+
+43520:
+- their overall proficiency in field operations increases. ¡À - they are able to focus their sights on an enemy target more quickly and accurately. ¡À - they become more effective at interrupting enemies (and avoiding being interrupted themselves) ¡À - their ability to detect boobytraps and ambushes improves. ¡À - they become sneakier and their stealth improves.
+
+44800:
+2 3 You currently have no team members hired. 3
+
+46080:
+There isn't much you can do on this screen until you've arrived in Arulco with a team of mercenaries. ¡À ¡À To re-open your laptop, click on the Laptop button.
+
+47360:
+If you wish to save your game at this point anyway, you can access the Save Game screen via the Options screen (click on the Options button).
+
+48640:
+2 3 You're not in Arulco yet... 3
+
+49920:
+There isn't much you can do on this screen until you've arrived in Arulco. ¡À ¡À When you've finalized your team, click on the Time Compression button at the lower right. This will advance time until your team arrives in Arulco.
+
+51200:
+To open your laptop back up, click on the Laptop button.
+
+52480:
+2 Tip: 2 It might be a good idea to save your game at this point. You can do so by clicking on the Options button.
+
+53760:
+2 3 Welcome to the Map of Arulco 3
+
+55040:
+Overview
+
+56320:
+In this screen you can review your team's status, including their assignments, inventory and contract information. ¡À ¡À This is also the place to give them travel orders to other sectors.
+
+57600:
+The map area will indicate the location of your mercs, villages, mines, items, militia and airspace concerns. Because of the amount of possible information, there are 'filter' buttons underneath the map area to control what you want displayed.
+
+58880:
+The bottom area contains a history of recent dialogue and messages. In the lower right area of the screen are buttons to access game options (including saving & restoring games), your laptop, time compression, and an 'go to tactical screen' button.
+
+60160:
+Every time you enter this screen, game time will pause. If you want to compress time, use the buttons on the bottom right of the screen. Time will automatically pause again when most events occur. You can manually pause time compression by hitting 2 SPACEBAR 2 or clicking on the time compression readout.
+
+61440:
+2 Tip: 2 Keep an eye out for a flashing envelope on your laptop button. If this appears, you have new email.
+
+62720:
+Assignments
+
+64000:
+On the left side of the screen is a listing of all your team members, their current assignment, sleep/rest indicator, location, destination (if any), and departure information (if known).
+
+65280:
+You can select different team members by clicking on their name (in the leftmost column), or using the up and down arrow buttons (below their portrait) to scroll through each member.
+
+66560:
+You can change a merc's assignment by clicking on their current assignment column.
+
+67840:
+When your mercs are 'on duty', they are assigned to a squad. You can have up to 6 mercs on a squad and you have up to 18 squads. ¡À ¡À You can also have mercs enter and travel in vehicles by assigning them to a vehicle.
+
+69120:
+When your mercs get tired, they will need to sleep. Sleeping mercs have a bright yellow icon in the sleep column. Mercs assigned to various tasks will inform you when they go to sleep and when they wake up and continue their assignment. Mercs on duty will always rest when they aren't active (shown with a duller yellow sleep icon) so they will always be ready for action when you need them.
+
+70400:
+If a merc is under contract and his departure time is approaching, you can try to extend their contract by clicking on the Contract button at the upper left area of the screen. Remember that unless mercs are under a two week contract, the likelihood of them having lined up other employment increases as their departure date approaches. Read A.I.M.'s website for more info.
+
+71680:
+2 Tip: 2 You can click on the 'label' buttons at the top of the list to sort your team members by name, assignment, location, etc..
+
+72960:
+2 Tip: 2 You can select more than one team member at once by first selecting one person then using SHIFT + left click on another team member. This will select a range of team members. You can also use CONTROL + left click.
+
+74240:
+Destinations
+
+75520:
+Movement orders are made with an entire squad at once.
+
+76800:
+Click on the 2 DEST 2 column in your team list. The entire squad will be selected and your cursor will change to a walking figure. Move it over onto the map area and you'll notice that it will suggest a path to the sector the cursor is over. If you left click once, you'll set a 'waypoint' for your squad to travel to. Left click again in the same sector to confirm the squad's final destination, or click on another sector to extend the route. ¡À ¡À You can right click on any point in the route to cancel a portion of the route. Until you finalize the destination, the orders to travel will not be valid.
+
+78080:
+Another way to select which team members you want to travel is to click on the sector where they are currently located and choose which mercs you want to move from the pop up menu.
+
+79360:
+To 2 cancel 2 a 'confirmed' travel route, right click on a team member's 2 DEST 2 column. ¡À ¡À If you want to travel in a vehicle, make sure you assign mercs to the vehicle first. If the vehicle is a helicopter, then you'll have to set the travel route through the 2 air space 2 filter.
+
+80640:
+Once a travel route is set, you'll have to compress time to get your squad to travel. ¡À ¡À If you want to plan a coordinated attack (multiple squads arriving at the same time in a sector), arrange for all squads taking part in the attack to be in adjacent sectors. Then, give all the squads the target sector as a destination and compress time. When the first squad arrives, the game will ask you whether you want to wait for the other squads to arrive so you can coordinate your attack.
+
+81920:
+Map
+
+83200:
+Use the filter buttons to show where known towns and mines are, as well as the locations of your team members, militia and known items.
+
+84480:
+The 2 Show Teams 2 button will only show mercs on the selected Map Level. Use the Map Level filter to change the map level displayed. Team members shown with 2 bright yellow 2 are mercs on duty. 2 Duller yellow 2 icons represent team members on assignment. An 2 white 2 icon represents a vehicle.
+
+85760:
+Because items can be found and left anywhere, use the 2 Items 2 filter to tell you which sectors have known items. With this filter on, clicking on any sector will bring up the Sector Inventory screen. ¡À ¡À The Sector Inventory screen can be used to browse items, and transfer items to and from team members in that sector.
+
+87040:
+You can right click on any sector and get a pop up information window about the sector. You can also get to the Sector Inventory Screen this way (see Items for more information).
+
+88320:
+The Show Airspace button indicates which areas of Arulco airspace is safe (no longer controlled by the Queen) in green. Airspace controlled by the Queen (dangerous airspace) is shown in red. Known aircraft will be indicated here as well. ¡À ¡À Also, there is a bullseye icon that represents where the next flight of newly hired mercs will arrive. You can move this icon to any sector in safe (green) airspace that is not occupied by enemies. Should a sector become enemy occupied by the time new mercs arrive, the flight will be rerouted to the nearest safe sector for drop-off.
+
+89600:
+Note that the yellow sector highlight indicates the next sector to be 'loaded'.  Before using the 'goto Tactical' button at the bottom right of the screen, make sure the correct sector is highlighted. You can't enter a sector that doesn't contain any of your team members.
+
+90880:
+2 Tip: 2 You can click on any merc in your team listing to select the sector they are currently in.
+
+92160:
+Militia
+
+93440:
+Militias should be used to defend the towns you liberate, but need to be trained first. The amount of militia you can train depends on how much town loyalty there is towards your team. Militias are only interested in defense and will not leave their town; however, you can deploy militia between the sectors of their town as you like.
+
+94720:
+To train militia, assign a merc in the area to 2 train/militia. 2 ¡À ¡À There is a cost associated with outfitting a miltia that you will be required to pay.
+
+96000:
+Militia quality grows with experience. New militia are 'green' and are represented with green icons. With more training or battle experience, they become a regular soldier (light blue colored icons). The best militia are the ones that have had a fair bit of battle experience (dark blue colored icons).
+
+97280:
+Airspace
+
+98560:
+The airspace filter will indicate which sectors are safe from the Queen's air defenses. 2 Green 2 areas are safe, 2 red 2 sectors are not. As you arrive in Arulco, pretty much all of it's skies are dangerous. ¡À ¡À There is also a bullseye icon here that designates where new mercs will arrive (drop-off point). You can move this icon by left clicking to pick it up and left clicking again on any safe (green) sector.
+
+99840:
+If you have access to a helicopter, it will appear as an icon here as well. Left click on the helicopter icon to set a travel route - just remember that to have mercs travel in the helicopter you have to assign them to 2 vehicle/helicopter. 2
+
+101120:
+Items
+
+102400:
+Because items can be found and left anywhere, use the item filter to tell you which sectors have known items. With this filter on, clicking on any sector will bring up the Sector Inventory screen. ¡À ¡À Otherwise, you can get item information by right clicking on any sector.
+
+103680:
+Keyboard
+
+104960:
+2 TEAM MEMBER AREA: 2 ¡À 2 C 2 brings up the CONTRACT menu. ¡À 2 ENTER 2 toggles the merc inventory panel. ¡À ¡À 2 F1..F6 2 sorts team list by columns 1-6. ¡À ¡À 2 Left Arrow 2 selects previous merc. ¡À 2 Right Arrow 2 selects next merc. ¡À 2 1..9 2 selects entire squad. ¡À ¡À
+
+106240:
+2 GENERAL: 2 ¡À 2 ESC 2 returns to tactical screen (if possible). ¡À 2 SPACE 2 starts and stops time compression. ¡À 2 + 2 increases time compresion. ¡À 2 - 2 decreases time compression. ¡À ¡À 2 O 2 brings up the option panel. ¡À 2 L 2 brings up the Laptop. ¡À
+
+107520:
+2 W 2 toggles Town filter. ¡À 2 M 2 toggles Mine filer. ¡À 2 T 2 toggles Teams and enemies. ¡À 2 Z 2 toggles militia and enemies. ¡À 2 A 2 toggles Airspace filter. ¡À 2 I 2 toggles Items filter. ¡À 2 INSERT 2 increases map sublevel. ¡À 2 DELETE 2 decreases map sublevel. ¡À ¡À
+
+108800:
+2 MESSAGE AREA: 2 ¡À 2 UP ARROW 2 scrolls messages back one line. ¡À 2 DN ARROW 2 scrolls messages ahead one line. ¡À 2 PG UP 2 pages back through messages. ¡À 2 PG DN 2 pages forward through messages. ¡À 2 HOME 2 jumps to oldest message. ¡À 2 END 2 jumps to newest message. ¡À
+
+110080:
+2 3 The Tactical Screen 3
+
+111360:
+Overview
+
+112640:
+This is where most of the action takes place. In this screen you'll deal with tactical combat, interact with residents of Arulco, and explore and discover Arulco in detail.
+
+113920:
+To select a merc, either left click on his portrait, left click on his figure in the terrain area, or use the 2 F1-F6 2 keys. Use the 2 ALT 2 key in combination with left clicking on a merc's portrait to select the merc without changing the screen position. ¡À ¡À You can also select more than one merc for movement purposes by holding down the left mouse button and dragging a rectangle around the desired mercs. ¡À ¡À Right click on a merc's portrait to switch between the squad panel and an individual merc's inventory panel.
+
+115200:
+Mercs can stand, crouch or lie prone. To change stance, move the cursor over the selected merc (you should see yellow arrows). Hold down the left mouse button and drag the mouse up or down to you see additional arrows above or below the merc's figure and then release. There are also keyboard equivalents and buttons on a merc's inventory panel to control this. ¡À ¡À Mercs can also climb certain buildings. This can be done via the yellow arrow 'drag' method or via a button in the mercs' inventory panel.
+
+116480:
+Mercs can interact with certain objects (doors, cabinets, etc). When the cursor moves over any of these objects it will change to a hand. Left clicking will cause your merc to interact with it. ¡À ¡À Mercs can also 2 search 2 an object. To do this, use the hand cursor (holding down 2 CTRL 2 is an easy way to get the hand cursor) and move the cursor over an item. If it turns red, then your merc has noticed something at that location and it may be worth investigating.
+
+117760:
+Movement
+
+119040:
+During Real Time mode, you simply click the mouse on the location where you want your merc to move to. 2 Double-click 2 to have the merc 2 run 2 there. ¡À ¡À There are three stances (Standing, Crouched, Prone), and four movement modes (Run, walk, crouched-walk, and crawl). ¡À ¡À Holding the left mouse button down then adding a right click will cause your entire squad to move to the desired location. ¡À ¡À You can also select a number of mercs by holding down the left mouse button and dragging a rectangle around the desired mercs, or using ALT + left click on merc figures to add/subtract mercs.
+
+120320:
+The SHIFT key is also important. Use this key to show the path a merc will take to get to a destination and also to force the cursor to stay in movement mode around enemies, doorways, etc. ¡À ¡À You can call up a useful menu by holding down the right mouse button. ¡À ¡À During Turn Based mode, your cursor will reflect your movement mode and relative action point cost.  You can change your movement mode either by keyboard commands, holding down the right mouse button (to get a pop up menu), or holding down the left mouse button and right clicking through the various modes.
+
+124160:
+Sight
+
+125440:
+You will only see enemies that your mercs can see. ¡À ¡À Enemies that are visible to your selected merc appear in color while enemies whose positions are simply 'known' (seen by another merc, etc) appear in gray. ¡À ¡À Also, enemies on the ground glow red while enemies on rooftops glow yellow.
+
+126720:
+When enemies are visible, a small red number will appear in the upper left corner of the portraits of mercs who can see the enemy. The number corresponds to the number of enemies currently seen by that merc. Left click on the number to locate/cycle through all enemies visible to that merc.
+
+128000:
+When you get close enough to see inside buildings, sections of the roof will disappear so that you can see the contents of the building. ¡À ¡À Items will be revealed once your team members spot them. Items glow white when on the ground and yellow if they are on rooftops.
+
+129280:
+At night, sight ranges are reduced considerably.
+
+130560:
+Attacking
+
+131840:
+As long as your merc has a weapon in his main hand position, moving the cursor over an enemy should automatically produce a target cursor. Right click to control how much time your merc spends on the attack and left click when ready. ¡À ¡À If a target cursor is black (and you hear a warning sound) then your merc has a very poor chance of hitting the target from the current position. ¡À ¡À If the target cursor is flashing black, then the target is out of your merc's effective weapon range.
+
+133120:
+Sometimes you may need to manually make the 'use' cursor appear by clicking (e.g. to throw a grenade onto the ground or shoot a gun at an object). ¡À ¡À When throwing items (e.g. grenades), pay attention to the red cursor - it will try to give you an idea of where the object will actually end up.
+
+134400:
+Sometimes the cursor will just happen to be positioned over multiple enemies or targets. If this is the case, use the 2 N 2 key to have the 'next' person or object targeted. ¡À ¡À Also, keep in mind that if enemies are on a rooftop (glowing yellow) and your merc is on the ground (or vice-versa), you will have to use the 2 TAB 2 key to have the cursor switch to the opposite height.
+
+135680:
+Items
+
+136960:
+Your mercs will notify you when they spot new items. ¡À ¡À To see what the names of the items are, move your hand cursor over the area where the item is (holding down CTRL key is one way to get the hand cursor). Also, if the item is a firearm or ammo, any mercs who have compatible equipment will be indicated by a red highlight around their portrait. ¡À ¡À Left click on the item to have your merc move to the location and pick it up. If there is more than one item, you'll be presented with a list to choose from.
+
+138240:
+Items inside containers (or otherwise hidden) won't be visible until your merc interacts with the object housing the item (see the Overview for more info). Items picked up will automatically be placed in your merc's inventory. To view your merc's inventory, right click on his portrait (or hit the 2 ` 2 key). New items automatically placed will glow. ¡À ¡À If you move your cursor over certain items like guns, compatible items such as ammo will have a white highlight so you can quickly locate them.
+
+139520:
+To move items from merc to merc, pickup the item, then either use the left/right arrow buttons to scroll through the desired recipient, or right click on the merc's portrait to go back to the team panel and then right click on the portrait of the desired recipient. ¡À ¡À Each item has it's own status bar indicating it's condition or remaining volume. Right click on any item to get a description of the item and view/add/remove attachments. To eject ammo out of guns, left click on the number of bullets remaining area inside the item description panel.
+
+140800:
+To find items you've left behind in any particular sector, access the Sector Inventory Screen from the mapscreen.
+
+142080:
+Keyboard
+
+143360:
+2 SELECTING MERCS AND SQUADS: 2 ¡À 2 F1..F6 2 selects mercs in the current squad. ¡À ¡À 2 / 2 centers on currently selected merc. ¡À ¡À 2 ALT-F 2 keeps the screen centered on the selected merc during turn-based combat. ¡À ¡À On the tactical screen, 2 SPACE 2 selects the next merc in the current squad. ¡À ¡À When clicking on a merc's portrait, holding 2 ALT 2 down will locate him or select him depending on the setting of the 2 Old Selection Method 2 option. ¡À
+
+144640:
+2 = 2 key selects all mercs in sector. ¡À ¡À 2 1..9 2 will change to that squad number (if in the same sector). ¡À ¡À 2 SHIFT-SPACE 2 selects next squad. ¡À ¡À ¡À 2 MOVEMENT AND STANCE: 2 ¡À 2 P 2 changes to PRONE stance ¡À 2 C 2 changes to CROUCH stance. ¡À 2 S 2 changes to STANDING stance.
+
+145920:
+2 R 2 changes to RUN mode (turn-based only). ¡À 2 L 2 brings up cursor to LOOK/TURN in another direction. ¡À 2 X 2 eXchanges places with another person. ¡À 2 Z 2 toggles STEALTH mode. ¡À ¡À In movement mode, 2 SHIFT 2 makes a merc's movement path visible. It also forces the cursor to hug the ground, which is very handy around doors or in tight quarters. ¡À ¡À While moving a merc, 2 ALT 2 makes a standing merc sidestep or backup.
+
+147200:
+2 ALT-Z 2 toggles STEALTH mode for entire squad. ¡À ¡À ¡À 2 ACTIONS: 2 ¡À 2 A 2 auto-bandages your mercs (if possible). ¡À 2 B 2 toggles BURST mode for burst-capable guns. ¡À ¡À 2 CONTROL 2 brings up 2 hand 2 cursor. ¡À 2 ESC 2 aborts action (such as movement, firing, or first aid).
+
+148480:
+2 D 2 when DONE with turn (turn-based combat only). ¡À 2 E 2 cycles through all enemies seen by current merc. ¡À 2 ENTER 2 cycles through all enemies your team knows about. ¡À 2 H 2 brings up context-sensitive help (this screen). ¡À 2 I 2 toggles glowing items on and off.
+
+149760:
+2 K 2 opens Keys panel. ¡À 2 M 2 brings up MAP Screen. ¡À 2 N 2 cycles between targets that overlap on screen. ¡À 2 O 2 brings up OPTIONS Screen. ¡À 2 W 2 toggles additional building Wireframes. ¡À 2 T 2 toggles Treetops on and off. ¡À 2 $ 2 to deposit or withdraw money. ¡À 2 (asterisk) 2 toggles between read and white glowing items. ¡À
+
+151040:
+In a merc's inventory, use the 2 SHIFT 2 key to select stacked units of a given item. For example, to pick up and move 3 clips of .45 ammo from a merc's inventory, just hold down SHIFT and click on the stack of 3 clips of ammunition. ¡À ¡À 2 TAB 2 toggles the cursor level between ground and roofs. ¡À 2 INSERT 2 brings up the Overhead view of the current sector. ¡À 2 BACKSPACE 2 cancels current dialogue (if any) ¡À 2 PAUSE 2 key pauses the game. ¡À
+
+152320:
+2 ALT-S 2 performs a Quick SAVE. ¡À 2 ALT-L 2 LOADS the Quick save. ¡À ¡À 2 CTRL-S 2 brings up the Save screen. ¡À 2 CTRL-L 2 brings up the Load screen. ¡À ¡À 2 V 2 displays game version information. ¡À ¡À 2 ALT-X 2 exits the game. ¡À ¡À
+
+153600:
+2 3 Sector Inventory Screen 3
+
+154880:
+In this screen, you can see a list of known items (i.e. items that have been seen by your mercs). ¡À ¡À Moving your cursor over them will indicate their approximate position in the sector on the mini map in the bottom right corner. ¡À ¡À If this sector is not the active sector, you can transfer items to any mercs stationed here by bringing up the inventory for the merc on the left hand side of the screen and equipping the merc with the item.
+
+156160:
+Some items may be inaccessible (e.g. if you saw an item through a window of a locked building). ¡À ¡À You cannot transfer items in this screen during combat.
