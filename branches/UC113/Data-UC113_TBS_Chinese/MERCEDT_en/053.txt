@@ -1,0 +1,429 @@
+0:
+More opposition.
+
+480:
+Time to take out the trash!
+
+960:
+Gotta pull outta here, NOW.
+
+1440:
+BFS...Big Friggin' Slinky.
+
+1920:
+Jeezis K. Riest, that is the biggest, grossest goddamn slinky I ever did see!
+
+2400:
+Slinky's been on a rampage, man.
+
+2880:
+Just heard a noise!
+
+3360:
+Whew! That's one stinky slinky, man!
+
+3840:
+Gettin' the cold sweats. Means something heavy's about to go down.
+
+4320:
+I think them butt-ugly slinkies are around...
+
+4800:
+God damn, man, the Big Friggin' Slinkies are everywhere.
+
+5280:
+Something over there.
+
+5760:
+What is that?
+
+6240:
+This gun ain't happenin' 'til I reload it.
+
+6720:
+Feels like my insides are on fire!
+
+7200:
+
+
+7680:
+
+
+8160:
+
+
+8640:
+Zoned out for a second. Run that by me again.
+
+9120:
+Shoot, my gun jammed!
+
+9600:
+
+
+10080:
+Awright, no more Mr. Nice Guy.
+
+10560:
+Yeah, that coulda been bad, but I got me some kickass karma.
+
+11040:
+Hey, I'm good, but I'm not sure I'm THAT good.
+
+11520:
+I'm puttin' pressure on this wound, but it's still bleedin'.
+
+12000:
+I can't stop yawnin'. I gotta take a catnap, like, now.
+
+12480:
+Lemme catch my breath, before I pass out!
+
+12960:
+Tagged ya.
+
+13440:
+Unslinkified!
+
+13920:
+
+
+14400:
+
+
+14880:
+
+
+15360:
+
+
+15840:
+Oh, Jesus, now THAT blows my mind. Guess that makes two of us.
+
+16320:
+
+
+16800:
+Got this wrapped up. Next!
+
+17280:
+Pff! Get someone else to do it.
+
+17760:
+HAHAHA! Rest in pieces, you evil thing!
+
+18240:
+Awright, baby! Big Mama ugly-ass slimy slinky bites the big one!
+
+18720:
+If there's a worse merc than that scumbag, I ain't met 'em.
+
+19200:
+Somebody put me outta my misery before I do it to myself, would ya?
+
+19680:
+This company, talk about scrapin' the bottom of the barrel for mercs!
+
+20160:
+They're making a bombing run!
+
+20640:
+I hate going into battle with stuff I can't trust. This is the flimsiest crap I've ever been asked to use.
+
+21120:
+
+
+21600:
+
+
+22080:
+Some of us just have it.
+
+22560:
+Gotta be kiddin' me. Wanna do WHAT?
+
+23040:
+Didn't really expect that to work, didja?
+
+23520:
+
+
+24000:
+
+
+24480:
+
+
+24960:
+
+
+25440:
+
+
+25920:
+
+
+26400:
+Talk about flying in low. I had to look up to see the squirrels. I'm sure  glad to have my feet planted firmly on the ground.
+
+26880:
+Need a guide. I can't see nothin'!
+
+27360:
+This just ain't gonna happen.
+
+27840:
+Those are the kind of people I'm fighting for.
+
+28320:
+This is a guaranteed combat area. Got enemies.
+
+28800:
+Remember, there's at least one hiding somewhere nearby.
+
+29280:
+Bingo. It's just like Christmas.
+
+29760:
+
+
+30240:
+That's the milk carton kid! Joey whatever...
+
+30720:
+Not if we take her out first. Let me tell ya, most women I take out don't even know how to read a map.
+
+31200:
+Yeah! This is an enemy-free zone.
+
+31680:
+We've been short-shipped or finger-slipped! Either way, there's stuff missing.
+
+32160:
+It was either that or an armful of Midol. And I didn't see no pharmacies. Don't sweat it, we'll be heroes around here.
+
+32640:
+Pussy!
+
+33120:
+Yeah! Now that's the way to show 'em who's boss! And, man, let me tell ya, you've come a long way since we landed. It was good to be part of it.
+
+33600:
+Ah, they're up to something else now. Not here anymore.
+
+34080:
+Grabbing a catnap 'fore I smack my head off the floor.
+
+34560:
+Yup, I'm back on it.
+
+35040:
+Deal me in, too!
+
+35520:
+It's broken! How 'bout we stop shopping outta dumpsters?
+
+36000:
+That thing's wound up tight enough to take an arm.
+
+36480:
+Hey, would ya look at that? Don't look right to me.
+
+36960:
+I'm going down... fast!
+
+37440:
+End of the road. I'm just standing here waitin'.
+
+37920:
+
+
+38400:
+
+
+38880:
+
+
+39360:
+
+
+39840:
+
+
+40320:
+
+
+40800:
+
+
+41280:
+
+
+41760:
+
+
+42240:
+
+
+42720:
+
+
+43200:
+
+
+43680:
+
+
+44160:
+
+
+44640:
+
+
+45120:
+
+
+45600:
+
+
+46080:
+
+
+46560:
+
+
+47040:
+
+
+47520:
+
+
+48000:
+
+
+48480:
+
+
+48960:
+
+
+49440:
+
+
+49920:
+
+
+50400:
+
+
+50880:
+
+
+51360:
+
+
+51840:
+
+
+52320:
+
+
+52800:
+
+
+53280:
+
+
+53760:
+
+
+54240:
+
+
+54720:
+
+
+55200:
+
+
+55680:
+
+
+56160:
+
+
+56640:
+
+
+57120:
+
+
+57600:
+
+
+58080:
+
+
+58560:
+
+
+59040:
+
+
+59520:
+
+
+60000:
+
+
+60480:
+
+
+60960:
+
+
+61440:
+
+
+61920:
+
+
+62400:
+
+
+62880:
+
+
+63360:
+
+
+63840:
+
+
+64320:
+
+
+64800:
+
+
+65280:
+
+
+65760:
+
+
+66240:
+
+
+66720:
+
+
+67200:
+
+
+67680:
+
+
+68160:
+
+

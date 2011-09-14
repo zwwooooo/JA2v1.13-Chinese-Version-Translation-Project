@@ -1,0 +1,45 @@
+0:
+You have eliminated the robots. We are all grateful.
+
+320:
+No sign of the robots. I'm more relaxed now.
+
+640:
+Looks like you fixed the robots. People are calling you the exterminator.
+
+960:
+Looks like those robots are gone.
+
+1280:
+I can sleep well again. 
+
+1600:
+I think we are safe from those evil creations now.
+
+1920:
+Ya musta killed all the robots. They no longer terrorize us.
+
+2240:
+The town is free of robots. I think.
+
+2560:
+The nights are peaceful now. The robots are gone.
+
+2880:
+We are grateful that you have killed the robots.
+
+3200:
+The robots no longer show themselves. Perhaps, they are all dead?
+
+3520:
+Madlab's tin cans are no match for you.
+
+3840:
+Madlab's robocops are gone! You're a hero!
+
+4160:
+No more robots. We are happy for this.
+
+4480:
+The robots are gone. We pray they do not come back.
+

@@ -1,0 +1,360 @@
+0:
+Threat!
+
+480:
+It's show time.
+
+960:
+Oh, man... Our fan's awaiting.
+
+1440:
+What's up with that?
+
+1920:
+Never seen nothing quite like that... Doubt I ever will.
+
+2400:
+Something's moving.
+
+2880:
+Heard something move.
+
+3360:
+Ain't gonna find a fast-food joint around here.
+
+3840:
+Something's in the air. I know it.
+
+4320:
+Better lock and load.
+
+4800:
+Oh, man... They're on me.
+
+5280:
+See something.
+
+5760:
+Stuff.
+
+6240:
+Gun's tapped out.
+
+6720:
+Got... hit... bad! Ain't looking good.
+
+7200:
+
+
+7680:
+
+
+8160:
+
+
+8640:
+I'm still here!
+
+9120:
+Squat! Weapon won't fire.
+
+9600:
+They're on me.
+
+10080:
+Man. My neck is stiff.
+
+10560:
+One of these days..my luck's gonna run out.
+
+11040:
+No way. Can't make that shot.
+
+11520:
+Took one. Need a patch.
+
+12000:
+Ahh.. About time for beddy-byes.
+
+12480:
+Need... air!
+
+12960:
+Annihilated.
+
+13440:
+Annihilated.
+
+13920:
+
+
+14400:
+
+
+14880:
+
+
+15360:
+
+
+15840:
+Musta been a ten foot spray on that.
+
+16320:
+Didn't all get through.
+
+16800:
+Done! What next?
+
+17280:
+Not gonna happen!
+
+17760:
+She won't be bothering anybody anymore.
+
+18240:
+Good.
+
+18720:
+Somebody needs their butt kicked.
+
+19200:
+This ain't going very well...
+
+19680:
+We stick with it, we'll get it done.
+
+20160:
+Bombers!
+
+20640:
+Gotta get our hands on some better equipment. It's embarrassing to be seen with this stuff.
+
+21120:
+I didn't count everyone as being here. We're missing bodies.
+
+21600:
+
+
+22080:
+I noticed improvement.
+
+22560:
+Probably wanna rethink that.
+
+23040:
+Figured as much.
+
+23520:
+
+
+24000:
+
+
+24480:
+
+
+24960:
+
+
+25440:
+
+
+25920:
+It's time to pay up!
+
+26400:
+
+
+26880:
+Think my corneas got scorched.
+
+27360:
+Getting discouraged. Wasting my time.
+
+27840:
+Seemed alright.
+
+28320:
+We got work to do. There's enemies.
+
+28800:
+We didn't finish the job. Stay awake.
+
+29280:
+Something new to try.
+
+29760:
+It's a dog-eat-dog world!
+
+30240:
+An savory, yet necessary fellow.
+
+30720:
+Good. I'd do it again.
+
+31200:
+Think we're alone.
+
+31680:
+Let me get right to the point!
+
+32160:
+You're history!
+
+32640:
+Eyeing a savage cat.
+
+33120:
+To be honest, I wasn't sure about this place when I got here, but my little romp through the countryside turned out to be a rather pleasurable experience. I'd do it again.
+
+33600:
+Squat! They bugged out.
+
+34080:
+Catching shut-eye before I fall over.
+
+34560:
+Better now. Wide awake.
+
+35040:
+Put me down, too!
+
+35520:
+Fine time for this to be on the fritz.
+
+36000:
+Got too many parts. It's rigged.
+
+36480:
+Don't look right around here.
+
+36960:
+
+
+37440:
+Got here. Need a game plan.
+
+37920:
+
+
+38400:
+
+
+38880:
+
+
+39360:
+
+
+39840:
+
+
+40320:
+
+
+40800:
+
+
+41280:
+
+
+41760:
+
+
+42240:
+
+
+42720:
+
+
+43200:
+
+
+43680:
+
+
+44160:
+
+
+44640:
+
+
+45120:
+
+
+45600:
+
+
+46080:
+
+
+46560:
+
+
+47040:
+
+
+47520:
+
+
+48000:
+
+
+48480:
+
+
+48960:
+
+
+49440:
+
+
+49920:
+
+
+50400:
+
+
+50880:
+
+
+51360:
+
+
+51840:
+
+
+52320:
+
+
+52800:
+
+
+53280:
+
+
+53760:
+
+
+54240:
+
+
+54720:
+
+
+55200:
+
+
+55680:
+
+
+56160:
+
+
+56640:
+
+
+57120:
+
+

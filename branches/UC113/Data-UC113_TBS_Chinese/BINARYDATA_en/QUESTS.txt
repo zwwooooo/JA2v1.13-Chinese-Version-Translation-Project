@@ -1,0 +1,162 @@
+0:
+Locate the supplies and meet with your contact.
+
+160:
+The manager suggests to use the Subway.
+
+320:
+Shark has friends in other subway stations as well.
+
+480:
+Charlie saw Shark put some stuff on a locker.
+
+640:
+Reward offered for Crepaton officials.
+
+800:
+All Crepaton officials have been killed.
+
+960:
+Kingpin offered $20,000 for MOC list.
+
+1120:
+Gave Kingpin the MOC list.
+
+1280:
+Kingpin wants his money back.
+
+1440:
+Kingpin taken care of.
+
+1600:
+Keep eye out for runaway kid named Joey.
+
+1760:
+Joey returned safely.
+
+1920:
+Rescue Miranda and escort her to Bruce.
+
+2080:
+Rescued Miranda.
+
+2240:
+Yanni in Sheraton needs the MOC list.
+
+2400:
+Yanni said Agent X is on an island south of Rudesa.
+
+2560:
+Squad defeated and captured!
+
+2720:
+Prisoners located!
+
+2880:
+Squad captured!
+
+3040:
+Interrogated by Brenda.
+
+3200:
+Hillbillies east of Cambria are a nuisance..
+
+3360:
+Resolved the hillbilly problem.
+
+3520:
+Brenda's scientist AWOL!
+
+3680:
+Found Brenda's scientist.
+
+3840:
+Need video camera for robot.
+
+4000:
+Gave video camera to Madlab.
+
+4160:
+Kill the Queen!
+
+4320:
+The Queen is dead.
+
+4480:
+Some hermit knows about these 'creatures'.
+
+4640:
+Found hermit.
+
+4800:
+Giant 'bug' creatures in the mines!
+
+4960:
+Killed Queen bug creature!
+
+5120:
+The locals might know where the pilot is.
+
+5280:
+Found the pilot.
+
+5440:
+Get Goose to Calisto Airport.
+
+5600:
+Goose now working for us.
+
+5760:
+Get Skitz out of Prax Mental hospital for Matt.
+
+5920:
+Skitz no longer in Prax.
+
+6080:
+Escort Ambassador Blair to Calisto airport.
+
+6240:
+Blair has left Danubia.
+
+6400:
+Take care of Lynn in Calisto.
+
+6560:
+Lynn has been dealt with.
+
+6720:
+Randolph is looking for some Crepaton documents.
+
+6880:
+Gave Randolph Crepaton's stolen documents.
+
+7040:
+Reuban can arrange for gas if escorted to Gotham.
+
+7200:
+Jake will sell us gasoline.
+
+7360:
+Deliver the MOC list to Agent X.
+
+7520:
+MOC List delivered to Agent X.
+
+7680:
+Find more info on the crashed plane in Calisto.
+
+7840:
+The pilot has survived the plane crash!
+
+8000:
+Find the traces of John Blair.
+
+8160:
+John Blair is in Sheraton Prison!
+
+8320:
+Beware of army convoys, SAM sites, patrol boat bases.
+
+8480:
+General Marco often drives to a resort north of Drake.
+

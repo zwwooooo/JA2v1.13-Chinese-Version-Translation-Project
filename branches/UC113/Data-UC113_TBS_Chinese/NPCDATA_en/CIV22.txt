@@ -1,0 +1,45 @@
+0:
+I'm nervous...
+
+320:
+I'm not sure I have what it takes to be a soldier.
+
+640:
+How bad does it hurt to be shot?
+
+960:
+I'm not looking forward to battle. I might shit my pants.
+
+1280:
+I hope I will be all right in the next battle.
+
+1600:
+I never thought of myself as brave.
+
+1920:
+I have doubts about my abilities.
+
+2240:
+I hope it's normal to be so scared.
+
+2560:
+It's not easy to kill a man, I imagine.
+
+2880:
+Are you sure I have enough training?
+
+3200:
+I hope I dont let you down in the next battle.
+
+3520:
+Maybe the Army will not return. That would be good.
+
+3840:
+I trust we have been taught everything we must know.
+
+4160:
+You won't leave us to fight alone, okay?
+
+4480:
+Perhaps, with more experience, I won't vomit so much. Yuch.
+

@@ -1,0 +1,15 @@
+0:
+You are close to victory. Do not give up. You can almost see the capital from here.
+
+320:
+Have you met Vlad yet? He is Danubia's Blood Bank director. He might be able to help you.
+
+640:
+
+
+960:
+
+
+1280:
+
+

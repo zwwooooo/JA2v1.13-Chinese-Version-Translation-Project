@@ -1,0 +1,429 @@
+0:
+Enemy in view.
+
+480:
+We've got trouble.
+
+960:
+I'm overloaded here!
+
+1440:
+We got one of those whatchamacallits.
+
+1920:
+Holy Mother of...what the hell do you call that?
+
+2400:
+Those giant thingamabobs must've come this way.
+
+2880:
+I don't know what I just heard, but I don't like it.
+
+3360:
+Ecch...smells rotten, like one of those big whatever-they-ares.
+
+3840:
+I don't like how quiet it is.
+
+4320:
+Sure hope we don't bump into a big whozeewhatsis.
+
+4800:
+These things aren't playing fair!
+
+5280:
+What's that?
+
+5760:
+There seems to be something over there.
+
+6240:
+An empty weapon is never good.
+
+6720:
+Hope I don't look as bad as I feel.
+
+7200:
+
+
+7680:
+
+
+8160:
+
+
+8640:
+I got distracted. Give it to me again.
+
+9120:
+This gun's jammed.
+
+9600:
+I'm in the hotseat here!
+
+10080:
+Was that supposed to hurt?
+
+10560:
+Suddenly I feel really glad to be alive.
+
+11040:
+I'm not very confident about that shot.
+
+11520:
+Permission to stop bleeding, somebody?
+
+12000:
+I'm about to fall asleep on my feet.
+
+12480:
+Need to breathe.
+
+12960:
+Another down.
+
+13440:
+Killed one.
+
+13920:
+
+
+14400:
+
+
+14880:
+
+
+15360:
+
+
+15840:
+I hate to look at that kind of thing.
+
+16320:
+
+
+16800:
+I'm finished my task.
+
+17280:
+I can't comply with that order.
+
+17760:
+All right, go home, there's nothing to see here.
+
+18240:
+I've got to believe that thing was here for a reason...but damned if I know what that could've been.
+
+18720:
+Hate to say it, but what a loser.
+
+19200:
+I don't feel like I'm doing any good here. And being here isn't doing me much good either.
+
+19680:
+I get the feeling that everybody on this team is only out for themselves.
+
+20160:
+Enemy planes approaching.
+
+20640:
+Everything I've got either needs repair or replacement. This is no way to wage a battle.
+
+21120:
+
+
+21600:
+
+
+22080:
+Improvement. Feels good.
+
+22560:
+I believe we need a better approach.
+
+23040:
+I'm hardly surprised that didn't go as intended.
+
+23520:
+
+
+24000:
+
+
+24480:
+
+
+24960:
+
+
+25440:
+
+
+25920:
+
+
+26400:
+That pilot's a madman. He made me nauseous.
+
+26880:
+Ow, got me in the eyes. Ah, they're on fire!
+
+27360:
+Surely, there's something else I could be doing.
+
+27840:
+Wish I met her under other circumstances.
+
+28320:
+There are enemies in proximity.
+
+28800:
+There's at least one of them isn't accounted for. Could be waiting for the right moment to surprise us.
+
+29280:
+Here's something to perk up my day.
+
+29760:
+
+
+30240:
+Isn't that Joey Graham over there?
+
+30720:
+Not with us here, she won't. Count on it.
+
+31200:
+One for our side! All enemies are down.
+
+31680:
+It appears there's been a theft here. Stuff's missing.
+
+32160:
+Forgive me for being cold and calculating, but that woman was a complete zero in any book. They'll probably throw us a parade.
+
+32640:
+Cougar!
+
+33120:
+My first mission ever, and I'm proud to say that you got me through it. Well done, from beginning to end.
+
+33600:
+They musta slipped out. No enemy presence in the sector.
+
+34080:
+I'll grab a few z's and get back on the job.
+
+34560:
+Rested and returning to work.
+
+35040:
+I was just going to say that.
+
+35520:
+Maintenance could have prevented this. Now, it's nothing but dead weight.
+
+36000:
+This's got "deadly" written all over it.
+
+36480:
+Watch out. I'd keep my toes off of that.
+
+36960:
+Need a... line here! I'm... drowning! Anyone...
+
+37440:
+Safe arrival. I'm prepared for the next assignment.
+
+37920:
+
+
+38400:
+
+
+38880:
+
+
+39360:
+
+
+39840:
+
+
+40320:
+
+
+40800:
+
+
+41280:
+
+
+41760:
+
+
+42240:
+
+
+42720:
+
+
+43200:
+
+
+43680:
+
+
+44160:
+
+
+44640:
+
+
+45120:
+
+
+45600:
+
+
+46080:
+
+
+46560:
+
+
+47040:
+
+
+47520:
+
+
+48000:
+
+
+48480:
+
+
+48960:
+
+
+49440:
+
+
+49920:
+
+
+50400:
+
+
+50880:
+
+
+51360:
+
+
+51840:
+
+
+52320:
+
+
+52800:
+
+
+53280:
+
+
+53760:
+
+
+54240:
+
+
+54720:
+
+
+55200:
+
+
+55680:
+
+
+56160:
+
+
+56640:
+
+
+57120:
+
+
+57600:
+
+
+58080:
+
+
+58560:
+
+
+59040:
+
+
+59520:
+
+
+60000:
+
+
+60480:
+
+
+60960:
+
+
+61440:
+
+
+61920:
+
+
+62400:
+
+
+62880:
+
+
+63360:
+
+
+63840:
+
+
+64320:
+
+
+64800:
+
+
+65280:
+
+
+65760:
+
+
+66240:
+
+
+66720:
+
+
+67200:
+
+
+67680:
+
+
+68160:
+
+

@@ -1,0 +1,429 @@
+0:
+Bad guys.
+
+480:
+Time for the enemy to say its prayers!
+
+960:
+They got me up against the wall!
+
+1440:
+We gotta purple people eater here!
+
+1920:
+Geez Louise! It's an honest-to-God...ugly something or other.
+
+2400:
+This leads me to think we just missed a nasty scrape with a purple people eater.
+
+2880:
+Yo, I heard something.
+
+3360:
+Geez, that stinks. Those purple people eaters must be eating too many raw vegetarians.
+
+3840:
+Something funny's going on here. I don't like it.
+
+4320:
+Wish I'd brought my Saint Ian medal...the patron saint of protection from the purple people eaters.
+
+4800:
+Okay, these assholes aren't funny anymore!
+
+5280:
+Hmm, what's this?
+
+5760:
+Something's lying there.
+
+6240:
+Need to reload!
+
+6720:
+I've been hit...feels like a sucking chest wound, a concussion and a vasectomy all at the same time.
+
+7200:
+
+
+7680:
+
+
+8160:
+
+
+8640:
+Sorry, my mind is somewhere else. What was that again?
+
+9120:
+Got a gun jam here.
+
+9600:
+They're trying to pound me to a pulp!
+
+10080:
+Well...this trip isn't anything like it sounded in the brochure.
+
+10560:
+Wonder how many lives I've got left after that.
+
+11040:
+Don't think I can make that one.
+
+11520:
+Geez, sorry. I'm getting blood all over the place.
+
+12000:
+I'm going to drop unless I get some sleep immediately.
+
+12480:
+Gimme a minute.
+
+12960:
+Nighty-night!
+
+13440:
+Cleanup in aisle 2!
+
+13920:
+
+
+14400:
+
+
+14880:
+
+
+15360:
+
+
+15840:
+Geez...talk about losing face...
+
+16320:
+
+
+16800:
+I'm finished here.
+
+17280:
+I respectfully refuse, sir.
+
+17760:
+Hey-hey, all right! Nothing like seeing a job from beginning to end.
+
+18240:
+Alright! Tell me what I've won! Sports car? Gift certificate? Or do I just get to make a really huge omelete.
+
+18720:
+I dunno if I've ever met a bigger jackass.
+
+19200:
+This whole deal is really starting to get on my nerves.
+
+19680:
+Most of these guys'll never make it to MENSA, but they're good enough in a fight.
+
+20160:
+We got some unwanted aerial attention!
+
+20640:
+This stuff we've got is useless. We'd be better off throwing snowballs.
+
+21120:
+
+
+21600:
+
+
+22080:
+I'm not your average mercenary.
+
+22560:
+Sounds like something an armchair general would come up with, not a seasoned field commander.
+
+23040:
+Anyone who didn't see that coming, raise your hand.
+
+23520:
+
+
+24000:
+
+
+24480:
+
+
+24960:
+
+
+25440:
+
+
+25920:
+
+
+26400:
+Countryside looks a little too damn quiet for my liking. I say we find this dude and hunker down.
+
+26880:
+My eyeballs are waterin'! All I can make out are painful shadows.
+
+27360:
+This is futile.
+
+27840:
+My kind of guy.
+
+28320:
+Enemies have been detected in this area.
+
+28800:
+Keep in mind, we didn't get them all.
+
+29280:
+
+
+29760:
+The puff of smoke, the thud of the body... Man, there's nothing like it.
+
+30240:
+Isn't that the kid we're supposed to be keeping an eye out for?
+
+30720:
+Well, she better say her prayers, cause she's got another thing coming. Like a bullet to the head. Good to be on board with ya.
+
+31200:
+Yeah! We're good! Once someone notifies their next of kin, we can move on to the next sector.
+
+31680:
+Whoever stole our stuff outta here, I'll be using this box as their coffin, if ya get my drift.
+
+32160:
+Stand up and let me do it again! Man, she had that coming... I hate being jerked around like that!
+
+32640:
+Puddy-cat! I'm sure I see a puddy-cat!
+
+33120:
+You're the best damn commander this side of the tracks. I know it. I was here from day one right until ground zero. Fine job.
+
+33600:
+They musta realized the writing was on the wall. They left us the place.
+
+34080:
+Resting my eyes for a bit. I'll get on it shortly.
+
+34560:
+Back on the clock.
+
+35040:
+I second that.
+
+35520:
+This dollar-store thing is whacked. It's useless.
+
+36000:
+Hold tight! This thing's rigged to blow.
+
+36480:
+Keep your feet in the dotted lines, man. Straying could be dangerous.
+
+36960:
+Need to... find something that floats... Or I'm... gonna die...
+
+37440:
+Got where I needed to be. What's on the agenda?
+
+37920:
+
+
+38400:
+
+
+38880:
+
+
+39360:
+
+
+39840:
+
+
+40320:
+
+
+40800:
+
+
+41280:
+
+
+41760:
+
+
+42240:
+
+
+42720:
+
+
+43200:
+
+
+43680:
+
+
+44160:
+
+
+44640:
+
+
+45120:
+
+
+45600:
+
+
+46080:
+
+
+46560:
+
+
+47040:
+
+
+47520:
+
+
+48000:
+
+
+48480:
+
+
+48960:
+
+
+49440:
+
+
+49920:
+
+
+50400:
+
+
+50880:
+
+
+51360:
+
+
+51840:
+
+
+52320:
+
+
+52800:
+
+
+53280:
+
+
+53760:
+
+
+54240:
+
+
+54720:
+
+
+55200:
+
+
+55680:
+
+
+56160:
+
+
+56640:
+
+
+57120:
+
+
+57600:
+
+
+58080:
+
+
+58560:
+
+
+59040:
+
+
+59520:
+
+
+60000:
+
+
+60480:
+
+
+60960:
+
+
+61440:
+
+
+61920:
+
+
+62400:
+
+
+62880:
+
+
+63360:
+
+
+63840:
+
+
+64320:
+
+
+64800:
+
+
+65280:
+
+
+65760:
+
+
+66240:
+
+
+66720:
+
+
+67200:
+
+
+67680:
+
+
+68160:
+
+

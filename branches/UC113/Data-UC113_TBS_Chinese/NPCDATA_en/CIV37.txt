@@ -1,0 +1,45 @@
+0:
+Surrender now and your lives will be spared.
+
+320:
+You don't have a chance. Surrender now, you pathetic incompetent.
+
+640:
+Surrender to me or face certain death, you miserable insect.
+
+960:
+You are a small force outnumbered and trapped. Surrender now, our prisons are comfortable.
+
+1280:
+Being my prisoner is no shame, I will not laugh at your cowardice. Surrender now!
+
+1600:
+Drop your weapons and you will not be harmed.
+
+1920:
+Give up now and I will let you live.
+
+2240:
+Surrender and I promise you it will not hurt too much!
+
+2560:
+You think you can honestly fight me?  Surrender or die!
+
+2880:
+Throw down your weapons and we will not defile your corpse!
+
+3200:
+Give up and I shall show mercy.  Fight and I will piss on your corpse!
+
+3520:
+Put up your hands. One way or another you are coming with us.
+
+3840:
+Surrender or die!
+
+4160:
+Surrender to me. I need the promotion.
+
+4480:
+You cannot be thinking clearly. Drop your weapons and surrender now!
+

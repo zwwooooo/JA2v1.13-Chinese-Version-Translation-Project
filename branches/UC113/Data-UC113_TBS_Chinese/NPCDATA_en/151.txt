@@ -1,0 +1,132 @@
+0:
+Welcome to my establishment.
+
+480:
+Hello again. Is good to see you.
+
+960:
+We are in the import business.
+
+1440:
+Poor Manny, he tries very hard.
+
+1920:
+I'm terribly sorry, but I can only sell equipment.
+
+2400:
+Tell you dis. De people, dey know about you. Some like, some no like.
+
+2880:
+Maybe you need drink more than I think you do, no?
+
+3360:
+No thank you. It is too dangerous for me out dere.
+
+3840:
+Oh... is doctor here?
+
+4320:
+Call name if you need anything.
+
+4800:
+Thank you for de tip. You get good service.
+
+5280:
+The best sporting equipment available!  Only number-one brand names.
+
+5760:
+Everything looks good, yes...
+
+6240:
+Can I interest you in some sporting optics?
+
+6720:
+Hm. I am sorry. We only accept cash.
+
+7200:
+Hmm. Much misery. I have no money to buy anything.
+
+7680:
+Is very interesting. Yes.
+
+8160:
+
+
+8640:
+I am sorry, but dis is only a cash bar.
+
+9120:
+
+
+9600:
+
+
+10080:
+
+
+10560:
+In Arulco, good service is awarded tip. So you know now...
+
+11040:
+Enjoy. And thank you for de tip.
+
+11520:
+Thank you, and come again.
+
+12000:
+Well, you think about it.
+
+12480:
+Don't forget, your purchase is here.
+
+12960:
+
+
+13440:
+You low life!
+
+13920:
+Oh, is so much better.
+
+14400:
+Is not safe to do business now. Can no enjoy drink! Stop fighting first!
+
+14880:
+Is time for you to go now. We stay open late for you, then everybody want it, and I never sleep.
+
+15360:
+If you don't see what you want today, check again later.  My inventory is international, and moves quickly.
+
+15840:
+There are occasionally some specialty components available.  Expect to see aftermarket parts for the the American M4 and M4A1.
+
+16320:
+There are some gunrunners in country who are giving the business a bad name right now.  If you have some time, you may want to do something about them.
+
+16800:
+You've been to Tracona, have you met a man named Raoul?  He is in the same business...
+
+17280:
+You've been to Tracona, have you met a man named Raoul?  He is in the same business...
+
+17760:
+But you cannot tell my brothers. He, he, I have passed nights with each of their wives, except for Manny's. Poor Manny. My carpet is more beautiful den his wife. It has been good for their marriage.
+
+18240:
+Their wives do not look at dem de same after spendin' time with me. It is not dat I brag of de gift God has given me, but only to show you how close de Santos bartending brothers truly are.
+
+18720:
+I bet you think you have seen me before. I have heard very much about you from my brothers and de others. You are de one who will give birth to a new Arulco, an Arulco free and equal for everyone. De people are in awe of you.
+
+19200:
+It is a great time in de history of de Santos brothers. We are all bartenders now, even Manny, who many said would never be able to open a beer, has joined us. Our dead father sheds his tears in pride.
+
+19680:
+You've been to Tracona, have you met a man named Raoul?  He is in the same business...
+
+20160:
+Yes. Many have mentioned dat I am de most handsome of de brothers.
+
+20640:
+You've been to Tracona, have you met a man named Raoul?  He is in the same business...
+

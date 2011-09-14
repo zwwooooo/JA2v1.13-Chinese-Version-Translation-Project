@@ -1,0 +1,45 @@
+0:
+My death shall curse you.
+
+320:
+My friends will deal with you.
+
+640:
+I am just one of many.
+
+960:
+Enjoy it now! But I will wait for you in Hell.
+
+1280:
+Kill me. Or do you lack the guts.
+
+1600:
+It was luck.
+
+1920:
+Your time will come, too.
+
+2240:
+I do not fear you or death.
+
+2560:
+History will judge you for this.
+
+2880:
+Others will take care of you.
+
+3200:
+Kill me, so I don't have to look at your ugly face any more.
+
+3520:
+We will meet again. You can be sure.
+
+3840:
+You coward.
+
+4160:
+You will be next.
+
+4480:
+Your final day will also come.
+

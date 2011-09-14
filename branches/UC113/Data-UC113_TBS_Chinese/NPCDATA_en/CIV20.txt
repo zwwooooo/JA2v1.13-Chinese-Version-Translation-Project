@@ -1,0 +1,45 @@
+0:
+It will be a short war with you on the people's side.
+
+320:
+You should take the subways, it's safer than driving.
+
+640:
+We share your views about Crepaton Corporation. What schmucks.
+
+960:
+Do you know where I can get medical aid for my friend?
+
+1280:
+Hiding from the army may sound cowardly, but it has kept me alive.
+
+1600:
+I hope together we can defeat the forces of evil which control Danubia.
+
+1920:
+Queen Brenda's army is looking for us.
+
+2240:
+Most of us have nothing to lose by joining the rebels.
+
+2560:
+Even though we hide now, soon we will emerge to fight for our liberty.
+
+2880:
+A friend of the people, I heard about you. Getting a good reputation.
+
+3200:
+I heard you guys were kickin' army arse at the last town you liberated.
+
+3520:
+You must be careful in Danubia.
+
+3840:
+Most of us have faith that a better future will soon arrive.
+
+4160:
+We have faith the rebels will lead us to victory.
+
+4480:
+Queen Brenda and Crepaton think they have beaten us. They are wrong.
+

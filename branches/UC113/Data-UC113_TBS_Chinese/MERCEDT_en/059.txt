@@ -1,0 +1,351 @@
+0:
+Dah! There's some bad guys!
+
+480:
+There they are, more bad guys.
+
+960:
+Oh, Oh... Looks like trouble to me...
+
+1440:
+Daaah... there's another one.
+
+1920:
+Holy cow would you look at that. That's the biggest cockroach I've ever seen.
+
+2400:
+Oh, oh. Looks like there might be some bugs around here.
+
+2880:
+I heard something.
+
+3360:
+Woaw.. P! U!... they smell worst than you guys do.
+
+3840:
+It's too quite, somethings gonna happen I just know it.
+
+4320:
+I don't wanna be fightin any of those bugs.  No way.
+
+4800:
+Wait. I can get rid of them RAID!!!!  Oops, that didn't work now what. 
+
+5280:
+I found something.
+
+5760:
+Look here!
+
+6240:
+Oh, oh... My gun broke... oh, maybe I just need some bullets.
+
+6720:
+Ooh!  I don't feel very good.
+
+7200:
+
+
+7680:
+
+
+8160:
+Danny, you made meatball surgery look like... poetry in motion. If I could only be half as good as you were. I really wish it hadn't been you...
+
+8640:
+Dah, excuse me, what was I supposed to do?
+
+9120:
+Dah, I think the gun really broke this time.
+
+9600:
+Somebody call a time out!
+
+10080:
+They never mentioned that in the brochure.
+
+10560:
+Oooh, I felt that one. Time out!
+
+11040:
+Oh come on now, you don't really think I can hit that?
+
+11520:
+Ah... I think I need a bandaid.
+
+12000:
+Dah I'm gettin' a little tired.  You think we could take a break?
+
+12480:
+Dah... I think I need a break.
+
+12960:
+Hee, hee, hee, hee...
+
+13440:
+Hey, I killed a bug.
+
+13920:
+
+
+14400:
+
+
+14880:
+
+
+15360:
+Mike was the most revered man in all of AIM. I can't believe I killed him. Me!
+
+15840:
+Ooh, dat's cool.
+
+16320:
+Dah, excuse me, what was I supposed to do?
+
+16800:
+I'm all done.
+
+17280:
+Day, I ain't gonna do that. Just forget it.
+
+17760:
+Dah I got her! I got Her!
+
+18240:
+ha! I guess I'm an exterminator now.
+
+18720:
+Dah, you're dumber than I am.
+
+19200:
+Boy, I thought things could'nt get any worse and look, I hook you with you.
+
+19680:
+I have a little fish, his name is Elmer.
+
+20160:
+Planes, coming in!
+
+20640:
+I might as well be using manuer because this equipment is worth do do.
+
+21120:
+I have a little fish, his name is Elmer.
+
+21600:
+Dah, I don't like them anyways.
+
+22080:
+I'm learning.
+
+22560:
+If you want my opinion, that sucks!
+
+23040:
+I knew that would never work.
+
+23520:
+
+
+24000:
+
+
+24480:
+
+
+24960:
+
+
+25440:
+See, I had a good feeling about Danny, and I was right!
+
+25920:
+I might be willing, but let's wait a little longer to see how well this works out. Nothing personal, just being cautious.
+
+26400:
+Is that Mike? Oh my God, it is!
+
+26880:
+I can't see nothin'!
+
+27360:
+Dah I can't do this, you need to get somebody else.
+
+27840:
+Dah, their not so bad.
+
+28320:
+Dah, I got a bad feelin' about this.
+
+28800:
+I think we got everybody... errr, maybe not.
+
+29280:
+Oh cool, I always wanted one of these.
+
+29760:
+I like that...
+
+30240:
+Dah, there's that kid your lookin' for.
+
+30720:
+We are pleased to come to your aid, Miguel. The situation certainly requires our intensive care.
+
+31200:
+That's it, let's go home.
+
+31680:
+If I recall correctly, we ordered more than this...
+
+32160:
+Oops, I meant to put the safty on.
+
+32640:
+Ooooh! Here kitty, kitty, kitty...
+
+33120:
+Can I go home now?
+
+33600:
+Darn it, they ran away.
+
+34080:
+These intern hours are killing me. I'll take a rest and be up for the next shift.
+
+34560:
+It was exactly what the doctor ordered. I'm back on the job.
+
+35040:
+Yeah, me too.
+
+35520:
+I think it's broken this time for good.
+
+36000:
+We better be careful, this is booby trapped.
+
+36480:
+I would urge extreme caution. That looks suspect to me.
+
+36960:
+Somebody help me!
+
+37440:
+I made it here first.
+
+37920:
+
+
+38400:
+Oh, I've heard about the way you run things. I don't think I'm up for that kind of grief. At least not this early in my career.
+
+38880:
+I'm not your man. I want to get more experience but with your survival rate, I'll never get the chance to put that experience to use.
+
+39360:
+I'm really sorry. My research paper's being published in Lancet, and I want to be around for the publicity.
+
+39840:
+Oh, I can't. I'm assisting in a combination heart and lung transplant at Mount Sinai, a once-in-a-lifetime opportunity.
+
+40320:
+This is Michael Dawson, M.D. I'm probably seeing patients right now, so if you leave a message, I'll call you right back. Thanks.
+
+40800:
+This was great. I learned a lot. Thanks for giving me a chance.
+
+41280:
+
+
+41760:
+
+
+42240:
+
+
+42720:
+I'll tell ya, my time's just about over. Can I convince you to extend my contract?
+
+43200:
+Dah, Okey Dokey...
+
+43680:
+Really, you're not just kidden' are you?  Wow! that would be cool... I'm with you.  errr... What did you say your name was again?
+
+44160:
+
+
+44640:
+
+
+45120:
+Are you kidding? I'd give my right arm to see Danny in action. He's incredible. So yeah, in spite of your... I mean, yeah!
+
+45600:
+I'm sorry. After what we've been through, I'm thinking I may not be cut out for this kind of work. I'm going to have to do some soul-searching for a while.
+
+46080:
+Don't I know you?
+
+46560:
+Apparently, I'm beyond your means.
+
+47040:
+Was it something I said? Something I did? Or didn't do? Never mind, you don't owe me any explanations. I'll go.
+
+47520:
+I'm not your man. I want to get more experience, but with your survival rate, I'll never get the chance to put that experience to use.
+
+48000:
+
+
+48480:
+
+
+48960:
+
+
+49440:
+
+
+49920:
+
+
+50400:
+Dah, Okey Dokey...
+
+50880:
+Don't I know you?
+
+51360:
+Apparently, I'm beyond your means.
+
+51840:
+My name's Marvin Roselli, but everybody calls me Rosebud.
+
+52320:
+Don't I know you?
+
+52800:
+I'm a good boxer, I like to box.
+
+53280:
+I have a little fish, his name is Elmer.
+
+53760:
+Ok, I have to go now.
+
+54240:
+
+
+54720:
+
+
+55200:
+Ok, I have to go now.
+
+55680:
+I have a little fish, his name is Elmer.
+

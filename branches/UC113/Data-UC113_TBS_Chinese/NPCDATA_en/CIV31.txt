@@ -1,0 +1,45 @@
+0:
+We're gonna die, ain't we?
+
+320:
+Please stop it.
+
+640:
+I'm just a kid. Protect me.
+
+960:
+Whaaaaaaaaaaaa...
+
+1280:
+Help us.
+
+1600:
+Aren't ya gonna shoot 'em?
+
+1920:
+When are the bullets gonna stop?
+
+2240:
+I don't want to die, soldier.
+
+2560:
+Get them. Fast. I'm scared.
+
+2880:
+Don't let me die, soldier.
+
+3200:
+I think I had an accident.
+
+3520:
+I'm so scared.
+
+3840:
+I just want the shooting to stop.
+
+4160:
+I don't want to get hurt.
+
+4480:
+Make the fighting stop... Please!
+
