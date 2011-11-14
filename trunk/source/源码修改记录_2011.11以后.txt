@@ -1,0 +1,61 @@
+
+===============================================================================
+
+这是 2011.11 以后的源码修改记录，之前的忘了
+
+===============================================================================
+
+2011.11.13
+
+
+控制“战略界面左下角消息”输出的函数
+\Utils\message.cpp
+void DisplayStringsInMapScreenMessageList( void )
+
+
+控制“战略界面左下角消息”的行数参数
+\Strategic\Map Screen Interface Bottom.h
+#define MAX_MESSAGES_ON_MAP_BOTTOM	9
+注：中文文字过大，改为7，变成如下：
+#ifdef CHINESE //zwwoooooo: Chinese fonts relatively high , so to reduce the number of rows
+#define MAX_MESSAGES_ON_MAP_BOTTOM	5
+#else
+#define MAX_MESSAGES_ON_MAP_BOTTOM	9
+#endif
+
+
+获取字体高度
+\SGP\WinFont.cpp
+GetWinFontHeight 函数
+
+
+更改字体高度函数 | zwwooooo add
+\SGP\WinFont.h增加函数变量声明
+#ifdef CHINESE //zwwooooo: 2011.11.14
+INT32 ChangeChineseFontsHeightForTacticalScreenMsg( STR16 string2, INT32 iFont, INT cfheight );
+#endif
+\SGP\WinFont.h增加函数
+#ifdef CHINESE
+INT32 ChangeChineseFontsHeightForTacticalScreenMsg( STR16 string2, INT32 iFont, INT cfheight ) //zwwooooo: Change Chinese Fonts Height
+{
+	HWINFONT				*pWinFont;
+
+	pWinFont = GetWinFont( iFont );
+
+	if ( pWinFont == NULL )
+	{
+	return( 0 );
+	}
+	else
+	{
+		pWinFont->Height = pWinFont->Height + cfheight;
+		return iFont;
+    }
+}
+#endif
+更改 TacticalScreenMsg 函数字体变量（改变高度）
+#ifdef CHINESE //zwwooooo: correct Chinese Text display in Tactical Screen Msg bug - Fonts smear
+	UINT32 uiFont = ChangeChineseFontsHeightForTacticalScreenMsg(L"A",TINYFONT1,2);
+#else
+	UINT32 uiFont = TINYFONT1;
+#endif
