@@ -1,0 +1,320 @@
+0:
+There's the man in the black pajamas!
+
+480:
+Let it rain lead!
+
+960:
+Three men four bullets, I'll save one for later.
+
+1440:
+Let it rain lead!
+
+1920:
+Ah jeez!
+
+2400:
+This AO's hot, but I'm gonna cool it down.
+
+2880:
+Hear something...
+
+3360:
+There's still a stink in the air, stay frosty.
+
+3840:
+Alright then lets go get us some charlie ear.
+
+4320:
+Ah jeez!
+
+4800:
+You'll need 50 more of those to stop me.
+
+5280:
+I see something.
+
+5760:
+Might be wired...
+
+6240:
+Need a new clip!
+
+6720:
+Mommy....mommy....agh....I see the light....
+
+8160:
+Lynx is dead? It's gonna take 50 little men to settle the score now.
+
+8640:
+Ah, a bad memory. I lost my concentration.
+
+9120:
+I've got enough jam here for a sandwhich!
+
+9600:
+You'll need 50 more of those to stop me.
+
+10080:
+I don't know about that.
+
+10560:
+With enemies like these... who needs cover?
+
+11040:
+Can't draw a line on it.
+
+11520:
+This blood will help me blend in with the dead chucks!
+
+12000:
+I need to check out for a quick nap.
+
+12480:
+Oh god! Trouble keeping the blood on the inside.
+
+12960:
+No more boom boom for charlie!
+
+13440:
+No more boom boom for charlie!
+
+14880:
+That guy Shadow is a waste of camoflauge, he's a round of friendly fire waiting to happen.
+
+15360:
+I warned you... Shadow's still here, I'm checking out.
+
+15840:
+Hey buddy ya dropped something... heh heh
+
+16320:
+Have I ever shown you my ear necklace?  It kinda stinks, but it's so beautiful.
+
+16800:
+Finished over here, got anything else?
+
+17280:
+I don't know about that.
+
+17760:
+One more charlie for the list.
+
+18240:
+One more charlie for the list.
+
+18720:
+FNG.
+
+19200:
+This is no way to win the war, but it's a good way to get killed.
+
+19680:
+I guess this team will do in a pinch.  But I'll be pulling a lot of weight.
+
+20160:
+Overhead!
+
+20640:
+Who would have thought the best could get better.
+
+21120:
+I guess this team will do in a pinch.  But I'll be pulling a lot of weight.
+
+21600:
+I guess this team will do in a pinch.  But I'll be pulling a lot of weight.
+
+22080:
+Who would have thought the best could get better.
+
+22560:
+This is no way to win the war, but it's a good way to get killed.
+
+23040:
+This is no way to win the war, but it's a good way to get killed.
+
+25440:
+That Lynx is one mean mother... hey, I'm just talking about Lynx.
+
+25920:
+We just met, so you don't know Spooky, but next time you talk to me like that, you lose an ear.
+
+26400:
+This AO's hot, but I'm gonna cool it down.
+
+26880:
+Oh god! Trouble keeping the blood on the inside.
+
+27360:
+It's on the list, but it's not gonna get done.
+
+27840:
+Made him a believer.
+
+28320:
+This AO's hot, but I'm gonna cool it down.
+
+28800:
+There's still a stink in the air, stay frosty.
+
+29280:
+Made him a believer.
+
+29760:
+Made him a believer.
+
+30240:
+I see something.
+
+30720:
+You're firing me? Like the girls in the boom boom room say... this sucky sucky.
+
+31200:
+This sectors clear, time to go collect some ears.
+
+31680:
+I don't know about that.
+
+32160:
+Hell of a thing taking a man's ear, you take away all he's got, and everything he's gonna have.
+
+32640:
+That's one mean looking pussy.
+
+33120:
+Another SOG mission complete, we killed some charlie, made some friends, and took some ears... (inner voice)... thanks Mr. Ear!
+
+33600:
+This LZ's been pacified.
+
+34080:
+I need to check out for a quick nap.
+
+34560:
+I am presently working.
+
+35040:
+Count me in.
+
+35520:
+This is like a capgun, lots of noise, but no action.
+
+36000:
+If I open this anymore... you're gonna be wearing Spooky camo...
+
+36480:
+Hold up that's not part of your everyday flora and fauna.
+
+36960:
+Ur...gent... the currents... they... pull... me... un <glub> der...
+
+37440:
+I'm here what have you got for me?
+
+38400:
+FNG
+
+38880:
+This is no way to win the war, but it's a good way to get killed.
+
+39360:
+Hell of a thing taking a man's ear, you take away all he's got, and everything he's gonna have.
+
+40320:
+The name's Greg Block, but everyone around here calls me Spooky...
+
+40800:
+I don't know about that.
+
+41280:
+Test
+
+41760:
+Test
+
+42240:
+I warned you... Shadow's still here, I'm checking out.
+
+42720:
+You're firing me? Like the girls in the boom boom room say... this sucky sucky.
+
+43200:
+Alright then lets go get us some charlie ear.
+
+43680:
+Sounds good, I'm ready to head out when you are.
+
+44160:
+Test
+
+44640:
+Test
+
+45120:
+That Lynx is one mean mother... hey, I'm just talking about Lynx.
+
+45600:
+You'll be dead three times before you hit the ground.
+
+46080:
+If you'd like me to demonstrate how good a shot I am, I can shoot a mosquito off your arm... and I get it five out of seven times.
+
+46560:
+We just met, so you don't know Spooky, but next time you talk to me like that, you lose an ear.
+
+47040:
+I've got a four o'clock appointment at the boom boom room, so I gotta go.
+
+47520:
+I don't need it.
+
+48000:
+Test
+
+48480:
+Test
+
+48960:
+I warned you... Shadow's still here, I'm checking out.
+
+49440:
+Test
+
+49920:
+Test
+
+50400:
+That Lynx is one mean mother... hey, I'm just talking about Lynx.
+
+50880:
+If you'd like me to demonstrate how good a shot I am, I can shoot a mosquito off your arm... and I get it five out of seven times.
+
+51360:
+You'll be dead three times before you hit the ground!
+
+51840:
+Call me Spooky.
+
+52320:
+When I was ten, I dressed up as a ghost for Halloween, everyone said I was spooky, the name kinda stuck...
+
+52800:
+Sounds good, I'm ready to head out when you are.
+
+53280:
+Alright then lets go get us some charlie ear.
+
+53760:
+Sure, whatever.
+
+54240:
+Test
+
+54720:
+Test
+
+55200:
+I've got a four o'clock appointment at the boom boom room, so I gotta go.
+
+55680:
+That's most kind of you.
