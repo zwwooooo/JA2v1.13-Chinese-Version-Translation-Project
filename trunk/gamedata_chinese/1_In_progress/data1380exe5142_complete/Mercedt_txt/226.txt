@@ -110,7 +110,7 @@
 大屠杀啊，小子……估计你都想一直躲到战斗结束了。
 
 20160:
-Those be fighting words, son.
+看来要干一仗了，小子。
 
 20640:
 敌人好像都蒙了！
@@ -137,7 +137,7 @@ Leon和我，我们认识很久了！
 你不记得我了，对吧？
 
 27360:
-I's got da knowledge son... I's justta don't have da hands no mores.
+我知道了，小子……不过我实在倒不出手。
 
 27840:
 我就知道你还藏了一手！
