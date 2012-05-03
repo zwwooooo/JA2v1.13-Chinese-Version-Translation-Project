@@ -119,31 +119,73 @@ Fresh out of med school, Doctor Dawson eagerly awaits his first assignment. His 
 Don't mess with Meltdown. She may be smiling in her file photo, but that smile is deceptive. This mercenary is legendary; an enemy once died at her feet from fear before Meltdown had even raised her weapon. As for her taste in weapons, the bigger, the better. In fact, Meltdown has a tendency for overkill in virtually every aspect of her life.
 
 44800:
-The Russian born Victor Kolesnikovserved in the Chechnian war in a Specnaz unit behind enemy lines and was left behind in the wilderness. Thanks to his special training he survived. Acknowledging that the free market offers far better payment for such atrained professional, he became a mercenary. He very often seeks solitude and does not speak any more than necessary.
+A real Russian hard case, Kolesnikov honed his skills as a Spetsnaz operative in Chechnya before dicovering the advantages of the dollar over duty. Unfazed by anything a battlefield can throw his way, he is a dedicated soldier, preferring to work alone and happiest when he's behind enemy lines. A man of few words, it's easy to see why he has earned the nickname Monk.
 
 45920:
-Janno is a born Estonian with a German mother. He spent most of his time with the Russian military, working as a mechanic. He likes to cook for friends and enjoys the good life. He is top fit and a bear of a man, prefering heavy weapons.
+Janno spent most of his life as a greasemonkey in the Russian army, looking for a change of pace he became a soldier for hire. It hasn't taken him long to get a taste for the finer things in life, and is equally at home with a glass of fine brandy as he is with heavy weapons. With a knack for getting into places he shouldn't be, he keeps himself in top shape in case anything kicks off!
 
 47040:
-Scream is a leader type, infectious to others. He is a joker, with a strange sense of humour. Like Janno Allik he originates from Estonia and has a German mother. His unhappy childhood in Siberia hardened him for life. Nightoperations and automatic weapons are his greatest strengths.
+A born leader of men, Scream is a love him or hate him type of guy, a tough upbringing in Siberia has given him a unique take on life, or more specifically, death. Apart from his combat skills, Scream brings a whole new level of weird to a campaign as Dr. Q will testify, but if the conditions are right, he might just be your man.
 
 48160:
-This professional is a former member of the GDR Folks army and originates from an old Prussian family. After the reunification of Germany, Henning began an extremely successful career as a mercenary. Early on he worked as an adviser in Cuba, now his experiences abroad are wide spread. Henning is an expert at any kind of fire arms.
+This former NVA soldier doesn't mess around, although new to A.I.M, Henning is an old hand at killing. He has already established himself as a must have on any mission where large-scale resistance is expected. An expert with both Auto and Heavy weapons, his tactical insights can make or break a mission. A Prussian powerhouse.
 
 49280:
-The Belgian Luc Fabre has not really earned his nickname as he seems to be followed by bad luck. Fatherless childhood, many experiences. When someone tried to violate his little sister he accidently broke the persons neck. Unfortunately that guy was a high ranked police official, therefore Luc had go underground. He found his way to A.I.M., and we are glad to have him here.
+Not exactly living up to his nickname; Lucky had the misfortune of working with Malice on his first assignment, not surprisingly, a misfired 9mm round can sour any working relationship. Fully recuperated, he has thrown himself into being battle ready, if he can shoot as well as his website says he can, the enemy doesn't stand a chance.
 
 50400:
-The born Rumanian Laura Collin fled with her parents to Germany when she was still a child. Her parents worked for a human rights movement and were endangered of being persecuted. She studied medicine and came to the mercenary business through her partner Rudolf Steiger. She has become a capable field medic and a totally passionate mercenary.
+After years of living on the run, the Romanian born Laura Collin fled with her parents to Germany, all while still only a child. Deemed enemies of the state, she inherited a deep hatred for dictators from her exiled parents.She studied medicine and followed her partner Rudolf Steiger into the mercenary world. She has become a capable field medic and a passionate mercenary.
 
 51520:
-Grace grew up in New Jersey and descends from an Italo/Hungarian acrobat family. Earlyon, she foiled her mother's plans for marriage. In her childhood she would rather play with her wild brothers instead of dolls. Her Italian soul expresses itself in her love for spaghetti and noodles of all variations.
+Born in New Jersey into an Italian-Hungarian family of acrobats, Grace's childhood was far from ordinary. Having narrowly avoided being married off at a young age by her mother, preferring the freedom her brothers enjoyed, she left home to pursue a life of adventure. Although her accent and mother's meddling have managed to keep up with her.
 
 52640:
-This former GSG9 man has only one weakness... Dr. Laura Colin, who he met during a special training in L¨¹beck. He can shoot the nuts out of a squirrel's paws from 3 km. During his time at the GSG9 he worked as night operation trainer for the special forces.
+This former GSG 9 man has only one weakness... Dr. Laura Colin, whom he met while receiving treatment for sunstroke. He persuaded her to join him on an excursion and won her over with his ability to shoot the nuts out of a squirrel's paws from 3 km. He still acts as a consultant for GSG 9, mostly with regards their Night Ops training.
 
 53760:
- 
+A member in good standing, Boss Hatchet has traveled the globe in quest of a regular paycheck. Considered to be one of our more demanding members, he has more than satisfied our clients with his obvious talents and his ability to fix the unfixable.
+
+54880:
+Agile and able, slippery and swift, Johnny Edwards has managed to slither into range unnoticed, sight up his unsuspecting target, then disappear before the smoke dissipates, time after time, mission after mission!
+
+56000:
+The most recent addition to A.I.M., Alan Webster has served with the United Nations' Peacekeeping forces in some of the world's most troubled spots. Tired of being shot at and finding very little peace to keep, Spam decided it was time for a career change.
+
+57120:
+A seasoned veteran of international conflict, Major Spike Scallion was deservingly decorated for the unflinching courage he exhibited while evacuating the villagers of Kampoa under extremly heavy fire. This Major commands respect and a sizable fee.
+
+58240:
+A recent addition, Jimmy Upton arrives upon the mercenary scene courtesy of the Ohio state penal system. A locksmith by trade, he can get into or out of anything. Upton is unavailable for duty in any country holding an extradition treaty with the U.S..
+
+59360:
+Captain Bob Adams retired from the Air Force at forty-one. He was a decorated F-16 pilot with extensive combat experience. Bored, and anxious for action, he joined A.I.M. a year ago, and has made the transformation to field combat rather easily.
+
+60480:
+A member in excellent standing, Col. Leo Kelly is a veteran of Northern European conflict. Regarded as a mercenary's mercenary, he served as Michael Jackson's bodyguard for two years and as a technical consultant on three Chuck Norris films.
+
+61600:
+Caught between the world of war and the world of wiseguys, Vincenzo Massimo has opted for the life of a soldier of fortune. Able to fix anything (including college basketball games), he is fast approaching his first anniversary within the A.I.M. organization.
+
+62720:
+A two-time world champion trapshooter, Timothy Jenkins has turned in his clay pigeons for the chance to engage in some live action. Dedicated to duty, the cynical "Leech" has a tendency to be over enthusiastic, and a reputation for being slightly hard to shake.
+
+63840:
+Another member on probation, another explosives expert, Marty Moffat has stood too close to too many explosions and as a result requires a baby-sitter more than a commander. On a more positive note, he is definitely one of the least discriminating members on file.
+
+64960:
+A member in good standing, Bud Hellar craves the affection of management and is a bootlicker from way back. If you want to know what your team thinks of you, Bud's your man. As a loyal defender of the "big guy", he has spent years fighting for the freedom of corporate logos.
+
+66080:
+From igniting fireworks at theme parks in Orlando to detonating dynamite in Southeast Asia, Russel Hunter has explored the world of explosives. As one of our more stable explosives experts, he is very much in demand. In turn, he is very much demanding.
+
+67200:
+Doctor Mark Kranhuim has tended to the wounded on numerous assignments. His sound knowledge of medicine is believed to be responsible for bringing back two members from the dead. However, a wandering right eye has hindered any improvement to his shooting ability.
+
+68320:
+A man of uncommon attitude, Patrick Phillips was recruited by the organization primarily for his reputation as a repairer of revolvers and rifles. Though patience is not his strong point, he was recently awarded the "Stalker's Cross" for relentless persistence. 
+
+69440:
+In 1964 the U.S. formed the top secret Studies and Observations group(SOG),to coordinate clandestine activity in Vietnam. Spooky is skilled in a variety of roles; including psychological warfare and infiltration. Like all SOG teams, Spooky was trained to avoid contact but is very well versed in combat, it is estimated that for every SOG soldier killed there were 150 enemy casualties.
 
 1920:
 Keith Hanson is a former member of the ANC.
@@ -248,26 +290,34 @@ For a man who just completed his internship, he can certainly wield a mean scalp
 Jessop is remarkably ambidextrous; she can easily fire two weapons simultaneously.
 
 45600:
-He has a problem with his fellow Russian Ivan. Because of his experiences in Tschetschenia he is choosy about his clients.
+His relationship with Ivan deteriorated after a "discussion" over the subtle differences between the AKM and its variant the AKMS.
 
 46720:
-Prefers to work together with fellow Estonian Vilde who he met while stationed in East Germany.
+Prefers to work together with fellow Estonian-German Vilde, they met while stationed together in East Germany.
 
 47840:
-Happy to go where ever Janno Allik goes. Both men became mercenaries after the Russian withdrawal from East Germany.
+Happy to go where ever his compatriot Brain goes. Both men became mercenaries after the Russian withdrawal from East Germany.
 
 48960:
-He can't stand the New Age movement. That is why he don't like Thor.
+Henning's hatred of all things New Age has led to tensions between himself and Thor.
 
 50080:
-This muscleman is a weapon on legs, especially trained in Close Quarter Combat.
+Luc has been know to describe himself as a "walking weapon".
 
 51200:
 On a training course for automatic weapons she developed a strong dislike for Buzz Garneau.
 
 52320:
-She brought knife throwing to perfection and as a young girl could already beat her brothers, driving her mother crazy.
+To her mother's dismay, as a young girl she perfected the art of Knife Throwing, easily outclassing her brothers.
 
 53440:
-His mode of expression leaves a lot to be desired.
+Rudolf is not afraid to let you know what's on his mind.
 
+60160:
+Prefers to work with his younger companion Bud Hellar.
+
+65760:
+Captain Bob Adams is his military colleague.
+
+66880:
+He best operates in the night time.

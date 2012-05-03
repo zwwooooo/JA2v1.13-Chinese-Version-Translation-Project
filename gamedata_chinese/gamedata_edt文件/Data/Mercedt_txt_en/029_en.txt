@@ -49,6 +49,9 @@ Blood bit it? Big time downer, man.
 7680:
 If Ice is dead, hell musta froze over.
 
+8160:
+I got a score to settle with the snapperhead that killed Jimbo!
+
 8640:
 Brain fart! Lost it, man...What was happenin'?
 
@@ -84,6 +87,9 @@ End of the road, roach.
 
 13920:
 That uppity bitch grates me, man... Keep Buns outta my hair.
+
+14400:
+Marty... Come see how clean my gun is.
 
 14880:
 Bubba's a racist good ol' boy. Keep him close to me, and you'll be pulling him out of a tree.
@@ -139,11 +145,17 @@ Could have taken bets on that.
 23520:
 Why did you bring that stuck-up Buns Sonderguard down here? I know just what she needs! You'd better get her away from me!
 
+24000:
+You gotta appreciate this... It's that tool, Kaboom!
+
 24480:
 You be blood, Blood!
 
 24960:
 The Iceman breaks through, again.
+
+25440:
+Jimbo... Man... Tell 'em Magic sent ya!
 
 25920:
 Chill. We'll talk soon.
@@ -238,6 +250,9 @@ I thought I could drag this out a bit... guess not. That's cool.
 41280:
 As long as that chick Buns is part and parcel of the scenery, you can forget about me being at the party.
 
+41760:
+Kaboom should be in a home! I ain't going anywhere near him!
+
 42240:
 Bubba is a bubblehead, man. A white bread, snapperhead! I ain't gonna be in the team photo. As long as he's in Arulco, don't look for me.
 
@@ -255,6 +270,9 @@ I got a couple of problems working with ya, but having Blood on your team is gon
 
 44640:
 Ya signed the Iceman, ya signed me.
+
+45120:
+I ain't happy with way you been doing business, but I hear Jimbo's workin' for ya! And I'd like to hang with him before he gets locked up again.
 
 45600:
 The whole episode was a deep downer, man... Maybe after a couple days of Prozac, we can talk... but don't count on it.
@@ -274,6 +292,9 @@ You gotta be nuts! Place is like cadaver-central. Look elsewhere!
 48000:
 As long as that chick Buns is part and parcel of the scenery, you can forget about me being at the party.
 
+48480:
+Just cause Kaboom had his brains blown by a bomb doesn't mean the rest of us have to work with him! I want him gone, or I'm leaving!
+
 48960:
 Bubba is a bubblehead, man. A white bread, snapperhead! I ain't gonna be in the team photo. As long as he's in Arulco, don't look for me.
 
@@ -282,6 +303,9 @@ I got a couple of problems working with ya, but having Blood on your team is gon
 
 49920:
 Ya signed the Iceman, ya signed me.
+
+50400:
+If you're talking to Jimbo let him know he should stay away from my phone and my place. The cops got it staked out again.
 
 50880:
 Melt the wax! I told ya...
@@ -307,9 +331,11 @@ Whatcha think? Your face is worth staring at? I got a TV, man... think I'll go s
 54240:
 I'll go, only because it's a big country. But ya keep that Danish prune, Buns Sonderguard, outta my face.
 
+54720:
+Just cause Kaboom had his brains blown by a bomb doesn't mean the rest of us have to work with him!
+
 55200:
 Our deal is closing up, man.
 
 55680:
 I go up, man, and so do the dollars. You know what I'm saying? Show me the money.
-

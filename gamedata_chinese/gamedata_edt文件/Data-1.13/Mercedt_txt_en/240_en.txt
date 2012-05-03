@@ -1,0 +1,242 @@
+0:
+I've made contact... Haven't been spotted!
+
+480:
+I've been spotted!
+
+960:
+In contact with a couple of rebels.
+
+1440:
+It's too bad...
+
+1920:
+It's too bad...
+
+2400:
+I don't feel good about this.
+
+2880:
+Obviously, someone has been digging around here!
+
+3360:
+I don't feel good about this.
+
+3840:
+Better keep my eyes open.
+
+4320:
+Better keep my eyes open.
+
+4800:
+It's too bad...
+
+5280:
+I can see something.
+
+5760:
+I can see something.
+
+6240:
+I need a resupply of ammo, pronto.
+
+6720:
+I can't take the pain...
+
+7200:
+It just won't be the same without Bob.
+
+9120:
+My gun won't fire!
+
+9600:
+They're shooting at me!
+
+10080:
+I'm getting nailed!
+
+10560:
+Maybe there's a position for you at the PX.
+
+11040:
+I'd like to have a better position.
+
+11520:
+Request medical attention.
+
+12000:
+I'm drained...
+
+12480:
+I'm drained...
+
+12960:
+We've eliminated that platoon!
+
+13440:
+With plesure!
+
+15360:
+We've eliminated that platoon!
+
+15840:
+I don't feel good about this.
+
+16320:
+It's too bad. I had thought the course was ending today...
+
+16800:
+The credit's all yours, sir!
+
+17280:
+That would be highly irregular.
+
+18240:
+With plesure!
+
+19200:
+My what a fine example of uninspired leadership.
+
+19680:
+And just what military academy were you thrown out of?
+
+20640:
+It doesn't want to work!
+
+22080:
+I was always good at picking the right commander.
+
+22560:
+The mission has become impossible!
+
+23040:
+The mission has become impossible!
+
+24480:
+Bob's a good friend and a war hero
+
+25920:
+We're running out of time, sir!
+
+26400:
+It's too bad...
+
+27360:
+I'm sorry, but I'm not normally asked to work with my hands!
+
+28320:
+I can feel it in the air. It's going to blow wide-open any minute!
+
+28800:
+Consider it taken care of...
+
+29760:
+Excellent command, sir!
+
+31200:
+Mission successful!
+
+32160:
+With plesure!
+
+32640:
+I don't feel good about this.
+
+33120:
+Mission successful!
+
+33600:
+Consider it taken care of...
+
+35040:
+I'm sure I did it by the book...
+
+35520:
+It doesn't want to work!
+
+36000:
+I think it's rigged.
+
+36480:
+I think it's rigged.
+
+36960:
+I've got to...rest. Can't keep swimming much longer...
+
+37440:
+I'm slightly unclear about the best direction.
+
+38400:
+I won't be joining your team. You just didn't seem to want me bad enough.
+
+38880:
+I've been thinking about it. If I accepted, Bob would be really put off, and I can't allow that to happen.
+
+39360:
+I'm not interested. I've already worked for you, and it didn't take long for you to fire me.
+
+39840:
+You guys are trying to make it difficult... You'll have to make another offer and hopefully this time they won't all be the same.
+
+40320:
+I'll tell you what's going on. Just remember you heard it from me first...
+
+40800:
+I'm glad I could be of assistance. Good luck!
+
+42720:
+We're running out of time, sir!
+
+43200:
+Now that it's decided... It's time to get to work.
+
+43680:
+Now that it's decided... It's time to get to work.
+
+44160:
+Bob's a good friend and a war hero to boot!
+
+45600:
+I've been thinking about it. If I accepted, Bob would be really put off, and I can't allow that to happen.
+
+46080:
+Once again...
+
+46560:
+Where were you planning on getting the money?
+
+47040:
+This is what I get! After all the things I was willing to do for you! You're just going to toss me away like I was disposable?
+
+47520:
+I've been thinking about it. If I accepted, Bob would be really put off, and I can't allow that to happen.
+
+49440:
+I was hoping for a little more... Bob and I are really close, and I'd really like to be able to justify accepting your offer.
+
+50880:
+Once again...
+
+51360:
+Where were you planning on getting the money?
+
+51840:
+I've got a military background, a list of references, a complete library of modern combat tactics, and I'll stir your coffee if you ask me.
+
+52320:
+Hey... I'm a married man!
+
+52800:
+Did you hear about Lynx and Buzz? Well... Keep it a secret, but I hear church bells in the distance...
+
+53280:
+I'll go! If there's anything you need or anything I can do for you, you just let me know!
+
+53760:
+I hope you understand it was nothing personal
+
+55200:
+I can't help you out... I'm in training with the special forces.
+
+55680:
+I just had a feeling... I guess the best way to decide which offer I should take would be a...the biggest signing bonus.

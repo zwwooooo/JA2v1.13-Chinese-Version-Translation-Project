@@ -76,6 +76,9 @@ Hope it hurt!
 13440:
 Gotcha!
 
+13920:
+Kaboom's a menace. I don't know how many times he's nearly blown me up. I'll be sure not to miss!
+
 15360:
 He was my best friend.
 
@@ -123,6 +126,9 @@ Was it a late night, mate?
 
 23040:
 Reality bites, doesn't it?
+
+23520:
+Stand back! It looks like Marty Moffat.
 
 25920:
 Hang on to that thought, mate.
@@ -214,6 +220,9 @@ You've reached the home of Robert James Sullivan. If you're calling about hiring
 40800:
 It's quite the country, mate. Glad I could be of help.
 
+41280:
+Kaboom needs help tying his freakin' shoes. And you actually expect me to work with him? You must be crazier than he is!
+
 42720:
 Tick-tock, tick-tock... You got some decisions to make, mate. I can't hang around without a contract.
 
@@ -238,6 +247,9 @@ I was kinda hoping to spend a little more time down here, but you're in charge, 
 47520:
 Not bloody likely. You've built up quite a collection of rotting corpses, mate. I've got eight kids to think of, and none of their moms work.
 
+48000:
+Everything was cool until you went and hired Kaboom. I can't stay on with you as long as he's on your team. He's got soup for brains... He needs help using a fork!
+
 50880:
 No problem, mate. I said...
 
@@ -259,9 +271,11 @@ Surely, mate, you'll want to consider the massive savings on a steady gig.
 53760:
 I don't have this much time, mate. Nobody does! Gotta go.
 
+54240:
+Allow me to give you a tip. You never want to be anywhere near Kaboom when he's cleaning his gun.
+
 55200:
 Clock's moving, mate. This gig's coming to a close.
 
 55680:
 Ching-ching! Hey, mate, I reckon that someone with my talent deserves a bit of a raise. Not that I'll actually see any of it, mind you, not with the child support payments I've got to make.
-

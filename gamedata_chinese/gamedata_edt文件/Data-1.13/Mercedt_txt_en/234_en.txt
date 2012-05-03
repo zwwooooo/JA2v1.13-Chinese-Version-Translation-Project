@@ -1,0 +1,275 @@
+0:
+Bad dude! Looking the other way.
+
+480:
+Got a bad dude that's on to me!
+
+960:
+This place stinks of rotting flesh!
+
+1440:
+Heads up!
+
+1920:
+Heads up!
+
+2400:
+Heads up!
+
+2880:
+I wouldn't think twice of it!
+
+3360:
+Heads up!
+
+3840:
+Heads up!
+
+4320:
+Our chances of taking this mission are zip!
+
+4800:
+This place stinks of rotting flesh!
+
+5280:
+I see something here.
+
+5760:
+I see something here.
+
+6240:
+More ammo! Make it quick!
+
+6720:
+Somebody get over here! I got some serious wounds...
+
+7200:
+I can't kill Magic! He's my friend! Of course, I'd get to console his wife...
+
+9120:
+The firing pin's stuck!
+
+9600:
+I'm takin fire!
+
+10080:
+I caught a bleeder!
+
+10560:
+I'm gonna need cover!
+
+11040:
+Gonna have to move if I'm gonna hit it!
+
+11520:
+I caught a bleeder!
+
+12000:
+I have to stop for a minute.
+
+12480:
+I have to stop for a minute.
+
+12960:
+This one goes to our side!
+
+13440:
+I'm messed up good!
+
+13920:
+It's gonna be a pleasure doing away with that showboat Lynx!
+
+15360:
+We got it done!
+
+15840:
+I'm messed up good!
+
+16320:
+No dice!
+
+16800:
+I'm done! Ready to roll...
+
+17280:
+Your command is pathetic... I ain't sticking it out with you!
+
+17760:
+I was framed! And I've repented!
+
+18240:
+We got it done!
+
+18720:
+I shouldn't have given him the chance!
+
+19200:
+You have any idea how many trees you killed?
+
+19680:
+Come on out... I promise I won't hurt you.
+
+20160:
+Heads up!
+
+20640:
+This thing is useless!
+
+22080:
+I'm in a better mood.
+
+22560:
+Whenever you want to start!
+
+23040:
+Listening to you has been a waste of time!
+
+23520:
+There's only one person I won't work with, and you signed him up. Ditch that showboat Lynx, or I'm outta here!
+
+24480:
+My man Magic!
+
+25920:
+Later loser!
+
+26400:
+Bad time to be cheap!
+
+27360:
+Sorry sweetheart... But when I finally get around to it, I'm going to do it right!
+
+28320:
+Heads up!
+
+28800:
+Where are they?
+
+29760:
+We got it done!
+
+30720:
+What can I tell ya? This stuff is usually a piece of cake for me!
+
+31200:
+That's one less gang to worry about!
+
+32160:
+We got it done!
+
+32640:
+Heads up!
+
+33120:
+I was framed! And I've repented!
+
+33600:
+You're joking, right!
+
+34080:
+I messed up.
+
+34560:
+Come again!
+
+35040:
+We understand each other!
+
+35520:
+This thing is useless!
+
+36000:
+It's set to take somebody's legs.
+
+36480:
+It's set to take somebody's legs.
+
+36960:
+I'm goin' under, man...
+
+37440:
+All right! We're on our way.
+
+38400:
+Offering petty amounts of cash doesn't take care of problems, it causes 'em!
+
+38880:
+No thanks! If I had wanted to die, I would have asked for the chair!
+
+39360:
+I appreciate the second chance, but I don't need it!
+
+39840:
+No dice! I didn't escape to get a weekend job working for you!
+
+40320:
+Looks good... I'm just gonna wait on a couple of calls, and I'll be talking to ya...
+
+40800:
+Give me a shout if you need me.
+
+41280:
+I don't work with Lynx!
+
+42720:
+Time's running out!
+
+43200:
+Yeah, you can count me in!
+
+43680:
+You got me! Can't say I'm disappointed.
+
+44160:
+I'll join... But only because my man, Magic, is workin' for ya.
+
+45600:
+No dice! I'll root for the underdog, but I draw the line at signing on with a known loser!
+
+46080:
+Like I already told you...
+
+46560:
+What do you think I am? An honest criminal? Kudos for the cash. We'll catch you another time!
+
+47040:
+I'm outta here... Before the grim reaper pulls my number!
+
+47520:
+No dice! Magic tells me you fire people for sport!
+
+48000:
+I quit! You don't keep your team tight enough! Straighten it out, and I'll think about joining up again.
+
+49440:
+Magic bought it? Now I'm really ticked!
+
+50880:
+Like I already told you...
+
+51360:
+This gets better all the time! We'll break the tie by you upping the amount of cash I get up-front.
+
+51840:
+Get the money, and we'll talk!
+
+52320:
+I wasn't in prison THAT long!
+
+52800:
+It was a racist, rogue cop! That's the only reason I got time. That...and no money for a defense team!
+
+53280:
+Things are too hot right now. I gotta keep low.
+
+53760:
+And you ain't wasting my time trying to buy your way around it.
+
+54240:
+I see they got Lynx on their squad.
+
+55200:
+I gotta stay put. The warden will give up soon enough.
+
+55680:
+This is the deal, I'm a popular man... The team offering the most cash gets me.

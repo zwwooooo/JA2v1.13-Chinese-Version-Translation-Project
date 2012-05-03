@@ -46,6 +46,9 @@ Bleeding profusely... I require... urgent treatment.
 7200:
 I've been through many battles with Vicki. This is indeed hard to accept. She even went out of her way to get me parts for my car... at a substantial discount.
 
+7680:
+The Major has been a friend for...for quite some time. He will be missed dearly. I believe some revenge is in order!
+
 8160:
 Dr. Q. has left us. He was an exceptional man with a first name no one could pronounce. His presence shall remain in each of us.
 
@@ -81,6 +84,9 @@ That's better!
 
 13440:
 One less!
+
+13920:
+It would be a privilege to reunite that whacked-out Reuban with his family!
 
 14880:
 Anybody who cuts their hair like Numb is a renegade. He's got 'bad attitude' written right across his scalp and hanging from his ear. I don't like it one bit.
@@ -130,8 +136,14 @@ No offense but have you thought this one out to its conclusion, sir?
 23040:
 Quite expected, sir.
 
+23520:
+Reuban?
+
 24480:
 Good to have you around, Vicki.
+
+24960:
+Lightning heave-hoe.
 
 25440:
 Dr. Q. never fails to impress.
@@ -226,6 +238,9 @@ Corporal Len Anderson is indisposed momentarily. If you would like me to call yo
 40800:
 I wish you and the team the best, sir.
 
+41280:
+Unusually Ruthless Reuban has given this business a bad name! I won't work beside him!
+
 42240:
 I've already spent enough time in Arulco with Numb. We'll just leave it at that.
 
@@ -240,6 +255,9 @@ Consider me a part of the team.
 
 44160:
 Not that your leadership isn't without its problems, however, working with Vicki does allow me to cut you some slack.
+
+44640:
+I'm hesitant, but I haven't spent any time with Spike Scallion since our vacation last winter. Maybe, while I'm there, we can make plans for this year.
 
 45120:
 In the short time I've known Dr. Q. he has proven himself to be an exceptional soldier and a master of medicine. It would be a pleasure to work with him again.
@@ -259,11 +277,17 @@ A change of plans, sir? I understand.
 47520:
 My age, my experience, and my standing allow me to be choosy. Your attrition rate is simply unacceptable.
 
+48000:
+Unusually Ruthless Reuban gives this profession a bad name! Get rid of that animal, or I'm leaving this place!
+
 48960:
 I've already spent enough time in Arulco with Numb. We'll just leave it at that.
 
 49440:
 Not that your leadership isn't without its problems, however, working with Vicki does allow me to cut you some slack.
+
+49920:
+Spike would have been happy with a single mission.
 
 50400:
 In the short time I've known Dr. Q. he has proven himself to be an exceptional soldier and a master of medicine. It would be a pleasure to work with him again.
@@ -289,9 +313,11 @@ And the time frame would be what exactly, sir?
 53760:
 Sorry, but that's all the time I could spare. Goodbye.
 
+54240:
+You can hire whoever you want. Though there are members who won't think much of you if you hire that butcher, Reuban. And I happen to one of them.
+
 55200:
 My tour of duty draws to a close, sir.
 
 55680:
 Respectfully, the more talent I have, the more I am worth, sir. A higher fee for my services is indeed warranted.
-
