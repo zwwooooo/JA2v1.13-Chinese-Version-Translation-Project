@@ -85,6 +85,9 @@ You're tuna bait!
 13920:
 Static's a loser. He was a bad influence on me, sir. Can't stand being around him anymore.
 
+14400:
+That Ruthless Reuban is one real frightening dude! I don't think I want to go into battle with him, man.
+
 14880:
 I don't want to be a squealer, but that Steroid is on drugs, sir. It ain't good for me to be around people on dope. At least that's what my counselor says.
 
@@ -135,6 +138,9 @@ Figured as much, man...uh, sir.
 
 23520:
 Static's wearing me down. I gotta... I have to get out of here before I give in to his influence.
+
+24000:
+Sorry man, but Unusually Ruthless Reuban is like a little too scary for me! Either you cut him loose, or I'm headed back to the lab, man!
 
 24480:
 Biff's gonna be a fine merc someday.
@@ -210,4 +216,3 @@ I'm... going... under... water... sir... Need... ass...istance... like... now...
 
 37440:
 Like, I'm all here now, man, uh sir.
-

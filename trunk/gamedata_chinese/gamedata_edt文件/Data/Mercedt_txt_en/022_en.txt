@@ -82,6 +82,9 @@ Be sure to write!
 13440:
 Exterminated!
 
+13920:
+Jail was too good for you, Upton!
+
 14880:
 How does a squirrel-faced pinhead like that end up landing a babe like Raven? Don't seem right, Ace.
 
@@ -132,6 +135,9 @@ Think it out, Ace.
 
 23040:
 Prop me up, Ace. I can't believe it turned out that way.
+
+23520:
+I spotted Jimmy, Ace. I wonder if there's still a reward for his head?
 
 24480:
 That Grunty's a firestorm, Ace.
@@ -229,6 +235,9 @@ Hitman Hennessy, mercenary for hire! You caught me out and about, Ace. So, leave
 40800:
 It was a good stint, Ace. We'll be talking.
 
+41280:
+Jimmy Upton is nothing but a common criminal! I work with professionals...not jailbirds!
+
 42240:
 Don't ever want to find myself working with Raider again, Ace. Still can't figure out how this guy bagged Raven. Maybe she drinks?
 
@@ -263,7 +272,7 @@ You sure you're not being a bit premature here, Ace?
 Don't look like anybody leaves here alive, does it, Ace. Been around too long to take a chance on one-sided odds.
 
 48000:
-Don't ever want to find myself working with Raider again, Ace. Still can't figure out how this guy bagged Raven. Maybe she drinks?
+Jimmy Upton is nothing but a common criminal! What's next Ace, child molesters? If he goes out on the next sortie, I won't be here to see it!
 
 48480:
 Time's a tickin', Ace... You thinking about keeping me around?
@@ -298,9 +307,11 @@ How big a bag am I packing?
 53760:
 Gotta run, Ace! I left something on the stove!
 
+54240:
+Jimmy Upton is nothing but a common criminal! I work with professionals...not jailbirds!
+
 55200:
 Almost time for me to say goodbye, Ace.
 
 55680:
 Moving up in the world, Ace. And my rates are moving right up along with me.
-

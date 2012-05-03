@@ -1,0 +1,188 @@
+0:
+I've got an enemy in sight! Still hasn't seen me.
+
+480:
+Spotted one!
+
+960:
+I've got my hands full here!
+
+1440:
+Spotted one!
+
+1920:
+Spotted one!
+
+2400:
+Well well!
+
+2880:
+The ground looks suspicious.
+
+3360:
+Well well!
+
+3840:
+You should order more body bags!
+
+4320:
+I don't feel much like it.
+
+4800:
+I've got my hands full here!
+
+5280:
+I see something here.
+
+5760:
+I see something here.
+
+6240:
+I need some lead. And I need it now!
+
+6720:
+Need help... I'm fading fast!
+
+9120:
+Crap! My gun won't fire!
+
+9600:
+I'm taking it here!
+
+10080:
+We got screwed bad!
+
+10560:
+They got screwed bad!
+
+11040:
+Nobody could make that shot from here!
+
+11520:
+I'm bleeding...
+
+12000:
+I'm out of breath...
+
+12480:
+I'm out of breath...
+
+12960:
+I wish they were all this easy.
+
+13440:
+Kiss my rifle butt!
+
+13920:
+Killing Larry will get me back into my old man's good books.
+
+15360:
+Mike... Mike... Answer me, Mike... Ah geez!
+
+15840:
+I've been luckier.
+
+16320:
+You're going to be sorry you messed with me!
+
+16800:
+I knew with me around... The job would get done.
+
+17280:
+I don't do that kind of thing!
+
+17760:
+I should have brought a book.
+
+18240:
+Kiss my rifle butt!
+
+19200:
+Forget this... You're not taking me serious enough.
+
+19680:
+Is this the best you can do?
+
+20160:
+I'm out of here!
+
+20640:
+This thing's a piece of garbage! Doesn't anything work around here?
+
+21120:
+I'm the best man for the job!
+
+21600:
+I don't work with my brother, 'anything but a placebo' Larry!
+
+22080:
+No... I still don't feel much like it.
+
+22560:
+Get your hands off me!
+
+23040:
+That can't be right!
+
+23520:
+Lookie, lookie! It's my loser brother, Larry.
+
+26400:
+Crraaap...it's Mike. I don't want to do this... Mike's my idol!
+
+27360:
+I'm not good at this kind of stuff!
+
+27840:
+You're in the right neighborhood.
+
+28320:
+You can open your eyes now!
+
+28800:
+I wish they were all this easy.
+
+29760:
+Kiss my rifle butt!
+
+30720:
+With me in charge, you can count on it.
+
+31200:
+That's one group less.
+
+32160:
+Kiss my rifle butt!
+
+32640:
+Well well!
+
+33120:
+With me on your side, they didn't have a chance!
+
+33600:
+I wish they were all this easy.
+
+34080:
+Don't bother me anymore.
+
+34560:
+It's your lucky day. We're on!
+
+35040:
+My father wasn't badmouthing me, was he?
+
+35520:
+This thing is a piece of garbage! Doesn't anything work around here?
+
+36000:
+I'm not sure about this... Something's wrong.
+
+36480:
+I'm not sure about this... Something's wrong.
+
+36960:
+I can't breathe... I'm DRO...WNING!
+
+37440:
+I'll have to get more specific directions!
