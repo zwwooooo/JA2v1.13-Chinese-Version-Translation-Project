@@ -1,8 +1,8 @@
 0:
-I's got a blind one heres, son...
+There's one over heres, son!
 
 480:
-There's one over heres, son!
+I's got a blind one heres, son...
 
 960:
 Gots a slew of 'em heres, son!
@@ -186,3 +186,4 @@ I's sinking, son! I's sinking fast!
 
 37440:
 Whatever yous' want, son... Yous' want me to do the merc, I'll do the merc...
+

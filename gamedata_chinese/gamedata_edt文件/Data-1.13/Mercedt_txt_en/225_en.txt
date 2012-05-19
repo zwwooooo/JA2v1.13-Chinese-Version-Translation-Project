@@ -1,8 +1,8 @@
 0:
-I've located one! Haven't been noticed.
+There's one!
 
 480:
-There's one!
+I've located one! Haven't been noticed.
 
 960:
 I might need help here!
@@ -165,3 +165,4 @@ I won't be able to tread water for much... Need help right away!
 
 37440:
 We came through!
+

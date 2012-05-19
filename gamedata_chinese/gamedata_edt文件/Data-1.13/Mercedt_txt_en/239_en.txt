@@ -1,5 +1,5 @@
 0:
-Hehe... Dey don't know I'm here, boss!
+I see the enemy...
 
 480:
 I see an enemy... 
@@ -26,7 +26,7 @@ It looks like a lot of gophers live here...
 Is anybody home?
 
 4320:
-That was a lot of fun!
+Pretty quiet, huh...
 
 4800:
 Dere everywhere, boss!
@@ -35,7 +35,7 @@ Dere everywhere, boss!
 Somebody left somethin' here.
 
 5760:
-Somebody left somethin' here.
+Da... What's this?
 
 6240:
 No bullets!
@@ -89,10 +89,13 @@ It done, boss!
 Da... I don't get it!
 
 17760:
-Bye-bye...
+That was fun!
 
 18240:
 That was a lot of fun!
+
+18720:
+Mom warned me about people like you!
 
 19200:
 Dat wasn't very nice. I don't want to talk to you!
@@ -125,13 +128,16 @@ I see an enemy...
 Da... It went badly?
 
 28320:
-Da... I don't like dat!
+It's shootin' time!
 
 28800:
-That was a lot of fun!
+I don't think there's anybody left.
 
 29760:
 Bye-bye...
+
+30720:
+Daaaaa... Ya!
 
 31200:
 That bunch has all gone to heaven!
@@ -140,7 +146,7 @@ That bunch has all gone to heaven!
 Good-bye...
 
 32640:
-Dere everywhere, boss!
+Da... I don't like dat!
 
 33120:
 Da... We're gettin' pizza. You want any?
@@ -164,7 +170,7 @@ Da stuff looks awfully cheap!
 If I cut the red wire... It won't hurt nobody!
 
 36480:
-If I cut the red wire... It won't hurt nobody!
+Da... What a great view I'm gonna have!
 
 36960:
 Help me... I can't swim no more...
@@ -181,8 +187,11 @@ No! I don't like you!
 39360:
 I'm confused... And I'm not happy!
 
+39840:
+What to do? Somebody else wants me too... I guess I go for the most money.
+
 40320:
-Daaaaa... She wasn't home. I'm gonna go back.
+Da... What's this?
 
 40800:
 Finders keepers... Bye!
@@ -227,7 +236,7 @@ I can make new friends!
 Hey... Don't I know you?
 
 53280:
-What to do? Somebody else wants me too... I guess I go for the most money.
+Pay me double!
 
 53760:
 Da... I think we got a bargain!
@@ -237,3 +246,4 @@ Da... I promised my mother I'd visit today.
 
 55680:
 Somebody has to give me more money. It's not easy to decide when the money's the same.
+

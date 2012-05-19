@@ -1,8 +1,8 @@
 0:
-Like... There's a bad guy here that doesn't see me...
+I found one.
 
 480:
-I found one.
+Like... There's a bad guy here that doesn't see me...
 
 960:
 Like... They're all over the place!
@@ -174,3 +174,4 @@ Help... I need help... Like...I don't know how to swim!
 
 37440:
 Like... I may get to the mall this afternoon after all!
+

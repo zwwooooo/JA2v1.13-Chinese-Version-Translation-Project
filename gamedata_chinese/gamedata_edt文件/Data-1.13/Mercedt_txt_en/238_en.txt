@@ -2,7 +2,7 @@
 Da Vinster's got one!
 
 480:
-I's sportin' yous' colors.
+I's gots a loser heres'. Looking to puts him outta his miseries!
 
 960:
 Got the inside track on a losers' here!
@@ -14,22 +14,22 @@ Da Vinster's got one!
 Da Vinster's got one!
 
 2400:
-I's sportin' yous' colors.
+Come on's... Coughs it up!
 
 2880:
-Yo... Watch da jewels!
+Is da merc gonna be surprised or what?
 
 3360:
-I's sportin' yous' colors.
+Come on's... Coughs it up!
 
 3840:
 Vinny ain't thinkin' too good heres'...
 
 4320:
-Yo... Did we's get plucked or whats!
+Come on's... Coughs it up!
 
 4800:
-I's sportin' yous' colors.
+Da Vinster's got one!
 
 5280:
 Looks like I's found somethings' over heres!
@@ -56,7 +56,7 @@ I's gots a losers' shootin' at me!
 I's gonna need to plug da bleedin'.
 
 10560:
-It's gonna be's a good day.
+Da Vinster's under fire heres'!
 
 11040:
 Whats a matter with yous'?
@@ -74,10 +74,13 @@ Yo! What's da canteen situation like?
 Yo... A loser's convention!
 
 13440:
-Yo!!!
+Yo... A loser's convention!
 
 15360:
 Yo... A loser's convention!
+
+15840:
+I's sportin' yous' colors.
 
 16320:
 I can't go!
@@ -86,13 +89,16 @@ I can't go!
 I's gots good news. We's gots it done!
 
 17280:
-Yous' played your cards right!
+What gives?
 
 17760:
-Yo... A loser's convention!
+We's hot! And when yous' hot, yous' hot!
 
 18240:
-Yo!!!
+Poppin' offs that last one shoulds give us some breathin' space.
+
+18720:
+I'sa knows exactly whats to do with dese kinda guys! First... You gets 'em by da family jewels...
 
 19200:
 Once we's gets through here's deres gonna be a shortage of pine.
@@ -100,95 +106,110 @@ Once we's gets through here's deres gonna be a shortage of pine.
 19680:
 Come on's... Coughs it up!
 
+20160:
+Yo... Watch da jewels!
+
 20640:
-I's ain't nobody's fish! Dis thing is wired!
+Yo! Da things broke!
 
 22080:
-We's hot! And when yous' hot, yous' hot!
+It's gonna be's a good day.
 
 22560:
-Errrr... Gots a bleeding ulcer... I's gots to go!
+We's gonna be's on the losin' end heres'...
 
 23040:
 Hey Tinkerbell... Yous' puttin' me to sleep heres'!
 
 24480:
-Kill da babe? We's going out Saturday night!
+We's going out Saturday night!
+
+25920:
+Yo... Don't squeeze your charmers... I'ma going!
 
 26400:
-Da Vinster's got one!
+Yo... Provolone... Come a little closer. Uncle Vinny's got a little present for yous'!
 
 27360:
 My apologies... Let me make it up to yous'!
 
+27840:
+Wiseguy.
+
 28320:
-Come on out... Uncle Vinny justa wants to talk to yas!
+I's think there's trouble around heres'!
 
 28800:
-Yo... Did we's get plucked or whats!
+Come on out... Uncle Vinny justa wants to talk to yas!
 
 29760:
 Yo... A loser's convention!
+
+30720:
+We're talking the same language here! Dis is whats a talent like myself should be gettin' normally!
 
 31200:
 Dat pack of losers is history.
 
 32160:
-Yo... A loser's convention!
+Kill da babe?
 
 32640:
-Yo!!!
+I's take that, Tinkerbell!
 
 33120:
-Da Vinster wants to take it slow! Somebody's been messin' with da dirt.
+I's know, Da Vinster's going to miss dis place...
 
 33600:
 Yo... Did we's get plucked or whats!
 
 34080:
-Gives me a break. I didn't have no breakfast!
+Gives me a break.
 
 34560:
-We's da cream!
+Da news is good.
+
+35040:
+Nobody's goes anywhere without da Vinster!
 
 35520:
-I's ain't nobody's fish! Dis thing is wired!
+Yo! Da things broke!
 
 36000:
-We's gonna be's on the losin' end heres'...
+I's ain't nobody's fish! Dis thing is wired!
 
 36480:
-We's gonna be's on the losin' end heres'...
+Da Vinster wants to take it slow! Somebody's been messin' with da dirt.
 
 36960:
 Gulp... Do me a favor... Don't tell nobodies I's drowned! Dis would disgrace da family... Just tell 'em... I got shot!
 
 37440:
-Da news is good. Nows' we's just gotta gets it back.
+Tick-toc... Tick-toc...
 
 38400:
-And, as I already knows yous' won't budge, we's won't be workin' out no compromises.
+I's can't! Da cable guy is comin' and I's gotta be home! I's gotta take cares of it personal on account of da splice.
 
 38880:
-Unless yous' got a couple of bills dryin' somewheres', we's got nuthin' to talk about.
+I can't go dere! Yous' gotta keep the same guys together! It's a team job! Yous' don't seem to want to understand that!
 
 39360:
-Yo... I owe ya... Dat consoling thing was my ticket with dat Beth. But I's can't go back to work for yous' now. It would make her look cheap!
+YO... If we was dying, it be okay! But hiring and firing? What is dis? A burger joint? Vinny gotta vamoose!
 
 39840:
-Da problem is dis, everybody is going the same amount... Low! Now if yous' weres to go really high dis time, yous' bag me for sures!
+Eh... Sharkster! What gives? You pays like my uncle Vito... Sometimes! Vinny gotta vamouse!
 
 40320:
-Everybody's wants the Vinster! I's gonna have to straightens dis out da old fashion way. Da guy who puts the most cash in da envelopes gets me.
-
-40800:
-If nuthin' else comes up, I'd come back.
-
-42720:
 Of course yous' gotta understand a guy of my talents can't just accept like that. I's gotta hang out for a bit, and sees' what else comes in.
 
+40800:
+Uncle Vinny is takin' your money and not working for yous'. And yous' better make like nuthin' happen! Yous' know what I mean?
+
+42720:
+Yo... Did we's get plucked or whats!
+
 43200:
-Yous' did your shoppin'. We's walked away with a deal!
+Yous' played your cards right!
 
 43680:
 Of course I'm in! What do yous' think? I don't got what it takes?
@@ -197,7 +218,7 @@ Of course I'm in! What do yous' think? I don't got what it takes?
 I'll go! I gonna marry dat Beth chick one of dese days. Dis is a good chance to lay the groundwork, if yous' know what I means'!
 
 45600:
-I can't go dere! Yous' gotta keep the same guys together! It's a team job! Yous' don't seem to want to understand that!
+Da problem is dis, everybody is going the same amount... Low! Now if yous' weres to go really high dis time, yous' bag me for sures!
 
 46080:
 What's a matter with yous'? I already told yous'...
@@ -206,37 +227,38 @@ What's a matter with yous'? I already told yous'...
 Yous' envelope was a little too thin, if yous' catch my drift!
 
 47040:
-I's deeply offended.
+YO... What gives? Dis is Vinny yous' givin' the big shafta..roo to. Maybe yous' need to get a part-time job, so yous' can keep your business afloat heres'!
 
 47520:
-Unless yous' got a couple of bills dryin' somewheres', we's got nuthin' to talk about.
+I can't work for ya! Da ways you pays people, yous' lucky you got knees!
 
 49440:
-If Beth starts crying, I's holding yous' responsible... For nows' Vinny gonna vamoose... Maybe's I can console da lady.
+Yo... I owe ya... Dat consoling thing was my ticket with dat Beth.
 
 50880:
 What's a matter with yous'? I already told yous'...
 
 51360:
-Whats a matter with yous'? I's been dere!
+Yous' envelope was a little too thin, if yous' catch my drift!
 
 51840:
-Dey never showed. Dey better come soon or Uncle Vinny's gonna fix it so's dey catchin' da sports channel with their ears!
+Everybody's wants the Vinster! I's gonna have to straightens dis out da old fashion way. Da guy who puts the most cash in da envelopes gets me.
 
 52320:
-I's can't! Da cable guy is comin' and I's gotta be home! I's gotta take cares of it personal on account of da splice.
-
-52800:
-YO... If we was dying, it be okay! But hiring and firing? What is dis? A burger joint? Vinny gotta vamoose!
-
-53280:
 Just like it says, I's can fix anythings'!
 
+52800:
+Talk to me...
+
+53280:
+Dey never showed. Dey better come soon or Uncle Vinny's gonna fix it so's dey catchin' da sports channel with their ears!
+
 53760:
-We's done! Yous' just won't budge, will yous'?
+I's can't work for ya! Yous' got no class!
 
 55200:
-Is da merc gonna be surprised or what?
+Yous' lucky... I's don't still work for Uncle Frankie! Yous' wouldn't be owing me! Give me three times the cash, ? and I make like nuthin' happen.
 
 55680:
 We's could calls it a gratuity.
+

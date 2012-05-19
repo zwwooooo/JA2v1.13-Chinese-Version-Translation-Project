@@ -1,8 +1,8 @@
 0:
-Contact!
+It was matter of time. I am encountered.
 
 480:
-It was matter of time. I am encountered.
+Contact!
 
 960:
 Need assistance.
@@ -192,3 +192,4 @@ I do not like this here. There is something covered in ground.
 
 37440:
 I am here. I am ready.
+

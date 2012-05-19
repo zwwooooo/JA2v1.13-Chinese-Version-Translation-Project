@@ -52,9 +52,6 @@ On infinite probation, "Unusually Ruthless" Reuban is best described by his nick
 19040:
 The "loose-lipped" legend is once again amongst the rank and file of M.E.R.C.. Back from a brief retirement, the Colonel returns determined to amend for the disgrace, he claims, his children have bestowed upon the family name as mercenaries.
 
-20160:
-A new member of M.E.R.C., Gary is another Roachburn from a long family line of mercenaries to join M.E.R.C.. Like his father, Col. Leon Roachburn, a loose-lipped legend, Gary can be trusted to keep you informed of all your team members' thoughts and intentions.
-
 21280:
 The youngest child and only daughter of the legendary Colonel Leon Roachburn, Megan Roachburn has decided, like her brothers Gary and Larry, to join the family business and work for M.E.R.C.. Despite a strong desire and extensive training, "Sparky" is unable to swim.
 

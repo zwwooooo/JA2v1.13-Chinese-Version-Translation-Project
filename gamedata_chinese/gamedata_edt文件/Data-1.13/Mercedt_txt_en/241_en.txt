@@ -1,8 +1,8 @@
 0:
-This is gonna be easy! The dimwit doesn't see me!
+Found a target!
 
 480:
-Found a target!
+This is gonna be easy! The dimwit doesn't see me!
 
 960:
 I've got trouble here!
@@ -243,3 +243,4 @@ I'm scheduled to do a fireworks' show tonight in Libya.
 
 55680:
 Now what are you going to do for an explosive specialist? Hire one of those basket cases?
+
