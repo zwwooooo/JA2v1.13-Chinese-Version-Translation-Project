@@ -185,6 +185,9 @@ Doctor Mark Kranhuim has tended to the wounded on numerous assignments. His soun
 A man of uncommon attitude, Patrick Phillips was recruited by the organization primarily for his reputation as a repairer of revolvers and rifles. Though patience is not his strong point, he was recently awarded the "Stalker's Cross" for relentless persistence. 
 
 69440:
+A new member of A.I.M., Gary is another Roachburn from a long family line of mercenaries to join A.I.M.. Like his father, Col. Leon Roachburn, a loose-lipped legend, Gary can be trusted to keep you informed of all your team members' thoughts and intentions.
+
+70560:
 In 1964 the U.S. formed the top secret Studies and Observations group(SOG),to coordinate clandestine activity in Vietnam. Spooky is skilled in a variety of roles; including psychological warfare and infiltration. Like all SOG teams, Spooky was trained to avoid contact but is very well versed in combat, it is estimated that for every SOG soldier killed there were 150 enemy casualties.
 
 1920:

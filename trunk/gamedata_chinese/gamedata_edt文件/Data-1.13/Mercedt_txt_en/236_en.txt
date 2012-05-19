@@ -1,8 +1,8 @@
 0:
-Bogie in range! My location unknown to him!
+Bogie sighted!
 
 480:
-Bogie sighted!
+Bogie in range! My location unknown to him!
 
 960:
 Multiple bogies present!
@@ -68,19 +68,19 @@ Request assistance.
 I'm wiped!
 
 12480:
-A godsend...
+I'm wiped!
 
 12960:
 Sined em out!
 
 13440:
-It's an affirmative, Commander! Let's get down to it!
+Sined em out!
 
 13920:
 I'd drop the gaffer in a minute. Sam Garver's been a thorn in my side for years.
 
 15360:
-It's an affirmative, Commander! Let's get down to it!
+An overwhelming success!
 
 15840:
 A godsend...
@@ -95,10 +95,10 @@ Objective accomplished!
 I respectfully refuse!
 
 17760:
-Primo performance, soldier!
+An overwhelming success!
 
 18240:
-Primo performance, soldier!
+An overwhelming success!
 
 18720:
 This is going nowhere fast!
@@ -134,7 +134,10 @@ I've always gotten along really well with Bud...
 It might be best to remember you're not the only job on the block.
 
 26400:
-Let's get to it!
+Bogie sighted!
+
+26880:
+Taking heat!
 
 27360:
 Unfortunately, it looks easier than it is!
@@ -152,19 +155,25 @@ It's an affirmative, Commander! Let's get down to it!
 Sined em out!
 
 31200:
-We downed that entire squad!
+Pleased to report a change in sector status. This one is ours now!
 
 32160:
-It's an affirmative, Commander! Let's get down to it!
+An overwhelming success!
 
 32640:
 A godsend...
 
 33120:
-An overwhelming success!
+This is definitely one of my proudest victories!
 
 33600:
-I bet you weren't good at competitive sports as a child.
+We downed that entire squad!
+
+34080:
+I'm wiped!
+
+34560:
+Let's get to it!
 
 35520:
 This is no longer functional.
@@ -173,7 +182,7 @@ This is no longer functional.
 Boobytrap! I think I can disable it.
 
 36480:
-Boobytrap! I think I can disable it.
+Beware! Things don't look right around here!
 
 36960:
 Can't keep my he...ad above water... much longer!
@@ -245,7 +254,7 @@ Get the cash together and come back and see me.
 I know I can fulfill your needs, Commander. How many other Captains did you notice in the lineup?
 
 52320:
-We've been boondoggled, Commander!
+Ya, sure I will! And Saddam wants to be an American some day!
 
 52800:
 Yep... I've been up to seven Gees. Which sounds impressive until you've seen Lt. Commander Iggy Turner suck on a Marlboro at six.
@@ -261,3 +270,4 @@ And, in case you've forgotten, I've already bargained my way around the block wi
 
 55680:
 You will mention in my file that I was let go for purely economic reasons!
+

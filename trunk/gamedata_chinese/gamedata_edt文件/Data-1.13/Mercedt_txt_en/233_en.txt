@@ -1,8 +1,8 @@
 0:
-I've located an enemy here, boy!
+Got the upper hand on one here, boy.
 
 480:
-Got the upper hand on one here, boy.
+I've located an enemy here, boy!
 
 960:
 The place is crawling with 'em, boy!
@@ -14,19 +14,19 @@ Got the upper hand on one here, boy.
 Got the upper hand on one here, boy.
 
 2400:
-Got the upper hand on one here, boy.
+Bad news, boy...
 
 2880:
-Gonna to make it slow and agonizing if that's all right with you...
+This is not a good sign.
 
 3360:
-The place is crawling with 'em, boy!
+Bad news, boy...
 
 3840:
 It's like a cemetery around here.
 
 4320:
-It's like a cemetery around here.
+Bad news, boy...
 
 4800:
 The place is crawling with 'em, boy!
@@ -50,7 +50,7 @@ They may have killed the Corporal, boy, but they're going to have deal with the 
 Gun's jammed up pretty good!
 
 9600:
-I'm takin' lead, boy!
+Taking enemy fire, boy!
 
 10080:
 I need help, boy!
@@ -74,10 +74,13 @@ What's the water situation like?
 We can kiss those boys goodbye!
 
 13440:
-Ohh yeah!
+Boy did we kick butt!
 
 15360:
-Boy did we kick butt!
+Gonna bag this fool, boy!
+
+15840:
+Ohh yeah!
 
 16800:
 We have come through with flying colors, boy!
@@ -86,7 +89,7 @@ We have come through with flying colors, boy!
 I still can't make it, boy!
 
 17760:
-Boy did we kick butt!
+We have come through with flying colors, boy!
 
 18240:
 Boy did we kick butt!
@@ -102,6 +105,9 @@ Okay... So ya got lucky, boy!
 
 20640:
 We gonna have to repair this thing boy! It don't work
+
+21120:
+Can't handle it, doughboy?
 
 22080:
 You can hold your head up high, boy!
@@ -119,7 +125,10 @@ Ohh Yeah!!!...
 You'll have to try me another time, boy!
 
 26400:
-I've located an enemy here, boy!
+I'm gonna get that son-of-a-bitch!
+
+26880:
+I'm takin' lead, boy!
 
 27360:
 I must be having a bad day! Normally, I can do this stuff with my hands tied.
@@ -133,8 +142,11 @@ We can kiss those boys goodbye!
 29760:
 Boy did we kick butt!
 
+30720:
+It's getting about time to close things down, boy.
+
 31200:
-We can kiss those boys goodbye!
+Mission accomplished, boy. Sector all clear!
 
 32160:
 Boy did we kick butt!
@@ -146,7 +158,7 @@ Got the upper hand on one here, boy.
 Start chilling the champagne, boy! All's we have left to do is get it to the base!
 
 33600:
-We can kiss those boys goodbye!
+Mission accomplished, boy. Sector all clear!
 
 34080:
 I slipped up, boy!
@@ -161,7 +173,7 @@ It's stuck on there real good, boy.
 It's packing a punch, boy! I can probably deactivate it.
 
 36480:
-It's packing a punch, boy! I can probably deactivate it.
+Take it one step at a time here, boys... Looks to me like they might have something planned or planted.
 
 36960:
 I can't stay above water much longer, boy!
@@ -221,19 +233,19 @@ I got some serious problems with the way you're running things, boy! But I haven
 Like I said to ya...
 
 51360:
-It ain't never going happen, boy!
+Let me clear the fog ? for ya here... boy! A mercenary is a soldier who works for money! ? We got to know for sure we're gettin' paid before we take an assignment!
 
 51840:
 Spike Scallion is the name! Filling people with holes is my game, boy!
 
 52320:
-Oh...boy! Did you ever get hustled!
+You guys trying to go somewhere without me?
 
 52800:
 How ya doing, boy?
 
 53280:
-We put in a good stint together, boy!
+It's good to hear from ya!. But, you'll have to show me what you're made of, boy, if I'm going to think about working for you!
 
 53760:
 It's gettin' about time to close things down, boy.
@@ -243,3 +255,4 @@ Listen boy, I've never had this done to me before! And I can promise you it ain'
 
 55680:
 That takes care of everything, boy!
+

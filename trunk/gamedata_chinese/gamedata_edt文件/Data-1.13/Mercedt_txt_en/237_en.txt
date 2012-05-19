@@ -1,8 +1,8 @@
 0:
-I got the drop on this guy.
+Ready to engage!
 
 480:
-Ready to engage!
+I got the drop on this guy.
 
 960:
 I've got a situation here!
@@ -23,7 +23,7 @@ Well...?
 Ready to engage!
 
 3840:
-We're right here, chicken lips!
+Let's not be overconfident, I'm getting a bad feeling about this place.
 
 4320:
 I could have sat this one out!
@@ -79,6 +79,9 @@ From here on in, he'll be known as Unusually Dead Reuban!
 15360:
 Problem solved.
 
+15840:
+What a way to put it away!
+
 16320:
 Got to go! No time to explain!
 
@@ -122,7 +125,10 @@ Came across one! It smells like Reuban!
 It looks doable. Just give me a couple of minutes to fill out some paperwork, and I'll get back to you.
 
 26400:
-Ready to engage!
+I want to fire off a shot while this bird won't know what hit him.
+
+26880:
+I'm in combat!
 
 27360:
 I should have been able to handle it.
@@ -131,13 +137,13 @@ I should have been able to handle it.
 Stay alert! The ground seems displaced around here.
 
 28800:
-We won this one!
+That troop won't pose any more problems!
 
 29760:
 Problem solved.
 
 31200:
-That troop won't pose any more problems!
+This sector is under our control now.
 
 32160:
 Problem solved.
@@ -149,7 +155,7 @@ I've got a situation here!
 We won this one!
 
 33600:
-Ready to engage!
+This sector is under our control now.
 
 34080:
 I need to ease up for a moment.
@@ -236,13 +242,14 @@ I'm a professional!!!
 Normally, I don't even listen to bribes, but I like ya... So, I'll give you one last chance at making me an offer I can't refuse.
 
 53280:
-You're starting to look serious about winning this thing!
+Excellent choice... You're starting to look serious about winning this thing!
 
 53760:
-Your proposal just wasn't up to par.
+Spare me the sob stories! I just want to get out of here!
 
 55200:
 Listen doorknob, I've already been worked over by you!
 
 55680:
 Wouldn't you know it. I was just about to call you back when another job offer came in. Now... I'm looking for signing bonus.
+

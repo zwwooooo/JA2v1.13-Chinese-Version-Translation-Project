@@ -1,8 +1,8 @@
 0:
-I've made contact... Haven't been spotted!
+I've been spotted!
 
 480:
-I've been spotted!
+I've made contact... Haven't been spotted!
 
 960:
 In contact with a couple of rebels.
@@ -91,6 +91,9 @@ The credit's all yours, sir!
 17280:
 That would be highly irregular.
 
+17760:
+Excellent command, sir!
+
 18240:
 With plesure!
 
@@ -134,7 +137,7 @@ Consider it taken care of...
 Excellent command, sir!
 
 31200:
-Mission successful!
+Operation successful. Sector secure.
 
 32160:
 With plesure!
@@ -146,7 +149,7 @@ I don't feel good about this.
 Mission successful!
 
 33600:
-Consider it taken care of...
+Operation successful. Sector secure.
 
 35040:
 I'm sure I did it by the book...
@@ -188,10 +191,10 @@ I'm glad I could be of assistance. Good luck!
 We're running out of time, sir!
 
 43200:
-Now that it's decided... It's time to get to work.
+Sure I'll go! If there's anything you need or anything I can do for you, you just let me know!
 
 43680:
-Now that it's decided... It's time to get to work.
+Sure I'll go! If there's anything you need or anything I can do for you, you just let me know!
 
 44160:
 Bob's a good friend and a war hero to boot!
@@ -240,3 +243,4 @@ I can't help you out... I'm in training with the special forces.
 
 55680:
 I just had a feeling... I guess the best way to decide which offer I should take would be a...the biggest signing bonus.
+

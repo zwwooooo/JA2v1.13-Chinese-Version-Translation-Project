@@ -1,8 +1,8 @@
 0:
-Bad dude! Looking the other way.
+Got a bad dude that's on to me!
 
 480:
-Got a bad dude that's on to me!
+Bad dude! Looking the other way.
 
 960:
 This place stinks of rotting flesh!
@@ -273,3 +273,4 @@ I gotta stay put. The warden will give up soon enough.
 
 55680:
 This is the deal, I'm a popular man... The team offering the most cash gets me.
+

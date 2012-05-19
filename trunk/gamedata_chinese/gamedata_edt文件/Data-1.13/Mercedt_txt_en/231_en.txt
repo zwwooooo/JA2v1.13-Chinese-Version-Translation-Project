@@ -17,13 +17,13 @@ Spotted a victim!
 Rats!
 
 2880:
-Careful... Chunks of topsoil are missing.
+Careful...
 
 3360:
 Rats!
 
 3840:
-Firing off a couple of rounds sounds pretty exciting right about now.
+Carefull! I'm getting bad feelings about this spot.
 
 4320:
 Once we get it back we can lay claim to this mission.
@@ -56,7 +56,7 @@ I'm having trouble over here.
 Man... Am I wiped!
 
 10560:
-Why do you think they call me Snake?
+Got a dupe tryin' to take me out!
 
 11040:
 I couldn't make that shot if my life depended on it.
@@ -65,7 +65,7 @@ I couldn't make that shot if my life depended on it.
 I got nicked!
 
 12000:
-Man... Am I wiped!
+The heat was killing me anyway...
 
 12480:
 Man... Am I wiped!
@@ -79,17 +79,23 @@ Scumbucket!
 15360:
 This one's in the bag!
 
+15840:
+Didn't miss by much!
+
 16800:
 That's what you call good work!
 
 17280:
-You can cancel this mission.
+No way!
 
 17760:
-This one's in the bag!
+That ought to silence the doubters.
 
 18240:
 Scumbucket!
+
+18720:
+You're a chiseller...
 
 19200:
 Boy Scouts... Nothin' but teeny-weeny, Boy Scouts!
@@ -102,9 +108,6 @@ You used up all your luck!
 
 20640:
 This is a poor excuse for equipment... It doesn't even work!
-
-21120:
-It's the right thing to do!
 
 22080:
 Hiss... Hiss... Cupcake!
@@ -119,37 +122,43 @@ Did you learn anything?
 My buddy the Iceman!
 
 25920:
-That ought to silence the doubters.
+No! You really pissed me off!
 
 26400:
-Got a dupe tryin' to take me out!
+I'm gonna fix ya, scumbucket!
 
 27360:
 I can't be good at everything.
+
+27840:
+You're pissin' me off!
 
 28320:
 Firing off a couple of rounds sounds pretty exciting right about now.
 
 28800:
-Firing off a couple of rounds sounds pretty exciting right about now.
+Remember to keep your head up and your eyes open out there!
 
 29760:
 Scumbucket!
+
+30720:
+They're gonna be sorry!
 
 31200:
 We've taken care of that group!
 
 32160:
-Scumbucket!
+That ought to silence the doubters.
 
 32640:
-Rats!
+Scumbucket!
 
 33120:
-We've taken care of that group!
+It's the right thing to do!
 
 33600:
-We've taken care of that group!
+I think we just begged ourselfes another sector.
 
 34080:
 Man... Am I wiped!
@@ -158,13 +167,13 @@ Man... Am I wiped!
 Everything's a go!
 
 35520:
-I'm gonna fix ya, scumbucket!
+This is a poor excuse for equipment... It doesn't even work!
 
 36000:
 This thing's got a detonator!
 
 36480:
-This thing's got a detonator!
+Careful... Chunks of topsoil are missing.
 
 36960:
 Swallowing water... Need help... fast...
@@ -200,7 +209,7 @@ We got a unbelievable bargain!
 I'll join!
 
 44160:
-No! I packed it in with the Iceman. You should never have fired him!.
+Hey, if you're good enough for the Iceman... You're good enough for me.
 
 45600:
 There ain't much that sends me packing, but working for a loser is right up there! Maybe you'll be able to turn things around without me.
@@ -230,10 +239,10 @@ There's all kinds of stuff happening. I'm going with the team dishing out the mo
 I'm the guy you want! Trust me!
 
 52320:
-No! You really pissed me off!
+Why do you think they call me Snake?
 
 52800:
-Remember to keep your head up and your eyes open out there!
+I packed it in with the Iceman.
 
 53280:
 I'll put my differences aside!
@@ -241,11 +250,9 @@ I'll put my differences aside!
 53760:
 It still ain't good, but don't sweat it. We'll get together one of these days.
 
-54240:
-Hey, if you're good enough for the Iceman... You're good enough for me.
-
 55200:
 Hang in there! Things might turn around for you, too! See ya!
 
 55680:
 I'm interested... Interested in hearing a better offer.
+

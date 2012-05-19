@@ -2,13 +2,13 @@
 I got the jump on this sucker!
 
 480:
-Hell... I've been spotted.
+I got some sewer snipe in sight! Lookin' to toast it!
 
 960:
-Hell... I don't like this!
+Hell... I've been spotted.
 
 1440:
-Hell... I've been spotted.
+Bastards!
 
 1920:
 Hell... I don't like this!
@@ -77,7 +77,7 @@ That's one troop down!
 Expect the same, dirtball!
 
 15360:
-That's one troop down!
+Say your prayers, slimeball... This one's from the Boss!
 
 15840:
 Hell... If I hadn't been there myself, I'd never believed it happened!
@@ -89,22 +89,19 @@ Hell no!
 Hell ya! This mission's a done deal!
 
 17280:
-Hell no... I'm still waitin' on parts!
+Hell no!
 
 17760:
-Hell... I heard you used to work at Dairy Queen!
+Say your prayers, slimeball... This one's from the Boss!
 
 18240:
-Hell... We sure showed them!
+Say your prayers, slimeball... This one's from the Boss!
 
 19200:
 Hell... You can't be serious!
 
 19680:
 Hell... You're not even on my B list!
-
-20160:
-I got sewer snipe tryin' to toast me!
 
 20640:
 Hell... This thing is nothing but a piece of junk!
@@ -122,13 +119,16 @@ Hell... Do you have any credentials?
 Hell... It's Screw. I guess... I'll need another beer buddy.
 
 25920:
-I have a good feeling about this. I'll let you know...
+Hell... I haven't got time for this!
 
 26400:
-Hell... I don't like this!
+Have you lost your mind? Hell... This is the Boss you're sticking it to!
 
 27360:
 Hell... I haven't got any more time for this!
+
+27840:
+Hell... Forget I said anything!
 
 28320:
 Hell... This place makes the Middle East look like a beach party. 
@@ -140,13 +140,13 @@ Hell... This place makes the Middle East look like a beach party.
 Expect the same, dirtball!
 
 30720:
-Hell... Forget I've said anything.
+Hell... I got nuthin' better to do, right now!
 
 31200:
-You can file this one under victory.
+That was a job well done!
 
 32160:
-You can file this one under victory.
+Hell... I heard you used to work at Dairy Queen!
 
 32640:
 Hell... I don't like this!
@@ -163,6 +163,9 @@ Hell... I'm gonna pass out.
 34560:
 All right!
 
+35040:
+Hell... What about me?
+
 35520:
 Hell... This thing is nothing but a piece of junk!
 
@@ -170,13 +173,13 @@ Hell... This thing is nothing but a piece of junk!
 Hell... This thing's boobytrapped.
 
 36480:
-Hell... This thing's boobytrapped.
+Hell... I smell a trap around here!
 
 36960:
 Phhhhhell... Swallowing water...
 
 37440:
-Hell... We're almost there.
+Hell... I'm already here!
 
 38400:
 Hell... This place makes the Middle East look like a beach party. If you want me to come back, you're going to have to get the body count down.
@@ -191,7 +194,7 @@ Hell no! You're so disloyal, I doubt you could keep a DOG!
 Hell no! The scent of death clings to you like ? a week-old shirt!
 
 40320:
-Hell! I've already been ousted by you!
+I have a good feeling about this. I'll let you know...
 
 40800:
 Hell... The excitement's killing me. We've got a tie. If you don't want it to happen again, go really big this time!
@@ -236,13 +239,13 @@ And don't even think about reaching for your wallet!
 Hell... You're looking at the best! I can build, fix and kill anything! I'm the Boss!
 
 52320:
-It's a hell of a way to make a living. On the upside, you get to travel a hell of a lot.
+Hell... I never heard of you! You're gonna have to show me what you're made of before I'll join!
 
 52800:
 Hell... You didn't expect me to turn over the cash, did ya?
 
 53280:
-Hell... I wish I knew where I was going!
+It's a hell of a way to make a living. On the upside, you get to travel a hell of a lot.
 
 53760:
 Hell... You enjoy hiring mercenaries so much, hire yourself another!  I quit!
@@ -252,3 +255,4 @@ Hell... It's almost time to wrap this up!
 
 55680:
 Hell... This is a waste of time. You can't even meet me half way!
+

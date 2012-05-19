@@ -1,8 +1,8 @@
 0:
-See one! My position unknown.
+I have visual contact.
 
 480:
-I have visual contact.
+See one! My position unknown.
 
 960:
 Multiple sightings!
@@ -14,25 +14,25 @@ See one!
 See one! 
 
 2400:
-See one! 
+Show your face, liver-belly!
 
 2880:
-Located something.
+I'm clueless over here...
 
 3360:
-Located something.
+Show your face, liver-belly!
 
 3840:
-I'm happily married, and I want it to stay that way!
+You're way off! And way out of line to boot!
 
 4320:
-It's nailed down!
+Let's pay attention!
 
 4800:
 Multiple sightings!
 
 5280:
-I'm clueless over here...
+Located something.
 
 5760:
 Located something.
@@ -71,9 +71,12 @@ I'm short of breath.
 Get a hold of yourself!
 
 13440:
-Massacred!!!
+Killed!!!
 
 15360:
+Somebody write the family...
+
+15840:
 Massacred!!!
 
 16800:
@@ -82,14 +85,20 @@ Mission accomplished!
 17280:
 That'd be pointless.
 
+17760:
+Somebody write the family...
+
 18240:
 Killed!!!
+
+18720:
+He's a screwball!
 
 19200:
 It's a tempting proposition...
 
 19680:
-Show your face, liver-belly!
+I thought I followed procedure.
 
 20160:
 Don't break out the champagne just yet, hotdog!
@@ -98,10 +107,10 @@ Don't break out the champagne just yet, hotdog!
 It's not useable.
 
 21120:
-All of that company's been accounted for!
+Get with the program! We kill people for a living! Do you think stealing is beneath us?
 
 22080:
-Somebody write the family...
+Stay that way!
 
 22560:
 After wearing that blue helmet for nine years, today I actually get to kill something... You!
@@ -110,13 +119,13 @@ After wearing that blue helmet for nine years, today I actually get to kill some
 You're perfect material for the peacekeepers. Heck, they'd probably make you a commander.
 
 25920:
-There never seems to be enough time, does there?
+I got nothing to sight up.
 
 26400:
-I have visual contact.
+This was a short stint, buddy! Too short!
 
 27360:
-I goofed.
+It's nailed down!
 
 28320:
 Let's pay attention! It looks like pressure triggers might have been planted around here.
@@ -124,8 +133,8 @@ Let's pay attention! It looks like pressure triggers might have been planted aro
 28800:
 Let's pay attention!
 
-29760:
-It's nailed down!
+30720:
+There never seems to be enough time, does there?
 
 31200:
 It feels great to actually win something!
@@ -140,16 +149,16 @@ See one!
 It's a privilege to serve under you.
 
 33600:
-Mission cancelled!
+All of that company's been accounted for!
 
 34080:
-Once you learn how to sleep on your feet, you can stay up all night.
+I goofed.
 
 34560:
 It's workable.
 
 35520:
-I got nothing to sight up.
+It's not useable.
 
 36000:
 Deactivating it might be too complex for me!
@@ -224,10 +233,11 @@ You've never hired anyone as eager as me. I've had to lay low and watch for far 
 Your suggestion was the best of the lot. I'm signing on with your squad.
 
 53760:
-Get with the program! We kill people for a living! Do you think stealing is beneath us?
+I've already given too much of my attention to your poor attempts at bribery.
 
 55200:
 I guess even the best of things have to come to an end.
 
 55680:
 I'm use to six months stints. The last time I worked for you I didn't even get a chance to go to the john. Forget it!
+

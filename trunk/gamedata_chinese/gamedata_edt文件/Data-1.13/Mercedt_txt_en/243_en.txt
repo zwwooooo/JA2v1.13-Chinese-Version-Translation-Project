@@ -1,8 +1,8 @@
 0:
-Got an easy kill over here!
+Scumball sighted!
 
 480:
-Scumball sighted!
+Got an easy kill over here!
 
 960:
 I got a problem over here!
@@ -68,7 +68,7 @@ Need a Band-Aid.
 Break time!
 
 12480:
-Now...
+You'd have to be a bloody camel to survive out here...
 
 12960:
 You're a dead man!
@@ -80,7 +80,7 @@ You're a dead man!
 Gettin' to put a couple holes into Bob Adams is a dream come true!
 
 15360:
-Say your prayers, Skippy!
+Say your prayers, skippy!
 
 15840:
 I love watchin' 'em getting burned.
@@ -95,10 +95,10 @@ You gotta love it!
 This is totally out of my control!
 
 17760:
-Say your prayers, Skippy!
+Say your prayers, skippy!
 
 18240:
-Say your prayers, Skippy!
+Say your prayers, skippy!
 
 19200:
 My kill rate's taking a beating here.
@@ -143,10 +143,10 @@ I botched it!
 I still can't make it!
 
 28320:
-Gonna be a real bitch tying your shoes with only one hand!
+This scumball's gonna get it.
 
 28800:
-Let me guess... You got the sun in your eyes!
+Everyone had better keep their eyes wide-open around here!
 
 29760:
 Say your prayers, Skippy!
@@ -155,10 +155,10 @@ Say your prayers, Skippy!
 You should be feeling good right about now!
 
 31200:
-We did what we had to!
+I can't smell them anymore! They probably all went home to their mothers!
 
 32160:
-Say your prayers, Skippy!
+Say your prayers, skippy!
 
 32640:
 Get out of my face!
@@ -270,3 +270,4 @@ Today's out! I don't owe you any explanations!
 
 55680:
 I got more offers than I know what to do with! All right, the one who puts the most cash in my pocket gets me.
+

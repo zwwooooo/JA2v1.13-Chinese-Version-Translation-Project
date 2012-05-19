@@ -1,8 +1,8 @@
 0:
-I could kill this reptile without being seen.
+Got a reptile!
 
 480:
-Got a reptile!
+I could kill this reptile without being seen.
 
 960:
 Encountered some renegades!
@@ -201,3 +201,4 @@ I'm losing strength... Feel weak... I can't swim anymore...
 
 37440:
 It would make my day...
+

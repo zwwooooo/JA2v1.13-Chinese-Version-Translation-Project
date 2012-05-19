@@ -1,8 +1,8 @@
 0:
-I've made contact! Enemy unaware of my presence.
+There's an enemy here!
 
 480:
-There's an enemy here!
+I've made contact! Enemy unaware of my presence.
 
 960:
 I've made contact with a couple of enemies!
@@ -243,3 +243,4 @@ For personal reasons, I've decided to take the day off.
 
 55680:
 My services appear to be in demand. I'll be accepting the assignment that offers the highest signing bonus.
+

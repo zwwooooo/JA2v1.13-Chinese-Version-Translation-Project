@@ -1,8 +1,8 @@
 0:
-I have a pigeon here! Seems like easy pickings.
+Have an enemy sighted!
 
 480:
-Have an enemy sighted!
+I have a pigeon here! Seems like easy pickings.
 
 960:
 This is gonna be wild!
@@ -83,7 +83,7 @@ You can depend on me.
 The next time you do that, you'd better show more commitment!
 
 17760:
-Well... 
+We're running this place now!
 
 18240:
 There's another notch on my gun.
@@ -128,7 +128,7 @@ They won't be bothering us anymore.
 I've killed people for less! Much less!
 
 31200:
-They won't be bothering us anymore.
+This sector is OURS!
 
 32160:
 I've killed people for less! Much less!
@@ -140,7 +140,13 @@ This is gonna be wild!
 I hate to see it come to an end!
 
 33600:
-They won't be bothering us anymore.
+This sector is OURS!
+
+34080:
+Give me a break...
+
+34560:
+Give me a break!!
 
 35040:
 You can brag about this one!
@@ -225,3 +231,4 @@ Thanks for the offer, but I won't be taking it.
 
 55680:
 Your offer has been matched. You'll have to do better if you're still looking to hire me.
+
