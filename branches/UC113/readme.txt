@@ -1,3 +1,6 @@
+
+===============================================================
+
 汉化项目：JA2 1.13 MOD：Urban Chaos （简称 UC113）
 
 汉化：TBS汉化组（http://tbsgame.net/bbs）
@@ -17,3 +20,9 @@ ry1808、darkguitar 、sadspark 、ry1808 、sharp198602、cresforce、浮云6生、1942、
 汉化工作贴：http://tbsgame.net/bbs/index.php?showtopic=58789
 
 汉化包发布：http://tbsgame.net/bbs/index.php?showtopic=63502
+
+===============================================================
+
+2013.10.11
+
+- 后续更新请关注 http://zww.me/ja2 | http://tbsgame.net/bbs/index.php?showtopic=67481
