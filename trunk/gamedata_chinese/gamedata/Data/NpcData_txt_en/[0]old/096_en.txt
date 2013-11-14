@@ -1,0 +1,105 @@
+0:
+Micky O'Brien's the name! Pleasure to meet ya!
+
+480:
+Aye, me favorite soldier!
+
+960:
+You ask me, there's not a problem that can't be cured by some fine Irish whiskey!
+
+1440:
+Ye be comin' across any sea turtle eggs, ye be sure to let me know. There be a good market for those. Be right up there with the charmers from a black bear.
+
+1920:
+Aye, no, there's nothin' I be needin'.
+
+2400:
+Aye, too many Brits down here, I be telling ya. They drink up what's better left for a proper Irishman!
+
+2880:
+Aye! No doubt yer not aware of me glowing reputation. You don't be lookin' to get on me bad side.
+
+3360:
+Aye, it's not really me line a work.
+
+3840:
+Aye, could ya stitch a wounded friend?
+
+4320:
+Aye, so that's that then.
+
+4800:
+Aye. Ya did owe me a couple of dollars, didn't ya?
+
+5280:
+Ya got something for me.
+
+5760:
+Got me reputation to think of. You won't get a better dollar anywhere else.
+
+6240:
+Aye, did ya forget where ya placed her?
+
+7200:
+Aye, would that be everything then?
+
+7680:
+Let me have a look at what ya got here.
+
+8160:
+Aye, can't do. I only be dealin' in animals and their parts now.
+
+8640:
+Aye, no value to me.
+
+9120:
+Aye... I can't give you good dollar fer it. Only be able to make a couple of baseball mitts at best.
+
+9600:
+Aye, you be quite the hunter! I'll make ya a good deal for it.
+
+10560:
+Aye, perfect!
+
+11520:
+Aye! I be grateful to ya.
+
+12000:
+Aye! Maybe ya find it and be back.
+
+12480:
+You be forgetting something here.
+
+12960:
+Think I got my limit for this shipment. They only give me so much room to send the stuff, ya know.
+
+13440:
+Ya bloody fool!
+
+13920:
+Oh, how kind of ya.
+
+14400:
+You look a wee bit familiar. Did I not run into ya in me gun running days? Aye, a nasty business that was, just to be scrapin' together nickels and dimes here and there.
+
+14880:
+Stumbled upon something a wee bit more lucrative. Animals and their parts. The Asians and bloody collectors pay a fortune for the rare gems of the animal kingdom. And not a bloody one of 'em is armed at that.
+
+15360:
+I was just passing through seeing if I could bag me-self a couple of elusive Bloodcat pelts. Those felines can only be found in Arulco, ya know.
+
+15840:
+And I also caught a rumor that there may be some type of strange creature movin' about the mines. Wish I could confirm it. Aye... If she be true, I'm bettin' there be a pretty penny in a piece of such a beast.
+
+16320:
+Aye... If ya be finding yourself possessing anything I might be looking for, you come a callin'. I be givin' ya top-dollar for it. You can find me in one of the bars. You might even find me still in this one.
+
+16800:
+Could I interest you in buying a poor, thirsty, brother-in-arms a drink?
+
+17280:
+Aye. A wee somethin' to quell the nerves.
+
+17760:
+Aye, not right now! You finish what ya started first!
+

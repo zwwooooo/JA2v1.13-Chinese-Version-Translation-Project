@@ -1,0 +1,186 @@
+0:
+Target in sight.
+
+480:
+We have some inconveniences to dispose of.
+
+960:
+Serious snafu here!
+
+1440:
+Sushi!
+
+1920:
+That's one badass piece of sushi.
+
+2400:
+Got a feeling those things did some slicing of their own here.
+
+2880:
+Think I heard a suspicious sound.
+
+3360:
+Ugh, pretty rank. Smells like putrid sushi.
+
+3840:
+Something's out there, man. Something's watching us.
+
+4320:
+I never cared for those things. And trust me, they're around.
+
+4800:
+God damn, I need backup.
+
+5280:
+What's there?
+
+5760:
+Might be worth a look.
+
+6240:
+No more ammo.
+
+6720:
+Took it hard this time...may not walk away from this one.
+
+8640:
+Sorry, come again? I was spaced.
+
+9120:
+Gotta jammed gun here, damnit.
+
+9600:
+They're turnin' up the heat!
+
+10080:
+Sort of feel like a mosquito that's been slapped.
+
+10560:
+Comes with the territory.
+
+11040:
+Need a better vantage point.
+
+11520:
+Got a bad puncture wound here. Losing blood.
+
+12000:
+Hittin' a wall here. Gotta sleep.
+
+12480:
+I...I have to slow down.
+
+12960:
+Target dispatched.
+
+13440:
+Eat it raw!
+
+15840:
+Someone took a little too much off the top.
+
+16800:
+I'm all done.
+
+17280:
+No, with all due respect.
+
+17760:
+Our main target has been dispatched.
+
+18240:
+YES!! I mean...just doing my job.
+
+18720:
+One of those mercs we could do much better without.
+
+19200:
+I expected things to go better than this.
+
+19680:
+Some people should wise up and realize that mercenary work isn't for everybody.
+
+20160:
+Air raid! This is not a drill!
+
+20640:
+This equipment is trash. Should probably just put it out on the curb.
+
+22080:
+I do what I can.
+
+22560:
+I think we might want to go over that again.
+
+23040:
+That was a predictable outcome.
+
+26400:
+Don't look like we were spotted comin' in. Now we gotta find this Miguel guy.
+
+26880:
+This better pass quick...I can't focus on a damn thing.
+
+27360:
+I'll never get that.
+
+27840:
+You meet all kinds. Some of them actually turn out to be worth meeting.
+
+28320:
+Heads up. We have a confirmed enemy presence.
+
+28800:
+They probably haven't strayed too far...
+
+29760:
+It gets the job done.
+
+30240:
+Hey, that's that Graham kid.
+
+30720:
+We're here to prevent that, Miguel. And we got access to the firepower to do it.
+
+31200:
+That's it for targets! At least for this area.
+
+31680:
+Hm. Perhaps we should take a closer look at who we deal with. They're skimming off the top.
+
+32160:
+I'm surprised to hear myself say it, but sometimes there don't seem to be enough bullets... A lot of mothers are gonna be spending more time with their kids.
+
+32640:
+Bobcat!
+
+33120:
+Well, we've been in this thing together since the beginning. Been a lot of water under the bridge. Feels like a long time ago. Hell... I almost feel like you gave birth to me. Thanks.
+
+33600:
+Ah, they took the back door. No one here but us, now.
+
+34080:
+Taking a rest before I do something foolish. Up in a bit.
+
+34560:
+Up and back on track now.
+
+35040:
+Same here.
+
+35520:
+This thing belongs in the nearest trash can.
+
+36000:
+Damn! Looks like we got a problem here.
+
+36480:
+Stay still! See that? Looks suspicious to me.
+
+36960:
+Hey... there's a un..<gulb>... un...<gulb>... under...<glub>... tow... <glub> here!
+
+37440:
+Made it intact.
+

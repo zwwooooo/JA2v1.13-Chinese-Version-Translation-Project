@@ -1,0 +1,198 @@
+0:
+Enemy present.
+
+480:
+I made contact with the enemy.
+
+960:
+I'm in a middle of the shootout!
+
+1440:
+Enemy present.
+
+1920:
+I couldn't believe my eyes!
+
+2400:
+Body's been here for a while.
+
+2880:
+They don't call me "Ears" for nothing, you know.
+
+3360:
+I find the whole thing rather repulsive.
+
+3840:
+I can't recall an assignement ever being this quiet.
+
+4320:
+This area looks like trouble.
+
+4800:
+I've flushed a couple out!
+
+5280:
+I can see something.
+
+5760:
+I can see something.
+
+6240:
+What a time to be outta ammo!
+
+6720:
+The pain... is unbearable... I need something... something for the pain.
+
+8640:
+Can't seem to find my way.
+
+9120:
+My weapon won't fire properly!
+
+9600:
+I'm coming under fire!
+
+10080:
+I'm exhausted. I've to stop for a second.
+
+10560:
+Someone just shot at me!
+
+11040:
+I haven't got much to shoot at.
+
+11520:
+I have a wound that needs attention!
+
+12000:
+It's getting late.
+
+12480:
+Can't seem to find my way.
+
+12960:
+Better you than me.
+
+13440:
+Better you than me.
+
+15360:
+It might be time to consider trade school! Or perhaps a degree in the arts!
+
+15840:
+Ah, should've been more careful.
+
+16800:
+We got the job done after all!
+
+17280:
+Hey! Wait a minute!
+
+17760:
+We've done it!
+
+18240:
+You have to love these piece of cake assignments.
+
+18720:
+I got nothing more to say to you.
+
+19200:
+Once was more than enough. Don't call me. Ever.
+
+19680:
+You just bought yourself one motivated mercenary.
+
+20160:
+I'm coming under fire!
+
+20640:
+I can't do anything with that piece of scrap.
+
+21120:
+I have a date. And god knows I haven't got one of those in a long time.
+
+21600:
+You may want to think twice about hiring Buzz Garneau. I hear she's with child. Seems... Lynx knocked her up.
+
+22080:
+Listen... I'm the best mole for the money.
+
+22560:
+I don't think we're gonna be able to get the job done.
+
+23040:
+You'd better get your act together.
+
+25920:
+You can't cover my cost.
+
+26400:
+I was hoping to see you again.
+
+26880:
+My eyes!
+
+27360:
+This is embarrasing!
+
+27840:
+It looks like we're dating steady.
+
+28320:
+I'm ready anytime you are.
+
+28800:
+That's quite a bag of losers you put together there, Commander Coward!
+
+29760:
+You're out of luck.
+
+30240:
+Lonely, eh? Tell me about it.
+
+30720:
+Perhaps if you gave me another chance, I could do better.
+
+31200:
+That's the last of that crew.
+
+31680:
+Made quite a profit off of us.
+
+32160:
+It's a shame.
+
+32640:
+Enemy present.
+
+33120:
+I was glad to be a part of it.
+
+33600:
+This sector should be under our control now.
+
+34080:
+Hang on a second.
+
+34560:
+Now...
+
+35040:
+Since you didn't hear me, I'll say it again.
+
+35520:
+I can't do anything with that piece of scrap.
+
+36000:
+Looks like a booby trap.
+
+36480:
+Ground looks like it's been camouflaged.
+
+36960:
+I'm exhausted. I can't find... strength to... stay afloat.
+
+37440:
+I've got it.
+

@@ -7,26 +7,26 @@
 960:
 和叛军交火了！
 
-2880:
-我听到蓝排在打包了！
+1440:
+Got a reptile!
 
 1920:
-发现个爬虫！
+I tell ya! You run into family in the strangest places.
 
 2400:
-发现个爬虫！
+It can happen to anyone.
 
 2880:
-有个弱逼在附近……
+I hear a green platoon...
 
 3360:
-发现个爬虫！
+这下危险了！
 
 3840:
 这下危险了！
 
 4320:
-这下危险了！
+I'm the only Roachburn for the job.
 
 4800:
 来啊！！！
@@ -46,14 +46,17 @@
 7200:
 可惜了……Sammy,老Sammy被打倒了,呃。好吧，就算为了他我们也得赢下这场战争。
 
+8640:
+I'm lost!
+
 9120:
 卡壳了！
 
 9600:
-你还是个孩子，是不是？
+What the hell are you doing?
 
 10080:
-我在流血！
+That's gotta be rough on the pacemaker.
 
 10560:
 这种事情，谁都避免不了。
@@ -62,7 +65,7 @@
 我能够省下这颗子弹，等待更好的时机。
 
 11520:
-喔哈……
+Bleeding here!
 
 12000:
 我不能再前进了。。。我有肾结石！
@@ -74,43 +77,43 @@
 敌排击溃！
 
 13440:
-该我发飙了！
+敌排击溃！
 
 13920:
 王八羔子……你们比Larry还矬！
 
 14400:
-你以为你是谁，我的老婆孩子？
-
-14880:
 王八羔子……你们比Larry还矬！
 
 15360:
-Colonel Roachburn卷土重来。
+I should have done this years ago!
 
 15840:
-看起来真不错。
+Not too shabby for a rusty, old man!
 
 16320:
 我迷失方向了！
 
 16800:
-前几年我就该这么干了！
+Colonel Roachburn is back in business.
 
 17280:
 这样的命令可不能树立信心。
 
 17760:
-我还是想上你妈的，可惜没零钱了。
+Ah... Just like the old days... Moments worth savoring!
 
 18240:
-Roachburn家只有我能胜任。
+If you're looking to hire a Roachburn, I'm the only Roachburn for the job!
+
+18720:
+I'd have made love with your mother, but I didn't have the exact change!
 
 19200:
-我做错什么了？
+The indecisiveness of the incompetent!
 
 19680:
-等我干掉你，小东西，我要把你的头架在火堆上。那里看湖风景不错，你会喜欢的。
+Since you're paying me a good buck, I'll tell you few tales...
 
 20160:
 去给你的人寿险增加上限吧，现在正是时候。
@@ -119,7 +122,7 @@ Roachburn家只有我能胜任。
 他们怎么不按照老样子造这玩样了。
 
 21120:
-在维和部队，这可不容易。
+Apparently... word hasn't gotten around yet. You made the only offer.
 
 21600:
 别拿我的孩子跟我比。日，我都不知道他们是不是我亲生的。孩子他妈在马车里长大，还是辆大篷车！
@@ -128,7 +131,7 @@ Roachburn家只有我能胜任。
 回归的感觉真好！我真不该退休。
 
 22560:
-你他妈在干吗？！
+Orders like that ain't confidence builders.
 
 23040:
 上次你这么干的时候，我浑身起鸡皮疙瘩！
@@ -142,50 +145,62 @@ Roachburn家只有我能胜任。
 24480:
 Sam和我至少年轻了30岁。
 
+25920:
+What do you figure? I'm gonna take a check for the difference? Come on! I wasn't born yesterday. I got back taxes to take care of... What would you do?
+
 26400:
-风水轮流转！
+等我干掉你，小东西，我要把你的头架在火堆上。那里看湖风景不错，你会喜欢的。
+
+26880:
+God... I hope it passes soon!
 
 27360:
 王八羔子……
 
+27840:
+I man has gotta have his pride, you know.
+
 28320:
-不管是谁试图在这个地方安置诡雷，都没有很好地掩饰他们的踪迹。
+It's combat time!
 
 28800:
-Colonel Roachburn卷土重来。
+It may look peaceful, but it won't last!
 
 29760:
-小东西，尝尝这个！
+Now would be an excellent time to raise the payout on your life insurance!
+
+30240:
+You're just a kid, aren't ya?
 
 30720:
-听好！在这么奇怪的场合，遇到的这些家伙就像我的家人。
+What I do wrong?!
 
 31200:
-老家伙，还不赖！
+Platoon annihilated!
 
 31680:
 要是他们还想再对我们的装备下手，最好找别的门道。
 
 32160:
-Roachburn家只有我能胜任。
+There was a time when I thought we could work this out, but you're just a lot of smoke!
 
 32640:
 来啊！！！
 
 33120:
-啊……就像以前那样……真是值得纪念的时刻！
+It was good to get back into the swing of things. I'd probably be up to doing it again, if you needed me.
 
 33600:
 风水轮流转！
 
 34080:
-上帝啊……赶快结束吧！
+Don't hold back.
 
 34560:
 Colonel Roachburn卷土重来。
 
 35040:
-我得哄着他点，你懂吧。
+I can't believe the response.
 
 35520:
 这些东西和以前不大一样了。
@@ -194,10 +209,23 @@ Colonel Roachburn卷土重来。
 看起来很平静，不过平静不了多久了！
 
 36480:
-看起来很平静，不过平静不了多久了！
+Whoever attempted to boobytrap this area did a pitiful job at covering their tracks!
 
 36960:
 我感到虚弱……没力……游不动了……
 
 37440:
 真是属于我的一天……
+
+39840:
+What do you think you are? Family?
+
+40320:
+What do you think you are? Family?
+
+42720:
+I can't stand being around my kids. They all drive me nuts! Do something about it, or I will.
+
+43200:
+I can't stand being around my kids. They all drive me nuts! Do something about it, or I will.
+

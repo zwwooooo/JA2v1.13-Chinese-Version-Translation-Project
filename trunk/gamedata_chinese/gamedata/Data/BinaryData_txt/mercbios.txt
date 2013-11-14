@@ -14,7 +14,7 @@ RazorÊ¹ÓÃµ¶×ÓµÄÄÜÁ¦ºÍÊÖ¶ÎÈÃËûÃâÓÚ±»³Æ×÷¡°ÍÀ·ò¡±¡£±ðÈËÎÊËûÎªÊ²Ã´ÄþÔ¸Ö»´øÒ»°Ñµ¶¶ø²
 Florence GabrielÊÇÒ»¸öÆÏÌÑÔ°¹¤µÄÅ®¶ù£¬ËýÔÚ·¨¹ú¿ÂÄÉ¿ËÊÐ£¨×¢£º·¨¹úÖøÃûÆÏÌÑ¾Æ²úµØ£©¶É¹ýÁËÍ¯Äê¡£ºóÀ´Ëý°á¼ÒÈ¥ÁËÃÀ¹úÆ¥×È±¤¡£¶¨¾Óµ½ÃÀ¹úÖ®ºó£¬ËýÎªÒ»¸ö¾ü»ðÉÌ×ö¹ý¼ÇÕÊÔ±¡£ÔÚÄÇÀï£¬ËýÑ§µ½ÁËÏàµ±¶à¹ØÓÚÇáÎäÆ÷µÄÖªÊ¶¡£FLOËäÈ»ÓÐÐ©ÓÅÈá¹Ñ¶Ï£¬µ«ËýÊ®·Ö´ÏÃ÷£¬ÓÐ×ÅÈÃÈËÎÞ·¨¾Ü¾øµÄµÍ¼ÛÓ¶½ð¡£
 
 5600:
-Tim HillmanÊÇÒ»¸ö¼«ÓÐ²ÅÆøµÄ±¬ÆÆ×¨¼Ò£¬ÔÚ¸É»îÊ±´Ó²»·¸´í¡£µ«ÊÇ£¬Èç¹û²»ÊÇÒòÎª¼¸´ÎÑÏÖØÓÇÓô²¡Ö¢µÄ·¢×÷£¨Õâ¿ÉÄÜÊÇÒòÎªËû³ÖÐø²»¶Ï±©Â¶ÔÚµç´Å³¡·øÉäÏÂ¡­¡­£©TimÓ¦¸Ã»¹ÔÚ¹þ·ð´óÑ§¼ÌÐøËûµç´ÅÁìÓòÄÚµÄË¶Ê¿ÑÐ¾¿¿ÎÌâ¡£ 
+Tim HillmanÊÇÒ»¸ö¼«ÓÐ²ÅÆøµÄ±¬ÆÆ×¨¼Ò£¬ÔÚ¸É»îÊ±´Ó²»·¸´í¡£µ«ÊÇ£¬Èç¹û²»ÊÇÒòÎª¼¸´ÎÑÏÖØÓÇÓô²¡Ö¢µÄ·¢×÷£¨Õâ¿ÉÄÜÊÇÒòÎªËû³ÖÐø²»¶Ï±©Â¶ÔÚµç´Å³¡·øÉäÏÂ¡­¡­£©TimÓ¦¸Ã»¹ÔÚ¹þ·ð´óÑ§¼ÌÐøËûµç´ÅÁìÓòÄÚµÄË¶Ê¿ÑÐ¾¿¿ÎÌâ¡£
 
 6720:
 ²»¿É·ñÈÏ£¬LarryÓÐ×ÅÀÄÓÃÒ©ÎïµÄ¶ñÏ°ÇÒ¶à´Î½ä¶¾Î´¹û¡£×î½ü£¬Roachburn»¨ÁË6¸öÔÂµÄÊ±¼äÈ¥Ò»¼ÒÒ»Á÷µÄ¿µ¸´ÖÐÐÄ½øÐÐÇ¿»¯ÖÎÁÆ¡£Ëû³É¹¦µÄÍê³ÉÁËÕû¸öÁÆ³Ì¡£Larry RoachburnÐû³Æ£¬ËûÒÑ¾­ÍêÈ«¿µ¸´£¬¶øÇÒ×¼±¸ºÃÁË¿ªÊ¼¹¤×÷¡£
@@ -75,3 +75,4 @@ GastonÔÚÁè³¿Ê±¹¤×÷±íÏÖ×îºÃ£¬Ëû»¹Ïàµ±ÉÆÓÚ´Ó¾Ó¸ßÁÙÏÂµÄÓÐÀûÎ»ÖÃ¾Ñ»÷¡£
 
 14240:
 Çë¹ÍÓ¶Stogie£¬ÎÒÃÇ²»ÏëÊ§È¥Ëû¡£
+

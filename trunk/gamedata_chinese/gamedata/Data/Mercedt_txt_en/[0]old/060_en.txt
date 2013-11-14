@@ -1,0 +1,201 @@
+0:
+See them.
+
+480:
+It is enemy. We must attack.
+
+960:
+Good. We will all die together.
+
+1440:
+Land squid!
+
+1920:
+I hear of this creature called squid. It looks like what I remember.
+
+2400:
+The land squid have visited.
+
+2880:
+Who make that noise?
+
+3360:
+<sniff> It smell of land squid. It do not bathe.
+
+3840:
+Must be ready. Trouble coming.
+
+4320:
+Land squid come here, I think.
+
+4800:
+Land squid everywhere!
+
+5280:
+Here.
+
+5760:
+There.
+
+6240:
+No bullets.
+
+6720:
+I drown in blood... my blood.
+
+7200:
+Miguel die? I have no leader.
+
+7680:
+Carlos was brave soldier.
+
+8640:
+I forget what I do.
+
+9120:
+Bullet sticks.
+
+9600:
+I trapped.
+
+10080:
+What happen? Where I be?
+
+10560:
+Not time, I guess.
+
+11040:
+I no see it good.
+
+11520:
+I have cut. Deep cut.
+
+12000:
+Must sleep. Eyes close.
+
+12480:
+Must stop.
+
+12960:
+Goodbye.
+
+13440:
+Fried squid.
+
+14880:
+I no like Stephen. He make me nervous.
+
+15840:
+Most colorful.
+
+16320:
+I forget. I forget, again.
+
+16800:
+Okay, I ready.
+
+17280:
+No! I no want.
+
+17760:
+Is great day for Arulco. I am hero!
+
+18240:
+I kill egg machine. I am hero!
+
+18720:
+Stupid, stupid, stupid.
+
+19200:
+I miss my sister. I am not happy here.
+
+19680:
+I do not like this person.
+
+20160:
+Planes!
+
+20640:
+I get garbage. All the time, garbage.
+
+22080:
+I make proud.
+
+22560:
+Why not?
+
+23040:
+I do not know what happen.
+
+24480:
+Miguel is best.
+
+24960:
+Carlos is good soldier.
+
+26880:
+Fire in eye! No see!
+
+27360:
+Not easy. I cannot do.
+
+27840:
+I like this person.
+
+28320:
+Soldiers be here.
+
+28800:
+Must watch out. All soldiers are not dead.
+
+29280:
+I keep this for me...
+
+30240:
+Are we not looking for that boy, Joe?
+
+30720:
+I go back to Omerta. Be guard again.
+
+31200:
+Ha! Ha! All enemies be dead here.
+
+31680:
+I no think everything be here.
+
+32160:
+I no like her. People here no like her. I am hero now.
+
+32640:
+Ohhh.... Bloodcat!
+
+33120:
+You are good leader. I follow you anywhere. Guard any door you want... Thank you, you make my country safe again.
+
+33600:
+It is quiet. Enemy gone away now.
+
+34080:
+I sleep now and tell you when I no sleep.
+
+34560:
+It work time now.
+
+35040:
+Me too.
+
+35520:
+I get this, it break. It no work.
+
+36000:
+Ohhh... there is danger.
+
+36480:
+No go there. It be bad place.
+
+36960:
+I... drown... tired too... much.
+
+37440:
+I there. What I do?
+

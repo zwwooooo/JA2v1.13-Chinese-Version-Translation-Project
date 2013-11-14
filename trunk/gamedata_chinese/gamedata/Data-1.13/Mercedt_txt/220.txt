@@ -115,6 +115,12 @@
 20640:
 我拿到手时它就坏了。
 
+21120:
+I'm union. I don't work for anything below scale, and if you find somebody who does, let me know - I'll teach them the error of their ways.
+
+21600:
+My lawyer says I have to burn all that mail I've failed to deliver and stashed in my town house. Uh, something about search warrant being excercised later today.
+
 22080:
 嗯...我想我能抽出时间来啦。
 
@@ -136,6 +142,9 @@ Reuban可能是这个星球上唯一一个我舍不得杀死的人。他是廉价劳动力。我们的国家是靠这
 26400:
 我的胡椒粉呢？
 
+26880:
+Someone's gonna have to answer for this!
+
 27360:
 人生不如意十之八九。
 
@@ -151,12 +160,20 @@ Reuban可能是这个星球上唯一一个我舍不得杀死的人。他是廉价劳动力。我们的国家是靠这
 29760:
 下一位！
 
+30240:
+Now we got to get all the way back.
+
+30720:
+Fired!!! I've never been fired! I worked for the post office for twenty-two years and I never missed more than a... month of work in any year!
+
 31200:
 个人来说，我以为事情这么顺利，我们得发点奖金了。
 
+31680:
+You gotta appreciate this. This is better than that old-age paycheck scam we were running, no signatures to forge or anything.
+
 32160:
-Next!
-下一位！
+I don't appreciate affordable labour being abused like that.
 
 32640:
 我的胡椒粉呢？
@@ -189,4 +206,5 @@ Next!
 我快不行了……都没个人能拉来垫背……
 
 37440:
-好好看看钟点！我可不加班。 
+好好看看钟点！我可不加班。
+

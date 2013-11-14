@@ -2,7 +2,7 @@
 伙计，对付这家伙我占先机了。
 
 480:
-伙计，这里有敌人！
+我在这发现了敌人，伙计！
 
 960:
 这地方爬满了那些家伙，伙计！
@@ -14,19 +14,19 @@
 伙计，对付这家伙我占先机了。
 
 2400:
-Bad news, boy...
+糟了，伙计...
 
 2880:
-This is not a good sign.
+这不是个好兆头。
 
 3360:
-Bad news, boy...
+糟了，伙计...
 
 3840:
-伙计，他们或许杀得了下士，不过他们现在要对付的是少校！
+这儿像个乱葬岗。
 
 4320:
-Bad news, boy...
+糟了，伙计...
 
 4800:
 这地方爬满了那些家伙，伙计！
@@ -50,7 +50,7 @@ Bad news, boy...
 枪卡得死死的！
 
 9600:
-Taking enemy fire, boy!
+受到了攻击，伙计！
 
 10080:
 我需要帮助，伙计！
@@ -74,13 +74,16 @@ Taking enemy fire, boy!
 我们能和这些小伙子说再见了！
 
 13440:
-Boy did we kick butt!
+我们发挥的很好，伙计！
+
+13920:
+听着，伙计！那个废物，Bernie Gloveless 或者我，只能选一个！
 
 15360:
-Gonna bag this fool, boy!
+我们灭了他们威风，伙计！
 
 15840:
-Ohh yeah!
+嗷，太棒了！
 
 16800:
 我久经沙场了，伙计！
@@ -89,10 +92,10 @@ Ohh yeah!
 伙计，我还是做不到！
 
 17760:
-We have come through with flying colors, boy!
+我久经沙场了，伙计！
 
 18240:
-我们灭了他们威风，伙计！
+我们发挥的很好，伙计！
 
 19200:
 我一点也不高兴，伙计！哪怕是我们是老朋友！
@@ -107,7 +110,7 @@ We have come through with flying colors, boy!
 我们得修修这玩样，伙计！它罢工了。
 
 21120:
-Can't handle it, doughboy?
+干不了，伙计。
 
 22080:
 你值得为自己骄傲，伙计！
@@ -118,17 +121,20 @@ Can't handle it, doughboy?
 23040:
 只要告诉我你想怎么办，伙计！
 
+23520:
+是那个变态Gloveless，伙计！
+
 24480:
 哦，爽歪了！！！
 
 25920:
-你得另找时间联系我了，伙计！
+听着，伙计，给我听好了。Spike Scallion记性好着呢，记着你的名字和脸了。我们的事情还早着呢！
 
 26400:
-I'm gonna get that son-of-a-bitch!
+我要干掉那个混蛋！
 
 26880:
-I'm takin' lead, boy!
+我需要导盲，伙计！
 
 27360:
 今天真是倒霉！平时，我用脚也能搞定这玩样。
@@ -143,10 +149,10 @@ I'm takin' lead, boy!
 伙计，我们得打发点人了！
 
 30720:
-It's getting about time to close things down, boy.
+是时候搞定这些事情了，伙计。
 
 31200:
-Mission accomplished, boy. Sector all clear!
+任务完成了，伙计。区域安全！
 
 32160:
 我们灭了他们威风，伙计！
@@ -158,13 +164,16 @@ Mission accomplished, boy. Sector all clear!
 摇香槟吧，伙计！我们现在只要把打扫战场回基地就行了。
 
 33600:
-Mission accomplished, boy. Sector all clear!
+任务完成了，伙计。区域安全！
 
 34080:
 失手了，伙计！
 
 34560:
 再来一个，伙计！
+
+35040:
+再给我一个，伙计！
 
 35520:
 这玩样钉得死死的，伙计。
@@ -173,7 +182,7 @@ Mission accomplished, boy. Sector all clear!
 这东西上有机关，伙计！我可能能把它卸了。
 
 36480:
-Take it one step at a time here, boys... Looks to me like they might have something planned or planted.
+慢慢来，伙计...在我看来他们一定布置或计划了什么。
 
 36960:
 我在水里浮不了多久，伙计！
@@ -198,6 +207,9 @@ Take it one step at a time here, boys... Looks to me like they might have someth
 
 40800:
 等你弄到钱了，伙计，你再回来见我！
+
+41280:
+你要与Bernie Gloveless保持距离，伙计。我相当了解他。
 
 42720:
 伙计，你要搞清楚，找活干对我可不是难事。
@@ -226,6 +238,9 @@ Take it one step at a time here, boys... Looks to me like they might have someth
 47520:
 你真矬，伙计！我要走了，希望别人不会恰好记得我跟你干过。
 
+48000:
+Oh, yeah. 不用排队被Bernie检查喽！
+
 49440:
 我对你的行事方法有意见，伙计！不过我有段日子没见过Len了，所以还不想和你拆伙。
 
@@ -233,19 +248,19 @@ Take it one step at a time here, boys... Looks to me like they might have someth
 就像我跟你说过的……
 
 51360:
-Let me clear the fog ? for ya here... boy! A mercenary is a soldier who works for money! ? We got to know for sure we're gettin' paid before we take an assignment!
+这可不现实，伙计！
 
 51840:
 Spike Scallion就是我！给人钻洞是我的长项，伙计！
 
 52320:
-You guys trying to go somewhere without me?
+哦……伙计！你是不是从没被人逼过啊！
 
 52800:
 怎么样，伙计？
 
 53280:
-It's good to hear from ya!. But, you'll have to show me what you're made of, boy, if I'm going to think about working for you!
+合作愉快，伙计！
 
 53760:
 事情差不多该结束了，伙计。
@@ -255,3 +270,4 @@ It's good to hear from ya!. But, you'll have to show me what you're made of, boy
 
 55680:
 这下解决一切问题了，伙计！
+

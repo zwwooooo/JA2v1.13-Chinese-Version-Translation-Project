@@ -1,0 +1,72 @@
+0:
+We got us company! Say, you ain't related, are ya? I'd recognize my kin. Name's Daryl Hick, and don't ya be trying nothing.
+
+480:
+Ya ferget somethin'?
+
+960:
+Never found it wise to be friendly with strangers. And if you ain't family, you's a stranger.
+
+1440:
+Family is the most important thing to a man. I take care of them, and they take care of me. You remember that.
+
+1920:
+Nope. Nuthin' I need.
+
+2400:
+I told my family, I said, "This war will pass, and we'll all make it through just fine." Made 'em feel better. Now don't you go riling them up any.
+
+2880:
+Hold on, there. You be starting anything with me, you be dealing with the family. You remember that.
+
+3360:
+No, I got to stay here with the family. They'd be lost without me.
+
+3840:
+Damn it! This stings!
+
+4320:
+Well, I got me things to do. Imagine you do, too.
+
+4800:
+Well, that's better. Where was ya when I got that nasty infection?
+
+5280:
+That's it! Get 'em boys!
+
+5760:
+Lookit! I ain't gettin' dragged into yer fight. You take care of it first!
+
+6240:
+Hell and tarnation!
+
+6720:
+Well, I'll be! I haven't seen me any of this since the Queen cut off our assistance program! I mean, she made up fer it in other ways, don't be getting me wrong.
+
+7200:
+Yous are welcome to visit, just don't be nosin' around, starting any trouble, and for God sakes, stay off the cows. I been having problems with a few of the boys, ya see.
+
+7680:
+Look, I'm not partial to being pushed around. Think you got guns? Think you got bullets? Well, let me tell ya, I got me guns, too. And you be seeing them right close soon, unless you find some manners.
+
+8160:
+You's a cute lookin' one. Got nice teeth and all. You wouldn't be interested in relocatin', would ya? Move to Arulco and become kin. Got me more boys than I got cows.
+
+8640:
+Course, even if I had more cows, can't be makin' kin, now can they? Give you the pick of the bunch. You can marry the boy that catches your fancy...
+
+9120:
+Damn it. I divorce the wife and marry you myself if you's interested. Woman's back been on the fritz for darn near ten years anyways. So, what say, honeypie? Yous want to be a Hick?
+
+9600:
+Heehaw! We's done bagged ourselves a live one, boys. Give ya every gun in my collection for this pretty thing. Yous just head on over there and help yourself. Gots me a shed full of 'em.
+
+10080:
+Wantcha to bring this pretty-teethed girl on up to the chapel, Darrel, before she changes her mind. Don't wantcha touching her none, though. And you don't go mooing for him either there, pretty teeth.
+
+10560:
+Why ain't that a shame. I was looking kinda forward to seeing those pretty teeth of yours at the family meals. Well okay, but if you know of any other pretty-teethed woman hungry for a man, yous send 'em over to see me.
+
+11040:
+Ya know, I wouldn't mind talking to the girl over there with the pretty teeth.
+

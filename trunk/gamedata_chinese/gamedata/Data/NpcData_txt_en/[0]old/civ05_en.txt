@@ -1,0 +1,45 @@
+0:
+Thank you for gettin' rid of spiders.
+
+320:
+I sleep good. It is because you kill all the bugs.
+
+640:
+No more spiders. Thank you.
+
+960:
+I no see bugs anymore.
+
+1280:
+You killed bugs. We are happy.
+
+1600:
+You number one bug killer.
+
+1920:
+It is much better without ugly spiders.
+
+2240:
+We are safe from big insects. Thank you, soldier.
+
+2560:
+If you no here, the bugs would eat everybody.
+
+2880:
+I hope I never see those monsters again.
+
+3200:
+I hate bugs. I happy they all dead.
+
+3520:
+You scare away monsters.
+
+3840:
+You're tough. Even monster spiders are scared of you.
+
+4160:
+Those spiders will not come back with you here.
+
+4480:
+No more monsters. We're okay now.
+

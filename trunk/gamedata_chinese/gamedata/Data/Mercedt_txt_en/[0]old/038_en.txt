@@ -1,0 +1,279 @@
+0:
+Target.
+
+480:
+It's time to spring into action.
+
+960:
+This isn't going smoothly! I need help!
+
+1440:
+Copepods!
+
+1920:
+Oh my God! That's... well, phylum Arthropoda, class Crustacea, but... what are they? Krill? Brine shrimp? Copepods? Jesus, I think they ARE Copepods... only a few thousand times their usual size!
+
+2400:
+If I had to venture a guess, I'd say this was evidence of a copepod attack. Something you usually only see through a microscope.
+
+2880:
+What was that? I just heard a noise.
+
+3360:
+<sniff> Decomposition... bile... those Copepods are the only creatures large enough to create a stink this fetid.
+
+3840:
+If instinct counts for anything, we're stepping into something bad.
+
+4320:
+Wish I had some huge plankton-eating fish with me to keep those Copepods away.
+
+4800:
+They're all around me! What the hell do I do?
+
+5280:
+Could be important.
+
+5760:
+Let's see that.
+
+6240:
+Oh shoot, no ammo.
+
+6720:
+I don't... want to die... in this hellhole.
+
+8160:
+Danny, you made meatball surgery look like... poetry in motion. If I could only be half as good as you were. I really wish it hadn't been you...
+
+8640:
+Sorry, I'm drawing a blank. What do I do again?
+
+9120:
+It's jammed, my gun is jammed. Perfect.
+
+9600:
+This is looking bad!
+
+10080:
+They never mentioned that in the brochure.
+
+10560:
+I'm... sure... it wasn't as close as it looked.
+
+11040:
+Doubt I can make that from here.
+
+11520:
+Uh, need some time to stop the bleeding.
+
+12000:
+I gotta sleep. I didn't do these kind of hours even when I was an intern.
+
+12480:
+I'm all out of breath.
+
+12960:
+One for our side.
+
+13440:
+Tag 'em and bag 'em.
+
+15360:
+Mike was the most revered man in all of AIM. I can't believe I killed him. Me!
+
+15840:
+That's the most horrible thing I've ever seen.
+
+16320:
+The heat in this place is driving me crazy. And the humidity is unbelievable.
+
+16800:
+Looking for something to do.
+
+17280:
+I won't do that. I'm sorry, but... no.
+
+17760:
+I guess there's a little bit of Kevorkian in all of us!
+
+18240:
+Whaddaya know? I'm macho! Officially, macho!
+
+18720:
+What a putz.
+
+19200:
+This is nothing like I imagined it would be. I thought it'd be, y'know, bearable.
+
+19680:
+These macho freaks were amusing to be around for, like, the first ten minutes.
+
+20160:
+Planes, coming in!
+
+20640:
+There's only so much I can do with equipment like this. And it ain't much.
+
+21120:
+I gotta keep believing there's a light at the end of this tunnel.
+
+22080:
+I may make a career out of this after all.
+
+22560:
+For what it's worth, I don't think that has a chance of working.
+
+23040:
+I knew that would never work.
+
+25440:
+See, I had a good feeling about Danny, and I was right!
+
+25920:
+I might be willing, but let's wait a little longer to see how well this works out. Nothing personal, just being cautious.
+
+26400:
+Is that Mike? Oh my God, it is!
+
+26880:
+Oh my God! I've lost the benefit of sight.
+
+27360:
+I wish I could do this, but it doesn't seem likely.
+
+27840:
+You can run into some rather interesting people down here.
+
+28320:
+The enemy is present in the area.
+
+28800:
+We should be mindful of the ones that are still nearby.
+
+29280:
+All right! I've never found anything this valuable.
+
+30240:
+I think we found the runaway teenager.
+
+30720:
+We are pleased to come to your aid, Miguel. The situation certainly requires our intensive care.
+
+31200:
+Whaddaya know! They're all dead!
+
+31680:
+If I recall correctly, we ordered more than this...
+
+32160:
+I'm supposed to save lives, not take them... and in this case, I believe we saved a great many. She got the medicine she deserved.
+
+32640:
+Tranquilizer time!
+
+33120:
+Well, whaddya know! We did it! Wow, I learned more here than I did in the emergency room, trauma and ICU combined... and I owe it all to you. Look, you need any surgery, call me, and I'll do it for free.
+
+33600:
+The enemies have gone into remission. We're alone.
+
+34080:
+These intern hours are killing me. I'll take a rest and be up for the next shift.
+
+34560:
+It was exactly what the doctor ordered. I'm back on the job.
+
+35040:
+Yes, me too.
+
+35520:
+Great. This stuff breaks more often than collar bones.
+
+36000:
+Careful, careful. This is trapped.
+
+36480:
+I would urge extreme caution. That looks suspect to me.
+
+36960:
+Someone.... save my ass... STAT!
+
+37440:
+I'm on site. Where do I go from here...
+
+38400:
+Oh, I've heard about the way you run things. I don't think I'm up for that kind of grief. At least not this early in my career.
+
+38880:
+I'm not your man. I want to get more experience but with your survival rate, I'll never get the chance to put that experience to use.
+
+39360:
+I'm really sorry. My research paper's being published in Lancet, and I want to be around for the publicity.
+
+39840:
+Oh, I can't. I'm assisting in a combination heart and lung transplant at Mount Sinai, a once-in-a-lifetime opportunity.
+
+40320:
+This is Michael Dawson, M.D. I'm probably seeing patients right now, so if you leave a message, I'll call you right back. Thanks.
+
+40800:
+This was great. I learned a lot. Thanks for giving me a chance.
+
+42720:
+I'll tell ya, my time's just about over. Can I convince you to extend my contract?
+
+43200:
+Great. This is working out just the way I'd hoped.
+
+43680:
+You got it. I'll be there with bells on.
+
+45120:
+Are you kidding? I'd give my right arm to see Danny in action. He's incredible. So yeah, in spite of your... I mean, yeah!
+
+45600:
+I'm sorry. After what we've been through, I'm thinking I may not be cut out for this kind of work. I'm going to have to do some soul-searching for a while.
+
+46080:
+Listen carefully...
+
+46560:
+Apparently, I'm beyond your means.
+
+47040:
+Was it something I said? Something I did? Or didn't do? Never mind, you don't owe me any explanations. I'll go.
+
+47520:
+I'm not your man. I want to get more experience, but with your survival rate, I'll never get the chance to put that experience to use.
+
+50400:
+Are you kidding? I'd give my right arm to see Danny in action. He's incredible. So yeah, in spite of your... I mean, yeah.
+
+50880:
+Listen carefully...
+
+51360:
+Apparently, I'm beyond your means.
+
+51840:
+Michael Dawson, MD.
+
+52320:
+I know I'm a little green as far as field work, but just put a scalpel in my hand and watch my smoke.
+
+52800:
+I'm waiting.
+
+53280:
+How long a contract is this going to be?
+
+53760:
+Fine. If you don't know what you want, don't waste my time.
+
+55200:
+Been thinking, you know, my time's just about up here.
+
+55680:
+Nothing personal, but I was thinking that since my skills have improved, a raise in my fees might just be appropriate.
+

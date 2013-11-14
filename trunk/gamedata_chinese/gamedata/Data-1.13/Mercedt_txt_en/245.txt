@@ -1,0 +1,297 @@
+0:
+Enemy soldier present.
+
+480:
+I've crept into an enemy.
+
+960:
+Enemy soldiers!
+
+1440:
+That's disgusting.
+
+1920:
+It looks dangerous.
+
+2400:
+How could this happen?
+
+2880:
+What's the deal again?
+
+3360:
+The atmosphere here is gloomy.
+
+3840:
+They're telling some pretty funny stories about you around here!
+
+4320:
+I'm not scared! You think being a mime is easy?
+
+4800:
+Margaret!
+
+5280:
+Caught a glimpse of something.
+
+5760:
+Oh, look!
+
+6240:
+Need ammunition urgently.
+
+6720:
+It feels like I'm... I'm on my last breath...
+
+7200:
+How could this happen? I just moved into Margaret's place. Is she really dead?
+
+8640:
+What's the deal again?
+
+9120:
+When I pull the trigger nothing happens!
+
+9600:
+I'm a target!
+
+10080:
+Take five?
+
+10560:
+They aren't kidding!
+
+11040:
+It will be tricky.
+
+11520:
+This is real blood I'm spilling.
+
+12000:
+Right now I just want to live through the day.
+
+12480:
+Take five?
+
+12960:
+Good show!
+
+13440:
+Good show!
+
+13920:
+Fox is a whore. A cheap whore with wondering eyes, who should be killed slowly with deliberate pain and plenty of suffering. I'm so excited!
+
+15360:
+I'm sorry...
+
+15840:
+That's disgusting.
+
+16320:
+The atmosphere here is gloomy.
+
+16800:
+Our goal has been accomplished.
+
+17280:
+I won't do that.
+
+17760:
+Good show! She's gone.
+
+18240:
+Right now? I'm just grateful to be alive.
+
+18720:
+It's quite apparent that you and I will never reach a compromise.
+
+19200:
+Despite our best intentions, we will not be able to complete our goal.
+
+19680:
+I passed around the hat far too many times in my previous career.
+
+20160:
+Margaret!
+
+20640:
+It's garbage.
+
+21120:
+Margaret said it would be non-stop action. Well this place has about as much action as most of the street corners I performed on.
+
+21600:
+I could move in right behind you and you'd never know it!
+
+22080:
+I acquired some battle experience. Perhaps it will lead to more work. Thank you.
+
+22560:
+I'm not convinced you know what you're doing.
+
+23040:
+I can't see how I can stay.
+
+23520:
+Oh look. It's that harlot Guzzman!
+
+24480:
+I know Margaret comes off as a bit of a hard shell, but she's really a pussycat once you get to know her.
+
+25920:
+I've been lucky enough to receive a number of offers. I'm soliciting a signing bonus from anyone who's interrested in employing me.
+
+26400:
+We're reaching the final stage.
+
+26880:
+Margaret!
+
+27360:
+I'm not strong enough.
+
+27840:
+Keep talking.
+
+28320:
+Right now? I just want to live through the day.
+
+28800:
+I'm just grateful to be alive.
+
+29280:
+Though my knowledge is limited, we appear to have made out like bandits on the deal.
+
+30240:
+Oh, look!
+
+30720:
+You must have been hard pressed to have asked me.
+
+31200:
+We've cancelled that troop's ticket.
+
+31680:
+My knowledge of these type of things is limited. However, there's no mistaking the fact that you were severely ripped off.
+
+32160:
+We were unable to reach any type of compromise.
+
+32640:
+It looks dangerous.
+
+33120:
+Despite some frightening moments it was really quite a thrill.
+
+33600:
+I never imagined being a mercenary would be this easy!
+
+34080:
+Give me a little while.
+
+34560:
+I just want to live through the day.
+
+35040:
+Keep talking.
+
+35520:
+It's garbage.
+
+36000:
+It looks dangerous.
+
+36480:
+I don't know much about booby traps, but those bumps in the ground sure look weird.
+
+36960:
+I can't go much longer! I'm going under!
+
+37440:
+I just got there.
+
+38400:
+I'm pretty new at this. I wouldn't be comfortable not knowing who I was going to be working with on any given day.
+
+38880:
+It's not possible. Working for you seems too dangerous at the moment.
+
+39360:
+And you may recall that we were unable to reach any type of compromise before, so there isn't much point in trying again.
+
+39840:
+Well, I didn't get shot at the party, but I did get Salmonella poisoning from undercooked barbacue. I won't be able to make it.
+
+40320:
+I'm performing at a birthday party. I don't get paid very well, but at least I know I won't get shot.
+
+40800:
+It's quite apparent that you and I will never reach a compromise.
+
+41280:
+I can't work with Fox. She's causing all kinds of trouble. It's only a question of time before somebody on the team pays a price for her behaviour.
+
+42720:
+Oh, I've forgot all about this dinner dance tonight being put on by the society of lesbian mimes.
+
+43200:
+You're offering the best package, so I'm joining with you.
+
+43680:
+I don't see why not. Sure, I'm in.
+
+44160:
+Working with Stella would be real special. Alright, I'll ignore my concerns about you for the chance.
+
+45600:
+The atmosphere here is gloomy. Nothing ever goes right and nothing gets done. When you're serious about completing a mission you can call me.
+
+46080:
+Would you like me to act it out for you? I said...
+
+46560:
+The way it was explained to me you have to have the cash on you.
+
+47040:
+I'm going to leave now and see if I can't hook up with a more stable assingment.
+
+47520:
+I'm new at this and too many of our people are getting killed. I'm not taking any more chances. I'm leaving.
+
+48000:
+I can't work with Fox. She's causing all kinds of trouble. It's only a question of time before somebody on the team pays a price for her behaviour.
+
+49440:
+Margaret and I are a team.
+
+50880:
+Would you like me to act it out for you? I said...
+
+51360:
+I'm sorry but you simply aren't offering the best package.
+
+51840:
+I am as quiet as a mouse... That is, after all, how I got my nickname.
+
+52320:
+Keep talking.
+
+52800:
+Why did you even ask me to come?
+
+53280:
+We might be able to work something out. Give me a little while to think about it.
+
+53760:
+I really don't think so. I'm not convinced you know what you're doing.
+
+54240:
+Fox, she's flaunting herself and making the situation unnecessarily dangerous for everybody.
+
+55200:
+Wow! Margaret said it wouldn't be too long before I saw action and made some money.
+
+55680:
+For the new girl in town I seem to be doing alright. A raise already!
+

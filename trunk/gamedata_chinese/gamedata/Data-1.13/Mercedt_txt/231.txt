@@ -17,13 +17,13 @@
 瘪三们！
 
 2880:
-小心……
+小心……地上有些痕迹。
 
 3360:
 瘪三们！
 
 3840:
-Carefull! I'm getting bad feelings about this spot.
+现在鸣枪庆祝肯定够给力。
 
 4320:
 把它弄回来就能完成任务了。
@@ -56,7 +56,7 @@ Carefull! I'm getting bad feelings about this spot.
 哥们儿……我快玩完了！
 
 10560:
-Got a dupe tryin' to take me out!
+知道为啥别人叫我Snake了不？
 
 11040:
 就算这是生死一击，我还是打不中的。
@@ -65,7 +65,7 @@ Got a dupe tryin' to take me out!
 我被打缺了一块！
 
 12000:
-The heat was killing me anyway...
+兄弟……我快倒了！
 
 12480:
 哥们儿……我快玩完了！
@@ -79,23 +79,17 @@ The heat was killing me anyway...
 15360:
 手到擒来！
 
-15840:
-Didn't miss by much!
-
 16800:
 这就是人们所说的“好差事”！
 
 17280:
-没门！
+你可以取消这次行动了。
 
 17760:
-That ought to silence the doubters.
+手到擒来！
 
 18240:
 二愣子！
-
-18720:
-You're a chiseller...
 
 19200:
 菜鸟……说到底，还是愣头菜鸟！
@@ -108,6 +102,9 @@ You're a chiseller...
 
 20640:
 借口说装备不好可不行……这装备根本没有任何用嘛！
+
+21120:
+干得好！
 
 22080:
 嘘，嘘……蠢货！
@@ -122,43 +119,37 @@ You're a chiseller...
 Iceman不愧是我兄弟！
 
 25920:
-No! You really pissed me off!
+谁有意见，站出来受死。
 
 26400:
-I'm gonna fix ya, scumbucket!
+就这二货还想收拾我！
 
 27360:
 我不可能样样精通啊。
-
-27840:
-You're pissin' me off!
 
 28320:
 我能从他们背后游过去。
 
 28800:
-Remember to keep your head up and your eyes open out there!
+现在鸣枪庆祝肯定够给力。
 
 29760:
 人渣！
-
-30720:
-They're gonna be sorry!
 
 31200:
 现在鸣枪庆祝肯定够给力。
 
 32160:
-That ought to silence the doubters.
-
-32640:
 二愣子！
 
+32640:
+瘪三们！
+
 33120:
-It's the right thing to do!
+我们解决了这一堆了！
 
 33600:
-I think we just begged ourselfes another sector.
+我们解决了这一堆了！
 
 34080:
 哥们儿……我快玩完了！
@@ -167,13 +158,13 @@ I think we just begged ourselfes another sector.
 大获全胜！
 
 35520:
-This is a poor excuse for equipment... It doesn't even work!
+我要好好修理你，人渣！
 
 36000:
 这玩意上绑着个雷管！
 
 36480:
-Careful... Chunks of topsoil are missing.
+这玩意上绑着个雷管！
 
 36960:
 喝了好多水……需要帮助……快……
@@ -209,7 +200,7 @@ Careful... Chunks of topsoil are missing.
 算我一个！
 
 44160:
-Hey, if you're good enough for the Iceman... You're good enough for me.
+不！我和Iceman是一伙的！你永远不该解雇他！
 
 45600:
 没几件事情能让我打包走人的，不过为一个废物工作就是其中之一！或许没了我，你反而玩得转了呢。
@@ -239,10 +230,10 @@ Hey, if you're good enough for the Iceman... You're good enough for me.
 相信我！我就是你要找的人！
 
 52320:
-Why do you think they call me Snake?
+不！你真把我惹火了！
 
 52800:
-I packed it in with the Iceman.
+记住要小心观察敌情！
 
 53280:
 这下我得承认自己没辙了！
@@ -250,8 +241,12 @@ I packed it in with the Iceman.
 53760:
 情况仍然不好，不过不用太焦虑。今后我们还有机会再碰面的。
 
+54240:
+嘿，如果Iceman觉得你没问题……我也一样。
+
 55200:
 慢着！现在知道事情不是你想的那样了吧！等着瞧！
 
 55680:
 我有兴趣……听到更好的待遇的兴趣。
+

@@ -1,0 +1,201 @@
+0:
+Seem one!
+
+480:
+I got a bad guy here. It's looking pretty easy to waste him.
+
+960:
+Bad guys closin' in!
+
+1440:
+Seem one!
+
+1920:
+What? I may be a mercenary, but I ain't crazy!
+
+2400:
+This place has kinda lost its charm, you know what I mean?
+
+2880:
+Watch out.
+
+3360:
+I smell victory. We got a real crack at winning this!
+
+3840:
+Watch out! I don't like the look of things around here.
+
+4320:
+They must have heard us coming!
+
+4800:
+Got bad guys, occupying my time!
+
+5280:
+I see something here.
+
+5760:
+I see something here.
+
+6240:
+Outta ammo!
+
+6720:
+I'm dying... I need a doctor, quick!
+
+8640:
+I'm not sure of myself.
+
+9120:
+My gun won't fire!
+
+9600:
+I'm being shot at!
+
+10080:
+I'm burned.
+
+10560:
+Lucky me.
+
+11040:
+It will be tough.
+
+11520:
+I think I'm bleeding.
+
+12000:
+I'm burned.
+
+12480:
+Aaah!
+
+12960:
+Batter up!
+
+13440:
+Batter up!
+
+15360:
+I figure you got screwed in the draft!
+
+15840:
+Good God!
+
+16320:
+I feel just like I'm sitting on the bench again.
+
+16800:
+Success!
+
+17280:
+I don't think so.
+
+17760:
+We did it!
+
+18240:
+I'm still having flashbacks! Sends a chill down my spine every time I remember it.
+
+18720:
+You just can't trust that guy. He'll take you any chance he gets!
+
+19200:
+You're not even trying to look good! You're an embarassment!
+
+19680:
+You change your team more often than I change my socks.
+
+20160:
+Good God!
+
+20640:
+I can't seem to get this thing working!
+
+21120:
+Major League team wants to give me another look! I just wish it wasn't the Cubs.
+
+21600:
+Yeah, I always wear a jock, it's a professional habit.
+
+22080:
+I'm sure you'll be happy with my potential. Everybody says I got a lot of potential.
+
+22560:
+We're gonna have to forfeit this mission.
+
+23040:
+We struck out!
+
+25920:
+You got money problems. You might wanna see if Reuban's available.
+
+26400:
+He's not messing around!
+
+26880:
+Taking fire! Taking fire!
+
+27360:
+I knew I wasn't the right guy to ask.
+
+27840:
+You like baseball? You catch the game last night?
+
+28320:
+When do we get to see your Major League stuff?!
+
+28800:
+If you're planning to use our overconfidence against us - we're prime!
+
+29760:
+This is the best thing that's happened to me in a long time!
+
+30240:
+You're outta here!
+
+30720:
+Don't worry. It's not a problem. I get sent down all the time.
+
+31200:
+That team's outta the game!
+
+31680:
+I kinda wish my agent was here.
+
+32160:
+We cleaned up this area pretty good!
+
+32640:
+Seem one!
+
+33120:
+We're the champions!
+
+33600:
+If they were all this easy, I'd give up baseball!
+
+34080:
+I'll let you know.
+
+34560:
+Were you guys planning on leaving me behind?
+
+35040:
+I thought I told you.
+
+35520:
+I can't seem to get this thing working!
+
+36000:
+I don't wanna touch it. It gives me the creeps.
+
+36480:
+Watch out! I don't like the looks of the ground!
+
+36960:
+I can't stay afloat much longer... No breath left...
+
+37440:
+I hope we didn't box ourselves in.
+

@@ -1,0 +1,195 @@
+0:
+Watch out! A bad person!
+
+480:
+This stranger does not see me.
+
+960:
+There's baddies!
+
+1440:
+It is unbelievable.
+
+1920:
+I really don't wanna touch you.
+
+2400:
+Everyone makes mistakes.
+
+2880:
+Something really weird is going on!
+
+3360:
+Something really weird is going on!
+
+3840:
+I'm gonna look for a safer place.
+
+4320:
+Oh, don't believe everything you read in the newspaper.
+
+4800:
+Staying alive is awfully hard around here!
+
+5280:
+I see something.
+
+5760:
+I see something.
+
+6240:
+More bullets, please!
+
+6720:
+Say... goodbye to all the kids for me... I'm not gonna make it.
+
+8640:
+I'm lost without instructions.
+
+9120:
+My gun won't fire!
+
+9600:
+I don't want to become... extinct.
+
+10080:
+I've been bopped.
+
+10560:
+Somebody's trying to hurt me!
+
+11040:
+I don't think I can make it.
+
+11520:
+I've been hurt!
+
+12000:
+I'm really pooped...
+
+12480:
+That hurts.
+
+12960:
+Sorry...
+
+13440:
+Sorry...
+
+15360:
+No more mister nice Dyno for you!
+
+15840:
+Oh no! Not again!
+
+16320:
+I'm having a bad day.
+
+16800:
+We're all tied up, boys and girls! We're gonna have to do it again.
+
+17280:
+I'm stopping this, before I lose more self-esteem.
+
+17760:
+You deserve to be punished!
+
+18240:
+It was alright! But I still want my old job back.
+
+18720:
+I should stick up for myself more often.
+
+19200:
+Maybe I can find a job as a team mascot...
+
+19680:
+I hear the Pirates are looking for a new mascot.
+
+20160:
+I'm gonna look for a safer place.
+
+20640:
+I think it's broken.
+
+21120:
+I can't believe those idiots replaced me with a woman! Those kids were lying. Kids do lie, you know. Especially that short, little, fat kid.
+
+21600:
+Those idiot producers are going to change their mind, and hire me back! I just know it! My replacement won't be able to have the job.
+
+22080:
+I'd say my greatest asset is my trustworthiness... I hope that's helpful.
+
+22560:
+I'm too scared to get fired again.
+
+23040:
+We'll never be able to do the job now.
+
+25920:
+You need help with your counting! You do not have enough money.
+
+26400:
+You're a one bad apple!
+
+26880:
+That hurts.
+
+27360:
+I thought I could make it.
+
+27840:
+I'll have to get back in touch with you.
+
+28320:
+Be alert! Remember the rules of safety, when walking through this area.
+
+28800:
+This is fun! I just love hide-and-go-seek!
+
+29760:
+Bigger numbers!
+
+30240:
+I think you should go stand in the corner, young man.
+
+30720:
+Well, ok. I have to expect getting fired sooner or later.
+
+31200:
+Wow! That wasn't too bad.
+
+31680:
+I think he made a lot of money of us.
+
+32160:
+A woman! I was replaced by a woman, wasn't I?
+
+32640:
+Here goes!
+
+33120:
+It is unbelievable! I went from nothing to all these people looking to hire me. Well, you have to know it's gonna cost you more.
+
+33600:
+If it was always as peaceful as this - I wouldn't mind this job.
+
+35040:
+For sure.
+
+35520:
+I think it's broken.
+
+36000:
+We should be real careful getting this, we don't want anything to go wrong.
+
+36480:
+Remember the rules of safety.
+
+36960:
+I'm drowning!
+
+37440:
+I'm lost without instructions.
+

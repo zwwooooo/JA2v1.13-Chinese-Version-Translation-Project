@@ -1,0 +1,291 @@
+0:
+Enemy agent.
+
+480:
+Let's show them what we are made of!
+
+960:
+I'm up to my neck in hot water!
+
+1440:
+Look, another cuddly creature!
+
+1920:
+Aww, isn't he cuddly? I wonder if they can be domesticated. Probably not.
+
+2400:
+Ach, the delightful little monsters were frolicking here.
+
+2880:
+I'm hearing weird noises, ja.
+
+3360:
+I think those adorable little creatures were doing their business here. The aroma is very rich.
+
+3840:
+Things are too quiet here. I believe nothing is as it seems.
+
+4320:
+We should take pains to avoid the cuddly creatures until we have the proper equipment: a leash and muzzle. And maybe something for them to chew on.
+
+4800:
+I love their natural aggression, but I am having trouble getting them under control!
+
+5280:
+Should take a closer look.
+
+5760:
+Finders keepers.
+
+6240:
+My gun is without bullets.
+
+6720:
+Get medical attention or put me out of my misery, but don't leave me here to suffer with these wounds!
+
+7200:
+But... Ivan was my mentor! He taught me the ins and outs of the mercenary life. He taught me how to kill with grace and endurance.
+
+8160:
+Buns, watching you kill was like watching a beautiful dance of death. Had you lived, I would have made you the happiest mercenary on earth.
+
+8640:
+I was enjoying my thoughts and...now I am without any.
+
+9120:
+This traitorous gun didn't fire as requested.
+
+9600:
+They're going ballistic on me!
+
+10080:
+Ho hum. I give that a three on the skirmish scale.
+
+10560:
+Nothing is as reaffirming as a close one.
+
+11040:
+Who do I look like, Siegfried and Roy?
+
+11520:
+No cause for alarm! However, parts of me are bleeding.
+
+12000:
+I must sleep. And I will not take nein for an answer.
+
+12480:
+At this pace, I will lose consciousness.
+
+12960:
+That... is a dead enemy.
+
+13440:
+My small part to control the pet population.
+
+15360:
+Since Mike was the top merc, and I killed Mike, does this not make me the new top Merc? I believe so!
+
+15840:
+What a spectacular way to die.
+
+16800:
+My task is done.
+
+17280:
+Nein. I cannot accept that order.
+
+17760:
+My mother would be so proud of me!
+
+18240:
+I have never doomed a race to extinction before! Lynx told me it was a special thrill.
+
+18720:
+That lummox is not even fit to polish my brass.
+
+19200:
+I have endured assassins, wild animals, and an entire Barry Manilow album, but I am losing patience with this C.O. of ours!
+
+19680:
+These are not the most disreputable, unsavory people I have ever worked with. I did do three semesters of law school.
+
+20160:
+Red alert! Aerial bombardment!
+
+20640:
+Tell me this equipment is meant merely as a test of my ability to operate under adverse conditions.
+
+21120:
+The worst is behind us.
+
+21600:
+I am glad I am not a female mercenary. They are not treated very well.
+
+22080:
+There's always room to grow.
+
+22560:
+There must be another approach.
+
+23040:
+Perhaps you can learn something from this.
+
+24480:
+Ivan is the master. It is an honor to work with him.
+
+25440:
+Buns is an excellent warrior...and a stunning woman!
+
+25920:
+Right now, I'm uncertain as to the appeal of our arrangement.
+
+26400:
+I see Mike... working on the other side? This puts a not-so-amusing light on the situation.
+
+26880:
+Shoot! I have been blinded.
+
+27360:
+I really should find something else to do.
+
+27840:
+Imagine calling this country home.
+
+28320:
+There are enemies in the vicinity.
+
+28800:
+We failed to locate all of them. I would not go crazy.
+
+29280:
+I am elated. It should be gift wrapped.
+
+30240:
+I have spotted the kid. If Joey's mother so desires, I'll happily wallop his buttocks.
+
+30720:
+It is our duty to rid this country of her presence. You will find us eager and ready to help you.
+
+31200:
+Ja! The enemies are dead.
+
+31680:
+I am suspicious of this shipment. I believe we have been cheated.
+
+32160:
+I won't be losing any sleep over it.
+
+32640:
+Good pussy, ja...
+
+33120:
+I am most proud to call myself a teammate. The leadership, excitement and adventure were all that I could ask for. I will be sad for this parting.
+
+33600:
+Ja, the enemies have left the sector. The wimps.
+
+34080:
+I will sleep now and work even harder when I wake.
+
+34560:
+Exactly what I needed. Back to the task at hand!
+
+35040:
+Ja, me too.
+
+35520:
+Broken! My patience is being tested.
+
+36000:
+Halt! Got a trap here.
+
+36480:
+Hmm. The ground looks unnatural.
+
+36960:
+Help! Drown... ing... ja....
+
+37440:
+Ja, I am here now.
+
+38400:
+Not you! I don't like listening to gossip, but there appears to be a consensus that you are not really much of a commander.
+
+38880:
+Not with you! You go through good soldiers as if they were a dime a dozen. I consider your proposition an unacceptable risk.
+
+39360:
+I cannot. I'm getting my pilot's license. You may congratulate me.
+
+39840:
+I cannot, I need to be in divorce court. Had you given me more notice I could have got a continuance or made whatever arrangements were necessary.
+
+40320:
+Ja, das ist Grunty, Helmut Grunther. I will return your call, but you must leave a message. Now.
+
+40800:
+Very well. It has been a delight to work for you.
+
+42720:
+It is fast approaching the end of our contract. I assume you wish to renew, ja?
+
+43200:
+You have chosen wisely.
+
+43680:
+Super.
+
+44160:
+I would gladly eat nails to work wherever Ivan is working. So, I am delighted to join. Please do not tell Nails what I just said or interpret any untoward.
+
+45120:
+I have a certain attraction to Buns Sonderguard. I think it is the endearing way she cocks her head to the side just before she blows a hole in an enemy's gut. Since she's with you, I am with you, too.
+
+45600:
+Nein, nothing to take personally, but I find your style irritating and amateurish. I don't think I'll ever work for you again.
+
+46080:
+Achtung! I told you...
+
+46560:
+You should have brought cash. Because I don't come cheap, and I don't take American Express.
+
+47040:
+You reveal your bad judgment. Very well, goodbye.
+
+47520:
+Not with you! You go through good soldiers as if they were a dime a dozen. I consider your proposition an unacceptable risk.
+
+49440:
+I would gladly eat nails to work wherever Ivan is working. So, I am delighted to join. And please do not tell Nails what I just said or interpret any untoward.
+
+50400:
+I have a certain attraction to Buns Sonderguard. I think it is the endearing way she cocks her head to the side just before she blows a hole in an enemy's gut. Since she's with you, I am with you, too.
+
+50880:
+Achtung! I told you...
+
+51360:
+You should have brought cash. Because I don't come cheap, and I don't take American Express.
+
+51840:
+Ja, das ist Grunty.
+
+52320:
+I'm sure you're aware of my record with A.I.M. If not, you should review it immediately.
+
+52800:
+Make it shnappy!
+
+53280:
+How long do you wish to engage my services?
+
+53760:
+Life is too short to sit around. Goodbye.
+
+55200:
+Ja, ist almost time for us to part company. My engagement is nearly over.
+
+55680:
+I am now worth a bit more with my experience, ja?
+
