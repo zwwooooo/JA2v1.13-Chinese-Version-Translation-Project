@@ -1,0 +1,318 @@
+0:
+Intruders.
+
+480:
+Ah, we have been joined.
+
+960:
+I need backup here!
+
+1440:
+One of those hideous insects.
+
+1920:
+Tell me that's not real. Tell me I'll wake up, and it will be gone.
+
+2400:
+Traces of that monster insect.
+
+2880:
+I definitely heard something.
+
+3360:
+The odor here, it's most distasteful.
+
+3840:
+My intuition says we're looking at conflict.
+
+4320:
+I don't know how I know but I believe there are insectoids here.
+
+4800:
+If these insectoids don't kill me first, they're going to make me insane!
+
+5280:
+Somebody left something behind.
+
+5760:
+Is that valuable?
+
+6240:
+I have to reload my firearm.
+
+6720:
+I have serious open wounds!
+
+8160:
+You can't die, Sidney. We're two of a kind. We have so much in common, and...I wanted us to die together. Oh, Sidney...
+
+8640:
+I could swear that I've...wait, no, what's going on?
+
+9120:
+Cursed... gun... won't... fire.
+
+9600:
+Drawing heavy fire here!
+
+10080:
+If I were a man, I'd probably be crying like a baby.
+
+10560:
+My, that was close enough to be invigorating.
+
+11040:
+I don't think I can make that shot from this angle.
+
+11520:
+This bleeding's not going to stop on its own.
+
+12000:
+I'm exhausted. Time to catch a nap.
+
+12480:
+My chest hurts.
+
+12960:
+Go to sleep, creep!
+
+13440:
+She squashes it! God, that felt good!
+
+13920:
+I'm sick of Guzzman's attitude. Showing off her body like that, she's only setting women back about 50 years.
+
+14400:
+That Reaper is one perverted son-of-a-bitch. His mother probably breast-fed him too long.
+
+14880:
+What IS it about Gumpy? How can somebody so smart be such a disgusting slob? Maybe his parents were first cousins.
+
+15360:
+I killed Mike! Kinda makes me feel important.
+
+15840:
+Hahahaha... I'm sorry. It's not really funny.
+
+16320:
+Ever since my brother hid a spider in my bed when I was two, I've had a phobia about insects... especially large, grotesque ones.
+
+16800:
+Everything's taken care of.
+
+17280:
+Get a grunt to do that.
+
+17760:
+Honestly Deidranna, underneath all that make-up...you're a mess!
+
+18240:
+Not everybody's cut out to be a mother... bitch.
+
+18720:
+What lowlife scum!
+
+19200:
+I can't believe I'm wasting my time in this hellhole.
+
+19680:
+This outfit needs a better class of mercenaries, not these bottom-of-the-barrel jackal wannabes.
+
+20160:
+Air assault! Watch out!
+
+20640:
+Can't believe this chintzy equipment.
+
+21120:
+I really should be on a team where all the others can learn from me.
+
+21600:
+Mercs who're sloppy about their personal appearance are liable to be sloppy in combat.
+
+22080:
+Every day, in every way, I get better and better.
+
+22560:
+I think I could certainly come up with a better course of action.
+
+23040:
+Don't have to be a fortune-teller to know that THAT wasn't going to work.
+
+23520:
+Oh, I get the picture. You'd rather hire swimsuit models than capable mercenaries. Well, you can hire Fox if you want, but don't expect me to be happy about it.
+
+24000:
+That Reaper guy is dangerous. He's seriously disturbed. I wouldn't be here had I known he was coming.
+
+25440:
+I knew there was something I liked about Sidney. I'm a shrewd judge of character.
+
+25920:
+I need to wait. I'm still not sure how this is going to work out.
+
+26400:
+Oh, no, look, it's Mike. We're in trouble.
+
+26880:
+Curses! I have lost my sense of sight.
+
+27360:
+I'm never going to do this.
+
+27840:
+Somebody worth talking to.
+
+28320:
+We know the enemy is here. They could be planning anything.
+
+28800:
+I know I won't allow myself to be convinced they left the area.
+
+29760:
+Take care of your firearm, and it will take care of you.
+
+30240:
+There's that brat Joey Graham. I should pick him up by his ears.
+
+30720:
+No need to fret, Miguel. You may have absolute confidence in me and my abilities to help you and your rebels.
+
+31200:
+Good! Everyone's well-placed in the netherworld. Where they all belong!
+
+31680:
+Someone has removed some of our supplies. How dare they.
+
+32160:
+Sad. Still, I have a feeling it's for the best.
+
+32640:
+Nice nails!
+
+33120:
+Greatness in action! Brilliance at work. I am elated, excited and fulfilled by my accomplishments. It's everything I ever expected from myself. I did a good job.
+
+33600:
+The enemy knew what they were up against. They've retreated.
+
+34080:
+I'm tired. I'll sleep and be perfect again.
+
+34560:
+I'm off the pillow and back on the job.
+
+35040:
+Frankly, I'm in the same boat.
+
+35520:
+Just perfect! It's broken! How can I operate this way?
+
+36000:
+Uh-oh. The perfect trap... for an idiot.
+
+36480:
+Careful everyone. I'm very skeptical of that.
+
+36960:
+I don't go down on or for anything, and I'm not starting now! Help!
+
+37440:
+All right. I made it safely.
+
+38400:
+Frankly, I'm not encouraged by certain aspects of your command. I'm going to wait to see some improvement, before I consider working for you.
+
+38880:
+The morgue has been working overtime thanks to you. It is the main factor in my decision. No, thank you.
+
+39360:
+I'm sorry, I'm taking a refresher course in EMS techniques. I'll be available afterwards.
+
+39840:
+If you'd let me know sooner, I might've been able to juggle my schedule. As it stands, I'm signed on for a short stint with another paramilitary unit.
+
+40320:
+You've reached my video voice mail. Leave me a message. And Gumpy, if this is you, leave another message like the last one, and I'll send you a reply that explodes on impact. I'm not kidding.
+
+40800:
+If I can do anything else for you, just whistle. You know how to whistle, don't you?
+
+41280:
+You've got Fox on your team. Obviously, you're more interested in the sizzle than the steak. Call me when you're looking for something more than a pretty face.
+
+41760:
+You have a man on your team called Reaper. He's a seriously disturbed individual. Some other time, perhaps.
+
+42240:
+What do you want me for? You've got Gumpy. You're clearly willing to settle for third-rate slobs. Someday, perhaps, you'll learn that just because something's cheap doesn't make it good value.
+
+42720:
+My contract is about to expire. If you like, we can talk about renewing.
+
+43200:
+I guess I'd work with you again. All right. Let's give it another go-around.
+
+43680:
+You've got yourself a deal. You won't regret it.
+
+45120:
+Well, my mind says no, but I've got a good feeling about Sidney Nettleson. So, I'm going to say yes, and I'm not sure why.
+
+45600:
+This hasn't been a very positive experience for me. I think I'm underutilized and unrecognized. I'm going to have to say no.
+
+46080:
+Listen this time. Please...
+
+46560:
+Sorry, your bank had some distressing news.
+
+47040:
+You're serious? Okay. It's your funeral. I'm checking out.
+
+47520:
+The morgue has been working overtime thanks to you. It is the main factor in my decision. No, thank you.
+
+48000:
+You've got Fox on your team. Obviously, you're more interested in the sizzle than the steak. Call me when you're looking for something more than a pretty face.
+
+48480:
+You have a man on your team called Reaper. He's a seriously disturbed individual. Some other time, perhaps.
+
+48960:
+What do you want me for? You've got Gumpy. You're clearly willing to settle for third-rate slobs. Someday, perhaps, you'll learn that just because something's cheap doesn't make it good value.
+
+50400:
+Well, my mind says no, but I've got a good feeling about Sidney Nettleson. So, I'm going to say yes, and I'm not sure why.
+
+50880:
+Listen this time. Please...
+
+51360:
+Sorry, your bank had some distressing news.
+
+51840:
+This is Monica Sondergaard. Who am I speaking with?
+
+52320:
+I think it's your turn to talk.
+
+52800:
+You're freaking me out. What do you want?
+
+53280:
+And what are your specific needs in regards to duration?
+
+53760:
+I'll be happy to talk once you give me some idea of what you want.
+
+54720:
+Quite frankly, I'm disappointed to see that you've hired that sick man who goes by the name of Reaper. I'd prefer as much distance between the two of us as humanly possible. However, I will go.
+
+55200:
+Well, my time here is almost over.
+
+55680:
+I'm really getting quite good. My wages should reflect that.
+

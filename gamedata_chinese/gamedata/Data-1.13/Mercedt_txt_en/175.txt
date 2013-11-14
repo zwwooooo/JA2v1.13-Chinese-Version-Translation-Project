@@ -212,7 +212,7 @@ Be careful to watch the ground - it is perhaps a trap.
 I am drowning...!
 
 37440:
-I'm waiting for instructions.
+I await new orders.
 
 38400:
 No thank you. I have been reading about you - and the conditions in which people have to be working under you.
@@ -309,3 +309,4 @@ Please remember - our agreement is coming to an end.
 
 55680:
 I am getting better and better. I think my pay should reflect this fact.
+

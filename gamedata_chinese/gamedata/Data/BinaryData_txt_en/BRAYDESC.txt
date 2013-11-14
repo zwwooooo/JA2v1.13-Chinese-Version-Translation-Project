@@ -1,0 +1,1749 @@
+0:
+Nothing
+
+800:
+Glock 17
+
+1600:
+Glock 18
+
+2400:
+Beretta 92F
+
+3200:
+Beretta 93R
+
+4000:
+.38 S&W Special
+
+4800:
+.357 Barracuda
+
+5600:
+.357 Desert Eagle
+
+6400:
+Colt .45
+
+7200:
+H&K MP5K
+
+8000:
+.45 MAC-10
+
+8800:
+Thompson M1A1
+
+9600:
+Colt Commando
+
+10400:
+H&K MP53
+
+11200:
+AKSU-74
+
+12000:
+5.7mm FN-P90
+
+12800:
+Type-85
+
+13600:
+SKS
+
+14400:
+Dragunov
+
+15200:
+M24
+
+16000:
+Steyr AUG
+
+16800:
+H&K G41
+
+17600:
+Ruger Mini-14
+
+18400:
+C-7
+
+19200:
+FA-MAS
+
+20000:
+AK-74
+
+20800:
+AKM
+
+21600:
+M-14
+
+22400:
+FN-FAL
+
+23200:
+H&K G3A3
+
+24000:
+H&K G11
+
+24800:
+Remington M870
+
+25600:
+SPAS-15
+
+26400:
+CAWS
+
+27200:
+FN Minimi
+
+28000:
+RPK-74
+
+28800:
+H&K 21
+
+29600:
+Combat Knife
+
+30400:
+Throwing Knife
+
+31200:
+A Rock
+
+32000:
+Grenade Launcher
+
+32800:
+Mortar
+
+33600:
+Another Rock
+
+34400:
+Young Male Creature Claws
+
+35200:
+Young Female Creature Claws
+
+36000:
+Adult Male Creature Claws
+
+36800:
+Adult Female Creature Claws
+
+37600:
+Queen Tentacle
+
+38400:
+Queen Creature Spit
+
+39200:
+Knuckle Dusters
+
+40000:
+Talon Underslung Grenade Launcher
+
+40800:
+LAW
+
+41600:
+Bloodcat Claws
+
+42400:
+Bloodcat Bite
+
+43200:
+Machete
+
+44000:
+Rocket Rifle
+
+44800:
+Automag III
+
+45600:
+Infant Creature Spit
+
+46400:
+Young Male Spit
+
+47200:
+Old Male Spit
+
+48000:
+Tank Cannon
+
+48800:
+Dart Gun
+
+49600:
+Bloody Throwing Knife
+
+50400:
+Flamethrower
+
+51200:
+Crowbar
+
+52000:
+unused
+
+52800:
+unused
+
+53600:
+unused
+
+54400:
+unused
+
+55200:
+unused
+
+56000:
+unused
+
+56800:
+9mm Pistol Magazine
+
+57600:
+9mm SMG Magazine
+
+58400:
+9mm Pistol Magazine, AP
+
+59200:
+9mm SMG Magazine, AP
+
+60000:
+9mm Pistol Magazine, HP
+
+60800:
+9mm SMG Magazine, HP
+
+61600:
+.38 Speed Loader
+
+62400:
+.38 Speed Loader, AP
+
+63200:
+.38 Speed Loader, HP
+
+64000:
+.45 Pistol Magazine
+
+64800:
+.45 SMG Magazine
+
+65600:
+.45 Pistol Magazine, AP
+
+66400:
+.45 SMG Magazine, AP
+
+67200:
+.45 Pistol Magazine, HP
+
+68000:
+.45 SMG Magazine, HP
+
+68800:
+.357 speed loader
+
+69600:
+.357 magazine
+
+70400:
+.357 speed loader, AP
+
+71200:
+.357 magazine, AP
+
+72000:
+.357 speed loader, HP
+
+72800:
+357 magazine, HP
+
+73600:
+5.45mm Magazine
+
+74400:
+5.45mm Magazine, HP
+
+75200:
+5.56mm Magazine
+
+76000:
+5.56mm Magazine, HP
+
+76800:
+7.62mm WP Mag, 10 rds
+
+77600:
+7.62mm WP Mag, 30 rds
+
+78400:
+7.62mm WP Mag, 10 HP
+
+79200:
+7.62mm WP Mag, 30 HP
+
+80000:
+7.62mm NATO Mag, 5 rds
+
+80800:
+7.62mm NATO Mag, 20 rds
+
+81600:
+7.62mm NATO Mag, 5 HP
+
+82400:
+7.62mm NATO Mag, 20 HP
+
+83200:
+4.7mm Magazine
+
+84000:
+5.7mm Magazine
+
+84800:
+5.7mm Magazine, HP
+
+85600:
+12 Gauge Magazine
+
+86400:
+12 Gauge Mag, Buckshot
+
+87200:
+CAWS Magazine
+
+88000:
+CAWS Magazine, Buckshot
+
+88800:
+Minirockets, AP
+
+89600:
+Minirockets, HE
+
+90400:
+Minirockets, HEAP
+
+91200:
+Tranquilizer Dart
+
+92000:
+unused
+
+92800:
+unused
+
+93600:
+unused
+
+94400:
+unused
+
+95200:
+unused
+
+96000:
+unused
+
+96800:
+unused
+
+97600:
+unused
+
+98400:
+unused
+
+99200:
+unused
+
+100000:
+unused
+
+100800:
+unused
+
+101600:
+unused
+
+102400:
+unused
+
+103200:
+unused
+
+104000:
+unused
+
+104800:
+Stun Grenade
+
+105600:
+Tear Gas Grenade
+
+106400:
+Mustard Gas Grenade
+
+107200:
+Mini Hand Grenade
+
+108000:
+Reg Hand Grenade
+
+108800:
+RDX
+
+109600:
+TNT
+
+110400:
+HMX
+
+111200:
+C1
+
+112000:
+Mortar Shell
+
+112800:
+Mine
+
+113600:
+C4
+
+114400:
+Trip Flare
+
+115200:
+Trip Klaxon
+
+116000:
+Shaped Charge
+
+116800:
+Chemical Break Light
+
+117600:
+40mm Grenade
+
+118400:
+40mm Tear Gas
+
+119200:
+40mm Stun Grenade
+
+120000:
+40mm Smoke Grenade
+
+120800:
+Smoke Grenade
+
+121600:
+Tank Shell
+
+122400:
+unused
+
+123200:
+unused
+
+124000:
+unused
+
+124800:
+unused
+
+125600:
+unused
+
+126400:
+unused
+
+127200:
+unused
+
+128000:
+unused
+
+128800:
+Flak Jacket
+
+129600:
+Flak-18 Jacket
+
+130400:
+Coated Flak Jacket
+
+131200:
+Kevlar Vest
+
+132000:
+Kevlar-18 Vest
+
+132800:
+Coated Kevlar Vest
+
+133600:
+Spectra Vest
+
+134400:
+Spectra-18 Vest
+
+135200:
+Coated Spectra Vest
+
+136000:
+Kevlar Leggings
+
+136800:
+Kevlar-18 Leggings
+
+137600:
+Coated Kevlar Leggings
+
+138400:
+Spectra Leggings
+
+139200:
+Spectra-18 Leggings
+
+140000:
+Coated Spectra Legs
+
+140800:
+Steel Helmet
+
+141600:
+Kevlar Helmet
+
+142400:
+Kevlar-18 Helmet
+
+143200:
+Coated Kevlar Helmet
+
+144000:
+Spectra Helmet
+
+144800:
+Spectra-18 Helmet
+
+145600:
+Coated Spectra Helmet
+
+146400:
+Ceramic Plates
+
+147200:
+Infant Creature Hide
+
+148000:
+Young Adult Creature Hide
+
+148800:
+Adult Creature Hide
+
+149600:
+Queen Creature Hide
+
+150400:
+Leather Jacket
+
+151200:
+Leather & Kevlar Jacket
+
+152000:
+Compound 18 Leather & Kevlar Jacket
+
+152800:
+Coated Leather& Kevlar Jacket
+
+153600:
+Young Female Hide
+
+154400:
+Old Female Hide
+
+155200:
+T-shirt
+
+156000:
+T-shirt
+
+156800:
+Guardian Vest
+
+157600:
+Treated Guardian Vest
+
+158400:
+Coated Guardian Vest
+
+159200:
+unused
+
+160000:
+unused
+
+160800:
+First Aid Kit
+
+161600:
+Medical Kit
+
+162400:
+Tool Kit
+
+163200:
+Locksmith Kit
+
+164000:
+Camouflage Kit
+
+164800:
+Boobytrap Kit
+
+165600:
+Silencer
+
+166400:
+Sniper Scope
+
+167200:
+Bipod
+
+168000:
+Extended Ear
+
+168800:
+Night Vision Goggles
+
+169600:
+Sun Goggles
+
+170400:
+Gas Mask
+
+171200:
+Canteen
+
+172000:
+Metal Detector
+
+172800:
+Compound 18
+
+173600:
+Jar of Queen Creature Blood
+
+174400:
+unused
+
+175200:
+Money
+
+176000:
+Glass Jar
+
+176800:
+Jar of Creature Blood
+
+177600:
+Energy Booster
+
+178400:
+Detonator
+
+179200:
+Remote Detonator
+
+180000:
+Videotape
+
+180800:
+Deed
+
+181600:
+Letter
+
+182400:
+Diskette
+
+183200:
+Chalice
+
+184000:
+Bloodcat Claws
+
+184800:
+Bloodcat Teeth
+
+185600:
+Bloodcat Pelt
+
+186400:
+Switch
+
+187200:
+Action Item
+
+188000:
+Regeneration Booster
+
+188800:
+Syringe
+
+189600:
+Syringe
+
+190400:
+Syringe
+
+191200:
+Jar of Human Blood
+
+192000:
+Ownership
+
+192800:
+Laser Scope
+
+193600:
+Remote Trigger
+
+194400:
+Wire Cutters
+
+195200:
+Duckbill
+
+196000:
+Bottle of Alcohol
+
+196800:
+UV Goggles
+
+197600:
+Discarded LAW
+
+198400:
+Head
+
+199200:
+Impostor's Head
+
+200000:
+T-Rex's Head
+
+200800:
+Slay's Head
+
+201600:
+Druggist's Head
+
+202400:
+Matron's Head
+
+203200:
+Tiffany's Head
+
+204000:
+Wine
+
+204800:
+Beer
+
+205600:
+Porno Magazine
+
+206400:
+Video Camera
+
+207200:
+Robot Remote Control
+
+208000:
+Creature Claw
+
+208800:
+Creature Flesh
+
+209600:
+Unidentifiable Creature Organ
+
+210400:
+Remote Control
+
+211200:
+Platinum Watch
+
+212000:
+Golf Clubs
+
+212800:
+Walkman
+
+213600:
+Portable TV
+
+214400:
+Current Balance:
+
+215200:
+Cigars
+
+216000:
+unused
+
+216800:
+Key
+
+217600:
+Key
+
+218400:
+Key
+
+219200:
+Key
+
+220000:
+Key
+
+220800:
+Key
+
+221600:
+Key
+
+222400:
+Key
+
+223200:
+Key
+
+224000:
+Key
+
+224800:
+Key
+
+225600:
+Key
+
+226400:
+Key
+
+227200:
+Key
+
+228000:
+Key
+
+228800:
+Key
+
+229600:
+Key
+
+230400:
+Key
+
+231200:
+Key
+
+232000:
+Key
+
+232800:
+Key
+
+233600:
+Key
+
+234400:
+Key
+
+235200:
+Key
+
+236000:
+Key
+
+236800:
+Key
+
+237600:
+Key
+
+238400:
+Key
+
+239200:
+Key
+
+240000:
+Key
+
+240800:
+Key
+
+241600:
+Key
+
+242400:
+Silver Platter
+
+243200:
+Duct Tape
+
+244000:
+Aluminum Rod
+
+244800:
+Spring
+
+245600:
+Rod & Spring
+
+246400:
+Steel Tube
+
+247200:
+Quick Glue
+
+248000:
+Gun Barrel Extender
+
+248800:
+String
+
+249600:
+Soda Can
+
+250400:
+Soda Can with String
+
+251200:
+Marbles
+
+252000:
+LameBoy Display
+
+252800:
+Copper Wire
+
+253600:
+Display Unit
+
+254400:
+FumblePak
+
+255200:
+X-ray Tube
+
+256000:
+Pack of Gum
+
+256800:
+X-ray Device
+
+257600:
+Batteries
+
+258400:
+Rubber Band
+
+259200:
+X-ray Detector
+
+260000:
+Silver Nugget
+
+260800:
+Gold Nugget
+
+160:
+JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...
+
+960:
+Even though most of this Austrian pistol's parts are plastic, it will get detected by airport x-ray machines. The simple design of this recoil operated self-loader contains only 32 components, and is a common army issue worldwide.
+
+1760:
+Of Austrian origin, the Glock 18 is deserving of the classification of machine pistol. As the Glock 17's successor, it was built to offer the option for automatic fire. Sorry, but parts from the Glock 17 and 18 are not interchangeable.
+
+2560:
+U.S. Army issued, the Beretta 92F is a standard 9mm Parabellum pistol, with a modified trigger-guard to allow a two-handed grip. This is a very functional weapon.
+
+3360:
+The most pistol you'll ever need. Classified as a machine pistol, it features a fold-down front grip and an extendible steel shoulder stock, that attaches at the rear of the butt, to facilitate three-round mode shooting.
+
+4160:
+The standard Smith and Wesson military and police double-action revolver is ideal for both self-defense and offensive purposes. When the mainspring ages however, the gun is prone to light hammer blows.
+
+4960:
+The Belgian .357 magnum Barracuda revolver is a powerful choice for both offense and defense. Numerous test trials have shown that both men and women find it easier to handle than most handguns.
+
+5760:
+This single-action, power-packed, gas-operated pistol is one hundred per cent U.S. made. Originally produced in Israel, it features a rotating bolt for positive lock-up, an ambidextrous safety, a steel frame, and a nickel or chrome finish.
+
+6560:
+This American made automatic pistol of classic design, is one of the most successful combat pistols ever invented. A proven man-stopper, it creates a wide wound channel that can cause severe nerve trauma.
+
+7360:
+Heckler and Koch's MP5K is one of the most compact and deadly German sub-machine guns around. Anti-terrorist groups and drug cartels love this weapon because it's so small and easy to use. This tiny weapon is easily hidden under clothing.
+
+8160:
+The U.S. Military Armament Corp. Model-10: a real man's sub-machine gun. Its steadiness allows for single-handed firing and its threaded barrel can fit a 'sound suppressor,' which is similar to a silencer but won't reduce bullet velocity.
+
+8960:
+Although heavier than most submachine guns, the 'Tommy Gun' is still favored by Commando and Ranger forces. None have been built since the 1960's, but they are still very common, and have definitely weathered the test of time.
+
+9760:
+Very small, and yet, very deadly. The Colt Commando is an attractively short and concealable assault rifle that was based on the M16 design. It is extremely popular among several US armed forces, including the DEA.
+
+10560:
+This German sub-machine gun has a lethality and stopping power that is definitely disproportionate to its size. When fitted with a special flash suppresser, excessive muzzle flash that is common on short weapons, is eliminated.
+
+11360:
+Russian in origin, this sub-machine gun is a shorter version of the AK-74. It's a combat intensive weapon with a bulbous muzzle attachment to compensate for firing 5.45mm Soviet rifle cartridges in a much shorter barrel.
+
+12160:
+Chews through Kevlar like it was butter. The FN-P90 is a blowback machine pistol with truly powerful ballistic capabilities. All controls are fully ambidextrous, with a cocking handle fitted on both sides and two open sights.
+
+12960:
+Of Chinese design, the Type-85 submachine gun is a plain blowback weapon that is remarkably lightweight due to its rotating bolt system. The weapon's manufacturers claim that it also fires the subsonic type-64 cartridge.
+
+13760:
+The Simonov self-loading SKS automatic rifle has a simple design and is easy to operate. Developed during WWII, it was later distributed to most Warsaw Pact members. Its only weak spot: it's a little heavy for its cartridge.
+
+14560:
+This Russian sniping rifle is known for its accuracy. Standard issues with the rifle are the PSO-1 telescope sight and the image-intensifying NSPU-3 night sight.
+
+15360:
+The Remington M24 is the standard sniping rifle of the US Army. This bolt-action rifle's stock is made of synthetic material with an aluminum bedding lock and comes with an adjustable buttplate.
+
+16160:
+This Austrian automatic rifle has a unique modular design with many interchangeable parts. It was one of the first rifles to use a plastic firing mechanism as well as plastic furniture.
+
+16960:
+Built to NATO weapons standards, this assault rifle is a great piece of German engineering. It features an ejection port dust cover and a hold-open device to keep the bolt open when emptying the mag.
+
+17760:
+Considered to be the great American hunting rifle, it's perfect for paramilitary use. It naturally enhances your ability to hit on target because of its low recoil forces.
+
+18560:
+It's the Canadian version of the American M16A2. Trust those crazy Canucks to incorporate such safety devices as a case deflector to prevent empty cases from being flung into the faces of left-handed firers.
+
+19360:
+The French Army's FA-MAS rifle was the first 'bullpup' design to enter military service. It handles well, and shoots quite accurately. A bipod can also be attached for steadier shooting.
+
+20160:
+Used as the Soviet infantry's standard automatic rifle, the AK-74 is a smaller caliber version of the AKM. While highly efficient and steady, with minimal recoil, it can be nasty to bystanders, as muzzle gases are diverted sideways.
+
+20960:
+As the modernized version of the AK-47 automatic rifle, it was one of the best and most widely distributed Soviet weapons. Designed for mass production, you'll find one of these automatic rifles slung over every frugal mercenary's shoulder.
+
+21760:
+Truly American through and through. This lighter automatic rifle offers multiple firing options, but is best kept locked at semi-automatic. Unfortunately, without the ability to change its barrel, it can overheat with sustained firing.
+
+22560:
+This Belgian automatic rifle set a new standard in weaponry in the early 1950's. Its robust and reliable design made it simple to use and maintain, despite its tendency for excessive climbing in automatic mode.
+
+23360:
+Made from sheet metal stampings and plastic furniture, this Heckler and Koch automatic rifle sure ain't pretty, but it is definitely robust, reliable and highly effective.
+
+24160:
+Germany's Heckler and Koch designed this weapon as the fastest automatic rifle around. Its high velocity shots tear right through Kevlar. Despite its unusual appearance, it is very comfortable to use and shoots extremely accurately.
+
+24960:
+A cherished 12-gauge shotgun for its smooth pump-action, it's a favorite of many police forces around the world. Commonly used as a hunting rifle, it can be found for sale in most local hardware stores.
+
+25760:
+The 12-gauge Franchi SPAS-15 shotgun's design is true Italian brilliance. It provides the options for gas, semi-automatic or manual pump action.
+
+26560:
+Olin/Heckler and Koch's Close Assault Weapon System is the ideal light support weapon for any aspiring mercenary. Designed for the 12-guage shotgun shell, it also fires miniature grenades.
+
+27360:
+Reputed for its reliability, this Belgian machine gun is gas operated, with a simple rotating bolt system. Its design was adopted by the US Army as the M249 machine gun.
+
+28160:
+This Russian squad light automatic machine gun is simply a heavy-barreled version of the AK74 rifle. Its only drawback is that it tends to shoot the rifling out of its barrel within 5,000 rounds.
+
+28960:
+The German Heckler and Koch 21 is a fantastic all-purpose machine gun, featuring a heavy yet easily changeable barrel. Its bipod offers 3 height settings on which the gun can pivot 30 degrees in either direction.
+
+29760:
+When the enemy is too close for comfort, this full-tang bowie-styled combat knife will definitely come in handy. It features a serrated 9" blade, and a wooden handle with a heavy-duty guard and pommel.
+
+30560:
+Polish up on your throwing skills with this double-edged chrome-plated high carbon steel blade. This slim little knife is a perfect choice for both novice and experienced throwers.
+
+31360:
+A rock is what you've got in your head if you don't know what one is.
+
+32160:
+Known for its accuracy at longer ranges, the 40mm M79 Grenade Launcher is not your average rifle grenade. This breech loaded, single shot, break-open weapon is usually fired from the shoulder. It features a blade foresight and a folding-leaf adjustable rear sight.
+
+32960:
+Commonly referred to as the battalion commander's artillery, the M224 mortar is a must-have for the serious mercenary commandant. It is a 60mm caliber lightweight mortar with a finned barrel, sight, M7 base plate and bipod, that was built to specifically accommodate HE shells.
+
+33760:
+A rock usually associated with a roll is a form of modern music that tends to be loud and a preferred choice of adolescents.
+
+34560:
+Not for sale through BR.
+
+35360:
+Not for sale through BR.
+
+36160:
+Not for sale through BR.
+
+36960:
+Not for sale through BR.
+
+37760:
+Not for sale through BR.
+
+38560:
+Not for sale through BR.
+
+39360:
+You'll be packing a real punch with this set of handy brass knuckles. Although sturdy, they're small enough to fit into most back pockets. One size fits all.
+
+40160:
+Developed by the US military, this launcher can be attached to a wide range of assault rifles and machine guns. It comes equipped with a light folding stock and a special pistol grip stock, allowing it to be fired like a pistol. It is considered to be a good entry weapon.
+
+40960:
+The M72A2 Light Anti-Tank Weapon is a light-weight shoulder-fired rocket launcher which can penetrate a foot of tank armour or destroy small battlefield fortifications.  A one-shot weapon of awesome destructive power.
+
+41760:
+Not for sale through BR.
+
+42560:
+Not for sale through BR.
+
+44160:
+Not for sale through BR.
+
+44960:
+Not for sale through BR.
+
+45760:
+Not for sale through BR.
+
+46560:
+Not for sale through BR.
+
+47360:
+Not for sale through BR.
+
+48160:
+Not for sale through BR.
+
+49760:
+Not for sale through BR.
+
+51360:
+This titanium crowbar will come in handy when stuck in a jam. It's a one piece bar of titanium that's harder and stronger than steel, and corrosion resistant. Since it weighs almost nothing, you can take it anywhere.
+
+56960:
+These 15 rounds of fine quality 115 grain Fiocchi round tip ammunition are ideal for anyone looking for an economical means of personal defense.
+
+57760:
+This SMG magazine contains 30 rounds of Fiocchi round tip ammunition. This round is a popular purchase among seasoned mercenaries and up-and-coming soldiers of fortune.
+
+58560:
+They've got Kevlar? Have no fear with this magazine; it's brimming with 15 rounds of hardened steel. This low power pistol round is your best bet against Kevlar.
+
+59360:
+We searched far and wide for this round; the Armor Piercing ability of the 30-round magazine makes it the bane of all unwelcome law enforcement personnel.
+
+60160:
+This 15-round magazine of COR-BON 9mm Jacketed Hollow Point ammunition is truly the top of the line. It's a definite deterrent against any unarmored assailant.
+
+60960:
+This 30-round mag of 115 grain Jacketed Hollow Point ammunition is a special buy straight from COR-BON. We guarantee it will make your MP-5 the envy of any SWAT team.
+
+61760:
+This 6-round speed loader comes filled with 158 grain Winchester standard .38 Special round tip ammunition. For countless years, it has been the tried and true round in law enforcement.
+
+62560:
+Turn your classic .38 into a force to be reckoned with. Our own custom loaded .38 Full Metal Jacket round guarantees to stop any armored attacker dead in his tracks.
+
+63360:
+The latest deal from Cor-Bon brought us this 6-round package of .38 Special +P 158 grain ammunition. It packs a punch few will live to forget. Warning: its continuous use in alloy frame revolvers is highly inadvisable.
+
+64160:
+No collection would be complete without this classic man-stopper: a 7-round magazine of 230 grain UMC .45 ACP.
+
+64960:
+Our Pre-Ban 30-round magazines come complete with a full load of UMC .45 ACP.
+
+65760:
+These hardened steel Armor Piercing rounds tear through Kevlar like it was butter. This 7-round magazine is known for leaving wide wound cavities.
+
+66560:
+Some of the best pistol ammunition money can buy is our 30 rounds of hand-loaded Armor Piercing ammunition. It will quickly send a Kevlar vest to the scrap heap.
+
+67360:
+If you are serious about your .45 ammo, this 7-round magazine of Golden Sabre Jacketed Hollow Point ammunition is a sure-fire way to prove it.
+
+68160:
+Turns your sub machine gun into a lean mean killing machine. This magazine is jam packed with 30 rounds of our high quality Remington .45 Gold Sabre ammunition.
+
+68960:
+Splatter your troubles against a wall with a little help from our 6-round speed loaders of Federal Hydra-Shok .357 Magnum ammunition.
+
+69760:
+We offer the finest quality rust resistant 9-round magazines, filled with Federal 158 grain .357 ammunition. These babies are a great way to finish off a problem that just won't kick it.
+
+70560:
+They said the White Hippos were a hoax but Bobby Ray's has the real thing that are just itchin' to be fired off by you. This 6-round speed loader is packed with the lastest in Armor Piercing technology.
+
+71360:
+Satisfy your insatiable desire to punch holes through a bullet proof vest with these 9 rounds of White Hippo Armor Piercing ammo. It's exactly what the doctor ordered.
+
+72160:
+These 6 rounds of Federal's own Hydra-Shok Jacketed Hollow Point comes complete with a complimentary speed loader when purchasing through this site.
+
+72960:
+Want that last gunfight to go out with a bang? Then we've got the deal for you. The Federal's own .357 Jacketed Hollow Point Hydra-Shok guarantees to deliver.
+
+73760:
+One of our hottest commodities is this 30-round mag of 'acquired' Russian 5.45mm Armor Piercing ammunition. This round is guaranteed to make you the death of any party.
+
+74560:
+Need a quick sure-shot way to collect on a life insurance policy? These 30 rounds of 5.45mm Hollow Point ammunition will show you the money in no time at all.
+
+75360:
+This 30-round magazine is filled with our NATO standard 5.56mm. This round's steel penetrator makes it possible to beat all but the best in today's body armor.
+
+76160:
+This is the economical choice for target shooting, hunting, or stopping potential long-range muggings. These 30 rounds of 50 grain .223 JHP can save your life and your pocket book.
+
+76960:
+Packaged especially for the aspiring sharpshooter, these 10 rounds of Chinese 7.62mm Armor Piercing ammo is sure to provide you with the 'One Shot, One Kill' that'll make headlines the world over.
+
+77760:
+Looking for the perfect gift for the terrorist who has it all? Try a magazine of our surplus 7.62mm Warsaw Pact AP. It's the gift to end all gift giving.
+
+78560:
+When killing them is simply not enough. A small 10-round box of 7.62mm Hollow Point is a great way to send the point home in true brain splattering style.
+
+79360:
+Ever get the urge to turn a person into a bloody sausage with legs? We recommend reaching for 30 rounds of our 7.62mm Hollow Point ammunition.
+
+80160:
+This Armor Piercing 7.62mm NATO ammunition offers an ideal combination of range, penetration and damage that professional snipers demand.
+
+80960:
+This 7.62mm 20-round magazine is simply brimming with death, especially when it's filled with a surplus of Full Metal Jacketed rounds. This magazine makes armor more or less moot.
+
+81760:
+Take advantage of our limited time offer on a price-reduced 5-round sampler box of .308 Winchester Hollow Point ammunition. Whether you're out hunting or sniping, this round will be your one-shot stopper.
+
+82560:
+If power is what you demand, more power is what you'll get with these 20 rounds of Cor-Bon Tactical .308 Winchester ammunition, the civilian variant of the 7.62mm NATO round. It's more than enough power to put any problem 6-feet under.
+
+83360:
+Recovered crates from a classified German warehouse have supplied us with these 50-round magazines. They come complete with a full load of the legandary 4.7mm caseless ammunition.
+
+84160:
+Do you loathe it when your opponents wear body armor? Say hasta la vista to every form of body armor that might stand between your target and Judgement Day with our 50-round magazine of 5.7mm pistol ammo.
+
+84960:
+Get the job done right the first time. You're kill-rate will be the best around if you use this 50-round magazine of 5.7mm Hollow Point ammunition. Your victim's chance at survival: roughly zero per cent, give or take a few points.
+
+85760:
+This is definitely the ammunition for real men only. This magazine contains 7 rounds of 12 gauge PolyCore slugs. Each round tears through body armor as though it were tissue paper.
+
+86560:
+The ideal short-range man-stopper round. This 12 gauge magazine holds 7 rounds of '00' SSG ammunition. Law enforcement personnel worldwide favor this round for its effectiveness in urban firefights against unarmored opponents.
+
+87360:
+This 10 round CAWS magazine is quite simply brimming with destruction. Each round contains a single tungsten steel composite slug capable of tearing through most forms of body armor and most car engine blocks. No serious mercenary should leave home-base without it.
+
+88160:
+Have you ever wanted to kill an unwanted intruder and expand your study by knocking down a wall at the same time? Our 10 round magazine of tungsten buckshot ammo allows you to do just that, and much, much more.
+
+88960:
+Not for sale through BR.
+
+89760:
+Not for sale through BR.
+
+90560:
+Not for sale through BR.
+
+104960:
+This grenade creates a massive vacuum which deprives the surrounding impact area of oxygen as waves of air rush back into its core. Anyone standing within the detonated area won't know what hit them as they frantically gasp for air.
+
+105760:
+Guaranteed to make its victims cry like the babies they are. This grenade releases tactical dispersion gas that reeks havoc on exposed eyes and skin. It'll send everyone in its radius running for clearer pastures.
+
+106560:
+This ain't no hot dog garnish. This grenade releases a colorless, odorless, and tasteless gas that causes intense burning and blistering of the lungs. Sufferers can die without prompt medical attention.
+
+107360:
+This small grenade was developed for maximum throwing range combined with effective fragmentation. The body is loaded with TNT and provides good lethal coverage. Because of its size, even women find this grenade an easy toss.
+
+108160:
+Your typical army issue standard fragmentation hand grenade. Jam packed with TNT, this pressure-released firing device with pull-ring, provides great lethal coverage. Stop 'em dead in their tracks, every time.
+
+108960:
+A jar of RDX crystals are more powerful than TNT and easier to detonate. Better be forewarned, this stuff isn't too stable and can be set off by a moderate shock.
+
+109760:
+Good old reliable trinitrotoluene is the second oldest and most commonly used explosive known to man-the first is dynamite. These sticks of explosives are highly stable, strawboard rolled and contain a quarter- pound charge.
+
+110560:
+This explosive packs a real punch. HMX is a mixture of TNT and RDX at a ratio of 50/50, by weight. Although it is not as powerful as straight RDX, it is certainly more stable.
+
+111360:
+Composition C1 is a highly explosive solution of RDX, mixed with a small amount of mineral oil. This composition is just as effective as straight RDX, but it won't accidentally blow up in your face.
+
+112160:
+A real man's mortar. This HE bomb features waterproof "horseshoe" snap-off propellant increments and the M734 multi-option fuse. This fuse can be set by hand for delayed, impact, near-surface or proximity burst detonations.
+
+112960:
+Designed to stop enemies dead in their tracks, or at least slow them up a while. This anti-personnel mine is a fragmentation weapon that blows up when stepped on. It includes a built-in anti-disturbance device to inhibit clearance, and a sensor that neutralizes the minefield after a while.
+
+113760:
+This white plastic explosive packs a bigger punch than TNT. Composition C4 comes in a plastic-covered block with a threaded-cap-well at each end. Unlike C1, its sister composition, this one's odorless.
+
+114560:
+This illuminating mine with an attached tripwire will shine light on the situation every time. Pull pressure or cutting the tripwire will ignite the flare, visually announcing that enemies are about.
+
+115360:
+This illuminating mine with an attached tripwire will brighten up the place with a resounding roar. Pull pressure or cutting the tripwire will ignite the flare, which is followed by a wailing siren, letting nearby mercenaries know that enemies are skulking about the area.
+
+116160:
+Don't get left out in the cold just because you forgot your key. This trusty shaped-charge will solve all your problems. Place this small tungsten-backed plastique explosive against any door to blow the lock right off.
+
+116960:
+These one time use chemical break lights will certainly help to lighten up those dreary night missions. Stock up on these handy little babies 'cause you'll never know when you'll need them. Simply break 'n' shake to brighten your way.
+
+117760:
+This standard fragmentation grenade features a time-delayed firing device to ignite its encased TNT. Fired from the Talon grenade launcher, this round can provide great lethal coverage.
+
+118560:
+This projectile's body is made of rubbery plastic to prevent impact injuries and keep it from being picked up and thrown back. The rubber melts quickly from the heat of burning. This time-delayed round for the Talon grenade launcher releases an irritant gas when ignited.
+
+119360:
+These Talon grenade launcher projectile rounds create a massive vacuum, depriving the surrounding impact area of oxygen. Anyone standing within the detonated area will be left gasping, as waves of air rush back into its core.
+
+120160:
+When fired from a 40mm grenade launcher, this grenade will quickly release a cloud of smoke that will aid in battlefield entry or withdrawal.
+
+120960:
+This hand grenade will help to fulfill a myriad a roles including: unseen advancement on enemy positions, marking possible landing sites, and wreaking havoc with fire-rangers.
+
+121760:
+Not for sale through BR.
+
+128960:
+The Armorshield ultra-light flak jacket was designed to be as light and thin as possible without compromising maximum protection. It's a sleeveless vest with a neck protector, pelvic plate, and no front openings as its Velcro fasteners are concealed on the sides.
+
+129760:
+Better than average protection-the Armorshield ultra-light flak jacket dipped in Compound 18 offer true anti-ballistic type protection. This sleeveless vest comes equipped with neck and pelvic plate protectors.
+
+130560:
+Not for sale through BR.
+
+131360:
+This vest offers 28 piles of Kevlar for better than average anti-ballistic type protection. It provides full protective coverage as it wraps around the shoulders, neck and sides, and includes a stowable groin protector. The waist and chest straps are fully adjustable.
+
+132160:
+If you thought Kevlar was good, it's even better when it has been treated with Compound 18. This vest's ballistic panels, made from 28 piles of Kevlar, offer even more protection as they have been treated with the liquid anti-ballistic solution.
+
+132960:
+Not for sale through BR.
+
+133760:
+The most advanced technology in body armor. This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. Its carrier pocket can hold an additional trauma plate.
+
+134560:
+Advanced body armor technology combined with chemistry produced this Spectra Shield vest. Made from high-performance ballistic sheets, it dramatically reduces blunt trauma from multiple hits and angled shots. Add on Compound-18 and you're virtually invincible.
+
+135360:
+Not for sale through BR.
+
+136160:
+The ballistic panels on these leggings are made from 28 piles of protective Kevlar. Fully adjustable waist and ankle straps were designed to maintain a snug fit without reducing mobility. These should be standard fare in every mercenary's wardrobe.
+
+136960:
+Above standard body armor protection--the ballistic panels on these leggings are made from 28 piles of Kevlar, and have been treated with Compound 18 for extra anti-ballistic protection.
+
+137760:
+Not for sale through BR.
+
+138560:
+These Spectra Shield leggings are the most body armor protection available on the market. They reduce blunt trauma from multiple hits and angled shots. Fully adjustable waist and ankle straps make for a snug fit without reduced mobility.
+
+139360:
+Take the most advanced body armor protection available and make it better--these Spectra Shield Compound 18 treated leggings offer even more protection against blunt trauma, from multiple hits and angled shots, than standard Spectra leggings.
+
+140160:
+Not for sale through BR.
+
+140960:
+Comfortable and extremely practical. This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap.
+
+141760:
+For above average protection, the wise merc always wears the Personal Armor System Ground Troops Helmet. It's made from Kevlar, and has a comfortable suspension system, sweatband and chin strap. It also extends further over the ear and neck than average helmets.
+
+142560:
+Made from Kevlar, for above average protection, This Personal Armor System Ground Troops Helmet has been treated with Compound 18 to further enhance its defensive purposes.
+
+143360:
+Not for sale through BR.
+
+144160:
+This helmet is made from a light Spectra composite that is famous for its superior anti-ballistic qualities. It features an IR-absorbing black finish, cushioning foam and an adjustable harness system with a leather headband and rubber chin strap.
+
+144960:
+Dipped in Compound 18, this light Spectra composite helmet offers the maximum amount of anti-ballistic protection possible. Rumor has it that this type of helmet has made a world of difference for some mercs who actually make it back from the front line.
+
+145760:
+Not for sale through BR.
+
+146560:
+Any mercenary that wants to come out alive, never leaves home without a few of these plates. Made from a hard ceramic composite, they can be inserted into the breast plate of most vests to improve their impenetrability.
+
+147360:
+Not for sale through BR.
+
+148160:
+Not for sale through BR.
+
+148960:
+Not for sale through BR.
+
+149760:
+Not for sale through BR.
+
+150560:
+Not for sale through BR.
+
+151360:
+Not for sale through BR.
+
+152160:
+Not for sale through BR.
+
+152960:
+Not for sale through BR.
+
+153760:
+Not for sale through BR.
+
+154560:
+Not for sale through BR.
+
+155360:
+Not for sale through BR.
+
+156160:
+Not for sale through BR.
+
+156960:
+This high quality ballistic vest is manufactured from 36 piles of Kevlar by Guardian Armories, Inc.  Also available in tuxedo style for those especially dangerous formal occasions.
+
+157760:
+Not for sale through BR.
+
+158560:
+Not for sale through BR.
+
+160960:
+From fractures to abrasions, this all-canvas kit-to-go includes everything you'll need to attend to most minor injuries. It includes: bandages, antiseptic, cotton balls, thermometers, iodine, arm slings, safety pins, scissors, and a mini first aid manual.
+
+161760:
+It's a first aid kit and then some. Aside from standard first aid supplies, this kit includes: a suture set, prep pads, suture scissors, a scalpel, Kelly forceps, tweezers, anesthetic, pain killers, antibiotics, a pen light, and the "Emergency War Surgery" manual.
+
+162560:
+This kit offers every tool you'll need to repair most combat items. A wide range of screwdrivers, ratchets, pliers, clamps, and clasps are included, as well as a hammer and sewing kit.
+
+163360:
+The perfect solution for getting behind locked doors and into security safes. This kit offers expert lockpicking tools, including: picks, shims, tension wrenches, warded master keys, a broken key extractor, and a palm-key press, all in a top-grain cowhide leather zipped case.
+
+164160:
+The Military Camo Compact includes olive drab, olive green, tan and white cream based facial paint, and a mirror. This long-lasting, non-running, facial paint can be easily removed with soap and water. The kit also includes a manual that outlines the proper use and care of your compact.
+
+164960:
+Everything you need to build the most lethal trap for unsuspecting passers-by, is contained in this kit. From trip-wire to batteries, you'll be entertained for hours.
+
+165760:
+This is the ideal silencer for both indoor and outdoor missions that have to be kept quiet. Its light and compact design can be fitted easily to most handguns and sub-machine guns.
+
+166560:
+Dramatically improve your targeting accuracy with this extremely versatile sniper scope. Attachable to most rifles, you'll quickly appreciate this scope's accurate windage adjustment, a range-finder precision scale, and coated optics.
+
+167360:
+Every sensible mercenary packs one of these universal bipods. It fits most sniper and assault rifles, as well as light machine guns. Made from a die-cast aluminum, it has a coated matte finish. Its legs fold up when not in use, for easy storage.
+
+168160:
+The Bionic Ear Scout offers advanced warning of approaching intruders. This high fidelity stereo amplifier head set features dual wind-resistant micro-phones that amplify small sounds and filter out the very loud. Its fully adjustable head strap ensures a snug fit even when on the run.
+
+168960:
+True GenII night vision technology--these goggles offer dual-focus, unity magnification, a built-in infrared illuminator, and a focus range from ten inches to infinity. It also comes equipped with two "AA" batteries, a carrying case and a nylon head strap.
+
+169760:
+These paramilitary eye goggles feature triple-protection lenses: an interior anti-fog acetate lens, a tinted middle lens for reduced glare, and a scratch and shatter resistant exterior lens. And as an added bonus, they can be worn comfortably over prescription glasses.
+
+170560:
+This Russian rubber mask is a copy of the American M-17A1. It has cheek filters, scratch-proof lenses, adjustable head straps, and a unique drinking attachment. It also comes with a vinyl shoulder bag, and plastic poncho to help protect you from blistering agents.
+
+171360:
+Any sensible mercenary carries plenty of these with him.  This water-filled polyetherene canteen isn't refillable or reusable so be sure to stock up.
+
+172160:
+This hand-held metal detector is extremely powerful-it'll find more than just coins on the beach. It is a lightweight transistorized metal detector with aural signalization that is used most effectively by explosive detection operatives.
+
+172960:
+Slop on some of this stuff to feel truly invincible. This quick-hardening liquid claims to enhance the protective qualities of your standard Kevlar or Spectra Shield body armor.
+
+173760:
+Ewwwww! It's goopy blood!
+
+175360:
+Cash, coin, moolah, dough. Whatever you call it, it'll buy you stuff.
+
+176160:
+An empty glass jar is great for storing, preserves, grandma's teeth, or anything else for that matter.
+
+176960:
+Ewwwwwwww! This jar's full of goopy queen creature blood!  Not for sale through BR.
+
+177760:
+Not for sale through BR.
+
+178560:
+Attach this baby to an explosive for real power and control. This time-delayed detonator allows you anywhere from five seconds to ten minutes to move to a location of safety before its attached explosive goes off.
+
+179360:
+A must have for any serious explosives agent. Place this time-delayed firing device to any explosive to blow up a target when you want, from where you want. The detonator won't ignite until you hit the remote trigger.
+
+180160:
+Not for sale through BR. Quest specific item.
+
+180960:
+Not for sale through BR. Quest specific item.
+
+181760:
+Not for sale through BR. Quest specific item.
+
+182560:
+Not for sale through BR. Quest specific item.
+
+183360:
+Not for sale through BR. Quest specific item.
+
+184160:
+Not for sale through BR. Quest specific item.
+
+184960:
+Not for sale through BR. Quest specific item.
+
+185760:
+Not for sale through BR. Quest specific item.
+
+186560:
+Not for sale through BR.
+
+188160:
+Not for sale through BR.
+
+188960:
+Not for sale through BR.
+
+189760:
+Not for sale through BR.
+
+190560:
+Not for sale through BR.
+
+191360:
+Not for sale through BR.
+
+192160:
+Not for sale through BR.
+
+192960:
+You won't lose sight of your target when using one of these. The Universal Daylight Laser projects a highly visible red spot upt to 100ft during the day and over 1,000ft at night. In a stainless steel housing, it fits onto the trigger guard of most weapons.
+
+193760:
+A must have for any serious explosives agent. Place this time-delayed firing device to any explosive to blow up a target when you want, from where you want. The detonator won't ignite until you hit the remote trigger.
+
+194560:
+Your average everyday handyman's wire cutters. Extremely useful and versatile-don't leave home without them!
+
+195360:
+Attach this metal object to the end of a shotgun barrel for a real deadly effect. It causes buckshot fired from the shotgun to spread out along a horizontal line instead of its standard circular pattern. Say good-bye to  anyone who gets into its path.
+
+196160:
+Not for sale through BR.
+
+196960:
+These UltraVision goggles are the latest rage! Using ultra-violet light, they turn night into day. Ultra powerful, ultra comfortable, and ultra cool!
+
+197760:
+Not for sale through BR.
+
+198560:
+Not for sale through BR.
+
+199360:
+Not for sale through BR.
+
+200160:
+Not for sale through BR.
+
+200960:
+Not for sale through BR.
+
+201760:
+Not for sale through BR.
+
+202560:
+Not for sale through BR.
+
+203360:
+Not for sale through BR.
+
+204160:
+Not for sale through BR.
+
+204960:
+Not for sale through BR.
+
+205760:
+Not for sale through BR.
+
+206560:
+Not for sale through BR.
+
+207360:
+Not for sale through BR.
+
+208160:
+Not for sale through BR.
+
+208960:
+Not for sale through BR.
+
+209760:
+Not for sale through BR.
+
+210560:
+Not for sale through BR.
+
+211360:
+Not for sale through BR.
+
+212160:
+Not for sale through BR.
+
+212960:
+Not for sale through BR.
+
+213760:
+Not for sale through BR.
+
+214560:
+Not for sale through BR.
+
+215360:
+Not for sale through BR.
+
+242560:
+Not for sale through BR.
+
+243360:
+Not for sale through BR.
+
+244160:
+Not for sale through BR.
+
+244960:
+Not for sale through BR.
+
+245760:
+Not for sale through BR.
+
+246560:
+Not for sale through BR.
+
+247360:
+Not for sale through BR.
+
+248160:
+Not for sale through BR.
+
+248960:
+Not for sale through BR.
+
+249760:
+Not for sale through BR.
+
+250560:
+Not for sale through BR.
+
+251360:
+Not for sale through BR.
+
+252160:
+Not for sale through BR.
+
+252960:
+Not for sale through BR.
+
+253760:
+Not for sale through BR.
+
+254560:
+Not for sale through BR.
+
+255360:
+Not for sale through BR.
+
+256160:
+Not for sale through BR.
+
+256960:
+Not for sale through BR.
+
+257760:
+Not for sale through BR.
+
+258560:
+Not for sale through BR.
+
+259360:
+Not for sale through BR.
+
+260160:
+Not for sale through BR.
+
+260960:
+Not for sale through BR.
+

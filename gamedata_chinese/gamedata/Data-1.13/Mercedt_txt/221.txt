@@ -1,8 +1,8 @@
 0:
-有家伙看到我了！
+我瞧见个笨蛋！
 
 480:
-我瞧见个笨蛋！
+有家伙看到我了！
 
 960:
 我解决这些家伙。然后朝他们的尸体吐口水！
@@ -11,22 +11,22 @@
 我解决问题！
 
 1920:
-我解决问题！
+Hehehe, we find new team to kill!
 
 2400:
-哈哈哈
+Come... I trim you! I trim you good!
 
 2880:
 等着瞧……等着瞧……等着瞧！
 
 3360:
-哈哈哈
+Reuban no scared of you. Nobody no scared of you!
 
 3840:
 这不是好地方！
 
 4320:
-这不是好地方！
+Maybe they see us.
 
 4800:
 我解决问题！
@@ -42,6 +42,9 @@
 
 6720:
 我要弄死打伤我的家伙！给我弄个医生来！
+
+8640:
+I don't know where to go.
 
 9120:
 枪不顶用了！
@@ -62,73 +65,79 @@
 Reuban流血了！
 
 12000:
-要喝水！
+I take nap... When I wake up, I get new job!
 
 12480:
-睡了睡了...醒来又得开工了！
+要喝水！
 
 12960:
 我“修理”人！不修东西！
 
 13440:
-哈哈哈
+我“修理”人！不修东西！
 
 13920:
 我待会解决Ivan！然后我要朝那傻X吐口水！
 
 15360:
-傻X，没人会记得你的！
+I go! I fix problem!
 
 15840:
-我喜欢！但是我觉得有点小...
+Reuban want to do again!
 
 16320:
-我“修理”人！不修东西！
+I must wait a minute.
 
 16800:
 咱们干！
 
 17280:
-管他什么任务！杀人去喽！
+Forget it! I spit at you, you pig.
 
 17760:
-来...我给你剪剪！我会给你好好剪剪！
+This guy not tough, I get this no problem.
 
 18240:
-哈哈哈
+Nobody miss you, pig-dog!
 
 18720:
 等着瞧……我要把他“修理”了！
 
 19200:
-管他什么任务！杀人去喽！
+I spit at you, you pig!
 
 19680:
-Reuban不怕你！没人怕你！
+You like Reuban? Ah... Reuban like you too.
 
 20160:
-要去哪里才对……
+Reuban get out fast!
 
 20640:
 坏掉了。
 
+21120:
+I work there. I no kill nobody. Okay... Okay... Maybe one, maybe two, but no much! No enough!
+
 21600:
-我喜欢杀人。
+Much people want Reuban. A big star.
 
 22080:
-我很喜欢这东西！
+I want... lots... money.
 
 22560:
-我修理你，然后吐口水！
+Forget mission! We go kill people!
 
 23040:
-我朝你吐口水！你这头猪...你竟然要我回家！现在你竟然要我回家！算了！我朝你吐口水！
+我修理你，然后吐口水！
 
 23520:
 我好好修理了Ivan！这下不用听俄语了……
 
+25920:
+You pig-guy, no money? I get you!
+
 26400:
-猪！共产猪！
+He crazy guy! Reuban get out fast!
 
 26880:
 啥也看不到！
@@ -143,25 +152,34 @@ Reuban不怕你！没人怕你！
 我们再找人来杀吧！
 
 28800:
-我解决问题！
+Come... I trim you! I trim you good!
 
 29760:
 我来找你算账了！
 
+30240:
+We go back now. Must get this back right away.
+
+30720:
+Reuban go now! I no kill much here...
+
 31200:
-Reuban要再来一次！
+我们再找人来杀吧！
+
+31680:
+You pay too much money.
 
 32160:
-我喜欢杀人。
+Kill woman? It make heart warm!
 
 32640:
-我解决问题！
+I get dis pig-dog!
 
 33120:
 成了！我们现在去杀人吧！
 
 33600:
-这不是好地方！
+I kill guys! I no fix-it guy!
 
 34080:
 啊……Reuban要走了。
@@ -170,10 +188,10 @@ Reuban要再来一次！
 Reuban走了！
 
 35040:
-傻逼，忘了今天吧...
+Reuban也走了！
 
 35520:
-你爱Reuban，Reuban也爱你！
+It is broken.
 
 36000:
 有陷阱！
@@ -185,4 +203,5 @@ Reuban走了！
 没气了！水深了！我沉了！
 
 37440:
-Ok，时候到了，开杀了！ 
+Ok，时候到了，开杀了！
+

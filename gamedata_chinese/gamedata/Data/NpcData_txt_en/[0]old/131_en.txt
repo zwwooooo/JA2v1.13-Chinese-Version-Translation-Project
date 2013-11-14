@@ -1,0 +1,87 @@
+0:
+Hey, hey, hey! How did you get in here? This is a PRIVATE wildlife reserve. What I tolerate in this job! Ahh, if I get into trouble, it's going to be your ass, not mine.
+
+480:
+I'd like to remind you that this is a PRIVATE reserve.
+
+960:
+We HAD a nice facility here. Now Arulco is a regular United Nations... but we're not all getting along so well.
+
+1440:
+These working conditions, really, aren't acceptable, but I'm not going to say anything. What would they do anyway?
+
+1920:
+I don't want to be caught with it.
+
+2400:
+Nothing personal, but I gotta say if I hear another "bloody" or "right" or "cheerio," I'm going to.... I don't know, get... upset.
+
+2880:
+All right, all right! Calm down already. My nerves are bad enough as it is.
+
+3360:
+No, a battlefield is no place for me.
+
+3840:
+Get a... doctor.
+
+4320:
+I should get back to work.
+
+4800:
+That was a close one.
+
+5280:
+You fool!
+
+5760:
+Maybe you could settle things down first...
+
+6240:
+We do keep certain hours here at the refuge, and you'll have to leave the premises now.
+
+6720:
+As I mentioned, this is a PRIVATE facility. We protect the Bloodcats and research their activities. There isn't much more to tell you.
+
+7200:
+This is both a conservatory and a research facility for the Bloodcats. Arulco's the only place they're found. Now, if you wish to know more about Bloodcats, I suggest you take it up with one personally.
+
+7680:
+Look, do me a favor, and just pretend like you shot me or something. If the Queen finds out what I did, she'll do it herself. But, hey, she doesn't pay me enough to be honest.
+
+8160:
+Frankly, I'm just surprised you made it in here alive.
+
+8640:
+It feels good to let her secret out of the bag. It's a load off my chest. Honestly? I was getting sick of covering up for the bitch. Just... just don't say anything to get me caught.
+
+9120:
+Hey! The guns, the bloodcats, the guards? What's another threat to my life, pal. Besides, why would you shoot me when I might know something, hm?
+
+9600:
+You ever hear about random acts of kindness? Well, this might be a good time for one.
+
+10080:
+Hey. Why thank you. It's funny about money. Always makes me feel like talking.
+
+10560:
+But, for this, that's all you get. I FEEL like talking, but I'm not DOING it.
+
+11040:
+What are you trying to buy, a vowel? Time to get serious.
+
+11520:
+Wait, wait. I feel a thought coming on here.
+
+12000:
+See, downstairs, the Queen's got something brewing. It's research all right, but it doesn't have anything to do with the Bloodcats! She's got a, well, a secret weapons plant down there. Now, I'll let you in.
+
+12480:
+But don't you dare say word one about me and this little conversation. It never happened.
+
+12960:
+I'll take your money, but I have to tell you, at this point, it's all charitable donations on your part.
+
+13440:
+Hope you didn't say anything about, you know, our little arrangement.
+

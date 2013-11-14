@@ -2,7 +2,7 @@
 Da Vinster发现敌军！
 
 480:
-I's gots a loser heres'. Looking to puts him outta his miseries!
+让我给你们点颜色看看。
 
 960:
 发现一个废物在乱晃！
@@ -14,22 +14,22 @@ Da Vinster发现敌军！
 Da Vinster发现敌军！
 
 2400:
-Come on's... Coughs it up!
+让我给你们点颜色看看。
 
 2880:
-Is da merc gonna be surprised or what?
+哟……留意小兵哥！
 
 3360:
-Come on's... Coughs it up!
+让我给你们点颜色看看。
 
 3840:
 Vinny不觉得这里很好……
 
 4320:
-Come on's... Coughs it up!
+哟……我们要被围歼了还是怎么！
 
 4800:
-Da Vinster's got one!
+让我给你们点颜色看看。
 
 5280:
 我想我看到那边有东西！
@@ -56,7 +56,7 @@ Beth死了？有这妹子在身边的时候感觉挺好的。
 得把血止住。
 
 10560:
-Da Vinster's under fire heres'!
+今天是我的好日子。
 
 11040:
 你想搞啥鬼？
@@ -74,13 +74,10 @@ Da Vinster's under fire heres'!
 哟……废物死得就是难看！
 
 13440:
-哟……废物死得就是难看！
+Yooooo！
 
 15360:
 哟……废物死得就是难看！
-
-15840:
-I's sportin' yous' colors.
 
 16320:
 那可不行！
@@ -89,16 +86,13 @@ I's sportin' yous' colors.
 好消息！任务完成！
 
 17280:
-What gives?
+你可别玩得太过火！
 
 17760:
-We's hot! And when yous' hot, yous' hot!
+哟……废物死得就是难看！
 
 18240:
-Poppin' offs that last one shoulds give us some breathin' space.
-
-18720:
-I'sa knows exactly whats to do with dese kinda guys! First... You gets 'em by da family jewels...
+Yooooo！
 
 19200:
 等这仗打完，他们的树都得成筛子。
@@ -106,110 +100,95 @@ I'sa knows exactly whats to do with dese kinda guys! First... You gets 'em by da
 19680:
 来啊……来战啊！
 
-20160:
-Yo... Watch da jewels!
-
 20640:
-Yo! Da things broke!
+我不是傻瓜！这货快散架了！
 
 22080:
-It's gonna be's a good day.
+我们很走火！你火起来，你也走火！
 
 22560:
-We's gonna be's on the losin' end heres'...
+呃……伤处流血……我要撤了！
 
 23040:
 Tinkerbell……你不会是让我长眠于此吧！
 
 24480:
-We's going out Saturday night!
-
-25920:
-Yo... Don't squeeze your charmers... I'ma going!
+杀了妹子？我们周六晚上有约会！
 
 26400:
-Yo... Provolone... Come a little closer. Uncle Vinny's got a little present for yous'!
+Da Vinster先下一城！
 
 27360:
 抱歉……我还是换个方式补偿你吧！
 
-27840:
-Wiseguy.
-
 28320:
-I's think there's trouble around heres'!
+都出来……Vinny要和你们谈谈！
 
 28800:
-Come on out... Uncle Vinny justa wants to talk to yas!
+哟……我们要被围歼了还是怎么！
 
 29760:
 哟……废物死得就是难看！
-
-30720:
-We're talking the same language here! Dis is whats a talent like myself should be gettin' normally!
 
 31200:
 这群废物已经成为历史。
 
 32160:
-Kill da babe?
+哟……废物死得就是难看！
 
 32640:
-I's take that, Tinkerbell!
+Yooooo！
 
 33120:
-I's know, Da Vinster's going to miss dis place...
+Da Vinster想稳扎稳打来着！某人已经赶路赶得蓬头垢面了。
 
 33600:
 哟……我们要被围歼了还是怎么！
 
 34080:
-Gives me a break.
+等一下，让我吃完早饭总行吧！
 
 34560:
-Da news is good.
-
-35040:
-Nobody's goes anywhere without da Vinster!
+再接再厉！
 
 35520:
-Yo! Da things broke!
+我不是傻瓜！这货快散架了！
 
 36000:
-I's ain't nobody's fish! Dis thing is wired!
+弄响了这玩意可没胜算……
 
 36480:
-Da Vinster wants to take it slow! Somebody's been messin' with da dirt.
+弄响了这玩意可没胜算……
 
 36960:
 咕噜……帮个忙……别告诉任何人我是淹死的！这会给我的家族蒙羞！告诉他们……我是中弹身亡！
 
 37440:
-Tick-toc... Tick-toc...
+好消息，我们回来了！
 
 38400:
-I's can't! Da cable guy is comin' and I's gotta be home! I's gotta take cares of it personal on account of da splice.
+我早知道你很倔，然而我也不可能妥协。
 
 38880:
-I can't go dere! Yous' gotta keep the same guys together! It's a team job! Yous' don't seem to want to understand that!
+除非你手里有大把票子，不然没啥好谈的。
 
 39360:
-YO... If we was dying, it be okay! But hiring and firing? What is dis? A burger joint? Vinny gotta vamoose!
+哟……我欠你的。值得欣慰的是我和Beth同一航班的机票。不过我不会回去为你工作，因为那会让她看起来很容易摆布！
 
 39840:
-Eh... Sharkster! What gives? You pays like my uncle Vito... Sometimes! Vinny gotta vamouse!
+问题是，所有人都很……低价！如果这次你的价位很高，我就加入！
 
 40320:
-Of course yous' gotta understand a guy of my talents can't just accept like that. I's gotta hang out for a bit, and sees' what else comes in.
+大家都希望Vinster能来！按老规矩直说了吧，谁出价最高我就跟谁。
 
 40800:
-Uncle Vinny is takin' your money and not working for yous'. And yous' better make like nuthin' happen! Yous' know what I mean?
+没别的事，我就回去了。
 
 42720:
-Yo... Did we's get plucked or whats!
+你肯定能理解，像我这样有天分的人无法接受你的条件。我会离开一阵子，寻找别的机会。
 
 43200:
-Yous' played your cards right!
+你去采购，我们要出去吃一顿！
 
 43680:
 我当然加入！你在想啥，我不够格？
@@ -218,7 +197,7 @@ Yous' played your cards right!
 当然！我过几天要和美女Beth结婚。这是一次解放身心的好机会，你明白我的意思吧。
 
 45600:
-Da problem is dis, everybody is going the same amount... Low! Now if yous' weres to go really high dis time, yous' bag me for sures!
+我不能去！你必须让我们在一起，我们是团队！我好像根本就不明白！
 
 46080:
 你搞啥？我早跟你说过……
@@ -227,37 +206,38 @@ Da problem is dis, everybody is going the same amount... Low! Now if yous' weres
 你装钱的信封有点薄……懂了吧。
 
 47040:
-YO... What gives? Dis is Vinny yous' givin' the big shafta..roo to. Maybe yous' need to get a part-time job, so yous' can keep your business afloat heres'!
+我觉得受到了极大的冒犯。
 
 47520:
-I can't work for ya! Da ways you pays people, yous' lucky you got knees!
+除非你手里有大把票子，不然没啥好谈的。
 
 49440:
-Yo... I owe ya... Dat consoling thing was my ticket with dat Beth.
+要是Beth哭了，责任全在你……Vinny要闪人了……我要去哄她开心。
 
 50880:
 你搞啥？我早跟你说过……
 
 51360:
-Yous' envelope was a little too thin, if yous' catch my drift!
+你搞啥？我人就在这儿！
 
 51840:
-Everybody's wants the Vinster! I's gonna have to straightens dis out da old fashion way. Da guy who puts the most cash in da envelopes gets me.
+他们一直躲着。再不出来的话，Vinny大叔就要生气了，后果就是ESPN会播出他们耳朵横飞的镜头。
 
 52320:
-Just like it says, I's can fix anythings'!
+不行！针线男来了，我要回家！我会自己处理这些缝接问题！
 
 52800:
-Talk to me...
+哟……如果我们会死，没关系！不过雇佣后又解雇算什么？用完就扔？Vinny要闪人了！
 
 53280:
-Dey never showed. Dey better come soon or Uncle Vinny's gonna fix it so's dey catchin' da sports channel with their ears!
+话是这么说的，没我搞不定的东西！
 
 53760:
-I's can't work for ya! Yous' got no class!
+完成了！你没别的意见吧？
 
 55200:
-Yous' lucky... I's don't still work for Uncle Frankie! Yous' wouldn't be owing me! Give me three times the cash, ? and I make like nuthin' happen.
+这个佣兵会吓一跳还是怎样？
 
 55680:
 这个就算遣散费吧。
+

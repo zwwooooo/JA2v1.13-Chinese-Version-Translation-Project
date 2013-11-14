@@ -1,0 +1,282 @@
+0:
+I have spotted an enemy.
+
+480:
+I have the upper hand. The enemy fails to see me.
+
+960:
+I'm being attacked!
+
+1440:
+I have spotted an enemy.
+
+1920:
+I have spotted an enemy.
+
+2400:
+Son of a bitch!
+
+2880:
+This isn't good.
+
+3360:
+Be cautious. We must watch our step.
+
+3840:
+Be cautious. We must watch our step.
+
+4320:
+I am deeply confused. This was not part of my plans.
+
+4800:
+I'm being attacked!
+
+5280:
+I spotted something.
+
+5760:
+I have spotted something.
+
+6240:
+This isn't good. I could use some ammo.
+
+6720:
+Pulse... is weak... and erratic... I'm... losing... consciousness...
+
+7200:
+Needle's passing has left the world short an excellent physician. Enough said.
+
+8640:
+I'm confused.
+
+9120:
+This gun is going to get me killed! It won't fire!
+
+9600:
+They shall wish they had killed me!
+
+10080:
+I shall need to address my wounds.
+
+10560:
+Most fortunate.
+
+11040:
+It will be difficult to hit from here.
+
+11520:
+I shall need to address my wounds.
+
+12000:
+*yawn*
+
+12480:
+*sigh* I could sure use something to drink.
+
+12960:
+One less problem.
+
+13440:
+That was most satisfying.
+
+15360:
+Perhaps your sister could be of some assistance!
+
+15840:
+It appears you're in way over your head!
+
+16800:
+We are off to a fine start!
+
+17280:
+That would serve little purpose.
+
+17760:
+It pains me deeply to see you suffer this way! Perhaps you have overlooked the benefits of a nutritional breakfast!
+
+18240:
+I am most grateful for the possibility to place this matter... behind us.
+
+18720:
+Perhaps your sister could be of some assistance!
+
+19200:
+War... such a terrible necessity.
+
+19680:
+I did not come here to make... acquaintances. You will have to learn to manage a stable team.
+
+20160:
+Be cautious. We must watch our step.
+
+20640:
+It looks like we might have paid far more for the equipment than it is worth!
+
+21120:
+Bought it in Jersey. It's a hundred percent cotton!
+
+21600:
+War... such a terrible necessity.
+
+22080:
+We are halfway there, gentlemen!
+
+22560:
+It is most unfortunate. We have failed!
+
+23040:
+I do not care for this.
+
+24480:
+Needle is friend, and fine medical doctor!
+
+25920:
+For the moment, everything seems acceptable. However, I must allow others the opportunity to engage my services.
+
+26400:
+It appears you're in way over your head.
+
+26880:
+Son of a bitch!
+
+27360:
+I tried, but I haven't a clue what I'm doing!
+
+27840:
+That was most satisfying!
+
+28320:
+Be cautious! We must watch our step.
+
+28800:
+I doubt it will remain this quiet for too much longer!
+
+29280:
+Most fortunate!
+
+29760:
+That was most satisfying!
+
+30240:
+I spotted something!
+
+30720:
+It will be a routine operation.
+
+31200:
+We shall not hear from them anymore.
+
+31680:
+Son of a bitch!
+
+32160:
+That was most satisfying!
+
+32640:
+I have spotted an enemy.
+
+33120:
+We achieved our mission. You displayed the required composure to bring it all together. Well planned!
+
+33600:
+We shall not hear from them anymore.
+
+34080:
+*yawn*
+
+34560:
+For the moment, everything seems acceptable.
+
+35040:
+And the matter is no longer open to discussion!
+
+35520:
+This seems to be malfunctioning.
+
+36000:
+I'm not comfortable handling this!
+
+36480:
+I'm not comfortable handling this!
+
+36960:
+*glug glug* Too tired...to swim... *gasp* Need help... now...
+
+37440:
+We are halfway there, gentlemen.
+
+38400:
+No. The way you manage your team, that would serve little purpose.
+
+38880:
+Sorry, but I like to get to know my patients. The way you manage your team, nobody seems to stay around for very long!
+
+39360:
+A longtime patient of mine has taken a turn for the worse. I'll have to leave.
+
+39840:
+Unfortunately, I haven't managed to free up any time quite yet.
+
+40320:
+Searching for medical services? Let me introduce myself. I'm Doc Koolhan, the affordable and dependable licensed medical combat practitioner.
+
+40800:
+My patience has expired. I shall be leaving!
+
+42720:
+We haven't much time.
+
+43200:
+Your offer is accepted.
+
+43680:
+We are off to a fine start. You were my first choice of employer, and your offer is accepted.
+
+44160:
+I shall put my differences with you and your history aside, simply because Needle is a competent physician and a pleasure to work with.
+
+45600:
+For the moment, everything seems acceptable. However, I must allow others the opportunity to engage my services.
+
+46080:
+I shall repeat...
+
+46560:
+I am deeply insulted by your frail attempt at bribery, and I do not wish to hear another!
+
+47040:
+I have allowed you ample opportunity to secure my services. You failed to take advantage of it, and now my patience has expired.
+
+47520:
+Sorry, but I like to get to know my patients. The way you manage your team, nobody seems to stay around for very long!
+
+49440:
+I shall put my differences with you and your history aside, simply because Needle is a competent physician and a pleasure to work with.
+
+50880:
+I shall repeat...
+
+51360:
+I am deeply insulted by your frail attempt at bribery, and I do not wish to hear another!
+
+51840:
+I'm Doc Koolhan.
+
+52320:
+...the affordable and dependable licensed medical combat practitioner.
+
+52800:
+Searching for medical services?
+
+53280:
+The question of payment comes to mind. Specifically, how.
+
+53760:
+I'll have to leave.
+
+55200:
+Unfortunately, I haven't manage to free up any time quite yet. I'm kind of tied up at the moment.
+
+55680:
+One would think my medical abilities alone would warrant a more... persuasive offer.
+

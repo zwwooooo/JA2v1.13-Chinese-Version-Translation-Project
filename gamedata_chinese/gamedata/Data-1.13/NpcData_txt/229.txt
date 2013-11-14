@@ -47,7 +47,7 @@
 ÎÒÔÚµÈÄã¡£ÎÒÔÚOmertaµÄÅóÓÑËµÄã»áÀ´£¬ÄÜºÍÈËËµ¼¸¾äÕæºÃ¡£ÎÒÒ»¸öÈËÔÚTracona²ØÁËÕâÃ´¶àÄê£¬Ö»ÓÐÕâ¸öµØ·½ÄÜÈÃÎÒ°²ÐÄ¡£
 
 7680:
-ºÜ¾ÃÒÔÇ°£¬ÎÒÏë¼ÓÈë·´ÅÑ¾üÍÆ·­DeidrannaµÄÍ³ÖÎ£¬Miguel CordonaÈ´ÓÐËûµÄ´òËã¡£Ëû¸øÎÒ¼ÙÔìÁËÐÂÉí·Ý£¬ÈÃÎÒ´òÈëArulcan¾üÄÚ²¿¡£´Ó´ËÎÒ³ÉÁËÒ»ÃûÎÔµ×¡£ 
+ºÜ¾ÃÒÔÇ°£¬ÎÒÏë¼ÓÈë·´ÅÑ¾üÍÆ·­DeidrannaµÄÍ³ÖÎ£¬Miguel CordonaÈ´ÓÐËûµÄ´òËã¡£Ëû¸øÎÒ¼ÙÔìÁËÐÂÉí·Ý£¬ÈÃÎÒ´òÈëArulcan¾üÄÚ²¿¡£´Ó´ËÎÒ³ÉÁËÒ»ÃûÎÔµ×¡£
 
 8160:
 ÎÒ×öÁËºÃÐ©Äê£¬½úÉýµ½ÖÐÊ¿£¬Ö±µ½×îºó±©Â¶¡£ÎÒ²»Çå³þÊ²Ã´µØ·½Â¶ÁËÂí½Å£¬²»¹ýÓÐÈË¸æËßÎÒSan MonaÒ»¸ö½ÐKingpinµÄ¼Ò»ïÃþÇåÁËÎÒµÄµ×Ï¸£¬ÎªÁËÈ¡ÔÃÅ®Íõ°ÑÎÒ¹©ÁË³öÈ¥¡£
@@ -66,3 +66,4 @@ ArulcoÏÖÔÚ°²È«ÁË£¬¸ÐÐ»ÄãÃÇ¡£ÎÒÏ£Íû»Øµ½OmertaÓëÇ×ÓÑÍÅ¾Û¡£»òÐíArulcan¾üÀïÒ²ÓÐ¸ü¶àµ
 
 12480:
 ÎÒµÄ¹ú¼ÒÇ·ÄãÒ»¸öÈËÇé£¬ËùÒÔÎÒ»áÔÙ´Î¼ÓÈë£¡
+

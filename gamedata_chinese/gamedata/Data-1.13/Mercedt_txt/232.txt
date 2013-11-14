@@ -1,35 +1,35 @@
 0:
-敌兵进入视野。
-
-480:
 观察到敌兵！我的位置没有暴露。
 
+480:
+敌兵进入视野。
+
 960:
-观察到复数敌军！
+观察到多个敌军！
 
 1440:
 敌兵！
 
 1920:
-敌兵！ 
+敌兵！
 
 2400:
-Show your face, liver-belly!
+快出来，大肚子！
 
 2880:
-I'm clueless over here...
+在这里我毫无头绪……
 
 3360:
-Show your face, liver-belly!
+快出来，大肚子！
 
 3840:
-You're way off! And way out of line to boot!
+你差的远了！连门外汉都算不上！
 
 4320:
-Let's pay attention!
+要小心了！
 
 4800:
-Multiple sightings!
+多个目标！
 
 5280:
 发现些东西。
@@ -71,10 +71,16 @@ Multiple sightings!
 你就歇一歇吧！
 
 13440:
-目标击毙！！！
+大杀四方！！！
+
+13920:
+这个叫Raffitto的是怎么回事？他完全疯了！炒了他！杀了他！反正最好在他拿手术刀往我身上乱割之前做些什么！
 
 15360:
-Somebody write the family...
+大杀四方！！！
+
+15840:
+屠杀！
 
 16800:
 任务完成！
@@ -83,19 +89,19 @@ Somebody write the family...
 这将是漫无目的的。
 
 17760:
-Somebody write the family...
+这个家庭的故事会被写成故事...
 
 18240:
 目标击毙！！！
 
 18720:
-He's a screwball!
+他是个白痴！
 
 19200:
 真是个诱人的提议……
 
 19680:
-I thought I followed procedure.
+我是按照程序来的啊。
 
 20160:
 还没到开香槟的时候呢，热狗！
@@ -104,10 +110,10 @@ I thought I followed procedure.
 这个没用。
 
 21120:
-Get with the program! We kill people for a living! Do you think stealing is beneath us?
+按照规矩来！我们是靠杀人糊口的！偷东西这样的贱活是我们干的么？
 
 22080:
-Stay that way!
+光耀门楣……
 
 22560:
 戴上蓝盔九年，今天我终于要杀人了……目标就是你！
@@ -115,14 +121,17 @@ Stay that way!
 23040:
 你真是天生当维和部队的料。Heck，他们可能会让你当个指挥官。
 
+23520:
+这么锉的发型，肯定是Raffi。他是个白痴！
+
 25920:
-I got nothing to sight up.
+我什么都没有收到。
 
 26400:
-This was a short stint, buddy! Too short!
+时间很少，伙计！太少了！
 
 27360:
-It's nailed down!
+哥碉堡了。
 
 28320:
 大家注意了！似乎附近设有压敏触雷。
@@ -131,7 +140,7 @@ It's nailed down!
 全体注意！
 
 30720:
-There never seems to be enough time, does there?
+时间似乎永远都不够，是吗？
 
 31200:
 实实在在地胜了一场，感觉真好！
@@ -146,16 +155,16 @@ There never seems to be enough time, does there?
 在您麾下服役，是我的荣幸。
 
 33600:
-All of that company's been accounted for!
+你的同伴必须得考虑到这种情况！
 
 34080:
-I goofed.
+我错了。
 
 34560:
-有搞头。
+能用。
 
 35520:
-It's not useable.
+这不能用了...
 
 36000:
 解除这东西对我来说有点复杂。
@@ -167,7 +176,7 @@ It's not useable.
 没法继续……游不动了……
 
 37440:
-我们已经到达目的地。问题只是把它夺回来。
+我们已经到达目的地。
 
 38400:
 我不得不拒绝！你队伍的伤亡数字比我服役的维和部队还大……而且你的人竟然有权还击！
@@ -186,6 +195,9 @@ It's not useable.
 
 40800:
 你不是我唯一的选择。如果你仍想雇用我，你得展示出一点经济上的诱惑。
+
+41280:
+我以前和那个白痴Raffitto一起干过。你要是不把他踢了我是不会加入的！
 
 42720:
 我需要你能证明自己可以筹到钱来支付我的报酬。最好的证据就是你确实有这点钱。
@@ -211,6 +223,9 @@ It's not useable.
 47520:
 这比我在维和部队的任何经历都惨，我们正被屠杀！算了，别来找我。
 
+48000:
+我以前和那个白痴Raffitto一起干过。你要是不把他踢了我是不会加入的！
+
 50880:
 就像我说过的那样……
 
@@ -230,10 +245,14 @@ It's not useable.
 你的提议乃是众多提议中最好的。我将到你的小队报到。
 
 53760:
-I've already given too much of my attention to your poor attempts at bribery.
+继续干啊！我们都是在刀口上混日子的人！偷点东西算什么？
+
+54240:
+Offing Raffi只会去送死！
 
 55200:
 我想，天下没有不散的宴席。
 
 55680:
-我已经完成六个月的工作。上次我为你工作的时候，我甚至没空上厕所。还是算了吧！ 
+我已经完成六个月的工作。上次我为你工作的时候，我甚至没空上厕所。还是算了吧！
+

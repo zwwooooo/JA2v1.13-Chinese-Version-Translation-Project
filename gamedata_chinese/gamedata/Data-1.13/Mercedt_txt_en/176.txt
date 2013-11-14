@@ -43,9 +43,6 @@ Time to get more lead.
 6720:
 I need morphine...fast!
 
-7200:
-I have arrived. What do i need to do now?
-
 8160:
 That's a darn shame, Janno. I hardly knew you, but I always had a kinda good feeling when you were around...and you really liked the fine things in life too...damn...
 
@@ -220,6 +217,9 @@ What's that on the ground? Looks suspicious...
 36960:
 I'm..going..down...
 
+37440:
+Waiting for next command.
+
 38400:
 Nooo thanks. What I found out about you is soooo negative, friend.
 
@@ -318,3 +318,4 @@ Remember our contract will soon be expiring.
 
 55680:
 I work constantly on my skills - and it pays off. I mean that literally, by the way...
+

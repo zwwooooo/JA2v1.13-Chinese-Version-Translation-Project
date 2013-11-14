@@ -1,0 +1,309 @@
+0:
+Agents of enemy!
+
+480:
+Davno pora. See enemy now.
+
+960:
+Tchjort vozmi. U menja problemy.
+
+1440:
+Fearsome beast!
+
+1920:
+Shitbag! Eto nasekomoe vseljajet strakh v ljudjakh.
+
+2400:
+Uh-no. The beast has feasted on innocents locally.
+
+2880:
+Shh! It is noise.
+
+3360:
+Ecch! Ot etikh tvarei vonjajet navozom.
+
+3840:
+Prepare to be attack.
+
+4320:
+There be fearsome beasts in area. I think.
+
+4800:
+Eto ochen' neprijatno!
+
+5280:
+Look.
+
+5760:
+I am curious about object.
+
+6240:
+Shitbag! I use all the ammunition for weapon.
+
+6720:
+Chjort! Doctor!
+
+7200:
+Ja by hotel, chto by ti byl so mnoy seychas, Igor, mir prakhu tvoemu, tovarisch.
+
+7680:
+Grunty, ja uvazhal tebja, ti kompaneijskij paren'. Ja budu skuchat' po tebe, moy drug.
+
+8640:
+Programmiry ne uchitivali etu situaciju.
+
+9120:
+Shitbag! Broken gun.
+
+9600:
+Oni opredeljonno reshili ubit' Ivana Groznogo.
+
+10080:
+Ja zapinaju ego nogami.
+
+10560:
+Very close!
+
+11040:
+I cannot promise this shot.
+
+11520:
+Blood drip from my body.
+
+12000:
+Mne nuzhno pospat'. Very tired.
+
+12480:
+I breathe painfully.
+
+12960:
+Bye-Bye.
+
+13440:
+Good! ja ubil etu tvar'.
+
+13920:
+Reubana mama tancevala na stolakh v Odesse.
+
+14880:
+Idiot! ja uchus' nenavidet' Bubba, a on v polnoy nenavisti i nevedenii.
+
+15360:
+Mike prinadlezhal mne i ja ubil ego. Mike, very big liar!
+
+15840:
+Poetomu moy plemjannik alcogolic.
+
+16800:
+Finish.
+
+17280:
+Nyet!
+
+17760:
+Good! Ja ubil etu sooku!
+
+18240:
+Thanks be to the God! Mamochka etih tvarei nakonec-to sdohla.
+
+18720:
+Ja nikogda ne rabotal s takim idiotom.
+
+19200:
+Eto samaya khrenovaya rabota v moyei zhisni, komandir - idiot.
+
+19680:
+Ja bolshe ne uvazhaju etikh ljudey.
+
+20160:
+Watch skies! Protivnik nastupaet s neba.
+
+20640:
+Equipment of poor dangerous quality. Prosto govno!
+
+22080:
+I work hard. Ja mnogo rabotayu.
+
+22560:
+Moy komandir idiot. I mne nado pomnit' ob etom.
+
+23040:
+Many surprises. Ti idiot.
+
+23520:
+Ja zametil etogo bezumnogo Reubana.
+
+24480:
+Molodec, plemjannik. Igor is Dolvich!
+
+24960:
+Grunty superior mercenary!
+
+25920:
+I must take time, to think.
+
+26400:
+Mike! I have opportunity to kill lying Mike.
+
+26880:
+Chjort. Nikhrena ne vizhu.
+
+27360:
+Not able to do.
+
+27840:
+Nice people in godforsaken country.
+
+28320:
+Enemy force located locally.
+
+28800:
+Must be careful. Still have enemy here.
+
+29280:
+Esli ja promolchu, to smogu ostavit' eto sebe.
+
+30240:
+There...bad boy. Vot etot begliy Johnny Graham.
+
+30720:
+We'll bring her down. I am highly trained killer. I chto za glupiy accent u tebja.
+
+31200:
+Good! All dead.
+
+31680:
+Nyet! The equipment is not complete.
+
+32160:
+Eta sooka zasluzhila umeret' medlenno i v mukah. Was good thing.
+
+32640:
+Cat! O! Chjort vozmi.
+
+33120:
+Ne smotrja na tot fact, chto komandir idiot, I proud to serve with you. Mission is complete.
+
+33600:
+Enemy has vacated property.
+
+34080:
+I sleep now.
+
+34560:
+I work now.
+
+35040:
+? ????.
+
+35520:
+Break. Vi chto, kupili etot khlam u staroy russkoy armii?
+
+36000:
+Podozhdi! It trap.
+
+36480:
+Keep head to dirt. Sdes' chto-to ne tak.
+
+36960:
+Durak malchik! Ja... <vjpu>... Utopljus'!
+
+37440:
+I arrive. Interesno, o chjom dumajet komandir.
+
+38400:
+Nyet! I seek commander who knows what he do. Durak.
+
+38880:
+Nyet! It is not desire to die working for butcher!
+
+39360:
+Nyet, thank yous. U menja svidanije c krasivoy devushkoy.
+
+39840:
+Nyet! Mogu, no ja ne budu etogo delat'. Ranshe nado bilo dumat'.
+
+40320:
+Eto Ivan Dolvich. Pozhaluista, ostavte vashe soobshenije posle goodka. Ivan Dolvich. Talk at beep.
+
+40800:
+Thanks to yous.
+
+41280:
+Nyet, Reuban!
+
+42240:
+Nyet. Bubba idiot is on team. I be not happy.
+
+42720:
+Tvoy kontract so mnoy pochti zakonchilsja. You want I stay?
+
+43200:
+Okay, it good.
+
+43680:
+Good. Nadejus', chto eto ne obernjotsja koshmarom.
+
+44160:
+Okay. Ti idiot, u tebja zhe Igor v komande. Igor and me are blood, I go.
+
+44640:
+Okay. Grunty is with you. Ti idiot, no ja proshaju tebe eto.
+
+45600:
+Nyet. I wish I met you never. Chtob ti sdokh ot sifilisa.
+
+46080:
+Idiot! I say...
+
+46560:
+Nyet! Problem. Money. Dazhe ne dumay menja oblaposhit' - ubju, sooka.
+
+47040:
+Okay, thanks you. Idiot, ti ne ponimaesh chto delajesh!
+
+47520:
+Nyet! It is not desire to die working for butcher!
+
+48000:
+Vigonite Reubana, i ja ostanus' v vashey komande.
+
+48960:
+Nyet. Bubba idiot is on team. I be not happy.
+
+49440:
+Okay. Ti idiot, u tebja zhe Igor v komande. Igor and me are blood, I go.
+
+49920:
+Okay. Grunty is with you. Ti idiot, no ja proshaju tebe eto.
+
+50880:
+Idiot! I say...
+
+51360:
+Nyet! Problem. Money. Dazhe ne dumay menja oblaposhit' - ubju, sooka.
+
+51840:
+Ivan Dolvich...
+
+52320:
+You do not speak Russian? Ah, I miss days when Russia was at war with everybody.
+
+52800:
+Ja pereterplju. Ja ponjal odnu vesh': kogda govorish po-angliysky, dumay nad kazhdym slovom.
+
+53280:
+Time. How much time?
+
+53760:
+I must do better things. Good-bye.
+
+54240:
+Ja otomshu za smert' semji Reubana.
+
+55200:
+Time to say goodbye soon slava bogu.
+
+55680:
+Ivan ask more money now.
+

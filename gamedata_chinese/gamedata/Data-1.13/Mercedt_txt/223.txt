@@ -1,8 +1,8 @@
 0:
-敌兵进入视野，做好准备。
+敌兵进入视野！尚未发现我。
 
 480:
-敌兵进入视野！尚未发现我。
+发现目标一名！
 
 960:
 我这里快应付不过来了！
@@ -17,7 +17,7 @@
 哟嗬！
 
 2880:
-我不能肯定这是什么……有问题
+地面很可疑。
 
 3360:
 哟嗬！
@@ -43,11 +43,14 @@
 6720:
 需要帮助……我快晕倒了！
 
+7200:
+Mike... Mike... 回答我，Mike... 唉！
+
 9120:
 操！我的枪不顶用了！
 
 9600:
-火力太猛了！我要增加一点火力。
+承受敌军火力！
 
 10080:
 这下被整惨了！
@@ -62,16 +65,16 @@
 我在流血……
 
 12000:
-我不玩了！
+快不能呼吸了……
 
 12480:
 快不能呼吸了……
 
 12960:
-再来吃我的枪子啊！
+都这么好对付就好了。
 
 13440:
-都这么好对付就好了。
+再来吃我的枪子啊！
 
 13920:
 杀了Larry能让我重回正轨。
@@ -92,28 +95,28 @@ Mike，Mike……回答我，Mike……啊，天……
 那种事情我可不干！
 
 17760:
-你活该！
+我该买本书的。
 
 18240:
 再来吃我的枪子啊！
 
 18720:
-我要让这家伙知道跟我搞砸的后果！
+我会让他为之前对我做的事付出代价！
 
 19200:
-我们像土匪！
+算了吧……你压根没认真对待我。
 
 19680:
 这就是你的全部实力了？
 
 20160:
-这个地方会被刮走！
+我不玩了！
 
 20640:
 这玩样就是个破烂！难道这里没有啥能用的了么？
 
 22080:
-认为自己很幸运...
+不……我还是觉得不太喜欢。
 
 22560:
 把你的手拿开！
@@ -124,14 +127,17 @@ Mike，Mike……回答我，Mike……啊，天……
 23520:
 看看，看看！这就是我那废物老哥，Larry.
 
+24480:
+Mike是我的偶像！
+
 25920:
-我们试图去解决它。没有发生...不要打扰我了。
+我们试图去解决它。没有发生...不要再打扰我了。
 
 26400:
 该死……那是Mike.我不愿意那么做……Mike是我的偶像！
 
 26880:
-我在这里！
+我在这儿！
 
 27360:
 这类事情我可不擅长！
@@ -143,7 +149,7 @@ Mike，Mike……回答我，Mike……啊，天……
 该是你睁眼看看清楚的时候了！
 
 28800:
-我想这里周围能找到最后一个。
+要都这么容易打发就好了。
 
 29760:
 再来吃我的枪子啊！
@@ -152,13 +158,13 @@ Mike，Mike……回答我，Mike……啊，天……
 我干活，你放心。
 
 31200:
-丫...我们赢了！
+耶...我们办到了！
 
 31680:
-我有点担心......
+我有点担心...
 
 32160:
-她死了吗？
+她死了？
 
 32640:
 哟嗬！
@@ -167,7 +173,7 @@ Mike，Mike……回答我，Mike……啊，天……
 有我在，他们根本没得玩！
 
 33600:
-这是他们最后一组。
+要都这么容易打发就好了。
 
 34080:
 别再烦我。
@@ -176,97 +182,104 @@ Mike，Mike……回答我，Mike……啊，天……
 算你走运！继续前进！
 
 35040:
-我该买本书的。
+我该买本书慢慢看。
 
 35520:
 这玩样就是个破烂！难道这里没有啥能用的了么？
 
 36000:
-这地方看起来可疑......
+我觉得有些奇怪……有些事情不对头。
 
 36480:
-这地方看起来可疑......
+我觉得有些奇怪……有些事情不对头。
 
 36960:
 喘不上气……我要淹……死了！
 
 37440:
-我需要更确切的指示！ 
+我需要更确切的指示！
 
 38400:
-I'd never join up with someone ? like you!
+我从不加入像你们这样的队伍！
 
 38880:
-Forget this... You're not taking me serious enough.
+算了吧... 你没有认真的考虑过我。
 
 39360:
-You're a loser!
+你是个屌丝！
 
 39840:
-I'm outta here! You can't even get a decent haircut for that kind of money.
+我要离开了！这点钱理个发都不够。
 
 40320:
-Well... Well... Busy, busy! I've got too many options. I'll join up with the team willing to put up the most cash, right now!
+嗯... 嗯... 忙，忙！我有太多的选择了！我现在要加入付钱最多的队伍！
 
 40800:
-It wasn't that bad working for you. I guess if you need my services again you can call.
+为你工作并不坏。我想如果你需要可以再次找我。
 
 41280:
-Get rid of my brother, pill-head Larry, or I'm ? out of here!
+踢掉我老哥，瘾君子Larry，或者让我走！
 
 42720:
-Your amount was matched. We'll go again. This time make me proud!
+金额无误。我们要走了。现在我很自豪！
 
 43200:
-Fortunate for you, money is tight right now... So, I'll take it!
+你运气不错，现在手头很紧... 所以我干了！
 
 43680:
-I'll join even though you don't deserve me!
+我参加即使你还不值得我的服务！
+
+44160:
+我有点担心。Mike说你很快就要裁员了。
 
 45600:
-What about the money you already owe me? You give me three times what you you owe up-front and I'll go back!
+你欠我的钱怎么办？你得给我三倍欠款我才回来！
 
 46080:
-Try listening...
+正在听...
 
 46560:
-You're stiffing a Roachburn! I thought you might want to be aware of that!
+你正在欺骗Roachburn！我想你得意识到这一点！
 
 47040:
-You stiffed a Roachburn, and now that I have the money... This Roachburn's stiffing you!
+你欺骗了Roachburn，现在我有钱了... 这次Roachburn要骗你了！
 
 47520:
-You're not even worth listening to anymore!
+你根本不值得我接听！
 
 48000:
-Get rid of my brother, pill-head Larry, or I'm ? out of here!
+踢掉我老哥，瘾君子Larry，或者让我走！
+
+49440:
+我有点担心。Mike说你很快就要裁员了。
 
 50880:
-Try listening...
+正在听...
 
 51360:
-Had you really wanted me, you would have bid a little higher. So, too bad!
+如果你真的想要我，你应该出价再高一点。所以，太可惜了！
 
 51840:
-I'm the best man for the job!
+我是最好的人选！
 
 52320:
-My father wasn't badmouthing me, was he?
+我老爹不会说我的坏话的，是吧？
 
 52800:
-I've got a bigger mouth than my father, and I'm a heck of a lot younger.
+我比我老爹还大嘴巴，我他妈的还太年轻了。
 
 53280:
-How you planning on paying me?
+你怎么向我付钱？
 
 53760:
-Don't bug me no more!
+不要打扰我！
 
 54240:
-I don't work with my brother, 'anything but a placebo' Larry!
+我不和我老哥，瘾君子Larry一起干活！
 
 55200:
-It's a good possibility. I'll need some time to weigh all my options.
+这是个很好的机会。我需要一些时间权衡我的选择。
 
 55680:
-You seem to be a little quick with the axe. I want double my regular salary!
+你看上去要裁员了。我要双倍工资！
+

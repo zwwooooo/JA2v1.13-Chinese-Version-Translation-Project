@@ -1,0 +1,288 @@
+0:
+Adversaries.
+
+480:
+At last. With any luck there'll be a couple of males to shoot.
+
+960:
+I got my hands full.
+
+1440:
+Another one.
+
+1920:
+There's something about it that reminds me of Lynx.
+
+2400:
+Wonder what kind of pet these things would make.
+
+2880:
+Thought I heard something... could be wrong.
+
+3360:
+Ouf, those things even smell like Lynx, especially in the morning.
+
+3840:
+I'm ready... for whatever.
+
+4320:
+Maybe I'll get to kill a cock-a-roach.
+
+4800:
+I just love the attention.
+
+5280:
+Something right there.
+
+5760:
+Here.
+
+6240:
+Need lead.
+
+6720:
+Let me die! It'll end the misery.
+
+8640:
+Why do I bother?
+
+9120:
+Firearm's jammed!
+
+9600:
+Give me the chance, and you're dead meat.
+
+10080:
+That was refreshing.
+
+10560:
+You call that close?
+
+11040:
+You can't be serious...
+
+11520:
+I caught one.
+
+12000:
+Want some down time.
+
+12480:
+Panting like a rabid dog.
+
+12960:
+Much deserved.
+
+13440:
+Piss off!
+
+13920:
+I can't believe I wasted my life on that man. Just looking at Lynx makes me vomit.
+
+14880:
+Lynx deserves to die... slowly... with me watching the whole thing, from the beginning to its glorious conclusion.
+
+15360:
+I'd rather have blown away Lynx, but Mike makes a fine second choice.
+
+15840:
+Doubt there's an ear to collect.
+
+16320:
+I'm fine. Just don't piss me off!
+
+16800:
+I could use something to do.
+
+17280:
+No.
+
+17760:
+I did my job. But there were things about her I admired.
+
+18240:
+I have absolutely nothing against females, especially mothers, other than the fact that they give birth to males.
+
+18720:
+What do you expect from one of them.
+
+19200:
+I'm getting depressed. I should just go on a rampage and shoot up the place.
+
+19680:
+This whole group makes me cringe. Killing a couple might put a smile on my face.
+
+20160:
+Check the skies!
+
+20640:
+Crap! Crap! Crap! If I got anything decent in terms of equipment, I'd know it would be a mistake.
+
+21120:
+Pick one, anyone. I feel like killing somebody.
+
+21600:
+Let me make it clear, I hate everybody. And I do mean everybody!
+
+22080:
+Pinch me!
+
+22560:
+Brain surgeon, for sure.
+
+23040:
+What a freakin' shock that was.
+
+23520:
+You brought that son-of-a-bitch, Lynx, down here. Well, let me make my feelings known. He's a two-timer who's only alive because I haven't yet figured out the most gratifying way to kill him.
+
+25920:
+Ya. Like I'm in a rush!
+
+26400:
+Mike... He'll do!
+
+26880:
+I can't see squat!
+
+27360:
+Boring, boring, boring.
+
+27840:
+He can consider himself lucky... I'll let him live.
+
+28320:
+All right! I'm anticipating fun. We've got playmates in this section.
+
+28800:
+Pisses me off! I haven't got all day to look for 'em. Bunch of wieners.
+
+29760:
+I don't carry it around just to look good, jackass!
+
+30240:
+I'm sure that's Joey Graham. I say we castrate him. Put an end to his wandering ways.
+
+30720:
+Look pal, don't worry about the welcoming committee. Let's just get to work. I'm a professional here. Show me some targets.
+
+31200:
+That's the end of them.
+
+31680:
+You know, why is it that when I get something from a man, there's always less in the box than I expected?
+
+32160:
+I bet Lynx did her. It would explain why she turned out to be bitter, cruel and heartless. Did her a favor. Put her out of her misery. Not much else you can do.
+
+32640:
+Here pussycat. I got some catnip for ya.
+
+33120:
+Yeah! You know, we did all right. Nothing like a woman and a gun, I tell you. Hell hath no fury! You remember that.
+
+33600:
+They pulled out early. Typical men.
+
+34080:
+I'm feeling very irritable and unproductive. I'm going to get some sleep.
+
+34560:
+I'm up and back at the grindstone.
+
+35040:
+Same here.
+
+35520:
+Where'd this stuff come from? A garage sale? It's not working.
+
+36000:
+Hmm... it's rigged.
+
+36480:
+That looks more suspicious than a happy man.
+
+36960:
+Just let me drown... Timing couldn't be better.
+
+37440:
+Yeah! I made it. So, what now?
+
+38400:
+Ya, right. Like you have the slightest clue about what you're doing! Take a hike!
+
+39360:
+Take a long walk down a short pier. I'm doing my nails.
+
+39840:
+Ya, like I've been waiting around for you. I got plans!
+
+40320:
+Buzz Garneau is not here now. Say what you must. Be advised that any male callers will die long before they ever hear from me.
+
+40800:
+Whatever.
+
+41280:
+I ain't going to be a part of it, and you don't really want me to be. Otherwise, Lynx is a deadman.
+
+42240:
+Think again. I could vomit just imagining spending more time with Lynx. As a matter of fact, I think I will... vomit, that is.
+
+42720:
+So what's the deal? You want me to stick around, or what?
+
+43200:
+Okay, so I'm staying.
+
+43680:
+Yeah... I guess.
+
+45600:
+It's been loads and loads of fun, but now it's time to go home and program my VCR.
+
+46080:
+Listen closely. I told you...
+
+46560:
+Can't see how. You'll probably have to sell your body to get the cash to pay me, and I haven't got that kind of time.
+
+47040:
+Like I'll even remember you.
+
+48000:
+I ain't going to be a part of it, and you don't really want me to be. Otherwise, Lynx is a deadman.
+
+48960:
+Think again. I could vomit just imagining spending more time with Lynx. As a matter of fact, I think I will... vomit, that is.
+
+50880:
+Listen closely. I told you...
+
+51360:
+Can't see how. You'll probably have to sell your body to get the cash to pay me, and I haven't got that kind of time.
+
+51840:
+I'm listening...
+
+52320:
+Did you catch my marksmanship? I'm skilled in all types of weapons.
+
+52800:
+I'm waiting.
+
+53280:
+What are you willing to commit to?
+
+53760:
+I haven't got time for this bullshit!
+
+54240:
+I'll go... Just keep me away from that whore-son, Lynx, and men in general.
+
+55200:
+Just so you know, this contract is nearly over. Consider yourself informed.
+
+55680:
+What can I say? I'm justified asking for more.
+

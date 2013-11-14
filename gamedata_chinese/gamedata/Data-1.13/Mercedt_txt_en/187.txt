@@ -1,0 +1,285 @@
+0:
+Stumbled upon a lackey.
+
+480:
+I'm one up on an enemy. I should waste him, before turkey realizes I'm here.
+
+960:
+Got a couple of turkeys.
+
+1440:
+I'm one up on an enemy.
+
+1920:
+Had I not seen it with my own eyes, I would never have believed.
+
+2400:
+If only we had gotten here a minute sooner...
+
+2880:
+We can hear you! We know your precise location!
+
+3360:
+I'm getting an uneasy feeling.
+
+3840:
+Stay alert, I'm getting an uneasy feeling about this area.
+
+4320:
+Stay alert!
+
+4800:
+Got a couple of turkeys.
+
+5280:
+Found something over here.
+
+5760:
+Something over here.
+
+6240:
+I need a resupply of ammo.
+
+6720:
+I'm not in any pain. It's got me worried. Better send a doctor... quick.
+
+7200:
+Ah. Poor Wally. Probably never saw what hit him.
+
+8640:
+I'm puzzled.
+
+9120:
+A bullet's stuck in the chamber of my gun!
+
+9600:
+It walloped!
+
+10080:
+Aye...
+
+10560:
+Some turkey has opened fire on me!
+
+11040:
+Use the other side of your brain, laddie.
+
+11520:
+Loosing blood!
+
+12000:
+I's getting a little weary...
+
+12480:
+This heat is gonna do me in.
+
+12960:
+Child's play!
+
+13440:
+Child's play!
+
+15360:
+I want a piece of him!
+
+15840:
+This should get me some attention around here!
+
+16320:
+This heat is gonna do me in.
+
+16800:
+Great work!
+
+17280:
+This kind of stuff won't make me a legend!
+
+17760:
+A little dictator, a tyrant. Had I not seen it with my own eyes, I would never have believed what you did.
+
+18240:
+It was an experience I will take to my grave, lad.
+
+18720:
+Rather low, laddie.
+
+19200:
+Just tell me - what idiot put you in charge?
+
+19680:
+I'll tell you whatever you want to hear, just don't get me any grief over this kind of stuff.
+
+20160:
+It walloped!
+
+20640:
+This thing is a dud!
+
+21120:
+No! Its not a girdle... it's a French back and kidney supporter!
+
+21600:
+I find it strange, lad. I hear the birds - but I never see 'em.
+
+22080:
+That was quite a piece of work!
+
+22560:
+We've been had, lad. We won't be able to win this one.
+
+23040:
+Aye, don't we ever had a chance.
+
+24480:
+Granted. Old Wally can't hit the side of tenement, but he deserves to be treated batter than that.
+
+25920:
+I've wrote it all down. I'll be back to you with an answer before you know it, lad.
+
+26400:
+I've got somebody here who wants to die! I should be able to handle him.
+
+26880:
+It was downright rude!
+
+27360:
+I'm afraid not.
+
+27840:
+Ooh, you have the touch of the goddess.
+
+28320:
+Time to take off your pocket protector, laddie!
+
+28800:
+We are not planning on taking prisoners!
+
+29280:
+If luck remains with us, this one will be ours.
+
+29760:
+This should get me some attention around here!
+
+30240:
+Over here.
+
+30720:
+Are you the ringmaster of this circus?
+
+31200:
+This section belongs to us now.
+
+31680:
+We was ripped off, laddie!
+
+32160:
+It was all rather personal.
+
+32640:
+I'm one up on an enemy.
+
+33120:
+There be nothing left but the parade, lad.
+
+33600:
+Enough to teach you a lesson!
+
+34080:
+Aye.
+
+34560:
+It would be easy.
+
+35040:
+I told you!
+
+35520:
+This thing is a dud!
+
+36000:
+Booby trap! This is definitely booby trapped!
+
+36480:
+Stay alert ladies. The area appears hazardous to yer health.
+
+36960:
+Too tired... to reach shore...
+
+37440:
+I think we should get going soon.
+
+38400:
+I'm not sure I reall believe stories about what you did, but I decline anyways.
+
+38880:
+I'm afraid not. I'm feeling slightly under the weather today. It's a rather nasty virus <cough> and I've got my fingers crossed that it passes post-haste.
+
+39360:
+I was there, it was summer. The air was fresh and the landscape beautiful. And some impaired idiot had put you in charge!
+
+39840:
+I'm afraid it won't be you I'm joining, lad.
+
+40320:
+I'll be back to you with an answer before you know it, lad.
+
+40800:
+I'll get other offers, laddie. I've spent enough time with you.
+
+42720:
+I remain interested, laddie. You want me?
+
+43200:
+It's obvious you really want me, so I'll do you the favor and stick it out.
+
+43680:
+It'll be great to see some of the guys again!
+
+44160:
+Wally beats a hand, lad.
+
+45600:
+You're an impaired idiot, lad. I wouldn't repeat my last experience with you for all the tea in China!
+
+46080:
+I told you!
+
+46560:
+You be lackin' the funds, lad.
+
+47040:
+It was unexpected, but I won't hold the grudge, lad.
+
+47520:
+Don't cry for me! I'm more than happy to leave this bargain basement operation.
+
+48000:
+Wally beats a hand, lad.
+
+50880:
+I told you!
+
+51360:
+You call that an offer?
+
+51840:
+Aye, I have my ear to the information pipeline, lad. And with me on your team, you'll have your ear to it, too!
+
+52320:
+I hear things here and there, lad. For instance, I bet you didn't know Lynx and Buzz got married in the Dominican Republic last month.
+
+52800:
+So... you want to know what people say, when you're not around? Well...
+
+53280:
+I'm still unable to give you an answer, lad. With a couple of offers on the burner, I'm asking for a little something extra to engage me.
+
+53760:
+Not to ask for me again! Now I'm telling you, leave me alone!
+
+55200:
+I'll get other offers, laddie. I've spent enough time with you.
+
+55680:
+I'm going to give everyone another chance to increase my motivation for joining.
+

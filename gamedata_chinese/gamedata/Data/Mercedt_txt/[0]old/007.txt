@@ -1,0 +1,308 @@
+0:
+敌军士兵！
+
+480:
+Davno pora.。发现敌人。
+
+960:
+Tchjort vozmi. U menja problemy.
+
+1440:
+可怕的畜生！
+
+1920:
+狗屎！Eto nasekomoe vseljajet strakh v ljudjakh.！
+
+2400:
+噢不。那群畜生在这里开了宴会的。
+
+2880:
+呵！有动静了。
+
+3360:
+啊！Ot etikh tvarei vonjajet navozom.。
+
+3840:
+准备攻击。
+
+4320:
+我认为有些可怕的畜生在这里。
+
+4800:
+Eto ochen' neprijatno!
+
+5280:
+看。
+
+5760:
+我对结果很好奇。
+
+6240:
+该死！我的弹药用光了。
+
+6720:
+ЧЖРТ！医护兵！
+
+7200:
+Ja by hotel, chto by ti byl so mnoy seychas, Igor, mir prakhu tvoemu, tovarisch.
+
+7680:
+Grunty, ja uvazhal tebja, ti kompaneijskij paren'. Ja budu skuchat' po tebe, moy drug.
+
+8640:
+Programmiry ne uchitivali etu situaciju.
+
+9120:
+该死！枪卡壳了。
+
+9600:
+Oni opredeljonno reshili ubit' Ivana Groznogo.
+
+10080:
+Ja zapinaju ego nogami.
+
+10560:
+很近了！
+
+11040:
+我拒绝射击。
+
+11520:
+我在流血。
+
+12000:
+Mne nuzhno pospat'。好累啊。
+
+12480:
+我呼吸困难了。
+
+12960:
+再见。
+
+13440:
+好耶！ja ubil etu tvar'。
+
+13920:
+Reubana mama tancevala na stolakh v Odesse.
+
+14880:
+白痴！ja uchus' nenavidet' Bubba, a on v polnoy nenavisti i nevedenii.。
+
+15360:
+Mike prinadlezhal mne i ja ubil ego。Mike，你个大骗子！
+
+15840:
+Poetomu moy plemjannik alcogolic.
+
+16800:
+完成。
+
+17280:
+不！
+
+17760:
+好！Ja ubil etu sooku！
+
+18240:
+感谢上帝！Mamochka etih tvarei nakonec-to sdohla。
+
+18720:
+Ja nikogda ne rabotal s takim idiotom.
+
+19200:
+Eto samaya khrenovaya rabota v moyei zhisni, komandir - idiot.
+
+19680:
+Ja bolshe ne uvazhaju etikh ljudey.
+
+20160:
+注意天上！Protivnik nastupaet s neba.
+
+20640:
+危险的劣质装备。Prosto govno!
+
+22080:
+我努力着。Ja mnogo rabotayu.
+
+22560:
+Moy komandir idiot. I mne nado pomnit' ob etom.
+
+23040:
+大惊喜。Ti idiot.
+
+23520:
+Ja zametil etogo bezumnogo Reubana.
+
+24480:
+Molodec, plemjannik. 不愧是Dolvich家的Igor！
+
+24960:
+Grunty是个好佣兵！
+
+25920:
+我需要时间，好好想想。
+
+26400:
+Mike！我终于有机会杀掉骗子Mike了。
+
+26880:
+Chjort. Nikhrena ne vizhu.
+
+27360:
+做不到。
+
+27840:
+国家破败，人民很善良。
+
+28320:
+敌军位置确认。
+
+28800:
+要小心。这儿还有敌人。
+
+29280:
+Esli ja promolchu, to smogu ostavit' eto sebe.
+
+30240:
+那儿……坏孩子。Vot etot begliy Johnny Graham.
+
+30720:
+我们会除掉她的。我是个专业杀手。I chto za glupiy accent u tebja.
+
+31200:
+好！都解决了。
+
+31680:
+不！装备不正常了。
+
+32160:
+Eta sooka zasluzhila umeret' medlenno i v mukah. 是个好东西。
+
+32640:
+猫！О！Chjort vozmi.
+
+33120:
+Ne smotrja na tot fact, chto komandir idiot, 为你工作是我的荣幸。任务完成。
+
+33600:
+敌人有休假的权利。
+
+34080:
+我要睡了。
+
+34560:
+继续工作。
+
+35040:
+Я ТОЖЕ
+
+35520:
+等等。Vi chto, kupili etot khlam u staroy russkoy armii?
+
+36000:
+Podozhdi! 有陷阱。
+
+36480:
+保持伪装。Sdes' chto-to ne tak.
+
+36960:
+Durak malchik! Ja... <vjpu>... Utopljus'!
+
+37440:
+我到了。Interesno, o chjom dumajet komandir.
+
+38400:
+不！我需要一个清醒的指挥官。Durak.
+
+38880:
+不！我不想为了替屠夫卖命而送死！
+
+39360:
+不，谢谢你。U menja svidanije c krasivoy devushkoy.
+
+39840:
+不！Mogu, no ja ne budu etogo delat'. Ranshe nado bilo dumat'.
+
+40320:
+Eto Ivan Dolvich. Pozhaluista, ostavte vashe soobshenije posle goodka. Ivan Dolvich。听到“哔”声请留言。
+
+40800:
+谢谢你。
+
+41280:
+Nyet, Reuban!
+
+42240:
+不。Bubba idiot 在队伍里。我不乐意。
+
+42720:
+Tvoy kontract so mnoy pochti zakonchilsja. 想要我留下吗？
+
+43200:
+好的，这很好。
+
+43680:
+好。Nadejus', chto eto ne obernjotsja koshmarom.
+
+44160:
+好的。Ti idiot, u tebja zhe Igor v komande. Igor是我的血亲，我去。
+
+44640:
+好的。Grunty跟着你。Ti idiot, no ja proshaju tebe eto.
+
+45600:
+不。真希望我从没遇见你。Chtob ti sdokh ot sifilisa.
+
+46080:
+Idiot! 我说……
+
+46560:
+不！问题。钱。Dazhe ne dumay menja oblaposhit' - ubju, sooka.
+
+47040:
+好的，谢谢你。Idiot, ti ne ponimaesh chto delajesh!
+
+47520:
+不！我不想为了替屠夫卖命而送死！
+
+48000:
+Vigonite Reubana, i ja ostanus' v vashey komande.
+
+48960:
+不。Bubba idiot 在队伍里。我不乐意。
+
+49440:
+好的。Ti idiot, u tebja zhe Igor v komande. Igor是我的血亲，我去。
+
+49920:
+好的。Grunty跟着你。Ti idiot, no ja proshaju tebe eto.
+
+50880:
+Idiot! 我说……
+
+51360:
+不！问题。钱。Dazhe ne dumay menja oblaposhit' - ubju, sooka.
+
+51840:
+Ivan Dolvich。
+
+52320:
+你不会说俄语吗？啊，我真怀念在苏联和兄弟们一起作战的日子。
+
+52800:
+Ja pereterplju. Ja ponjal odnu vesh': kogda govorish po-angliysky, dumay nad kazhdym slovom.
+
+53280:
+时间。多长时间？
+
+53760:
+我要去接更好的工作了。再见
+
+54240:
+Ja otomshu za smert' semji Reubana.
+
+55200:
+是时候说再见了slava bogu.
+
+55680:
+Ivan现在要求增加报酬。

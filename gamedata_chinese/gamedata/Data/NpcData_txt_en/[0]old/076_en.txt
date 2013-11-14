@@ -1,0 +1,78 @@
+0:
+What? What do you want from me? Oh please, whatever you do, don't shoot. I... I will not cause you any problems.
+
+480:
+Oh, good to see you again.
+
+960:
+I wish I could leave this country, at least until the war is over. All this, these guns, they do us no good.
+
+1440:
+Alma is good city! Don't let all this war fool you. It is home to many families, and they all want peace. I know this.
+
+1920:
+Oh, no. I have no need of it, but thank you.
+
+2400:
+I will say this, Arulco is good country, but it has not been safe for many many years. It is not just the Queen, and you never heard me say that, but the company she keeps. I can say no more of it.
+
+2880:
+Please, I am no threat to you. None.
+
+3360:
+Not in my condition. I can't.
+
+3840:
+I... think... I'm dying.
+
+4320:
+You have much to do, and I do not wish to stand in your way.
+
+4800:
+You are so kind to me.
+
+5280:
+Why me? What did I do?
+
+5760:
+It is not safe to talk now, not safe at all.
+
+6240:
+I... I know it's not your job here, but I don't know who else to ask. The Queen, well, she promises, but we have seen nothing, and just last night, another boy died. A baby really, only five years old.
+
+6720:
+Oh, what am I thinking? You haven't even heard. How could you? It's everything to us, the people of Alma. Our children, four of them, have been killed by the Bloodcats, and we... well, what can we do?
+
+7200:
+We try to stop them, and it causes even more death! But we were thinking that perhaps you could help us. See, they have a lair east of my house. And, perhaps you could, well, kill them for us. It is our hope.
+
+7680:
+The Bloodcats are vicious. They have EARNED their name. And lately, they have lost their fear of things human, drawing closer and closer to town. There is nothing we can do. Without your help, that is.
+
+8160:
+The people of Alma will be so grateful to you! I can hardly wait to tell them what you've done for us! It's a small piece of freedom, yes, but it means everything to us, to our children. Somehow, we will reward you.
+
+8640:
+I had hopes for you, you know. But, I suppose you haven't heard. Another boy died. Bloodcats got him. Eventually, the people of Alma won't worry about Bloodcats. We'll all be dead. But it's not too late, you know.
+
+9120:
+People are talking about you, about the Bloodcats.
+
+9600:
+It's not safe to stay near Alma. The Bloodcats are getting braver every day.
+
+10080:
+The Queen is hardly our worry. It's the Bloodcats that cause our fear. We've tried to kill them, but it was the hunters who died instead.
+
+10560:
+Fine, I'll speak my mind, then. If these hell cats aren't killed, we're all in serious trouble, and not just the people of Alma.
+
+11040:
+Please, you have nothing to gain by scaring me. Everyone here lives in fear of the Bloodcats. Can't you be more kind?
+
+11520:
+It is kind of you, and unexpected.
+
+12000:
+It is not your money I need, it is your help.
+

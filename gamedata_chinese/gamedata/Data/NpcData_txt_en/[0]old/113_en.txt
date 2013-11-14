@@ -1,0 +1,114 @@
+0:
+Name's Jake. Jake Cameron. Careful where you step. Got all kinds of crap around here.
+
+480:
+Back to see Jake again, huh?
+
+960:
+Always say, one man's junk is another man's treasure.
+
+1440:
+So ya gonna do the Queen, huh. Ya got my backing.
+
+1920:
+No. Got enough junk.
+
+2400:
+Well... Ya know how it goes. Ya start with a couple of things and next thing ya know...
+
+2880:
+You got a rat in your pants? Don't even think of pushing me around.
+
+3360:
+What? And leave here? No, I won't do it.
+
+3840:
+I need a nurse... now.
+
+4320:
+Well... Take your time. I ain't gonna be far.
+
+4800:
+Tell me what ya want first.
+
+5280:
+Have yourself a look. Lemme know if anything catches your fancy.
+
+5760:
+Take your time.
+
+6240:
+Quite the collection, huh?
+
+6720:
+You're thinking we'll do some kind of swap here, huh?
+
+7200:
+Guess you'll be wanting to sell this stuff, right?
+
+7680:
+All righty. Let me have a look.
+
+8160:
+Sorry. I only deal in junk, if you know what I mean.
+
+8640:
+Junk, I can move. Trash, I can't. I'm runnin' a junkyard, not a landfill.
+
+9120:
+Who-ee. Can't believe ya bothered carrying some of this stuff around. Can't do much better than this.
+
+9600:
+Yep, I can move this. I'll give you a good price.
+
+10080:
+Not really enough here for a fair swap, if you know what I mean.
+
+10560:
+She's a done deal. Need anything else?
+
+11040:
+That's good. You got some change coming.
+
+11520:
+All righty. You need stuff, you know where to come.
+
+12000:
+I'm always getting new stuff. Maybe come back later.
+
+12480:
+Hey! You left stuff here.
+
+12960:
+Ya don't mess with the junkyard dog.
+
+13440:
+Have ya met my son, Kevin, yet? He helps me out around here with the business. He's a good boy, that Kevin.
+
+13920:
+Ya ain't too far from the capital, ya know. Ya marching towards her. You show Deidranna good. Ya kick her ass for all of us.
+
+14400:
+Take a look around. Got plenty of stuff. A lot of abandoned vehicles. No one's had much use for them since the Queen began rationing fuel. Just sorta sat around 'til they turned to junk and got hauled down here.
+
+14880:
+By the way, you guys wouldn't know nothing about a fellow named Breeham Druz who lived in Balime, would ya? I haven't heard from him since they put him in prison in Tixa. Well... If ya see him, you tell him Jake was asking.
+
+15360:
+I see ya got Breeham Druz workin' with ya. He's a good lad. His parents could use a couple of bullets to the head though. I guess you guys are trustworthy after all...
+
+15840:
+Ya joined up with the soldiers for hire, huh Breeham? Can't say I blame ya. If I was any younger, I'd be joining up myself.
+
+16320:
+Ya know, if you're looking for fuel, I'd be one of the few places in the country where ya can get it. Got myself a nice little black market going.
+
+16800:
+Hey, you wanna hurry it up? I'm just about set to shut things down here.
+
+17280:
+Seems ya got other problems right now, pal. Like bullets!
+
+17760:
+Huh. You work better than duct tape.
+

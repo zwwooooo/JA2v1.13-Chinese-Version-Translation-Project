@@ -1,0 +1,315 @@
+0:
+Encounter.
+
+480:
+Time to earn our pay.
+
+960:
+I've got a situation.
+
+1440:
+More head lice.
+
+1920:
+Looks like huge head lice. Though I doubt there's a treatment for it.
+
+2400:
+More evidence of our lice problem.
+
+2880:
+That sound didn't come from any of us.
+
+3360:
+In my opinion, that's the smell of the lice.
+
+3840:
+Getting bad vibes around here.
+
+4320:
+Can't get those giant head lice off my mind. Well, you know what I mean.
+
+4800:
+I don't know if I can handle these myself!
+
+5280:
+Is that worth picking up?
+
+5760:
+Worth something, maybe?
+
+6240:
+Ammo time.
+
+6720:
+Don't know if I can... can survive like this.
+
+8160:
+I've lost friends before in combat of one kind or another. But never a woman. You were a special woman, Meltdown. I'm going to miss you.
+
+8640:
+What was I doing again?
+
+9120:
+I've got a jammed gun here.
+
+9600:
+I'm being blitzed!
+
+10080:
+I've had clients rough me up far worse than this.
+
+10560:
+That kind of risk comes with the territory.
+
+11040:
+Possiblities are slim to none.
+
+11520:
+Getting blood on my uniform.
+
+12000:
+I'm going to start making mistakes unless I'm allowed to sleep.
+
+12480:
+I have to slow down a bit.
+
+12960:
+Target is down.
+
+13440:
+Scratch a head lice.
+
+13920:
+Static is infantile. He's a danger to this outfit.
+
+14400:
+Larry Roachburn should not be allowed to handle a weapon any more than a child should.
+
+14880:
+Nails is a renegade. Renegades are only out for themselves. They're entirely untrustworthy. He doesn't belong here.
+
+15360:
+I got Mike. He wasn't as tough as he liked to think.
+
+15840:
+Why do people have such a morbid fascination with this? It's disgusting and tragic.
+
+16800:
+Time to move on to something else.
+
+17280:
+Absolutely not.
+
+17760:
+Let's hope there are no more like her...though I doubt it, I have dated a few.
+
+18240:
+I hope that puts an end to the head lice.
+
+18720:
+That lout has no business among civilized men and women.
+
+19200:
+I don't approve of the way this outfit's being run. And I won't stand for much more of it.
+
+19680:
+Most of these mercenaries aren't professionals. They're stupid, brutish, and too interested in racking up a high body count.
+
+20160:
+They've called in their pathetic air force!
+
+20640:
+This equipment is substandard. Expect a substandard job.
+
+21120:
+Take comfort in my presence. I am capable of leading us through anything.
+
+21600:
+Americans think they're such hot shit! They'll probably rack up more gunfire victims in any one of their major cities than we will today.
+
+22080:
+Never too old to learn.
+
+22560:
+I doubt that stratagem will bear close scrutiny.
+
+23040:
+That result was entirely foreseeable.
+
+23520:
+Fortunately for you, Static was not a part of the original team, or I would never have agreed to join. Just keep him away from me.
+
+24000:
+As far as I'm concerned, Larry Roachburn is unwelcome on this team. I would have refused the assignment at the outset had I known he'd be admitted.
+
+25440:
+I've really come to like Meltdown. Talent is so sexy.
+
+25920:
+I've yet to decide whether or not this outfit meets my expectations.
+
+26400:
+Mike! Mike is here...working for them? We're going to have to kill Mike.
+
+26880:
+Bad situation! Some type of acid. I am sightless.
+
+27360:
+It appears to be beyond my capabilities.
+
+27840:
+I'm not sure about him.
+
+28320:
+I have confirmation of enemy forces in this sector.
+
+28800:
+Some of them have managed to flee. We should be prepared for a second assault just in case.
+
+29760:
+I cannot convey just how good it feels.
+
+30240:
+I think we've located the delinquent teenager.
+
+30720:
+We are completely prepared and confident, Miguel, and accept your welcome and the challenges that lie ahead.
+
+31200:
+Well, that's it. They've run out of forces in this area.
+
+31680:
+Apparently, the shipping department is not working toward their quality objectives, or... quantities disappeared at some point during transport.
+
+32160:
+Soldiers have to make some hard choices. This wasn't one of them. There were no other options.
+
+32640:
+Bobcat. Remain calm.
+
+33120:
+Before this, I was considering retirement, maybe some quiet time on the beaches of Brazil. Now I'm not quite sure. It was a pleasure.
+
+33600:
+It appears they've pulled out. They're most likely afraid.
+
+34080:
+To maintain my high quality standards, I'll be sleeping before I do any more work.
+
+34560:
+On duty.
+
+35040:
+Precisely what I was thinking.
+
+35520:
+With properly maintained equipment, this would not occur.
+
+36000:
+I must exercise prudence. A sound knowledge of explosives would be helpful here.
+
+36480:
+They didn't do a good job of disguising their intentions. Have to watch my step.
+
+36960:
+I suppose... this is the end... Help me!
+
+37440:
+My location is as requested.
+
+38400:
+Your reputation as a leader who lacks some basic skills is, unfortunately, borne out by your record. I'd need to see some improvement before I'd consider working with you.
+
+38880:
+I can't see signing with you at the present. Too high a percentage of your charges are never seen again.
+
+39360:
+Another time. I'm consulting on a new security setup in Moscow.
+
+39840:
+No, I'm off to draw up blueprints for a state-of-the-art vault system for the Japanese government. I'll need more advance notice next time.
+
+40320:
+You've found Stephen Rothman. If you leave a message for me, I can return your call.
+
+40800:
+Thank you for the work.
+
+41280:
+Any proposal involving my working on the same team as Static is unacceptable.
+
+41760:
+Surely you can't expect me to work with Larry Roachburn. Mercenary work requires maturity and dependability. He has neither. I can't accept.
+
+42240:
+I can't function alongside Nails. Aside from his obvious physical unsuitability for the task, I believe he's a renegade out for himself. You can't have us both.
+
+42720:
+My stint is nearly up. Shall we talk about renewal?
+
+43200:
+I accept the renewal.
+
+43680:
+I accept the contract with hopes for good things to come.
+
+45120:
+I'm troubled by some elements of your record, but I've developed a degree of faith in Meltdown. Based on her trust in you, I'll take the chance.
+
+45600:
+No, I've had enough of this treatment.
+
+46080:
+What I said was...
+
+46560:
+I charge more than you can afford to pay.
+
+47040:
+Thank you for the work.
+
+47520:
+I can't see signing with you at the present. Too high a percentage of your charges are never seen again.
+
+48000:
+Any proposal involving my working on the same team as Static is unacceptable.
+
+48480:
+Surely you can't expect me to work with Larry Roachburn. Mercenary work requires maturity and dependability. He has neither. I can't accept.
+
+48960:
+I can't function alongside Nails. Aside from his obvious physical unsuitability for the task, I believe he's a renegade out for himself. You can't have us both.
+
+50400:
+I'm troubled by some elements of your record, but I've developed a degree of faith in Meltdown. Based on her trust in you, I'll take the chance.
+
+50880:
+What I said was...
+
+51360:
+I charge more than you can afford to pay.
+
+51840:
+Stephen Rothman.
+
+52320:
+I consider myself a security specialist, but if you review my records, you'll see that it's by no means my only area of expertise.
+
+52800:
+You're wasting my time.
+
+53280:
+And you are proposing a duration of?
+
+53760:
+You're welcome to call once you have something to say. Good day.
+
+54240:
+I'm willing to put up with Static for the moment, but I make no guarantees. Just keep him well out of my sight, and there might not be any problems.
+
+55200:
+Be aware that our current agreement is nearing completion.
+
+55680:
+If you review my records, I am certain you'll agree that my increased capabilities more than offset the price increase for my services.
+

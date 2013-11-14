@@ -1,0 +1,69 @@
+0:
+I'll do what you want, just don't hurt me.
+
+480:
+We meet again...
+
+960:
+I've been at the Shady Lady for over a year now.
+
+1440:
+I hate it here.
+
+1920:
+I cannot take that. I'm sorry.
+
+2400:
+This is not something I do by choice.
+
+2880:
+Okay! I'm not hiding anything from you.
+
+3360:
+I would do just about anything to get out of here. But guns and killing... it's just not for me.
+
+3840:
+Help me. I need... to get to a hospital.
+
+4320:
+I cannot talk for too long.
+
+4800:
+No, Madame Layla is the only one permitted to handle money.
+
+5280:
+Angel sent you? We must be careful. If Madame Layla knows why you are here, Mr. Klaus' men will descend upon this place quickly. He is the real owner, and he thinks nothing of human life.
+
+5760:
+This town is also full of off-duty soldiers. The Queen sends them here on leave. Mr. Klaus and Deidranna have an arrangement. He operates this town to entertain her Army, and she leaves him alone.
+
+6240:
+In exchange, he sometimes assassinates the soldiers she wishes not to return. We must be careful of everyone, or we will not leave this place alive. Shall I follow you?
+
+6720:
+It is hard to believe I am here with you, Angel. You mustn't worry... everything went fine. The people you sent to get me were extremely clever and discreet. It is great to see you, Angel.
+
+7200:
+It is hard to believe I am here with you, Angel... But we must hurry! There were problems getting out. Kingpin's men will not be far behind. They will kill me if they see me, Angel. Other girls have met the same fate.
+
+7680:
+Why? Why?
+
+8160:
+We have to be going. We have already spent far too much time in San Mona.
+
+8640:
+I cannot wait to see my brother.
+
+9120:
+What are you doing? Where is Angel?
+
+9600:
+Don't... Nooooo! Leave me alone!
+
+10080:
+No, not now! The bullets... Do something about the shooting.
+
+10560:
+I've never been so scared. Please take me to my brother now.
+

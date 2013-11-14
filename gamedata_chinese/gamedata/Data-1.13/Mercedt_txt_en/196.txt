@@ -1,0 +1,201 @@
+0:
+I see bad man here.
+
+480:
+I try and kill the man...
+
+960:
+I mixed up!
+
+1440:
+I see bad man here.
+
+1920:
+I no know this!
+
+2400:
+They know we come.
+
+2880:
+Something wrong.
+
+3360:
+Something wrong.
+
+3840:
+I no like place. Something wrong.
+
+4320:
+I no like place. Something wrong.
+
+4800:
+I mixed up!
+
+5280:
+I find something.
+
+5760:
+I find something.
+
+6240:
+No bullets!
+
+6720:
+Ah... it... hurt. I... die soon...
+
+8640:
+I mixed up!
+
+9120:
+Gun no good!
+
+9600:
+Man use gun at me!
+
+10080:
+I take rest.
+
+10560:
+Man use gun at me!
+
+11040:
+No go!
+
+11520:
+It... hurt.
+
+12000:
+I take rest.
+
+12480:
+I take rest.
+
+12960:
+I kill the man!
+
+13440:
+I kill the man!
+
+15360:
+I shoot friend?
+
+15840:
+Crazy!
+
+16320:
+Something wrong.
+
+16800:
+Ok!
+
+17280:
+I shoot friend?
+
+17760:
+Crazy!
+
+18240:
+It be quiet again.
+
+18720:
+I kill the man!
+
+19200:
+Peoples be dying!
+
+19680:
+I no know this!
+
+20160:
+Crazy!
+
+20640:
+This thing needs fix.
+
+21120:
+It be quiet in Metavira again.
+
+21600:
+I know quick way.
+
+22080:
+I know quick way.
+
+22560:
+Crazy!
+
+23040:
+Crazy!
+
+25920:
+I tell mister Jack what you do!
+
+26400:
+He kill everybody!
+
+26880:
+Something wrong.
+
+27360:
+No open.
+
+27840:
+She ok!
+
+28320:
+They know we come.
+
+28800:
+They know we come.
+
+29760:
+Crazy!
+
+30240:
+I no know this!
+
+30720:
+Something wrong.
+
+31200:
+I no hear nobody.
+
+31680:
+Something wrong.
+
+32160:
+Crazy!
+
+32640:
+I see bad man here.
+
+33120:
+It be quiet again.
+
+33600:
+I no hear nobody.
+
+34080:
+I take rest.
+
+34560:
+I no hear nobody.
+
+35040:
+I no know this!
+
+35520:
+This thing needs fix.
+
+36000:
+It no right. I no touch.
+
+36480:
+It no right. I no touch.
+
+36960:
+I tired! No can swim!
+
+37440:
+I know quick way.
+

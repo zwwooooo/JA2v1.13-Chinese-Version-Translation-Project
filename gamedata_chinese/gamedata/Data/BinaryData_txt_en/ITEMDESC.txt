@@ -1,0 +1,2943 @@
+0:
+Nada
+
+800:
+Glock 17
+
+1600:
+Glock 18
+
+2400:
+Beretta 92F
+
+3200:
+Beretta 93R
+
+4000:
+.38 S&W
+
+4800:
+Barracuda
+
+5600:
+Desert Eagle
+
+6400:
+Colt .45
+
+7200:
+MP5K
+
+8000:
+MAC-10
+
+8800:
+Thompson
+
+9600:
+Commando
+
+10400:
+MP53
+
+11200:
+AKSU-74
+
+12000:
+P90
+
+12800:
+Type-85
+
+13600:
+SKS
+
+14400:
+Dragunov
+
+15200:
+M24
+
+16000:
+Steyr
+
+16800:
+G41
+
+17600:
+Mini-14
+
+18400:
+C-7
+
+19200:
+FA-MAS
+
+20000:
+AK-74
+
+20800:
+AKM
+
+21600:
+M-14
+
+22400:
+FN-FAL
+
+23200:
+G3A3
+
+24000:
+G11
+
+24800:
+M870
+
+25600:
+SPAS-15
+
+26400:
+CAWS
+
+27200:
+Minimi
+
+28000:
+RPK-74
+
+28800:
+H&K 21
+
+29600:
+Knife
+
+30400:
+Throw. Knife
+
+31200:
+Rock
+
+32000:
+M79
+
+32800:
+Mortar
+
+33600:
+Rock
+
+34400:
+YM Claws
+
+35200:
+YF Claws
+
+36000:
+AM Claws
+
+36800:
+AF Claws
+
+37600:
+Queen Tentacle
+
+38400:
+Queen Spit
+
+39200:
+Dusters
+
+40000:
+Talon
+
+40800:
+LAW
+
+41600:
+Bloodcat Claws
+
+42400:
+Bloodcat Bite
+
+43200:
+Machete
+
+44000:
+Rocket Rifle
+
+44800:
+Automag
+
+45600:
+Infant Spit
+
+46400:
+Young Male Spit
+
+47200:
+Old Male Spit
+
+48000:
+Cannon
+
+48800:
+Dart Gun
+
+49600:
+Bloody Knife
+
+50400:
+Flamethrower
+
+51200:
+Crowbar
+
+52000:
+A. R. Rifle
+
+52800:
+'small name'
+
+53600:
+'small name'
+
+54400:
+'small name'
+
+55200:
+'small name'
+
+56000:
+'small name'
+
+56800:
+9mm mag
+
+57600:
+9mm SMG mag
+
+58400:
+9mm mag AP
+
+59200:
+9mm SMG mag AP
+
+60000:
+9mm mag HP
+
+60800:
+9mm SMG mag HP
+
+61600:
+.38 S-load
+
+62400:
+.38 S-load AP
+
+63200:
+.38 S-load HP
+
+64000:
+.45 mag
+
+64800:
+.45 SMG mag
+
+65600:
+.45 mag AP
+
+66400:
+.45 SMG mag AP
+
+67200:
+.45 mag HP
+
+68000:
+.45 SMG mag HP
+
+68800:
+.357 S-load
+
+69600:
+.357 mag
+
+70400:
+.357 S-load AP
+
+71200:
+.357 mag AP
+
+72000:
+.357 S-load HP
+
+72800:
+.357 mag HP
+
+73600:
+5.45mm mag
+
+74400:
+5.45mm mag HP
+
+75200:
+5.56mm mag
+
+76000:
+5.56mm mag HP
+
+76800:
+7.62mm WP 10
+
+77600:
+7.62mm WP 30
+
+78400:
+7.62mm WP 10
+
+79200:
+7.62mm WP 30
+
+80000:
+7.62mm NATO 5
+
+80800:
+7.62mm NATO 20
+
+81600:
+7.62mm NATO 5
+
+82400:
+7.62mm NATO 20
+
+83200:
+4.7mm mag
+
+84000:
+5.7mm mag
+
+84800:
+5.7mm mag HP
+
+85600:
+12 Gauge
+
+86400:
+12 Gauge BS
+
+87200:
+CAWS mag
+
+88000:
+CAWS Buckshot
+
+88800:
+Minirockets, AP
+
+89600:
+Minirockets, HE
+
+90400:
+Minirockets, HEAP
+
+91200:
+Dart
+
+92000:
+'small name'
+
+92800:
+'small name'
+
+93600:
+'small name'
+
+94400:
+'small name'
+
+95200:
+'small name'
+
+96000:
+'small name'
+
+96800:
+'small name'
+
+97600:
+'small name'
+
+98400:
+'small name'
+
+99200:
+'small name'
+
+100000:
+'small name'
+
+100800:
+'small name'
+
+101600:
+'small name'
+
+102400:
+'small name'
+
+103200:
+'small name'
+
+104000:
+'small name'
+
+104800:
+Stun Grenade
+
+105600:
+Tear Gas
+
+106400:
+Mustard Gas
+
+107200:
+Mini Grenade
+
+108000:
+Hand Grenade
+
+108800:
+RDX
+
+109600:
+TNT
+
+110400:
+HMX
+
+111200:
+C1
+
+112000:
+Mortar Shell
+
+112800:
+Mine
+
+113600:
+C4
+
+114400:
+Trip Flare
+
+115200:
+Trip Klaxon
+
+116000:
+Shaped Charge
+
+116800:
+Break Light
+
+117600:
+40mm Grenade
+
+118400:
+40mm Tear Gas
+
+119200:
+40mm Stun
+
+120000:
+40mm Smoke
+
+120800:
+Smoke Grenade
+
+121600:
+Shell
+
+122400:
+Struct Ignite
+
+123200:
+Cocktail
+
+124000:
+Struct Exp
+
+124800:
+GB Exp
+
+125600:
+Big Tear Gas
+
+126400:
+S C Gas
+
+127200:
+L C Gas
+
+128000:
+'small name'
+
+128800:
+Flak Jacket
+
+129600:
+Flak-18 Jacket
+
+130400:
+C.Flak Jacket
+
+131200:
+Kevlar Vest
+
+132000:
+Kevlar-18 Vest
+
+132800:
+C.Kevlar Vest
+
+133600:
+Spectra Vest
+
+134400:
+Spec-18 Vest
+
+135200:
+C.Spec Vest
+
+136000:
+Kevlar Pants
+
+136800:
+Kevlar-18 Pants
+
+137600:
+C.Kevlar Pants
+
+138400:
+Spectra Pants
+
+139200:
+Spec-18 Pants
+
+140000:
+C.Spec Pants
+
+140800:
+Steel Helmet
+
+141600:
+Kevlar Helmet
+
+142400:
+Kvlr-18 Helmet
+
+143200:
+C.Kvlr Helmet
+
+144000:
+Spectra Helmet
+
+144800:
+Spec-18 Helmet
+
+145600:
+C.Spec Helmet
+
+146400:
+Ceramic Plates
+
+147200:
+Infant Hide
+
+148000:
+Kiddy Hide
+
+148800:
+Adult Hide
+
+149600:
+Queen Hide
+
+150400:
+Leather Jacket
+
+151200:
+Kvlr Leather
+
+152000:
+Kvlr-18 Leather
+
+152800:
+C.Kvlr Leather
+
+153600:
+YF Hide
+
+154400:
+OF Hide
+
+155200:
+T-Shirt
+
+156000:
+T-Shirt
+
+156800:
+Guardian Vest
+
+157600:
+T. Guard Vest
+
+158400:
+C. Guard Vest
+
+159200:
+'small name'
+
+160000:
+'small name'
+
+160800:
+1st Aid Kit
+
+161600:
+Med Kit
+
+162400:
+Tool Kit
+
+163200:
+Locksmith Kit
+
+164000:
+Camo Kit
+
+164800:
+Traps Kit
+
+165600:
+Silencer
+
+166400:
+Sniper Scope
+
+167200:
+Bipod
+
+168000:
+Extended Ear
+
+168800:
+Night Goggles
+
+169600:
+Sun Goggles
+
+170400:
+Gas Mask
+
+171200:
+Canteen
+
+172000:
+Metal Detector
+
+172800:
+Compound 18
+
+173600:
+Jelly
+
+174400:
+Elixir
+
+175200:
+Money
+
+176000:
+Jar
+
+176800:
+Full Jar
+
+177600:
+Energy Boost
+
+178400:
+Detonator
+
+179200:
+Remote Det.
+
+180000:
+Videotape
+
+180800:
+Deed
+
+181600:
+Letter
+
+182400:
+Diskette
+
+183200:
+Chalice
+
+184000:
+Claws
+
+184800:
+Teeth
+
+185600:
+Pelt
+
+186400:
+Switch
+
+187200:
+Action Item
+
+188000:
+Regen Boost
+
+188800:
+Syringe
+
+189600:
+Syringe
+
+190400:
+Syringe
+
+191200:
+Full Jar
+
+192000:
+Ownership
+
+192800:
+Laser Scope
+
+193600:
+Remote Trigger
+
+194400:
+Wire Cutters
+
+195200:
+Duckbill
+
+196000:
+Alcohol
+
+196800:
+UV Goggles
+
+197600:
+Discarded LAW
+
+198400:
+Head
+
+199200:
+Head
+
+200000:
+Head
+
+200800:
+Head
+
+201600:
+Head
+
+202400:
+Head
+
+203200:
+Head
+
+204000:
+Wine
+
+204800:
+Beer
+
+205600:
+Porn
+
+206400:
+Video Camera
+
+207200:
+Robot Remote
+
+208000:
+Claw
+
+208800:
+Flesh
+
+209600:
+Organ
+
+210400:
+Remote
+
+211200:
+Platinum Watch
+
+212000:
+Golf Clubs
+
+212800:
+Walkman
+
+213600:
+Portable TV
+
+214400:
+CurBal
+
+215200:
+Cigars
+
+216000:
+'small name'
+
+216800:
+Key
+
+217600:
+Key
+
+218400:
+Key
+
+219200:
+Key
+
+220000:
+Key
+
+220800:
+Key
+
+221600:
+Key
+
+222400:
+Key card
+
+223200:
+Key
+
+224000:
+Key
+
+224800:
+Key
+
+225600:
+Key
+
+226400:
+Key
+
+227200:
+Key
+
+228000:
+Key
+
+228800:
+Key
+
+229600:
+Key
+
+230400:
+Key
+
+231200:
+Key
+
+232000:
+Key
+
+232800:
+Key
+
+233600:
+Key
+
+234400:
+Key
+
+235200:
+Key
+
+236000:
+Key
+
+236800:
+Key
+
+237600:
+Key
+
+238400:
+Key
+
+239200:
+Key
+
+240000:
+Key
+
+240800:
+Key
+
+241600:
+Key
+
+242400:
+Platter
+
+243200:
+Duct Tape
+
+244000:
+Rod
+
+244800:
+Spring
+
+245600:
+Rod & Spring
+
+246400:
+Steel Tube
+
+247200:
+Quick Glue
+
+248000:
+Extender
+
+248800:
+String
+
+249600:
+Can
+
+250400:
+Can w/ String
+
+251200:
+Marbles
+
+252000:
+LameBoy
+
+252800:
+Copper Wire
+
+253600:
+Display Unit
+
+254400:
+FumblePak
+
+255200:
+X-ray Tube
+
+256000:
+Gum
+
+256800:
+X-ray Device
+
+257600:
+Batteries
+
+258400:
+Rubber Band
+
+259200:
+X-ray Detector
+
+260000:
+Silver
+
+260800:
+Gold
+
+261600:
+Gas
+
+262400:
+'small name'
+
+263200:
+'small name'
+
+264000:
+'small name'
+
+264800:
+'small name'
+
+265600:
+'small name'
+
+266400:
+'small name'
+
+267200:
+'small name'
+
+268000:
+'small name'
+
+268800:
+'small name'
+
+269600:
+'small name'
+
+270400:
+'small name'
+
+271200:
+'small name'
+
+272000:
+'small name'
+
+272800:
+'small name'
+
+273600:
+'small name'
+
+274400:
+'small name'
+
+275200:
+'small name'
+
+276000:
+'small name'
+
+276800:
+'small name'
+
+277600:
+'small name'
+
+278400:
+'small name'
+
+279200:
+'small name'
+
+280000:
+'small name'
+
+160:
+Nothing
+
+960:
+Glock 17
+
+1760:
+Glock 18
+
+2560:
+Beretta 92F
+
+3360:
+Beretta 93R
+
+4160:
+.38 Special
+
+4960:
+Barracuda
+
+5760:
+Desert Eagle
+
+6560:
+Colt .45
+
+7360:
+H&K MP5K
+
+8160:
+MAC-10
+
+8960:
+Thompson M1A1
+
+9760:
+Colt Commando
+
+10560:
+H&K MP53
+
+11360:
+AKSU-74
+
+12160:
+FN-P90
+
+12960:
+Type-85
+
+13760:
+SKS
+
+14560:
+Dragunov
+
+15360:
+M24
+
+16160:
+Steyr AUG
+
+16960:
+H&K G41
+
+17760:
+Ruger Mini-14
+
+18560:
+C-7
+
+19360:
+FA-MAS
+
+20160:
+AK-74
+
+20960:
+AKM
+
+21760:
+M-14
+
+22560:
+FN-FAL
+
+23360:
+H&K G3A3
+
+24160:
+H&K G11
+
+24960:
+Remington M870
+
+25760:
+SPAS-15
+
+26560:
+CAWS
+
+27360:
+FN Minimi
+
+28160:
+RPK-74
+
+28960:
+H&K 21
+
+29760:
+Combat Knife
+
+30560:
+Throwing Knife
+
+31360:
+A Rock
+
+32160:
+Grenade Launcher
+
+32960:
+Mortar
+
+33760:
+Another Rock
+
+34560:
+Young Male Creature Claws
+
+35360:
+Young Female Creature Claws
+
+36160:
+Adult Male Creature Claws
+
+36960:
+Adult Female Creature Claws
+
+37760:
+Queen Tentacle
+
+38560:
+Queen Creature Spit
+
+39360:
+Knuckle Dusters
+
+40160:
+Underslung Grenade Launcher
+
+40960:
+LAW
+
+41760:
+Bloodcat Claws
+
+42560:
+Bloodcat Bite
+
+43360:
+Machete
+
+44160:
+Rocket Rifle
+
+44960:
+Automag III
+
+45760:
+Infant Creature Spit
+
+46560:
+Young Male Spit
+
+47360:
+Old Male Spit
+
+48160:
+Tank Cannon
+
+48960:
+Dart Gun
+
+49760:
+Bloody Throwing Knife
+
+50560:
+Flamethrower
+
+51360:
+Crowbar
+
+52160:
+Auto Rocket Rifle
+
+56960:
+9mm Pistol Magazine
+
+57760:
+9mm SMG Magazine
+
+58560:
+9mm Pistol Magazine, AP
+
+59360:
+9mm SMG Magazine, AP
+
+60160:
+9mm Pistol Magazine, HP
+
+60960:
+9mm SMG Magazine, HP
+
+61760:
+.38 Speed Loader
+
+62560:
+.38 Speed Loader, AP
+
+63360:
+.38 Speed Loader, HP
+
+64160:
+.45 Pistol Magazine
+
+64960:
+.45 SMG Magazine
+
+65760:
+.45 Pistol Magazine, AP
+
+66560:
+.45 SMG Magazine, AP
+
+67360:
+.45 Pistol Magazine, HP
+
+68160:
+.45 SMG Magazine, HP
+
+68960:
+.357 Speed Loader
+
+69760:
+.357 Magazine
+
+70560:
+.357 Speed Loader, AP
+
+71360:
+.357 Magazine, AP
+
+72160:
+.357 Speed Loader, HP
+
+72960:
+.357 Magazine, HP
+
+73760:
+5.45mm Magazine
+
+74560:
+5.45mm Magazine, HP
+
+75360:
+5.56mm Magazine
+
+76160:
+5.56mm Magazine, HP
+
+76960:
+7.62mm WP Magazine, 10
+
+77760:
+7.62mm WP Magazine, 30
+
+78560:
+7.62mm WP Magazine, 10 HP
+
+79360:
+7.62mm WP Magazine, 30 HP
+
+80160:
+7.62mm NATO Magazine, 5
+
+80960:
+7.62mm NATO Magazine, 20
+
+81760:
+7.62mm NATO Magazine, 5 HP
+
+82560:
+7.62mm NATO Magazine, 20 HP
+
+83360:
+4.7mm Magazine
+
+84160:
+5.7mm Magazine
+
+84960:
+5.7mm Magazine, HP
+
+85760:
+12 Gauge Magazine
+
+86560:
+12 Gauge Magazine, Buckshot
+
+87360:
+CAWS Magazine
+
+88160:
+CAWS Magazine, Buckshot
+
+88960:
+Minirockets, AP
+
+89760:
+Minirockets, HE
+
+90560:
+Minirockets, HEAP
+
+91360:
+Tranquilizer Dart
+
+104960:
+Stun Grenade
+
+105760:
+Tear Gas Grenade
+
+106560:
+Mustard Gas Grenade
+
+107360:
+Mini Hand Grenade
+
+108160:
+Reg Hand Grenade
+
+108960:
+A Jar of RDX Crystals
+
+109760:
+TNT
+
+110560:
+HMX
+
+111360:
+C1
+
+112160:
+Mortar Shell
+
+112960:
+Land Mine
+
+113760:
+C4
+
+114560:
+Trip Flare
+
+115360:
+Trip Klaxon
+
+116160:
+Shaped Charge
+
+116960:
+Chemical Break Light
+
+117760:
+40mm Grenade
+
+118560:
+40mm Tear Gas Grenade
+
+119360:
+40mm Stun Grenade
+
+120160:
+40mm Smoke Grenade
+
+120960:
+Smoke Grenade
+
+121760:
+Tank Shell
+
+122560:
+Struct Ignite
+
+123360:
+Creature cocktail
+
+124160:
+Structure Explosion
+
+124960:
+Great big explosion
+
+125760:
+Big Tear Gas
+
+126560:
+Small Creature Gas
+
+127360:
+Large Creature Gas
+
+128960:
+Flak Jacket
+
+129760:
+Compound 18 Flak Jacket
+
+130560:
+Coated Flak Jacket
+
+131360:
+Kevlar Vest
+
+132160:
+Compound 18 Kevlar Vest
+
+132960:
+Coated Kevlar Vest
+
+133760:
+Spectra Vest
+
+134560:
+Compound 18 Spectra Vest
+
+135360:
+Coated Spectra Vest
+
+136160:
+Kevlar Leggings
+
+136960:
+Compound 18 Kevlar Leggings
+
+137760:
+Coated Kevlar Leggings
+
+138560:
+Spectra Leggings
+
+139360:
+Compound 18 Spectra Leggings
+
+140160:
+Coated Spectra Leggings
+
+140960:
+Steel Helmet
+
+141760:
+Kevlar Helmet
+
+142560:
+Compound 18 Kevlar Helmet
+
+143360:
+Coated Kevlar Helmet
+
+144160:
+Spectra Helmet
+
+144960:
+Compound 18 Spectra Helmet
+
+145760:
+Coated Spectra Helmet
+
+146560:
+Ceramic Plates
+
+147360:
+Infant Creature Hide
+
+148160:
+Young Adult Creature Hide
+
+148960:
+Adult Creature Hide
+
+149760:
+Queen Creature Hide
+
+150560:
+Leather Jacket
+
+151360:
+Leather & Kevlar Jacket
+
+152160:
+Compound 18 Leather & Kevlar Jacket
+
+152960:
+Coated Leather & Kevlar Jacket
+
+153760:
+Young Female Hide
+
+154560:
+Old Female Hide
+
+155360:
+Arulco T-Shirt
+
+156160:
+Deidranna T-Shirt
+
+156960:
+Guardian Vest
+
+157760:
+Treated Guardian Vest
+
+158560:
+Coated Guardian Vest
+
+160960:
+First Aid Kit
+
+161760:
+Medical Kit
+
+162560:
+Tool Kit
+
+163360:
+Locksmith Kit
+
+164160:
+Camouflage kit
+
+164960:
+Boobytrap Kit
+
+165760:
+Silencer
+
+166560:
+Sniper Scope
+
+167360:
+Bipod
+
+168160:
+Extended Ear
+
+168960:
+Night Vision Goggles
+
+169760:
+Sun Goggles
+
+170560:
+Gas Mask
+
+171360:
+Canteen
+
+172160:
+Metal Detector
+
+172960:
+Compound 18
+
+173760:
+Royal Jelly
+
+174560:
+Jar of Elixir
+
+175360:
+Money
+
+176160:
+Glass Jar
+
+176960:
+Jar of Blood
+
+177760:
+Energy Booster
+
+178560:
+Detonator
+
+179360:
+Remote Detonator
+
+180160:
+Videotape
+
+180960:
+Deed
+
+181760:
+Letter from Enrico
+
+182560:
+Computer Diskette
+
+183360:
+Chalice of Chance
+
+184160:
+Bloodcat Claws
+
+184960:
+Bloodcat Teeth
+
+185760:
+Bloodcat Pelt
+
+186560:
+Switch
+
+187360:
+Action Item
+
+188160:
+Regeneration Booster
+
+188960:
+Syringe
+
+189760:
+Syringe
+
+190560:
+Syringe
+
+191360:
+Jar of Human Blood
+
+192160:
+Ownership
+
+192960:
+Laser Scope
+
+193760:
+Remote Bomb Trigger
+
+194560:
+Wire Cutters
+
+195360:
+Duckbill
+
+196160:
+Bottle of Alcohol
+
+196960:
+UV Goggles
+
+197760:
+Discarded LAW
+
+198560:
+Head
+
+199360:
+Impostor's Head
+
+200160:
+T-Rex's Head
+
+200960:
+Slay's Head
+
+201760:
+Druggist's Head
+
+202560:
+Matron's Head
+
+203360:
+Tiffany's Head
+
+204160:
+Wine
+
+204960:
+Beer
+
+205760:
+Porno Magazine
+
+206560:
+Video Camera
+
+207360:
+Robot Remote Control
+
+208160:
+Creature Claw
+
+208960:
+Creature Flesh
+
+209760:
+Unidentifiable Creature Organ
+
+210560:
+Remote Control
+
+211360:
+Platinum Watch
+
+212160:
+Golf Clubs
+
+212960:
+Walkman
+
+213760:
+Portable TV
+
+214560:
+Current Balance:
+
+215360:
+Cigars
+
+216960:
+Small key
+
+217760:
+Prison key
+
+218560:
+Cheap key
+
+219360:
+Dull key
+
+220160:
+Shiny key
+
+220960:
+Padlock key
+
+221760:
+Electronic Key
+
+222560:
+Key card
+
+223360:
+Key
+
+224160:
+Key
+
+224960:
+Key
+
+225760:
+Key
+
+226560:
+Key
+
+227360:
+Key
+
+228160:
+Key
+
+228960:
+Key
+
+229760:
+Key
+
+230560:
+Key
+
+231360:
+Key
+
+232160:
+Key
+
+232960:
+Key
+
+233760:
+Key
+
+234560:
+Key
+
+235360:
+Key
+
+236160:
+Key
+
+236960:
+Key
+
+237760:
+Key
+
+238560:
+Key
+
+239360:
+Key
+
+240160:
+Key
+
+240960:
+Key
+
+241760:
+Key
+
+242560:
+Silver Platter
+
+243360:
+Duct Tape
+
+244160:
+Aluminum Rod
+
+244960:
+Spring
+
+245760:
+Rod & Spring
+
+246560:
+Steel Tube
+
+247360:
+Quick Glue
+
+248160:
+Gun Barrel Extender
+
+248960:
+String
+
+249760:
+Soda Can
+
+250560:
+Soda Can with String
+
+251360:
+Marbles
+
+252160:
+LameBoy Display
+
+252960:
+Copper Wire
+
+253760:
+Display Unit
+
+254560:
+FumblePak
+
+255360:
+X-ray Tube
+
+256160:
+Pack of Gum
+
+256960:
+X-ray Device
+
+257760:
+Batteries
+
+258560:
+Rubber Band
+
+259360:
+X-ray Detector
+
+260160:
+Silver Nugget
+
+260960:
+Gold Nugget
+
+261760:
+Tank of Gas
+
+320:
+JA 2 programmers are the best there are... oh.. well maybe not since this message should never come up...
+
+1120:
+Favored by most military officers, this Austrian semi-automatic pistol is considered the defacto standard side-arm worldwide.
+
+1920:
+As the fully automatic version of the Glock 17, this Austrian pistol was specifically designed for military use.
+
+2720:
+This Italian double action pistol can quickly turn any shooter into a Lethal Weapon.
+
+3520:
+The 92F's leaner and meaner cousin. This fully automatic machine pistol could be your best friend in a close range fire fight.
+
+4320:
+Tried and true by the boys in blue. This American pistol is the most common police service revolver in the world.
+
+5120:
+The preferred weapon of Dirty Harry's little brother, this Belgian revolver has found its way into many American police holsters.
+
+5920:
+This former Israeli pistol that is about as subtle as a hand-held nuke, is now being produced in the good ol' USA.
+
+6720:
+The Almighty may have created man, but over the last century, this pistol has more than helped to keep them in line.
+
+7520:
+This German sub-machine gun is the must-have weapon for Die Hard terrorists and two-bit South American drug lords.
+
+8320:
+The American Uzi. Born in the days of disco, this weapon has been very popular in the land of pink flamingos and snow.
+
+9120:
+As the successor to the Tommy Gun, this weapon became very popular on the streets of prohibition-Chicago and the beaches of Normandy.
+
+9920:
+This mini version of the M-16 is a prized tool for knocking off noisy neighbors and petty dictators.
+
+10720:
+Heckler and Koch's latest addition to the submachine gun family is known for its excessive muzzle climb, making its use indoors inadvisable.
+
+11520:
+Commonly used by the Russian Spetsnaz, the muzzle flash from this SMG's short barrel has singed many an eyebrow.
+
+12320:
+This Belgian weapon is one of the most advanced submachine guns in the world and is highly coveted by several special forces.
+
+13120:
+Cheap, simple, and rugged. This motto for Chinese military designs is truly reflected in this mass-produced weapon.
+
+13920:
+This extremely common semi-automatic carbine weapon has seen action in  almost every Communist country in the world.
+
+14720:
+Reach out and touch someone the Russian Army way. This rifle has struck more than fear into the hearts of officers worldwide.
+
+15520:
+Call on the M-24 to deliver your 7.62mm package up to a mile away in two seconds flat. It guarantees delivery every time.
+
+16320:
+The 'Evil Assault Rifle' poster-child for US gun control lobbyists is the futuristic looking Austrian army standard rifle.
+
+17120:
+Harder hitting than a hangover from a night of downing German lager, this G41 will quickly become your enemy's headache.
+
+17920:
+This Sturm Ruger rifle is a 70's era mechanical copy of the W.W.II Garand. It makes an ideal gift for the Survivalist in the family.
+
+18720:
+This rifle shouts the Canuck motto, 'Anything the Yanks can do, we can do better.' This version of the M-16 is every merc's dream come true.
+
+19520:
+Nicknamed 'The Bugle' by French Army Troops, this bullpup rifle packs the utility of the M-16 in under two-and-a-half feet.
+
+20320:
+This rifle is destined to become one of Russia's greatest exports, second only to tactical nuclear warheads.
+
+21120:
+The AKM is the newest version of the infamous AK-47. This line of rifles has been used in Vietnam, Afghanistan, and many passenger jets.
+
+21920:
+The M-14 is about as All-American as apple pie and the 4th of July. Any A-Team equipped with this rifle is gunning for victory.
+
+22720:
+The phrase, 'Help, I've FAL-len and I can't get up,' takes on a whole new meaning when this rifle is involved.
+
+23520:
+Made from sheet metal stampings and plastic furniture, this ugly looking rifle delivers wounds that are equally foul.
+
+24320:
+The Porsche of assault rifles. This rifle goes from 0 to 3 rounds in under a second, and tears through Kevlar like butter.
+
+25120:
+This pump-action shotgun is one of the most versatile weapons money can buy. It can be used for hunting, home defense, and lock picking.
+
+25920:
+This fearsome looking Italian semi-automatic assault shotgun has been banned in several countries.
+
+26720:
+This German/US experimental Close Assault Weapon System makes the concept of human skeet shooting a gory reality.
+
+27520:
+This light machine gun, also known as the C-9 and M-249, has been known to moonlight as a beefed-up assault rifle.
+
+28320:
+The latest Russian squad support weapon is this light machine gun. It brings new meaning to the concept of 'spray and pray.'
+
+29120:
+This German infantry support weapon is a (not so) light machine gun that helps you pump up while mowing down your opposition.
+
+29920:
+This full-tang bowie-styled combat knife will convert you into a whirling, twirling machine of silent, subtle death.
+
+30720:
+This finely balanced steel throwing knife brings new meaning to the expression killing them softly. Or, in this case, silently.
+
+31520:
+A rock.
+
+32320:
+If quick passage through a brick wall or a cluster of bad guys is what you need, the M79, a 40mm US grenade launcher from the Vietnam era, will terminate your troubles every time.
+
+33120:
+The M224 is a 60mm caliber lightweight mortar with a finned barrel, sight, M7 base plate, and a bipod. It was built to handle HE bombs.
+
+33920:
+A rock is what you've got in your head if you don't know what one is.
+
+34720:
+NO DESCRIPTION NECESSARY!
+
+35520:
+NO DESCRIPTION NECESSARY!
+
+36320:
+NO DESCRIPTION NECESSARY!
+
+37120:
+NO DESCRIPTION NECESSARY!
+
+37920:
+NO DESCRIPTION NECESSARY!
+
+38720:
+NO DESCRIPTION NECESSARY!
+
+39520:
+This sturdy set of brass knuckles fits most hands. They will add some power to your punch.
+
+40320:
+The "Talon" US military grenade launcher is known to propel enemies into the waiting claws of death.
+
+41120:
+One hit from this Light Anti-Tank Weapon is better than a one way ticket to Judgement Day. No judge, no jury, and all executioner.
+
+41920:
+NO DESCRIPTION NECESSARY!
+
+42720:
+NO DESCRIPTION NECESSARY!
+
+43520:
+Slice 'em, dice 'em, cook 'em 'n' clean 'em. Whether it be man, plant, or beast, this all purpose machete will chop any main course into the finest of cuts.
+
+44320:
+Annihilate your opponents with the cutting edge in weapons technology.  This rocket rifle comes with its own laser scope and computer security system.
+
+45120:
+This Automag has been modified into a monster of a pistol which fires 7.62mm NATO rifle rounds. The name "Big Bertha" has been  engraved on its sides.
+
+45920:
+NO DESCRIPTION NECESSARY!
+
+46720:
+NO DESCRIPTION NECESSARY!
+
+47520:
+NO DESCRIPTION NECESSARY!
+
+48320:
+NO DESCRIPTION NECESSARY!
+
+49120:
+A virtual mute in a riotous crowd of gunpowder-driven killing machines. Use this dart gun to get the job done without even waking up old man Death himself.
+
+49920:
+A small lightweight throwing knife with a double-edged, chrome-plated, high carbon steel blade that is covered in blood.
+
+50720:
+Sorry, guys, but this item didn't make it into the game!
+
+51520:
+This durable lever tool is a one-piece bar of titanium. While harder and stronger than steel, it weighs less, and won't rust.
+
+52320:
+The bleeding edge in weapons technology, this experimental version of the rocket rifle is capable of emptying its entire clip in a single devastating burst!
+
+53120:
+NO DESCRIPTION NECESSARY!
+
+53920:
+NO DESCRIPTION NECESSARY!
+
+54720:
+NO DESCRIPTION NECESSARY!
+
+55520:
+NO DESCRIPTION NECESSARY!
+
+56320:
+NO DESCRIPTION NECESSARY!
+
+57120:
+This magazine holds 15 rounds of 9mm ball ammunition. Although small, this ammo travels at rather high velocities, making it the preferred sidearm round to many military and law enforcement personnel.
+
+57920:
+This sub-machine gun magazine contains 30 rounds of 9mm ammunition. As a jacketed round, it has a lesser tendency for barrel leading than its non-jacketed counterpart.
+
+58720:
+This magazine contains 15 hardened steel rounds of 9mm ammunition. Even though this round easily cuts through light body armor, it doesn't cause as much damage as jacketed and regular hollow point versions.
+
+59520:
+These 30 hardened steel rounds are the best sub-machine gun armor-defeating ammunition.
+
+60320:
+This magazine contains 15 rounds of 9mm federal-135-grain hollow point ammo. While its armor piercing capabilities are questionable, its tendency to expand in tissue more than makes up for its weaknesses.
+
+61120:
+This magazine holds 30 rounds of federal jacketed hollow point ammunition. It combines the wound characteristics of hollow point with the penetration abilities of standard ball ammunition.
+
+61920:
+This 6-round speed loader of .38 Special ball ammunition offers average damage and penetration abilities by combining the features of both hollow point and armor piercing ammo.
+
+62720:
+This speed loader contains 6 rounds of .38 caliber armor piercing ammunition. While its armor piercing abilities are due to its steel construction, it tends to create smaller wounds than lead ammo.
+
+63520:
+Although these 6 rounds of .38 Special hollow point ammo tend to perform poorly against armor, it makes up for it by creating wider wound channels in unarmored opponents.
+
+64320:
+This 7-round magazine contains .45 Automatic Colt pistol ammunition. The  standard .45ACP round creates wound channels that are comparable to those generated by 9mm and .38 hollow point rounds.
+
+65120:
+The .45 standard round tip ball ammunition in this 30-round magazine offers a trade-off between the wound characteristics of hollow point and the penetration abilities of armor piercing ammo.
+
+65920:
+These 7 rounds hold .45 automatic armor piercing ammunition. Although this high velocity steel ammo may defeat most light body armor, it causes less tissue damage than lead-based rounds.
+
+66720:
+This 30-round magazine holds .45 caliber armor piercing ammunition. While this ammunition offers better penetration than either ball or hollow point ammo, it tends to do less damage.
+
+67520:
+A 7-round mag of .45 ACP hollow point ammo. Its hollow point forces the round to mushroom on impact, creating a large wound channel that is wider than wounds from both standard and armor piercing variants.
+
+68320:
+These 30 rounds of .45 hollow point ammunition expand in soft tissue on impact, causing a large of amount of bleeding and nerve trauma.
+
+69120:
+This speed loader holds 6 rounds of .357 Magnum ammunition. As one of the most powerful handgun rounds around, it packs more of a punch than  .38, .45 or 9mm ammo.
+
+69920:
+This magazine holds 9 rounds of .357 Magnum standard ball ammunition. Its power leaves little question about its superiority as a combat handgun round.
+
+70720:
+Although these 6 rounds of .357 Magnum hardened steel ammo can punch through armor as though it were tissue paper, they don't tend to fragment on impact, resulting in inferior wounding capabilities.
+
+71520:
+While these 9 rounds of steel .357 armor piercing ammunition can penetrate walls and body armor, they only create small wound channels with minimal blood loss.
+
+72320:
+This speed loader contains 6 rounds of .357 hollow point ammunition. Although it lacks armor piercing abilities, it more than makes up for it with its damage potential.
+
+73120:
+This magazine contains 9 rounds of .357 hollow point ammunition. The hollow point allows for substantial expansion on impact, thus creating a large but shallow wound.
+
+73920:
+This 30-round magazine holds 5.45 light armor piercing anti-personnel ammo. Its metal jacketing not only improves its ability to punch through walls, but it can tear through multiple bodies as well.
+
+74720:
+This 30-round magazine contains 5.45 jacketed hollow point ammunition. It features the combined effect of mushrooming on impact, and tumbling within its target to create enormous wound cavities.
+
+75520:
+These 30 rounds of NATO standard light armor piercing ammunition have the ability to tumble within its target to create a much larger wound than what is normally expected from a such small bullet.
+
+76320:
+This 30-round magazine of 5.56 Remington hollow point ammo is a variation of the civilian .223 hunting round. Like the .223, it is designed to maximize nerve shock and blood loss.
+
+77120:
+This 10-round magazine of 7.62 Warsaw Pact issued AP ammunition is noted for its ability to defeat almost all forms of body armor and cause significant damage to unwilling recipients.
+
+77920:
+These 30 rounds of Warsaw Pact issued 7.62mm anti-personnel AP ammo tend to maintain their shape on impact. Shape retention may increase its ability to defeat light body armor but it also reduces injury severity.
+
+78720:
+These 10 rounds of 7.62 Warsaw Pact jacketed hollow point ammunition won't penetrate body armor as well as its armor piercing counterpart, but it makes up for it by making larger wound cavities.
+
+79520:
+This magazine contains 30 rounds of 7.62 Warsaw Pact hollow point ammo. Although use of this round against light armored opponents can sway a battle in your favor, it's less effective against heavy armor.
+
+80320:
+These 5 loose rounds of 7.62mm NATO armor piercing ammo have the ability to defeat body armor at long ranges, making it the ideal sniping round.
+
+81120:
+This mag contains 20 rounds of NATO standard 7.62mm AP ammo. This round has gained favorable attention from armed forces worldwide due to its ability to penetrate a steel helmet at extreme ranges.
+
+81920:
+What these 5 rounds of civilian .308 Winchester hunting ammunition lack in armor piercing abilities, is compensated for with their ability to cause severe injuries in unarmored opponents.
+
+82720:
+This high capacity magazine holds 20 rounds of .308 Winchester ammunition, the civilian variant of the 7.62 NATO round. It is best suited for hunting unarmored targets.
+
+83520:
+This 50-round magazine contains 4.7mm caseless ammunition. This round possesses wound and range capabilites that are comparable to the 5.56mm NATO round, but is 40 per cent lighter.
+
+84320:
+This magazine contains 50 rounds of 5.7mm ammunition. This polymer pistol round performs remarkably well against both armored and unarmored opponents.
+
+85120:
+These 50 rounds of 5.7mm hollow point ammunition have enhanced injury inflicting capabilities over the basic 5.7 and have retained most of its armor piercing capabilities.
+
+85920:
+This magazine contains 7 rounds of 12 gauge PolyCore slugs. Each round tears through body armor as though it were tissue paper.
+
+86720:
+This 12 gauge magazine holds 7 rounds of "00" SSG ammunition. Favored by law enforcement personnel, it is very effective in urban firefights against unarmored opponents.
+
+87520:
+This 10-round CAWS magazine is quite simply brimming with destruction. Each round contains a single tungsten steel composite slug capable of tearing through most forms of body armor and car engine blocks.
+
+88320:
+The 10 rounds of "00" sized tungsten buckshot ammunition in this mag can penetrate like armor piercing ammo and produce large wound channels like hollow point without with the limitations of either ammo.
+
+89120:
+Cutting edge technology means cutting edge killing. These armor piercing rockets inflict such spectacular wounds, they would be the envy of any Hollywood special effects artist.
+
+89920:
+If the Four Horsemen carried pieces, this would be their ammo of choice. These 5 highly explosive minirockets could deliver Armageddon faster than any rock from space.
+
+90720:
+Blow open your opposition with high explosive armor piercing minirockets, and watch them fry.
+
+91520:
+Normally used to take down large game, this dart will put someone under before they can even say, 'feeling woozy.'
+
+92320:
+NO DESCRIPTION NECESSARY!
+
+93120:
+NO DESCRIPTION NECESSARY!
+
+93920:
+NO DESCRIPTION NECESSARY!
+
+94720:
+NO DESCRIPTION NECESSARY!
+
+95520:
+NO DESCRIPTION NECESSARY!
+
+96320:
+NO DESCRIPTION NECESSARY!
+
+97120:
+NO DESCRIPTION NECESSARY!
+
+97920:
+NO DESCRIPTION NECESSARY!
+
+98720:
+NO DESCRIPTION NECESSARY!
+
+99520:
+NO DESCRIPTION NECESSARY!
+
+100320:
+NO DESCRIPTION NECESSARY!
+
+101120:
+NO DESCRIPTION NECESSARY!
+
+101920:
+NO DESCRIPTION NECESSARY!
+
+102720:
+NO DESCRIPTION NECESSARY!
+
+103520:
+NO DESCRIPTION NECESSARY!
+
+104320:
+NO DESCRIPTION NECESSARY!
+
+105120:
+This grenade creates a massive vacuum which deprives the surrounding impact area of oxygen as waves of air rush back into its core.
+
+105920:
+This grenade releases tactical dispersion gas that reeks havoc on exposed eyes and skin.
+
+106720:
+This grenade releases a colorless, odorless, and tasteless gas that causes intense burning and blistering of the lungs. Sufferers can die without prompt medical attention.
+
+107520:
+This small TNT loaded grenade was designed to ensure a significant throwing range and effective fragmentation. It has been proven to provide good lethal coverage.
+
+108320:
+This standard army issued fragmentation grenade is packed with TNT and has a pull-ring, pressure-released firing trigger.
+
+109120:
+A jar filled with RDX crystals is more powerful than TNT and easier to detonate. The only drawback of RDX is its instability; it can be set off by a moderate shock.
+
+109920:
+Trinitrotoluene is the second oldest and most commonly used explosive known to man - the first is dynamite. These sticks of explosives are highly stable, strawboard rolled, and contain a quarter-pound charge.
+
+110720:
+HMX is a mixture of TNT and RDX at a ratio of 50/50, by weight. Although it is not as powerful as straight RDX, it is certainly more stable.
+
+111520:
+Composition C1 is a solution of RDX and a small amount of mineral oil. This combination retains the explosive power of RDX while increasing its stability.
+
+112320:
+This HE bomb features waterproof "horseshoe" snap-off propellant increments and the M734 multi-option fuse. This fuse can be set by hand for a delayed, impact, near-surface, or proximity burst detonation.
+
+113120:
+This anti-personnel mine is a fragmentation weapon that becomes activated when stepped on. It includes an anti-disturbance device to inhibit clearance, and a sensor that neutralizes the mine after a specified time.
+
+113920:
+Composition C4 is a white plastic explosive that is more powerful than TNT. This plastic-covered block has a threaded-cap-well at each end. Unlike C1, its sister composition, this one's odorless.
+
+114720:
+It's an illuminating mine with a tripwire attached to it. Pull pressure or cutting the tripwire will ignite the flare, letting mercenaries know of enemy whereabouts.
+
+115520:
+This illuminating mine with an attached tripwire will alert mercs of nearby enemies. Pull pressure or cutting the tripwire will ignite the flare, which is followed by a loud wailing siren.
+
+116320:
+Place this small tungsten-backed plastique explosive against any door to blow the lock right off.
+
+117120:
+One time use chemical break lights are an extremely convenient and portable light source. Simply break 'n' throw to brighten your way.
+
+117920:
+This fragmentation grenade when fired from the 40mm grenade launcher will ignite its encased TNT after a short delay.
+
+118720:
+This rubber-like round will disperse tear gas after a short delay. These projectiles are meant to be fired from the 40mm grenade launcher.
+
+119520:
+When fired from the 40mm grenade launcher, these projectiles create a massive vacuum that will leave your enemies gasping for air.
+
+120320:
+Now they see you, now they don't. When properly employed, this 40mm smoke grenade will leave your opposition thinking they're dealing with Houdini himself.
+
+121120:
+When it comes to generating cover, this hand-held phosphorus-based smoke grenade is proven to be far more effective than any magazine stuffed with bullets.
+
+121920:
+NO DESCRIPTION NECESSARY
+
+122720:
+INTERNAL ITEM
+
+123520:
+AXED
+
+124320:
+INTERNAL ITEM
+
+125120:
+INTERNAL ITEM
+
+125920:
+INTERNAL ITEM
+
+126720:
+INTERNAL ITEM
+
+127520:
+INTERNAL ITEM
+
+128320:
+NO DESCRIPTION NECESSARY!
+
+129120:
+The Armorshield ultra-light flak jacket is a highly protective sleeveless vest with a neck protector and pelvic plate. Its Velcro fasteners are concealed on the sides.
+
+129920:
+This Armorshield ultra-light flak jacket was dipped in Compound 18 for anti-ballistic type protection. This sleeveless vest comes equipped with neck and pelvic plate protectors.
+
+130720:
+The Armorshield ultra-light flak jacket with neck protector and pelvic plate was coated with jelly from the queen Crepitus to improve its protectiveness.
+
+131520:
+The ballistic panels on this vest are made from 28 piles of Kevlar. It wraps around your shoulders, neck and sides, and includes a stowable groin protector. The waist and chest straps are fully adjustable.
+
+132320:
+This vest's ballistic panels, made from 28 piles of Kevlar, offer even more anti-ballistic protection as they have been treated with Compound 18.
+
+133120:
+This vest's ballistic panels, made from 28 piles of Kevlar, offer even better protection since they have been treated with Crepitus royal jelly.
+
+133920:
+This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. Its carrier pocket can hold an additional trauma plate.
+
+134720:
+This Spectra Shield vest, made from an ultra high-performance ballistic sheet to reduce blunt trauma from multiple hits and angled shots, has been treated with Compound 18 to further improve its impenetrability.
+
+135520:
+Made from an ultra high-performance ballistic sheet that reduces blunt trauma from multiple hits and angled shots, this Spectra Shield vest offers even more protection with its coating of queen Crepitus jelly.
+
+136320:
+The ballistic panels on these leggings are made from 28 piles of protective Kevlar. Fully adjustable waist and ankle straps were designed to maintain a snug fit.
+
+137120:
+The ballistic panels on these leggings, made from 28 piles of Kevlar, have been treated with Compound 18 for extra anti-ballistic protection.
+
+137920:
+Made from 28 piles of Kevlar, these leggings have been smeared with jelly from the queen Crepitus for extra protection.
+
+138720:
+These Spectra Shield leggings reduces blunt trauma from multiple hits and angled shots. Fully adjustable waist and ankle straps won't restrain mobility.
+
+139520:
+These Spectra Shield, Compound 18 treated, leggings offer even more protection against blunt trauma from multiple hits and angled shots, than standard Spectra leggings.
+
+140320:
+These Spectra Shield leggings, made from an ultra high-performance ballistic material for reduced trauma from multiple hits and angled shots, have been coated in queen Crepitus jelly for superior protection.
+
+141120:
+This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap.
+
+141920:
+The Personal Armor System Ground Troops Helmet is made from Kevlar, with a comfortable suspension system, sweatband and chin strap. It also extends further over the ear and neck than standard helmets.
+
+142720:
+Made from Kevlar, this Personal Armor System Ground Troops Helmet has been treated with Compound 18 to further enhance its defensive capabilities.
+
+143520:
+This Personal Armor System Ground Troops Kevlar Helmet has been covered with queen creature jelly to further protect your noggin.
+
+144320:
+This light Spectra composite helmet, known for its anti-ballistic qualities,has an IR-absorbing black finish, cushioning foam, and an adjustable harness system with a leather head band and rubber chin strap.
+
+145120:
+Dipped in Compound 18, this light Spectra composite helmet offers the maximum available amount of anti-ballistic protection.
+
+145920:
+This light Spectra composite helmet that's covered in queen Crepitus jelly offers even more advanced anti-ballistic protection.
+
+146720:
+These hard ceramic plates can be inserted into the front and back of most vests to provide extra protection by dispersing the impact from most standard ammunition loads.
+
+147520:
+NO DESCRIPTION NECESSARY!
+
+148320:
+NO DESCRIPTION NECESSARY!
+
+149120:
+NO DESCRIPTION NECESSARY!
+
+149920:
+NO DESCRIPTION NECESSARY!
+
+150720:
+A bomber-style leather aviation jacket.
+
+151520:
+This bomber-style leather aviation jacket has been lined with Kevlar to provide a minimal amount of protection.
+
+152320:
+This bomber-style leather aviation jacket has been lined with Kevlar and treated with compound 18 for added protection.
+
+153120:
+This bomber-style leather aviation jacket has been lined with Kevlar and coated with queen Crepitus jelly to enhance its protectiveness.
+
+153920:
+NO DESCRIPTION NECESSARY!
+
+154720:
+NO DESCRIPTION NECESSARY!
+
+155520:
+No tourist could ever resist one of these trendy 'I love Arulco' t-shirts. Made from 100 per cent pre-shrunk cotton, it was a popular buy before the days of Deidranna.
+
+156320:
+Show your allegiance to the queen with style. Ever since she acquired power, sporting one of these 'Deidranna rules' t-shirts at government-sponsored events has become a common practice among Arulcans.
+
+157120:
+This high quality ballistic vest is manufactured from 36 piles of Kevlar by Guardian Armories, Inc.  It is fully adjustable and has a pocket for a ceramic armour insert.
+
+157920:
+This high quality ballistic vest, brought to you by Guardian Armories, has been improved through treatment with Compound 18.
+
+158720:
+This high quality Guardian Armories ballistic vest has been coated with jelly from the queen Crepitus and now provides amazing protection!
+
+159520:
+NO DESCRIPTION NECESSARY!
+
+160320:
+NO DESCRIPTION NECESSARY!
+
+161120:
+This kit contains: antiseptic, cotton rolls, a thermometer, iodine and merthiolate vials, arm slings, safety pins, scissors, forceps, various bandages and a mini first aid manual.
+
+161920:
+Aside from standard first aid supplies, this kit includes: a suture set and scissors, prep pads, a scalpel, Kelly forceps, tweezers, pain killers, anesthetic, antibiotics, a pen light, and a surgical manual.
+
+162720:
+This kit includes: a wide range of screwdrivers, ratchets, pliers, clamps, clasps, a hammer and a sewing kit.
+
+163520:
+This top-grain cowhide leather zipped case offers expert lockpicking tools including: picks, shims, tension wrenches, warded master keys, a broken key extractor, and a palm-key press.
+
+164320:
+The Military Camo Compact includes: olive drab, olive green, tan and white cream-based facial paint, a mirror, and a manual on the proper use and care of your camo compact.
+
+165120:
+This kit contains everything required to build traps including: trip-wire, explosives, and triggers.
+
+165920:
+The light, compact design of this silencer can be fitted easily to most handguns and sub-machine guns.
+
+166720:
+This scope that can be attached to most rifles, significantly improves targeting with its accurate windage adjustment, range-finder precision scale, and its coated optics.
+
+167520:
+The universal bipod fits most sniper and assault rifles, as well as light machine guns. Made from a die-cast aluminum, it has a coated matte finish. Its legs fold up when not in use for easy storage.
+
+168320:
+The Bionic Ear Scout is a high fidelity stereo amplifier headset with dual wind-resistant microphones that amplify small sounds and filter out the very loud. Its fully adjustable head strap ensures a snug fit.
+
+169120:
+These night vision goggles amplify existing light to allow the user to see in all but the darkest places.  Comes equipped with two "AA" batteries, carrying case, and nylon head strap.
+
+169920:
+These paramilitary eye protectors have triple-lenses: an anti-fog interior acetate lens, a tinted middle lens for reduced glare, and a scratch and shatter resistant exterior lens.
+
+170720:
+Replicated from the Russian M-17A1, this rubber mask has cheek filters, scratch-proof lenses, adjustable head straps, and a drinking attachment.  A vinyl shoulder bag and plastic poncho are also included.
+
+171520:
+This polyethylene canteen may not be reusable, refillable, or recyclable but it is extremely practical. Once its five shots of reviving water are used up, this canteen is fit for the garbage pit.
+
+172320:
+This is an extremely light and powerful transistorized metal detector with aural signalization. All the user has to do is have it on his person and an alarm sounds when metal is detected.
+
+173120:
+This quick-hardening liquid when administered to most body armor, claims to further advance the protective properties of standard anti-ballistic materials.
+
+173920:
+This is a blob of royal jelly from the queen Crepitus.
+
+174720:
+A glass jar containing an elixir made from creature blood and Gabby's secret blend of eleven herbs and spices.
+
+175520:
+Cash, coin, moolah, dough. Whatever you call it, it'll buy you stuff.
+
+176320:
+An empty glass jar is great for storing preserves, grandma's teeth, or anything else for that matter.
+
+177120:
+A glass jar containing what appears to be creature blood.
+
+177920:
+This hypodermic syringe is filled with a chemical stimulant that will temporarily boost your energy level. Caution: repeated use has been known to cause cardiac arrest.
+
+178720:
+This firing device features a timer that can be set anywhere between five seconds and ten minutes to allow you to move to a position of safety before its attached explosive goes off.
+
+179520:
+Place this time-delayed firing device onto any explosive to allow you to blow up a target from a position of safety. The detonator won't ignite until you use a separate remote trigger device.
+
+180320:
+This VHS tape entitled, 'Pant Suit Loretta 6: The Men Are Away,' is an adult XXX film. Parental and viewer discretion is advised.
+
+181120:
+This is the deed to Angel's leather shop.
+
+181920:
+This is the letter Enrico gave you. Deliver it to Miguel, leader of the rebels.
+
+182720:
+This diskette is labelled, 'Intercept's Most Wanted.' It contains confidential information on known international terrorists. It has been copied onto the laptop computer for easy reference.
+
+183520:
+Goblet of goodness, tumbler of treasures, glass of gambles. This drinking cup is a national treasure around Arulco, so don't mock it.
+
+184320:
+Taken right out from under them, these razor-sharp bloodcat claws could bring you a pretty penny in the right market.
+
+185120:
+It takes a real man to rip these babies off. Bloodcat teeth are a rare and treasured commodity in some parts of the world.
+
+185920:
+Skinning a cat is no small feat. The price on this exotic fur won't be cheap.
+
+186720:
+NO DESCRIPTION NECESSARY!
+
+187520:
+NO DESCRIPTION NECESSARY!
+
+188320:
+This hypodermic syringe is filled with 10cc's of a fast-acting healing drug. The warning label reads: "Do not exceed more than 4 doses per day."
+
+189120:
+NO DESCRIPTION NECESSARY!
+
+189920:
+NO DESCRIPTION NECESSARY!
+
+190720:
+NO DESCRIPTION NECESSARY!
+
+191520:
+A glass jar containing what appears to be human blood. What kind of sicko stores human blood anyway???
+
+192320:
+If you can read this, JA2 programmers messed up! NO DESCRIPTION NECESSARY!
+
+193120:
+The Universal Daylight Laser projects a highly visible red spot at a rather significant range. In a stainless steel housing, it fits onto the trigger guard of most sub-machine guns and pistols.
+
+193920:
+Once the remote detonator has been placed onto an explosive, it won't ignite until you use this remote trigger device.
+
+194720:
+Your average everyday handyman's wire cutters.
+
+195520:
+This metal object, when attached to the end of a shotgun barrel, causes buckshot fired from the shotgun to spread out along a horizontal line instead of its standard circular pattern.
+
+196320:
+Booze, spirits, swamp root, hooch. At 80 proof, drinking this stuff will definitely lead to intoxication.
+
+197120:
+These UltraVision goggles provide superior night vision by using ultra-violet light. A warning label mentions they are not suitable for spelunking.
+
+197920:
+Having already delivered the hammer of justice upon its target, this empty LAW rocket launcher will live out the rest of its Dredd-ful existence as a glorified paper weight.
+
+198720:
+One unidentified, slightly decaying, human head.
+
+199520:
+The Imposter won't be imposing on anyone anymore. You're the proud owner of his slightly decaying head.
+
+200320:
+T-Rex may be gone like the dinosaurs, but be sure to hold on to his head for posterity.
+
+201120:
+Slay's been slain and all that remains is his decomposing head.
+
+201920:
+This Druggist won't be renewing any prescriptions. His head is on your chopping block now.
+
+202720:
+No one's gonna miss MOM, or her head. It's yours for the taking.
+
+203520:
+Tiffany Eddie may not have profited from using his head but you will, now that he's dead.
+
+204320:
+This bottle of Saw Mill Spring's finest red vino combines fermented grape juice with the flavor of wood pulp for a truly unique taste.
+
+205120:
+At 6.9 per cent alcohol, who the hell cares where this stuff came from? This ice beer will even put a Russian under the table.
+
+205920:
+Bustler magazine, July issue. Features an interesting pictorial by Demi Moon and various articles no one will ever read.
+
+206720:
+This VHS camera will record and play back all your favorite memories, including embarrassing wedding moments or local magistrates in compromising positions.
+
+207520:
+Send your robot out to do your dirty work with this trusty remote control. Let him do your bidding as you sit pretty from a point of safety.
+
+208320:
+A razor-sharp claw from one of those repugnant creatures that is thankfully dead.
+
+209120:
+A rotting chunk of putrified creature flesh. At least this one's dead now.
+
+209920:
+Dead creature innards, just in time for lunch!
+
+210720:
+This is device to control something from a distance. It only has one button on it, though.
+
+211520:
+Tell time in style with this designer watch featuring a quartz crystal, swiss movement and 4 microns of beautiful platinum plating.
+
+212320:
+This bag of woods and irons is a vintage set that has seen better days on the green. Although slightly beat up, you could still score under par with them.
+
+213120:
+Listen to your favorite tunes wherever you go with this portable cassette player and mini-headphones. They will make any long trek a little more merry.
+
+213920:
+You won't miss your favorite cartoon or lose track of the football scores with this portable television. Don't leave home without it!
+
+214720:
+This is how you access your main 'bank account' where you can get your hands on cash by clicking on the different amounts followed by 'Done'. Having cash in hand is sometimes very useful.
+
+215520:
+A solid box of robustos. Suitable to be clenched between your teeth in the heat of battle or for hanging around a cigar lounge with a fine glass of port.
+
+216320:
+NO DESCRIPTION NECESSARY!
+
+217120:
+A small gold-coloured key which might fit a cabinet lock.
+
+217920:
+A prison key made of stainless steel.
+
+218720:
+A simple key.  Looks like it would fit a pretty crummy lock.
+
+219520:
+A dull-coloured key.
+
+220320:
+A shiny key which probably fits a more than ordinary lock.
+
+221120:
+A padlock key.
+
+221920:
+An electronic key with a magnetic strip in place of metal teeth.
+
+222720:
+An electronic key card.
+
+242720:
+This rather tarnished silver platter bears no inscription. It looks as though it may have been a thoughtful gift at one time.
+
+243520:
+This roll of gray, 2-inch wide heavy-duty tape is great for patching holes and keeping things together.
+
+244320:
+This aluminum curtain rod is broken at both ends. Wonder what happened to the curtains.
+
+245120:
+This small, heavy-duty, metal coil spring is common to many household appliances.
+
+245920:
+Install this smart, well-crafted spring and bolt replacement in a firearm to boost its rate of fire!
+
+246720:
+A basic raw piece of steel, looking for a home.
+
+247520:
+Once this glue gets a grip, it doesn't let go. It will permanently stick to most substances in less than 3 minutes.
+
+248320:
+attach this nifty chunk of hardware to any gun barrel and watch your range soar.
+
+249120:
+A 19-foot piece of typical white string.
+
+249920:
+This old soda can looks as though it's been kicking around for quite some time.
+
+250720:
+A piece of string attached to a soda can makes a great noise-maker when tied to a car bumper at a wedding party procession.
+
+251520:
+These round, shiny, colorful, and surprisingly heavy balls of glass are usually found in young boys' pockets. They are used mostly for amusement.
+
+252320:
+A Liquid Crystal Display ripped out of a small, portable, grayscale game machine.
+
+253120:
+Your everyday copper wire, great for electronics.
+
+253920:
+This contraption is essentially a LameBoy LCD rigged with copper wiring.
+
+254720:
+This Kid-tendo Fumble Pak device vibrates a video game joystick during gameplay. Warning: it may cause the player to lose his grip.
+
+255520:
+This is a piece of a hospital x-ray machine.
+
+256320:
+A pack of sugurless, spearmint flavored chewing gum. Dentists recommend chewing after every meal and between brushings.
+
+257120:
+This is a nifty looking, but sticky device made from various parts. It looks like it could light up and vibrate.
+
+257920:
+NeverReady double 'A' batteries. This may sound like a description of some woman you know, and just like a woman, these batteries will likely conk out on you, just when you need them the most.
+
+258720:
+Elasticity at its best. This rather old invention is still great for keeping a few things together.
+
+259520:
+This homemade x-ray device looks like it will actually function, flashing a vibrating x-ray pulse and crudely displaying the results on its LCD. Batteries required.
+
+260320:
+A nugget of pure silver, probably right out of Arulco's silver mines.
+
+261120:
+Just like cash, only heavier. This is a shiny, impressive nugget of pure gold, compliments of Arulco's rather meager mineral mines.
+
+261920:
+Use this tank of gas wisely. They are extremely hard to come by, here in Arulco.
+
+262720:
+NO DESCRIPTION NECESSARY!
+
+263520:
+NO DESCRIPTION NECESSARY!
+
+264320:
+NO DESCRIPTION NECESSARY!
+
+265120:
+NO DESCRIPTION NECESSARY!
+
+265920:
+NO DESCRIPTION NECESSARY!
+
+266720:
+NO DESCRIPTION NECESSARY!
+
+267520:
+NO DESCRIPTION NECESSARY!
+
+268320:
+NO DESCRIPTION NECESSARY!
+
+269120:
+NO DESCRIPTION NECESSARY!
+
+269920:
+NO DESCRIPTION NECESSARY!
+
+270720:
+NO DESCRIPTION NECESSARY!
+
+271520:
+NO DESCRIPTION NECESSARY!
+
+272320:
+NO DESCRIPTION NECESSARY!
+
+273120:
+NO DESCRIPTION NECESSARY!
+
+273920:
+NO DESCRIPTION NECESSARY!
+
+274720:
+NO DESCRIPTION NECESSARY!
+
+275520:
+NO DESCRIPTION NECESSARY!
+
+276320:
+NO DESCRIPTION NECESSARY!
+
+277120:
+NO DESCRIPTION NECESSARY!
+
+277920:
+NO DESCRIPTION NECESSARY!
+
+278720:
+NO DESCRIPTION NECESSARY!
+
+279520:
+NO DESCRIPTION NECESSARY!
+
+280320:
+NO DESCRIPTION NECESSARY!
+

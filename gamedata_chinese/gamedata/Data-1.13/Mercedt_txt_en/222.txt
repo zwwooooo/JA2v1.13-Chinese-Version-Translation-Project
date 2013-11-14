@@ -1,0 +1,231 @@
+0:
+Got a reptile!
+
+480:
+I could kill this reptile without being seen.
+
+960:
+Encountered some renegades!
+
+1440:
+Got a reptile!
+
+1920:
+I tell ya! You run into family in the strangest places.
+
+2400:
+It can happen to anyone.
+
+2880:
+I hear a green platoon...
+
+3360:
+It's gonna be dangerous!
+
+3840:
+It's gonna be dangerous!
+
+4320:
+I'm the only Roachburn for the job.
+
+4800:
+C'mon!
+
+5280:
+Something here!
+
+5760:
+Something here!
+
+6240:
+Get me ammo now!
+
+6720:
+Ain't gonna make it! Blood everywhere... Make sure my kids don't get a damn thing!
+
+7200:
+Sorry Sammy... Old Sammy's been knocked off, huh. Well... We better win this thing in his honor!
+
+8640:
+I'm lost!
+
+9120:
+Jammed gun!
+
+9600:
+What the hell are you doing?
+
+10080:
+That's gotta be rough on the pacemaker.
+
+10560:
+Can't believe my luck.
+
+11040:
+I could save a bullet and wait for a better chance!
+
+11520:
+Bleeding here!
+
+12000:
+I can't go... I got a kidney stone!
+
+12480:
+When do you get to rest in this man's army?
+
+12960:
+Chew on that, lightweight!
+
+13440:
+Chew on that, lightweight!
+
+13920:
+Blooming dogfish... You're worse than Larry!
+
+14400:
+Blooming dogfish... You're worse than Larry!
+
+15360:
+I should have done this years ago!
+
+15840:
+Not too shabby for a rusty, old man!
+
+16320:
+I'm lost!
+
+16800:
+Colonel Roachburn is back in business.
+
+17280:
+Orders like that ain't confidence builders!
+
+17760:
+Ah... Just like the old days... Moments worth savoring!
+
+18240:
+If you're looking to hire a Roachburn, I'm the only Roachburn for the job!
+
+18720:
+I'd have made love with your mother, but I didn't have the exact change!
+
+19200:
+The indecisiveness of the incompetent!
+
+19680:
+Since you're paying me a good buck, I'll tell you few tales...
+
+20160:
+Now would be an excellent time to raise the pay out on your life insurance!
+
+20640:
+They don't make these things like they used to.
+
+21120:
+Apparently... word hasn't gotten around yet. You made the only offer.
+
+21600:
+Just don't compare me to my kids... Heck, I don't even know if they are my kids. Their mother was a tramp. She was raised in a trailer. A tent trailer!
+
+22080:
+Feels great to be back! I never shoulda retired.
+
+22560:
+Orders like that ain't confidence builders.
+
+23040:
+The last time you did that I woke up with a severe rash!
+
+23520:
+I can't stand my kids! They're always looking for money or causing me grief. They're just like their spoiled little mother!
+
+24000:
+I cant' think of a better way to put some distance between me and my family. They all drive me nuts!
+
+24480:
+Sam and I go back at least thirty years.
+
+25920:
+What do you figure? I'm gonna take a check for the difference? Come on! I wasn't born yesterday. I got back taxes to take care of... What would you do?
+
+26400:
+After I kill you, ligthweight, I'm gonna mount your head just above the fireplace! You'll like it there! You'll have a great view of a lake!
+
+26880:
+God... I hope it passes soon!
+
+27360:
+Blooming dogfish... 
+
+27840:
+I man has gotta have his pride, you know.
+
+28320:
+It's combat time!
+
+28800:
+It may look peaceful, but it won't last!
+
+29760:
+Now would be an excellent time to raise the payout on your life insurance!
+
+30240:
+You're just a kid, aren't ya?
+
+30720:
+What I do wrong?!
+
+31200:
+Platoon annihilated!
+
+31680:
+And if they keep paying through their nose for new equipment, they're going be looking for a new line of work.
+
+32160:
+There was a time when I thought we could work this out, but you're just a lot of smoke!
+
+32640:
+C'mon!
+
+33120:
+It was good to get back into the swing of things. I'd probably be up to doing it again, if you needed me.
+
+33600:
+Looks like it's my turn to pay!
+
+34080:
+Don't hold back.
+
+34560:
+Colonel Roachburn is back in business.
+
+35040:
+I can't believe the response.
+
+35520:
+They don't make these things like they used to.
+
+36000:
+It's coming down to the wire. Better watch the clock!
+
+36480:
+Whoever attempted to boobytrap this area did a pitiful job at covering their tracks!
+
+36960:
+I'm losing strength... Feel weak... I can't swim anymore...
+
+37440:
+It would make my day...
+
+39840:
+What do you think you are? Family?
+
+40320:
+What do you think you are? Family?
+
+42720:
+I can't stand being around my kids. They all drive me nuts! Do something about it, or I will.
+
+43200:
+I can't stand being around my kids. They all drive me nuts! Do something about it, or I will.
+

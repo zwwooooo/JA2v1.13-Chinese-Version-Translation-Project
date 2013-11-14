@@ -1,0 +1,45 @@
+0:
+I will tell you nothing.
+
+320:
+You got lucky this time.
+
+640:
+It wasn't me, officer! This is a mix-up!
+
+960:
+You'll see, soon the tables will be turned.
+
+1280:
+I have nothing to say to you.
+
+1600:
+What will you do to us?
+
+1920:
+Have mercy!
+
+2240:
+I was just following orders.
+
+2560:
+I'll reward you if you release me. But don't tell the others.
+
+2880:
+Psst, I have secret information to trade.
+
+3200:
+I did my job, as do you.
+
+3520:
+You know... I'd be a real asset to your movement.
+
+3840:
+I will never yield, rebel scum!
+
+4160:
+How did I end up here.
+
+4480:
+There are human rights, you know that?
+

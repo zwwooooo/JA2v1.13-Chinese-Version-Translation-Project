@@ -1,0 +1,45 @@
+0:
+Don't shoot me.
+
+320:
+Mommy says you are very bad people.
+
+640:
+I'm scared... Don't hurt me.
+
+960:
+I don't like you.
+
+1280:
+Why don't ya leave us alone?
+
+1600:
+We don't want you here, army.
+
+1920:
+My dad says the army is gonna fix ya.
+
+2240:
+Nobody likes ya here.
+
+2560:
+Everybody hates you.
+
+2880:
+I'm not supposed to talk to you.
+
+3200:
+My uncle says you won't be here long.
+
+3520:
+Why you doing this to us?
+
+3840:
+Leave me alone.
+
+4160:
+The Queen will get ya.
+
+4480:
+You're in big trouble.
+

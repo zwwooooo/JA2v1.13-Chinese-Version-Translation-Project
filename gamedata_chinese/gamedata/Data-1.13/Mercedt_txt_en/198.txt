@@ -1,0 +1,201 @@
+0:
+Evil one must die!
+
+480:
+Be still. I see evil one!
+
+960:
+Ah, spirits are all around us!
+
+1440:
+Evil one must die!
+
+1920:
+You be troubled with strange spirits...
+
+2400:
+Ah, spirits are all around us!
+
+2880:
+Ah, spirits are all around us!
+
+3360:
+It be dark.
+
+3840:
+I feel danger.
+
+4320:
+I feel danger.
+
+4800:
+Ah, spirits are all around us!
+
+5280:
+I see something...
+
+5760:
+I see something...
+
+6240:
+I be helpless, no bullets!
+
+6720:
+My spirit leaves... I be dying.
+
+8640:
+I need guide.
+
+9120:
+Gun no shoot!
+
+9600:
+Evil one shoots at me.
+
+10080:
+Must take rest.
+
+10560:
+Evil one shoots at me.
+
+11040:
+I be no help.
+
+11520:
+My spirit leaves.
+
+12000:
+Must take rest.
+
+12480:
+Must take rest.
+
+12960:
+Spirit be gone.
+
+13440:
+Spirit be gone.
+
+15360:
+Spirit be gone.
+
+15840:
+It have much power!
+
+16320:
+Bad spirits guide you.
+
+16800:
+I must show you way!
+
+17280:
+Bad spirits guide you.
+
+17760:
+No more evil.
+
+18240:
+The evil ones be gone.
+
+18720:
+Bad spirits guide you.
+
+19200:
+Bad spirits guide you.
+
+19680:
+I must show you way!
+
+20160:
+I feel danger.
+
+20640:
+It broken.
+
+21120:
+Metavira have no more evil.
+
+21600:
+We must no leave weak spirits alone!
+
+22080:
+Travel great distance. Many moons.
+
+22560:
+You be troubled with strange spirits...
+
+23040:
+Bad spirits guide you.
+
+25920:
+Bad spirits guide you. Must go back now.
+
+26400:
+Evil man! Must go quickly.
+
+26880:
+It be dark.
+
+27360:
+I be no help.
+
+27840:
+I must show you way!
+
+28320:
+I feel danger.
+
+28800:
+I need guide.
+
+29280:
+It be late to find this.
+
+30240:
+I must show you way!
+
+30720:
+Must go back now.
+
+31200:
+The evil ones be gone.
+
+31680:
+It broken.
+
+32160:
+We must no leave weak spirits alone!
+
+32640:
+Evil one must die!
+
+33120:
+Go home now! Mister Jack be waiting.
+
+33600:
+The evil ones be gone.
+
+34080:
+I be no help.
+
+34560:
+I must show you way!
+
+35040:
+I be no help.
+
+35520:
+It broken.
+
+36000:
+I feel danger.
+
+36480:
+I feel danger.
+
+36960:
+Great water spirit call to me!
+
+37440:
+I must show you way!
+
