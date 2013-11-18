@@ -2,29 +2,29 @@ VERSION 5.00
 Begin VB.Form frmMain 
    BorderStyle     =   1  'Fixed Single
    Caption         =   "JA2EDT Tool by TBS Neohdy"
-   ClientHeight    =   6240
+   ClientHeight    =   8520
    ClientLeft      =   45
    ClientTop       =   390
-   ClientWidth     =   7935
+   ClientWidth     =   10095
    Icon            =   "frmMain.frx":0000
    LinkTopic       =   "Form1"
    MaxButton       =   0   'False
    MinButton       =   0   'False
-   ScaleHeight     =   416
+   ScaleHeight     =   568
    ScaleMode       =   3  'Pixel
-   ScaleWidth      =   529
+   ScaleWidth      =   673
    StartUpPosition =   1  '所有者中心
    Begin VB.PictureBox picPIG 
       AutoRedraw      =   -1  'True
       BorderStyle     =   0  'None
       Height          =   480
-      Left            =   3720
+      Left            =   4800
       Picture         =   "frmMain.frx":08CA
       ScaleHeight     =   32
       ScaleMode       =   3  'Pixel
       ScaleWidth      =   32
       TabIndex        =   17
-      Top             =   5400
+      Top             =   7560
       Visible         =   0   'False
       Width           =   480
    End
@@ -35,7 +35,7 @@ Begin VB.Form frmMain
       BorderStyle     =   0  'None
       ForeColor       =   &H80000008&
       Height          =   480
-      Left            =   3720
+      Left            =   4800
       ScaleHeight     =   32
       ScaleMode       =   3  'Pixel
       ScaleWidth      =   32
@@ -46,62 +46,62 @@ Begin VB.Form frmMain
    Begin VB.Frame Frame1 
       Caption         =   "Txt to Edt"
       ForeColor       =   &H00FF0000&
-      Height          =   6015
+      Height          =   8295
       Left            =   120
       TabIndex        =   0
       Top             =   120
-      Width           =   7695
+      Width           =   9855
       Begin VB.OptionButton Option1 
          Height          =   495
          Index           =   1
-         Left            =   3480
+         Left            =   4560
          Picture         =   "frmMain.frx":1194
          Style           =   1  'Graphical
          TabIndex        =   19
-         Top             =   3240
+         Top             =   5640
          Width           =   735
       End
       Begin VB.OptionButton Option1 
          Height          =   495
          Index           =   0
-         Left            =   3480
+         Left            =   4560
          Picture         =   "frmMain.frx":15D6
          Style           =   1  'Graphical
          TabIndex        =   18
-         Top             =   2400
+         Top             =   4800
          Value           =   -1  'True
          Width           =   735
       End
       Begin VB.TextBox txtSecond 
          Alignment       =   2  'Center
          Height          =   375
-         Left            =   6000
+         Left            =   1920
          TabIndex        =   15
-         Top             =   4320
+         Top             =   7560
          Width           =   1455
       End
       Begin VB.CheckBox chkUpdate 
          Caption         =   "Update file ( Only TXT to EDT )"
          Height          =   255
-         Left            =   240
+         Left            =   6240
          TabIndex        =   13
-         Top             =   4920
+         Top             =   6840
          Value           =   1  'Checked
          Width           =   3255
       End
       Begin VB.DirListBox DirEdt 
-         Height          =   1350
-         Left            =   4320
+         Height          =   3240
+         Left            =   5400
          TabIndex        =   12
          Top             =   720
-         Width           =   3135
+         Width           =   4215
       End
       Begin VB.DirListBox DirTxt 
-         Height          =   1350
+         Height          =   3240
          Left            =   240
          TabIndex        =   11
          Top             =   720
-         Width           =   3135
+         Width           =   4215
       End
       Begin VB.TextBox txtBlank 
          Alignment       =   2  'Center
@@ -109,28 +109,28 @@ Begin VB.Form frmMain
          Left            =   1920
          TabIndex        =   9
          Text            =   "480"
-         Top             =   4320
+         Top             =   6960
          Width           =   1455
       End
       Begin VB.CommandButton cmdReflesh 
          Caption         =   "Reflesh List"
          Height          =   855
-         Left            =   4320
+         Left            =   4560
          Picture         =   "frmMain.frx":1A18
          Style           =   1  'Graphical
          TabIndex        =   8
-         Top             =   4920
-         Width           =   1455
+         Top             =   2160
+         Width           =   735
       End
       Begin VB.CommandButton cmdGo 
          Caption         =   "Let's DO it!"
          Height          =   855
-         Left            =   6000
+         Left            =   6120
          Picture         =   "frmMain.frx":1D22
          Style           =   1  'Graphical
          TabIndex        =   7
-         Top             =   4920
-         Width           =   1455
+         Top             =   7200
+         Width           =   3255
       End
       Begin VB.CommandButton cmdTxtPath 
          Caption         =   "Change Path"
@@ -143,48 +143,48 @@ Begin VB.Form frmMain
       Begin VB.CommandButton cmdEdtPath 
          Caption         =   "Change Path"
          Height          =   375
-         Left            =   6120
+         Left            =   7200
          TabIndex        =   5
          Top             =   240
          Width           =   1335
       End
       Begin VB.FileListBox fileEDT 
-         Height          =   2070
-         Left            =   4320
+         Height          =   2430
+         Left            =   5400
          Pattern         =   "*.edt"
          TabIndex        =   3
-         Top             =   2040
-         Width           =   3135
+         Top             =   4200
+         Width           =   4215
       End
       Begin VB.FileListBox fileTXT 
-         Height          =   2070
+         Height          =   2430
          Left            =   240
          Pattern         =   "*.txt"
          TabIndex        =   1
-         Top             =   2040
-         Width           =   3135
+         Top             =   4200
+         Width           =   4215
       End
       Begin VB.Label Label3 
          Caption         =   "The Second Begin:"
          Height          =   255
-         Left            =   4320
+         Left            =   360
          TabIndex        =   14
-         Top             =   4440
+         Top             =   7680
          Width           =   1695
       End
       Begin VB.Label Label2 
          Caption         =   "Value of Range:"
          Height          =   255
-         Left            =   240
+         Left            =   360
          TabIndex        =   10
-         Top             =   4440
+         Top             =   7080
          Width           =   1575
       End
       Begin VB.Label Label1 
          Caption         =   "Edt Files (*.edt):"
          Height          =   255
          Index           =   1
-         Left            =   4320
+         Left            =   5400
          TabIndex        =   4
          Top             =   360
          Width           =   2175
@@ -435,9 +435,15 @@ On Error GoTo Error
         Else
             str = ""
         End If
-        Print #Fout, CStr(i * iBlank) & ":"
-        Print #Fout, str
-        Print #Fout, ""
+        If str = "" Then 'zwwooooo: 对话为空输出"zwwooooo"字段，方便整理
+            'Print #Fout, "zwwooooo"
+            'Print #Fout, "zwwooooo"
+            'Print #Fout, "zwwooooo"
+        Else
+            Print #Fout, CStr(i * iBlank) & ":"
+            Print #Fout, str
+            Print #Fout, ""
+        End If
     Next i
 
     If txtSecond <> "" And txtSecond <> "0" Then
@@ -458,9 +464,15 @@ On Error GoTo Error
                 ReDim Preserve b(iStrLng - 1)
                 str = CStr(b)
                 '只输出不为空的字符串
-                Print #Fout, CStr(i * iBlank + CInt(txtSecond)) & ":"
-                Print #Fout, str
-                Print #Fout, ""
+                If str = "" Then 'zwwooooo: 对话为空输出"zwwooooo"字段，方便整理
+                    Print #Fout, "zwwooooo"
+                    Print #Fout, "zwwooooo"
+                    Print #Fout, "zwwooooo"
+                Else
+                    Print #Fout, CStr(i * iBlank + CInt(txtSecond)) & ":"
+                    Print #Fout, str
+                    Print #Fout, ""
+                End If
             End If
         Next i
     End If
