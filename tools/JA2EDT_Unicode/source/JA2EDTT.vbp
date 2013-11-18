@@ -1,19 +1,20 @@
 Type=Exe
 Form=frmMain.frm
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\system32\stdole2.tlb#OLE Automation
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
 Module=Module1; Module1.bas
 IconForm="frmMain"
 Startup="frmMain"
 HelpFile=""
 Title="JA2EDTT"
-ExeName32="JA2EDTT.exe"
+ExeName32="JA2EDTT_modify.exe"
+Path32=".."
 Command32=""
-Name="JA2EDTT"
+Name="JA2EDTT_modify"
 HelpContextID="0"
 CompatibleMode="0"
 MajorVer=1
-MinorVer=0
-RevisionVer=11
+MinorVer=1
+RevisionVer=18
 AutoIncrementVer=1
 ServerSupportFiles=0
 VersionCompanyName="TBS Neohdy"
@@ -33,6 +34,7 @@ Unattended=0
 Retained=0
 ThreadPerObject=0
 MaxNumberOfThreads=1
+DebugStartupOption=0
 
 [MS Transaction Server]
 AutoRefresh=1
