@@ -1,35 +1,35 @@
 0:
-我瞧见个笨蛋！
-
-480:
 有家伙看到我了！
 
+480:
+我瞧见个笨蛋！
+
 960:
-我解决这些家伙。然后朝他们的尸体吐口水！
+我会解决这些家伙。然后朝他们的尸体吐口水！
 
 1440:
-我解决问题！
+我解决了问题！
 
 1920:
-Hehehe, we find new team to kill!
+呵呵呵，我们有新的东西可以杀了！
 
 2400:
-Come... I trim you! I trim you good!
+过来... 让我削你！让我好好的削你！
 
 2880:
 等着瞧……等着瞧……等着瞧！
 
 3360:
-Reuban no scared of you. Nobody no scared of you!
+Reuban不怕你。没人怕你！
 
 3840:
 这不是好地方！
 
 4320:
-Maybe they see us.
+可能它们看见我们了。
 
 4800:
-我解决问题！
+我发现它们了。
 
 5280:
 我看见啥了？
@@ -44,13 +44,13 @@ Maybe they see us.
 我要弄死打伤我的家伙！给我弄个医生来！
 
 8640:
-I don't know where to go.
+我不知道去哪里。
 
 9120:
 枪不顶用了！
 
 9600:
-这次不行，傻X！
+不是今天，傻逼！
 
 10080:
 一切都好...
@@ -59,85 +59,85 @@ I don't know where to go.
 好险，我没受伤！
 
 11040:
-真是疯了！
+真是疯了...
 
 11520:
 Reuban流血了！
 
 12000:
-I take nap... When I wake up, I get new job!
+我要打个瞌睡... 当我醒来的时候再给我派活吧！
 
 12480:
 要喝水！
 
 12960:
-我“修理”人！不修东西！
+我喜欢杀人。
 
 13440:
-我“修理”人！不修东西！
+我喜欢杀人。
 
 13920:
-我待会解决Ivan！然后我要朝那傻X吐口水！
+我待会解决Ivan！然后我要朝那头猪吐口水！共产主义猪！
 
 15360:
-I go! I fix problem!
+我过去！我去解决问题！
 
 15840:
-Reuban want to do again!
+Reuban想再做一次！
 
 16320:
-I must wait a minute.
+我必须等一会。
 
 16800:
-咱们干！
+咱们干成了！
 
 17280:
-Forget it! I spit at you, you pig.
+忘了它！我要向你吐口水，你这头猪。
 
 17760:
-This guy not tough, I get this no problem.
+这家伙不厉害，我干掉她没问题。
 
 18240:
-Nobody miss you, pig-dog!
+没人会记得你的，傻逼！
 
 18720:
-等着瞧……我要把他“修理”了！
+我会解决这个家伙。然后朝他的尸体吐口水。
 
 19200:
-I spit at you, you pig!
+我要向你吐口水，你这头猪！
 
 19680:
-You like Reuban? Ah... Reuban like you too.
+你喜欢Reuban吗？啊哈...Reuban也喜欢你。
 
 20160:
-Reuban get out fast!
+Reuban要赶快出去！
 
 20640:
 坏掉了。
 
 21120:
-I work there. I no kill nobody. Okay... Okay... Maybe one, maybe two, but no much! No enough!
+我在这里工作。我没杀人！安啦... 安啦... 也许杀了一个，也许杀了两个，但是杀的不多！杀的不够！
 
 21600:
-Much people want Reuban. A big star.
+大家都想要Reuban。一个大明星。
 
 22080:
-I want... lots... money.
+我想要... 大把大把...的钱。
 
 22560:
-Forget mission! We go kill people!
+忘了任务吧！我们去杀人！
 
 23040:
-我修理你，然后吐口水！
+我来修理你，你这头猪！然后向你吐口水！
 
 23520:
-我好好修理了Ivan！这下不用听俄语了……
+我好好修理了Ivan！这下不用听俄语了…
 
 25920:
-You pig-guy, no money? I get you!
+你这个猪头，没钱？纳命来！
 
 26400:
-He crazy guy! Reuban get out fast!
+你这个疯子！Reuban要赶快出去！
 
 26880:
 啥也看不到！
@@ -146,52 +146,52 @@ He crazy guy! Reuban get out fast!
 我快被这玩样逼疯了！
 
 27840:
-你不是傻X！你是好人！
+你不是傻逼！你是好人！
 
 28320:
-我们再找人来杀吧！
+好吧，现在是杀戮时间！
 
 28800:
-Come... I trim you! I trim you good!
+过来... 让我削你！让我好好的削你！
 
 29760:
 我来找你算账了！
 
 30240:
-We go back now. Must get this back right away.
+现在我们可以回去了。马上带这个家伙回去。
 
 30720:
-Reuban go now! I no kill much here...
+Reuban现在要走了！我在这里没杀多少人...
 
 31200:
-我们再找人来杀吧！
+我们再找人来杀吧。
 
 31680:
-You pay too much money.
+你付了太多的钱。
 
 32160:
-Kill woman? It make heart warm!
+杀女人？它温暖了我的心！ 
 
 32640:
-I get dis pig-dog!
+我发现了个猪狗！
 
 33120:
 成了！我们现在去杀人吧！
 
 33600:
-I kill guys! I no fix-it guy!
+我“修理”人！不修东西！
 
 34080:
-啊……Reuban要走了。
+啊哈... Reuban现在要走了。
 
 34560:
-Reuban走了！
+Reuban现在要走了！
 
 35040:
-Reuban也走了！
+Reuban也去！.
 
 35520:
-It is broken.
+它坏掉了。
 
 36000:
 有陷阱！
@@ -200,8 +200,8 @@ It is broken.
 有陷阱！
 
 36960:
-没气了！水深了！我沉了！
+没气了！水很深！我沉了！
 
 37440:
-Ok，时候到了，开杀了！
+OK，我到了。
 
