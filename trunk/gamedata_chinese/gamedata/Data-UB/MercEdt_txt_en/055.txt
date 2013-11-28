@@ -1,0 +1,300 @@
+0:
+Enemy in view.
+
+480:
+We've got trouble.
+
+960:
+I'm overloaded here!
+
+1440:
+We got one of those whatchamacallits.
+
+1920:
+Holy Mother of...what the hell do you call that?
+
+2400:
+Those giant thingamabobs must've come this way.
+
+2880:
+I don't know what I just heard, but I don't like it.
+
+3360:
+Ecch...smells rotten, like one of those big whatever-they-ares.
+
+3840:
+I don't like how quiet it is.
+
+4320:
+Sure hope we don't bump into a big whozeewhatsis.
+
+4800:
+These things aren't playing fair!
+
+5280:
+What's that?
+
+5760:
+There seems to be something over there.
+
+6240:
+An empty weapon is never good.
+
+6720:
+Hope I don't look as bad as I feel.
+
+8640:
+I got distracted. Give it to me again.
+
+9120:
+This gun's jammed.
+
+9600:
+I'm in the hotseat here!
+
+10080:
+Was that supposed to hurt?
+
+10560:
+Suddenly I feel really glad to be alive.
+
+11040:
+I'm not very confident about that shot.
+
+11520:
+Permission to stop bleeding, somebody?
+
+12000:
+I'm about to fall asleep on my feet.
+
+12480:
+Need to breathe.
+
+12960:
+Another down.
+
+13440:
+Killed one.
+
+15840:
+I hate to look at that kind of thing.
+
+16800:
+I'm finished my task.
+
+17280:
+I can't comply with that order.
+
+17760:
+All right, go home, there's nothing to see here.
+
+18240:
+I've got to believe that thing was here for a reason...but damned if I know what that could've been.
+
+18720:
+Hate to say it, but what a loser.
+
+19200:
+I don't feel like I'm doing any good here. And being here isn't doing me much good either.
+
+19680:
+I get the feeling that everybody on this team is only out for themselves.
+
+20160:
+Enemy planes approaching.
+
+20640:
+Everything I've got either needs repair or replacement. This is no way to wage a battle.
+
+22080:
+Improvement. Feels good.
+
+22560:
+I believe we need a better approach.
+
+23040:
+I'm hardly surprised that didn't go as intended.
+
+26400:
+That chopper pilot's a madman. He made me nauseous. Oh, well... It's off to find Miguel.
+
+26880:
+Ow, got me in the eyes. Ah, they're on fire!
+
+27360:
+Surely, there's something else I could be doing.
+
+27840:
+Wish I met her under other circumstances.
+
+28320:
+There are enemies in proximity.
+
+28800:
+There's at least one of them isn't accounted for. Could be waiting for the right moment to surprise us.
+
+29280:
+Here's something to perk up my day.
+
+30240:
+Isn't that Joey Graham over there?
+
+30720:
+Not with us here, she won't. Count on it.
+
+31200:
+One for our side! All enemies are down.
+
+31680:
+It appears there's been a theft here. Stuff's missing.
+
+32160:
+Forgive me for being cold and calculating, but that woman was a complete zero in any book. They'll probably throw us a parade.
+
+32640:
+Cougar!
+
+33120:
+The people in Arulco can sleep a little easier tonight. Only thing that might fall from the skies will be rain. Well done, once again, from beginning to end.
+
+33600:
+They musta slipped out. No enemy presence in the sector.
+
+34080:
+I'll grab a few z's and get back on the job.
+
+34560:
+Rested and returning to work.
+
+35040:
+I was just going to say that.
+
+35520:
+Maintenance could have prevented this. Now, it's nothing but dead weight.
+
+36000:
+This's got "deadly" written all over it.
+
+36480:
+Watch out. I'd keep my toes off of that.
+
+36960:
+Need a... line here! I'm... drowning! Anyone...
+
+37440:
+Safe arrival. I'm prepared for the next assignment.
+
+37920:
+Now that the laptop is working again, it might be time to bring in some fresh meat.
+
+38400:
+Okay... All my body parts are accounted for.
+
+38880:
+Somebody should take away your license... If you even have one.
+
+39360:
+We should get moving. It isn't getting any warmer standing here.
+
+39840:
+Looks like we've hit a dead end... There has to be a way to open that door downstairs.
+
+40320:
+Ya... Let me just catch the next bus to Memphis. In case you've forgotten, there's no way back.
+
+40800:
+This is absolutely crazy. We're gonna freeze to death.
+
+41280:
+Looks like we found the beehive. I say we smoke these guys out good.
+
+41760:
+This whole town needs a good decorator.
+
+42240:
+It's warming up, but my cheeks are still burning.
+
+42720:
+Team's gotten smaller. Sure hope there's no blood on the fan.
+
+43200:
+With noise like that who needs doorbells. I guess it's safe to say we'll be expected.
+
+43680:
+Looks like everyone's accounted for. No one's gonna have to wash the fan blade after all.
+
+44160:
+Maybe our company should come up with some policies of its own. Like not letting annoying store clerks live.
+
+44640:
+What is it with armsdealers and attitude? Do they all share the same mother?
+
+45120:
+You haven't got a clue, do you?
+
+45600:
+Anybody else I wouldn't buy into, but there's something about Rudy that tells me he's on the up and up.
+
+46080:
+You rebels sure get around. Good to have you with us, Manuel.
+
+46560:
+I'll be keeping an eye on you, Biggens. Your loyalty strays so much as an inch and I'll pull the trigger myself.
+
+47040:
+I was beginning to believe that there weren't any men left like you, Kulba. How naive of me. Let's hope you got what it takes.
+
+47520:
+So, you used to be with A.I.M. huh, Tex? I hear those were the days. Been awhile though, hasn't it?
+
+48000:
+Hey, this is a new toy. Too Much...
+
+48480:
+I don't even want to think about what would happen if someone was caught in there with the blades turning.
+
+48960:
+I doubt your own mother will even miss you.
+
+49440:
+Pass that note to me.
+
+49920:
+All right! I give it a nine! That place won't need an address anymore.
+
+50400:
+Looks like we got more than just border guards to deal with.
+
+50880:
+It looks really old. I wonder if it still works.
+
+51360:
+I hate those cats! I hope that's all of them.
+
+51840:
+Got to admit... That's one tough act to follow. Though I don't think it was planned.
+
+52320:
+Too bad his stuff didn't blow clear. There's nothing left of it.
+
+52800:
+Would have been nice to have something to cut through this with... I'll have to use the old fashion way - a good boot. Gonna make an awful lot of noise though.
+
+53280:
+I don't even think the door has a keyhole. Getting it open won't be a picnic.
+
+53760:
+Well... That sure did something. I felt the whole building shake.
+
+54240:
+Haven't got a clue what that noise is all about.
+
+54720:
+Time to make our move, before that fan starts turning again.
+
+55200:
+Humph... This is interesting. Has the coordinates for all the potential targets on it. Most of them towns in Arulco... Probably wouldn't be too hard to reverse a few things and make this facility the target.
+
+55680:
+I'll have to figure out how the control panel works... Then I'll need a clear route to make a fast getaway. The elevator over there would probably do the job.
+

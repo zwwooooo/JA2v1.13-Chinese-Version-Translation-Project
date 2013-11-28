@@ -1,0 +1,252 @@
+0:
+Threat!
+
+480:
+It's show time.
+
+960:
+They're on me.
+
+2880:
+Something's moving.
+
+3840:
+Something's in the air. I know it.
+
+5280:
+See something.
+
+5760:
+Stuff.
+
+6240:
+Gun's tapped out.
+
+6720:
+Got... hit... bad! Ain't looking good.
+
+8640:
+Didn't quite catch that?
+
+9120:
+Squat! Weapon won't fire.
+
+10080:
+I'm still here!
+
+10560:
+One of these days..my luck's gonna run out.
+
+11040:
+No way. Can't make that shot.
+
+11520:
+Took one. Need a patch.
+
+12000:
+Ahh.. About time for beddy-byes.
+
+12480:
+Need... air!
+
+12960:
+Annihilated.
+
+15840:
+Musta been a ten foot spray on that.
+
+16800:
+Done! What next?
+
+17280:
+Not gonna happen!
+
+18720:
+Somebody needs their butt kicked.
+
+19200:
+This ain't going very well...
+
+19680:
+We stick with it, we'll get it done.
+
+20160:
+Bombers!
+
+20640:
+Gotta get our hands on some better equipment. It's embarrassing to be seen with this stuff.
+
+22080:
+I noticed improvement.
+
+22560:
+Probably wanna rethink that.
+
+23040:
+Figured as much.
+
+26880:
+Think my corneas got scorched.
+
+27360:
+Getting discouraged. Wasting my time.
+
+27840:
+Seemed alright.
+
+28320:
+We got work to do. There's enemies.
+
+28800:
+We didn't finish the job. Stay awake.
+
+29760:
+It's a dog-eat-dog world!
+
+31200:
+Think we're alone.
+
+32640:
+Eyeing a savage cat.
+
+33120:
+To be honest, I wasn't sure about this place when I got here, but my little romp through the Tracona countryside turned out to be a rather pleasurable experience. I'd do it again.
+
+33600:
+Squat! They bugged out.
+
+34080:
+Catching shut-eye before I fall over.
+
+34560:
+Better now. Wide awake.
+
+35040:
+Put me down, too!
+
+35520:
+Fine time for this to be on the fritz.
+
+36000:
+Got too many parts. It's rigged.
+
+36480:
+Don't look right around here.
+
+37440:
+Got here. Need a game plan.
+
+37920:
+Laptop's happening. We're plugged in.
+
+38400:
+Man. My neck is stiff.
+
+38880:
+DON'T GLIDE is a bit of an understatement.
+
+39360:
+Ain't safe staying here too long.
+
+39840:
+No way out up here. Gotta do something about that door.
+
+40320:
+There's no turning back now. I'm seeing this through.
+
+40800:
+Should be wearing a parka. What's the deal with that anyway?
+
+41280:
+Found the nest. I say, let's do it.
+
+41760:
+Ain't gonna find a fast-food joint around here.
+
+42240:
+It's good to be out of the snow, but it looks like it's gonna be awhile before I feel my fingers again.
+
+42720:
+We're missing bodies. Didn't all get through.
+
+43200:
+Better lock and load. After a blast like that, I'm sure they're doing the same.
+
+43680:
+I count everyone as being here. Good.
+
+44160:
+You gotta know she's the only store in town.
+
+44640:
+An savory, yet necessary fellow.
+
+45120:
+Let me get right to the point!
+
+45600:
+Never thought I'd run into an Eskimo down here.
+
+46080:
+Don't know much about Arulco, Manuel, but I figure Tracona's gonna have some scar tissue before I leave here.
+
+46560:
+Keep a lid on it, Colonel... And remember... you're working with us now.
+
+47040:
+Stay close, John. Don't want to lose you too early.
+
+47520:
+You aren't gonna get us killed, are you Tex?
+
+48000:
+Something new to try.
+
+48480:
+Going through that fan's gotta be one of the most foolish things I ever considered actually doing.
+
+48960:
+He won't be bothering anybody anymore.
+
+49440:
+Let me check out that paper.
+
+49920:
+Never seen nothing quite like that... Doubt I ever will. Kinda heartwarming actually.
+
+50400:
+Something tells me we're gonna be seeing resistance from here on in.
+
+50880:
+Used to own one of these. A hand mortar. Got a few bucks for it, too.
+
+51360:
+Think that was the last of 'em. None to soon, either.
+
+51840:
+He was right. We won't be threatening him anymore.
+
+52320:
+Oh, man... He blew everything...
+
+52800:
+Wire cutters would have been nice. Guess I'll have to force it and let everyone know exactly where we are.
+
+53280:
+Now that's what I call a door!
+
+53760:
+Heard something move below us.
+
+54240:
+What's up with that?
+
+54720:
+We're being paged. Our fan's awaiting.
+
+55200:
+They were gonna blow the crap out of Arulco alright. Paper's got the missile coordinates for almost every town. Even got the coordinates for this place...
+
+55680:
+Hey... I got an idea. I just gotta change a few things on the control panel and hustle it into the elevator when I'm finished. Then, I can step back and enjoy the show.
+

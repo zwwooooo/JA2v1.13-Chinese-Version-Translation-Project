@@ -1,0 +1,234 @@
+0:
+Contact!
+
+480:
+It was matter of time. I am encountered.
+
+960:
+Need assistance.
+
+2880:
+Noise has me cautious.
+
+3840:
+I am troubled. My feeling is not good.
+
+5280:
+I find something.
+
+5760:
+There. There is something there.
+
+6240:
+Weapon not charged.
+
+6720:
+I am prepared... for my death.
+
+8640:
+My mind is confused.
+
+9120:
+Gun is stuck.
+
+9600:
+They are determined.
+
+10080:
+I have suffered far worse.
+
+10560:
+I must be careful.
+
+11040:
+I miss... I am sure.
+
+11520:
+Ugh... I am hurt.
+
+12000:
+Ahh... I get tired.
+
+12480:
+I must... find breath.
+
+12960:
+No problemo.
+
+15840:
+I do not wish to die like that.
+
+16800:
+I am ready to do something.
+
+17280:
+I cannot do this. I will not do this.
+
+18720:
+A rotten banana.
+
+19200:
+I should be home with family.
+
+19680:
+I am not sure of confidence in our army.
+
+20160:
+Run! Planes come quick. Will bring explosions everywhere.
+
+20640:
+The Arulcan army have much better equipment when I was soldier.
+
+21120:
+I have lived many years hiding alone. This is very different for me.
+
+22080:
+I ripen with time.
+
+22560:
+I would not think to do this.
+
+23040:
+Do not ask why it happen.
+
+26880:
+I am in dark... With pain.
+
+27360:
+It is not possible.
+
+27840:
+They are many people in Tracona nice like this.
+
+28320:
+There will be fighting. We will be ready.
+
+28800:
+They are not far, I am sure. Remember this.
+
+29280:
+I am lucky.
+
+30720:
+I am happy to go home to family.
+
+31200:
+We are safe now. They are dead.
+
+32640:
+Bloodcat!
+
+33120:
+I am happy to help you. But now I go to family. See Fatima and my son, Pacos, for first time. This is why I fight. For peace and family... Goodbye.
+
+33600:
+They run far away. I wish they do not stop.
+
+35040:
+Me agree.
+
+35520:
+It not work right.
+
+36000:
+It scare me. It look bad.
+
+36480:
+I do not like this here. There is something covered in ground.
+
+37440:
+I am here. I am ready.
+
+37920:
+Computer is working. This I sure will help us.
+
+39840:
+Up here we are trapped. We must discover way to open door in basement.
+
+40320:
+There is nowhere to go. I must stay.
+
+41760:
+People of this town are poor. Like most people in countries near here.
+
+42720:
+We leave forces behind. Must go without them.
+
+43200:
+I fear attack not be secret. We make too much noise.
+
+43680:
+We are lucky... No one was left on bad side of fan.
+
+44160:
+I believe this woman has reported me to the authorities. I never stay long after buying supplies. I try never to come at same time. I do not trust her.
+
+44640:
+I have never seen this man before.
+
+45120:
+Many fear you, but not me.
+
+45600:
+This man help me before, I trust him with life.
+
+46080:
+I sure we be okay.
+
+46560:
+I sure you see much, Colonel. I hope you have more to give.
+
+47040:
+Your story is strange. It is even more than strange. I hope you are capable.
+
+47520:
+I hope it has not been too long, since you last saw real war, Mr.Tex.
+
+48480:
+It is scary when you are close to air machine.
+
+48960:
+There is nothing to fear!
+
+49440:
+Let me read letter...
+
+49920:
+I am proud. Very proud. We have destroyed it. The threat to my country is finished.
+
+50880:
+It is old weapon.
+
+51360:
+They are dead now. But it is not normal to find them here.
+
+51840:
+I would not be surprised if parts of this crazy man are in Arulco.
+
+52320:
+It is terrible that all his stuff is in parts, too.
+
+52800:
+We cannot cut it, we no have cutters. We must force it open. I am afraid there will be noise.
+
+53280:
+It is bunker door. It will not be easy to open.
+
+53760:
+I sure I hear something. Loud noise of metal. It come from bottom floor.
+
+54720:
+It is alarm. The big air machine is stopped.
+
+55200:
+It numbers to fire rockets at my country. This man was planning this, now we are sure. I think I make plan. Must be ready to leave fast. Must take elevator.
+
+55680:
+I will make rocket fire with numbers for this facility. If I right, big explosion will make whole building disappear forever. I hope buttons are simple.
+
+56160:
+There is power factory here with big air machine. It stop one time each day when alarm make noise. There is tunnel behind it. It go right to rocket facility. We could go in it. Make surprise attack on other side.
+
+56640:
+I watch everything around here, but do not know another way to facility. I guess... It possible to explode air machine, but it would make loud noise. Tell people we coming.
+
