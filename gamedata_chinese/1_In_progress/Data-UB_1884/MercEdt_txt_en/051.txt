@@ -1,0 +1,300 @@
+0:
+Bad guys.
+
+480:
+Time for the enemy to say its prayers!
+
+960:
+They got me up against the wall!
+
+1440:
+We gotta purple people eater here!
+
+1920:
+Geez Louise! It's an honest-to-God...ugly something or other.
+
+2400:
+This leads me to think we just missed a nasty scrape with a purple people eater.
+
+2880:
+Yo, I heard something.
+
+3360:
+Geez, that stinks. Those purple people eaters must be eating too many raw vegetarians.
+
+3840:
+Something funny's going on here. I don't like it.
+
+4320:
+Wish I'd brought my Saint Ian medal...the patron saint of protection from the purple people eaters.
+
+4800:
+Okay, these assholes aren't funny anymore!
+
+5280:
+Hmm, what's this?
+
+5760:
+Something's lying there.
+
+6240:
+Need to reload!
+
+6720:
+I've been hit...feels like a sucking chest wound, a concussion and a vasectomy all at the same time.
+
+8640:
+Sorry, my mind is somewhere else. What was that again?
+
+9120:
+Got a gun jam here.
+
+9600:
+They're trying to pound me to a pulp!
+
+10080:
+Well...this trip isn't anything like it sounded in the brochure.
+
+10560:
+Wonder how many lives I've got left after that.
+
+11040:
+Don't think I can make that one.
+
+11520:
+Geez, sorry. I'm getting blood all over the place.
+
+12000:
+I'm going to drop unless I get some sleep immediately.
+
+12480:
+Gimme a minute.
+
+12960:
+Nighty-night!
+
+13440:
+Cleanup in aisle 2!
+
+15840:
+Geez...talk about losing face...
+
+16800:
+I'm finished here.
+
+17280:
+I respectfully refuse, sir.
+
+17760:
+Hey-hey, all right! Nothing like seeing a job from beginning to end.
+
+18240:
+All right! Tell me what I've won! Sports car? Gift certificate? Or do I just get to make a really huge omelets.
+
+18720:
+I dunno if I've ever met a bigger jackass.
+
+19200:
+This whole deal is really starting to get on my nerves.
+
+19680:
+Most of these guys'll never make it to MENSA, but they're good enough in a fight.
+
+20160:
+We got some unwanted aerial attention!
+
+20640:
+This stuff we've got is useless. We'd be better off throwing snowballs.
+
+22080:
+I'm not your average mercenary.
+
+22560:
+Sounds like something an armchair general would come up with, not a seasoned field commander.
+
+23040:
+Anyone who didn't see that coming, raise your hand.
+
+26400:
+Countryside looks a little too damn quiet for my liking. I say we find this Miguel dude and hunker down.
+
+26880:
+My eyeballs are waterin'! All I can make out are painful shadows.
+
+27360:
+This is futile.
+
+27840:
+My kind of guy.
+
+28320:
+Enemies have been detected in this area.
+
+28800:
+Keep in mind, we didn't get them all.
+
+29760:
+The puff of smoke, the thud of the body... Man, there's nothing like it.
+
+30240:
+Isn't that the kid we're supposed to be keeping an eye out for?
+
+30720:
+Well, she better say her prayers, Miguel, cause she's got another thing coming. Like a bullet to the head. Good to be on board with ya.
+
+31200:
+Yeah! We're good! Once someone notifies their next of kin, we can move on to the next sector.
+
+31680:
+Whoever stole our stuff outta here, I'll be using this box as their coffin, if ya get my drift.
+
+32160:
+Stand up and let me do it again! Man, she had that coming... I hate being jerked around like that!
+
+32640:
+Puddy-cat! I'm sure I see a puddy-cat!
+
+33120:
+You're the best damn commander this side of the tracks. I know it. I was here from day one right until ground zero. Fine job.
+
+33600:
+They musta realized the writing was on the wall. They left us the place.
+
+34080:
+Resting my eyes for a bit. I'll get on it shortly.
+
+34560:
+Back on the clock.
+
+35040:
+I second that.
+
+35520:
+This dollar-store thing is whacked. It's useless.
+
+36000:
+Hold tight! This thing's rigged to blow.
+
+36480:
+Keep your feet in the dotted lines, man. Straying could be dangerous.
+
+36960:
+Need to... find something that floats... Or I'm... gonna die...
+
+37440:
+Got where I needed to be. What's on the agenda?
+
+37920:
+It's about time we get the computer back on-line. I felt a little stranded there for a bit.
+
+38400:
+Ugh! My aching back... That was a heck of a drop.
+
+38880:
+I betcha if Skyrider was our pilot, we wouldn't be in this situation.
+
+39360:
+If anybody saw the crash, they'll be looking to check it out. Better not hang around too long.
+
+39840:
+There doesn't seem to be a way out. Looks like we gotta find a way to open that door in the basement.
+
+40320:
+What do ya figure, I'm gonna tunnel a new tunnel out? There's no turning back now.
+
+40800:
+Oooch! It's colder than a witch's mammary gland!
+
+41280:
+So that's where the border guards are coming from. What do you say we smoke 'em out?
+
+41760:
+This place ain't floating in dough that's for sure.
+
+42240:
+Whuh! Things are warming up. Wasn't sure if we'd run into polar bears there for a second.
+
+42720:
+Numbers don't add up. Looks like we left part of the team behind.
+
+43200:
+We got a way to get there, but I also got a ringing in my ears. Like I'm sure everyone within miles of here does.
+
+43680:
+Hard to believe, but the team is intact.
+
+44160:
+Is it just me or does anyone else want to spend the day in there hanging out and reading every magazine on the shelf?
+
+44640:
+I'm gonna have to do everything in my power to keep myself from seriously hurting that guy.
+
+45120:
+This is gonna be a pleasure.
+
+45600:
+That fellow is a long way from home. I got a good feeling about him...as long as I'm first through the fan, that is.
+
+46080:
+Good to have an Omerta rebel along for the ride, Manuel.
+
+46560:
+You've seen a few things, Colonel, that's obvious, but I wasn't counting on recruiting anyone from the other side.
+
+47040:
+Stay close, Mister Kulba. That reserve training was probably eons ago.
+
+47520:
+You could turn out to be a real treat, Tex.
+
+48000:
+I've always wanted to get my hands on one of these.
+
+48480:
+This fan thing smells like a stunt for Houdini.
+
+48960:
+It looks like your journey has came to an end.
+
+49440:
+Gimme that piece of paper for a second.
+
+49920:
+Nice blast! Always enjoy the really big ones. Don't imagine they'll be sending any missiles anywhere from there.
+
+50400:
+Looks like we got more than just the border patrol to contend with.
+
+50880:
+It might be some kind of medieval weapon. Not really sure.
+
+51360:
+Those puddy-cats got serious attitude. Actually, I should say HAD serious attitude.
+
+51840:
+Oh! That hurt, Raul. Stop it already, you're killing me.
+
+52320:
+Ah shoot! The dumbass blew all his stock up, too...
+
+52800:
+I could probably push this thing off. Though cutting through it would have made a hell of a lot less noise.
+
+53280:
+Whoever built this door obviously built it to keep people out.
+
+53760:
+Let's hope that was the door downstairs I heard opening.
+
+54240:
+Geez Louise! That's loud!
+
+54720:
+We're on deck! They shutdown the fan.
+
+55200:
+Yup! They were planning on raining missiles down over Arulco all right. Paper's got all the math to do exactly that. Gives the coordinates for this facility, too...
+
+55680:
+Here's an idea... I'll pop the coordinates of this place into the control panel, and create my own little rainstorm. Just have to haul ass into the elevator when I'm done.
+

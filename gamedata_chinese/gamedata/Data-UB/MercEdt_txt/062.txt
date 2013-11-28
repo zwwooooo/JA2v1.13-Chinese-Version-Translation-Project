@@ -1,0 +1,258 @@
+0:
+Stiffs!
+
+480:
+Punks! Think I'll introduce myself.
+
+960:
+Gonna need a hand here.
+
+2880:
+What was that I heard?
+
+3840:
+Place smells of trouble.
+
+5280:
+Got something over there.
+
+5760:
+What is that?
+
+6240:
+Gotta get me some lead.
+
+6720:
+Ugh! I'm not gonna make it. I'm coming, Mary... I'll be with ya soon... if I don't get lost...
+
+8160:
+Oh, that's a tough one. Gus seemed to know what he was doing.
+
+8640:
+What's the story?
+
+9120:
+Gotta fix this thing before it gets somebody killed. Like me!
+
+9600:
+I can handle it. I ran a neighborhood watch, you know.
+
+10080:
+Mary? Is that you, Mary?
+
+10560:
+Ohhhh! My tinker's pumping good.
+
+11040:
+Is this expected. I mean... Can anybody else make this shot?
+
+11520:
+I'm gonna need a plaster. A big plaster.
+
+12000:
+I gotta punchout soon. My feet are killing me.
+
+12480:
+What's the rush? I had a triple by-pass, you know.
+
+12960:
+Gotcha!
+
+13920:
+I think that Ivan may have communist leanings, if you know what I'm saying here. He sure talks like one of them Ruskies. I'd rather stay away from him.
+
+14400:
+Igor may be trying to pass himself off as one of us, but I know a Ruskie when I see one. He's one of them. I know what I'm talking about. He'll be building a wall right down the middle of this country before we know it.
+
+14880:
+Numb is a street punk. I've seen his type when I was working the neighborhood watch. I got him pegged as a car thief. Not good having those types around.
+
+15360:
+Me and that punk Numb don't see eye to eye. I can't be here with him. It goes against everything I believe in. The watch would take away my official, fluorescent-orange, district, patrol vest if they knew.
+
+15840:
+Holy Mazolly. Anybody else see that?
+
+16320:
+I tell you, this is one hot country they got going down here.
+
+16800:
+Signed off on that one, chief. What's next?
+
+17280:
+NO! Spent my whole marriage wanting to say that.
+
+18720:
+Had someone like that down at the steel plant. Ended up as a door on an Eldorado.
+
+19200:
+Gotta tell ya... this place sure ain't the good ol' U.S. of A..
+
+19680:
+Great bunch of fellows, I tell ya.
+
+20160:
+Kamikazes!
+
+20640:
+You know, you can get better stuff than this at the St. Judes Helping Hand outlet in Cleveland. Right after the Kovorski Deli on Center street, you're gonna wanna make a tight left... no, it's a right. I'm sure of it.
+
+21120:
+You know you gotta trust people. People are good. I mean I can count the number of times I got snookered, but who's counting? Trust people, I say, and carry a well-maintained, fully loaded, firearm.
+
+21600:
+Nobody better be smoking none of those Cuban cigars, cause that wouldn't be right. We gotta bring that guy to his knees. It's gonna happen any year now. You just watch.
+
+22080:
+Who said I was old?
+
+22560:
+You just waking up? Take your time here.
+
+23040:
+What was that all about?
+
+23520:
+Ivan can speak all the bad English he wants, but I know what's going on in that Ruskie head of his. It spells trouble for the rest of us, and I'm getting out of here before it happens.
+
+24000:
+These Ruskie guys like Igor are just using this hard time in the homeland stuff to infiltrate. Gonna have their Lenin tentacles all over the place before you know it. Well, I'm no sympathizer, I'm outta here.
+
+25440:
+Look at that Gus guy. Now that's a soldier.
+
+26880:
+My eyes are burning bad. Like the time I started the barbeque with paint thinner.
+
+27360:
+Is there some trick to this I'm just not getting?
+
+27840:
+Did you see the melons?
+
+28320:
+There's punks on the loose. There's always punks on the loose.
+
+28800:
+Was anybody counting? Cause I'm not sure we got them all.
+
+29760:
+John Kulba from Cleveland, Ohio. The Gateway to Hell!
+
+30720:
+I came a long way... Don't imagine you'd reconsider. I mean what am I gonna go home to now that Mary's not around? The grandchildren? You ever meet my grandchildren? Come on, be a pal... There's got to be something I can do.
+
+31200:
+That's it? I thought it be a lot tougher than that to wipe 'em out.
+
+32640:
+That's what a little pussy turns into!
+
+33120:
+Can't we go find another war somewhere. I mean why stop now? Maybe we could start one. I know I'm looking for something to do.
+
+33600:
+They ran away.
+
+35040:
+Ditto!
+
+35520:
+Who maintains this stuff?
+
+36000:
+It has some funny looking parts to it.
+
+36480:
+The ground looks like somebody was doing something. I don't like the looks of it.
+
+37440:
+I'm double parked. Looking for something to do.
+
+37920:
+Our portable, electronic, laptop computer device seems to working again.
+
+39840:
+I think we're lost. And I know what I'm talking about. There's no way to get out up here, and we still haven't figured out how to get through that door.
+
+40320:
+Oh, no! We're in this mess together. Besides where would I go?
+
+41760:
+This place Varrez has potential. Just needs some American ingenuity and moolah. And a big casino! With Wayne Newton and lots of flashy lights.
+
+42720:
+We're not all here! I think that sausage grinder made mince meat out of a piece of our team.
+
+43200:
+Wow! I think we woke up the dead! Got us a way to the other side without having to walk through the sausage grinder, though.
+
+43680:
+We're all here. That sausage grinder didn't manage to claim anybody.
+
+44160:
+There's definitely something about that Miss Fung that makes me feel attracted. I can't put my finger on it... It's like I'm suddenly comfortable around her.
+
+44640:
+I might be mistaken here, but the guy sounds a little...ahhh...Cuban. Hope that's not the case, cause you know what us true Americans think of that country.
+
+45120:
+Have you finished yet, deadman?
+
+45600:
+It's a tragedy what happens to some of these Canadians. Get ripped right out of their igloos and sold into slavery. Ya'd think those cops on horses would be doing more to protect their citizens.
+
+46080:
+Ya know a guy named Pablo who works at the airport, Manuel? He's not family or anything, is he?
+
+46560:
+Anybody ever tell ya, ya kinda look like Lawrence what's his name? The guy who was in Bridge over the River... something or other.
+
+47040:
+No need to worry about me. I was a Commander in the neighborhood watch right up until a week ago. I know how to handle the streets.
+
+48480:
+I got some weird feelings about this. I mean...I saw a guy get sucked into the cooling system at the steel plant. Family ended up burying the mop we used to wipe him up.
+
+48960:
+Chew on that, ya nazi sympathizer!
+
+49440:
+Give that paper over here.
+
+49920:
+It was like the fourth of July. Brought a couple tears to my eye there.
+
+50880:
+This gun is pre-historic. I bet they hunted dinosaurs with it.
+
+51360:
+Good! Those were sure some nasty alley cats. Let's hope we don't run into any stray dogs.
+
+51840:
+Ha! That was kinda funny. Bet he wishes he could try that again.
+
+52320:
+Blew everything to pieces. It looks kinda like a jigsaw puzzle around here.
+
+52800:
+Wish I had my own tools. Got enough wirecutters in my garage to cut through a billion of these things. Have to break it open, and wake-up the dead.
+
+53280:
+Wow! Now that's a door!
+
+53760:
+Anybody else hear that. Sounds like something moved below us.
+
+54240:
+Hear that! Must be lunch time at the factory. Brings back some fond memories.
+
+54720:
+That's that fire alarm - the fan has stopped turning.
+
+55200:
+Kinda interesting. It's looks like the instructions on where to fire the missiles. Betcha, I could shoot one of these suckers up and send it right back down here. I mean... How complicated can it be?
+
+55680:
+I'll just tinker with the controls and bingo we're in business. Oh... Sorta need a way to get out of here quickly. How's about that elevator over there?
+
