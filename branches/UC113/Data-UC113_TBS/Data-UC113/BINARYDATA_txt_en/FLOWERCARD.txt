@@ -1,0 +1,27 @@
+0:
+¢ç Motivated by a magazine's advertisement. ¢ç
+
+800:
+¢ç Recommended by a close friend. ¢ç
+
+1600:
+¢ç Found through a search engine on the Web. ¢ç
+
+2400:
+¢ç I was looking for a stupid site to hack. Thanks! ¢ç
+
+3200:
+¢ç I was bored and my little brother already had it bookmarked. So I just checked. ¢ç
+
+4000:
+¢ç Oh, I didn't really mean to. I came here by accident! ¢ç
+
+4800:
+¢ç Just saw the URL on the "Less Popular Sites" page. ¢ç
+
+5600:
+¢ç I was actually looking for the Florist's. Someone must have overwitten it! ¢ç
+
+6400:
+¢ç Just testing my new high-speed connection! Don't really care about your stupid site. ¢ç
+

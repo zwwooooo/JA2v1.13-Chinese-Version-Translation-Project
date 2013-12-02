@@ -1,0 +1,1794 @@
+0:
+Special thanks!
+
+800:
+Sawed-off Shotgun
+
+1600:
+PMM
+
+2400:
+Tokarev
+
+3200:
+MR-446 Viking 
+
+4000:
+Makarov PM
+
+4800:
+CZ-52
+
+5600:
+Stechkin APS
+
+6400:
+Scorpio vz.82
+
+7200:
+Agram 2000
+
+8000:
+AEK-919K
+
+8800:
+UZI
+
+9600:
+Bizon-2
+
+10400:
+PPSh-41
+
+11200:
+AKS-74U
+
+12000:
+Arctic Warfare Magnum
+
+12800:
+AK-47
+
+13600:
+Vepr .308
+
+14400:
+Dragunov SVD
+
+15200:
+SV-98
+
+16000:
+Colt Car-15
+
+16800:
+CZ 700M1
+
+17600:
+HK MP-5
+
+18400:
+Vintorez VSS
+
+19200:
+AK-105
+
+20000:
+AKS-74
+
+20800:
+AKM
+
+21600:
+AEK-971
+
+22400:
+AK-107
+
+23200:
+HK G3
+
+24000:
+AN-94 Abakan
+
+24800:
+Rys-U
+
+25600:
+Saiga 12K
+
+26400:
+KSVK
+
+27200:
+RPK-74
+
+28000:
+RPD
+
+28800:
+PK
+
+29600:
+Combat Knife
+
+30400:
+Throwing Knife
+
+31200:
+Boxcutter
+
+32000:
+RGM-40 Grenade Launcher
+
+32800:
+Mortar
+
+33600:
+Tri-fold Shovel
+
+34400:
+Colt M4
+
+35200:
+Colt M4/GP-30
+
+36000:
+Colt M4A1/GP-30
+
+36800:
+Scoped Colt M4A1
+
+37600:
+Scoped M4A1/GP-30
+
+38400:
+RPO-A Napalm launcher
+
+39200:
+Knuckle Dusters
+
+40000:
+GP-30 Grenade Launcher
+
+40800:
+RPG-22 Aglen LAW
+
+41600:
+Bloodcat Claws
+
+42400:
+Bloodcat Bite
+
+43200:
+Machete
+
+44000:
+M16A2
+
+44800:
+M249 SAW
+
+45600:
+Infant Creature Spit
+
+46400:
+Young Male Spit
+
+47200:
+RPG-7
+
+48000:
+Tank Cannon
+
+48800:
+Colt .45
+
+49600:
+Bloody Throwing Knife
+
+50400:
+M21
+
+51200:
+Crowbar
+
+52000:
+SA 80 LSW
+
+52800:
+MR-445 Varjag
+
+53600:
+M16A2/M203
+
+54400:
+SA 80 IW
+
+55200:
+Colt M4A1
+
+56000:
+unused
+
+56800:
+9mm PM Pistol mag
+
+57600:
+9mm PM SMG mag
+
+58400:
+9mm PM Pistol mag, AP
+
+59200:
+9mm PM SMG mag, AP
+
+60000:
+9mm PMM clip, AP
+
+60800:
+9mm PMM mag, AP
+
+61600:
+9mm PMM clip, HP
+
+62400:
+9mm PMM mag, HP
+
+63200:
+9mm Pistol mag, AP
+
+64000:
+9mm SMG mag, AP
+
+64800:
+9mm Pistol mag, HP
+
+65600:
+9mm SMG mag, HP
+
+66400:
+7.62TT Pistol mag, AP
+
+67200:
+7.62TT drum, AP
+
+68000:
+7.62TT Pistol mag, HP
+
+68800:
+7.62TT drum, HP
+
+69600:
+5.45mm mag
+
+70400:
+5.45mm Hi-cap mag
+
+71200:
+5.45mm mag, HP
+
+72000:
+5.45mm Hi-cap mag, HP
+
+72800:
+12.7mm mag
+
+73600:
+9x39mm SP-6 mag
+
+74400:
+7.62mm WP mag
+
+75200:
+7.62mm WP drum
+
+76000:
+7.62mm WP mag, HP
+
+76800:
+7.62mm WP drum, HP
+
+77600:
+7.62x54mmR mag
+
+78400:
+7.62x54mmR beltbox
+
+79200:
+7.62mm NATO clip, AP
+
+80000:
+7.62mm NATO mag, AP
+
+80800:
+7.62mm NATO clip, HP
+
+81600:
+7.62mm NATO mag, HP
+
+82400:
+.223 mag
+
+83200:
+5.56mm mag
+
+84000:
+5.56mm box
+
+84800:
+5.56mm mag, HP
+
+85600:
+5.56mm box, HP
+
+86400:
+12 gauge, 2 rds Buckshot
+
+87200:
+12 gauge, 7 rds Buckshot
+
+88000:
+12 gauge, 2 rds Slugs
+
+88800:
+12 gauge, 7 rds Slugs
+
+89600:
+.338 Lapua Magnum
+
+90400:
+.338 Lapua Magnum, HP
+
+91200:
+.45 Pistol mag, AP
+
+92000:
+.45 Pistol mag, HP
+
+92800:
+PG-7VR Tandem Rocket
+
+93600:
+PG-7 Anti-Tank Rocket
+
+94400:
+unused
+
+95200:
+unused
+
+96000:
+unused
+
+96800:
+unused
+
+97600:
+unused
+
+98400:
+unused
+
+99200:
+unused
+
+100000:
+unused
+
+100800:
+unused
+
+101600:
+unused
+
+102400:
+unused
+
+103200:
+unused
+
+104000:
+unused
+
+104800:
+Stun Grenade
+
+105600:
+Tear Gas Grenade
+
+106400:
+Mustard Gas Grenade
+
+107200:
+Mini Hand Grenade
+
+108000:
+Reg Hand Grenade
+
+108800:
+Pipe Bomb
+
+109600:
+TNT
+
+110400:
+Satchel Charge
+
+111200:
+C4
+
+112000:
+Mortar Shell
+
+112800:
+Mine
+
+113600:
+Claymore
+
+114400:
+Trip Flare
+
+115200:
+Trip Klaxon
+
+116000:
+Shaped Charge
+
+116800:
+Chemical Break Light
+
+117600:
+40mm VOG-25
+
+118400:
+Tear-/Mustard Gas Grenade 
+
+119200:
+40mm VOG-25 P 
+
+120000:
+40mm Napalm
+
+120800:
+Smoke Grenade
+
+121600:
+Tank Shell
+
+122400:
+unused
+
+123200:
+unused
+
+124000:
+unused
+
+124800:
+unused
+
+125600:
+unused
+
+126400:
+unused
+
+127200:
+unused
+
+128000:
+unused
+
+128800:
+Flak Jacket
+
+129600:
+Longcoat
+
+130400:
+Police Visor Cap
+
+131200:
+Kevlar Vest
+
+132000:
+Leather Jacket
+
+132800:
+BDU
+
+133600:
+Spectra Vest
+
+134400:
+Kevlar Helmet
+
+135200:
+Striker Vest
+
+136000:
+Kevlar Leggings
+
+136800:
+Ghillie Suit Pants
+
+137600:
+EOD pants
+
+138400:
+Spectra Leggings
+
+139200:
+Commando Pants
+
+140000:
+Striker Pants
+
+140800:
+Steel Helmet
+
+141600:
+Nomex Wool Cap
+
+142400:
+Medic Helmet
+
+143200:
+Ghillie Hood
+
+144000:
+Spectra Helmet
+
+144800:
+EOD helmet
+
+145600:
+Striker Helmet
+
+146400:
+Ceramic Plates
+
+147200:
+NCO Garrison Cap
+
+148000:
+Boonie Hat
+
+148800:
+Special Forces Beret
+
+149600:
+Officer's Visor Cap
+
+150400:
+Red Army Fur Cap
+
+151200:
+Commando Vest
+
+152000:
+Commando Medic
+
+152800:
+Old Female Hide
+
+153600:
+Young Female Hide
+
+154400:
+Leather & Kevlar Jacket
+
+155200:
+Longcoat w/ medal
+
+156000:
+Uniform
+
+156800:
+Guardian Vest
+
+157600:
+Ghillie Suit Jacket
+
+158400:
+EOD vest
+
+159200:
+unused
+
+160000:
+unused
+
+160800:
+First Aid Kit
+
+161600:
+Medical Kit
+
+162400:
+Tool Kit
+
+163200:
+Locksmith Kit
+
+164000:
+Camouflage Kit
+
+164800:
+Monoculars
+
+165600:
+Sound Suppressor
+
+166400:
+PSO-1 Sniper Scope
+
+167200:
+Bipod
+
+168000:
+Extended Ear
+
+168800:
+Night Vision Goggles
+
+169600:
+Sun Goggles
+
+170400:
+Gas Mask
+
+171200:
+Canteen
+
+172000:
+Metal Detector
+
+172800:
+Commando Armor Upgrade
+
+173600:
+Striker Armor Upgrade
+
+174400:
+Jar of Elixir
+
+175200:
+Money
+
+176000:
+Glass Jar
+
+176800:
+Jar of Creature Blood
+
+177600:
+Crepaboost
+
+178400:
+Detonator
+
+179200:
+Remote Detonator
+
+180000:
+Videotape
+
+180800:
+Deed
+
+181600:
+Cargo Claim Ticket
+
+182400:
+Laptop
+
+183200:
+MOC list
+
+184000:
+Bloodcat Claws
+
+184800:
+Bloodcat Teeth
+
+185600:
+Bloodcat Pelt
+
+186400:
+Switch
+
+187200:
+The Item formerly known as Action Item
+
+188000:
+Crepagen Healing Boost
+
+188800:
+Empty Syringe
+
+189600:
+Syringe
+
+190400:
+Empty Syringe
+
+191200:
+Jar of Human Blood
+
+192000:
+Ownership
+
+192800:
+Laser Scope
+
+193600:
+Remote trigger
+
+194400:
+Wire Cutters
+
+195200:
+Duckbill
+
+196000:
+Bottle of Alcohol
+
+196800:
+UV Goggles
+
+197600:
+Discarded LAW
+
+198400:
+Head
+
+199200:
+Head
+
+200000:
+Head
+
+200800:
+Head
+
+201600:
+Head
+
+202400:
+Head
+
+203200:
+Head
+
+204000:
+Bottle of Crepaton
+
+204800:
+Beer
+
+205600:
+Porno Magazine
+
+206400:
+Video Camera
+
+207200:
+Robot Remote Control
+
+208000:
+Creature Claw
+
+208800:
+Creature Flesh
+
+209600:
+Unidentifiable Creature Organ
+
+210400:
+Remote Control
+
+211200:
+Available Ingame Item B
+
+212000:
+Radio Parts
+
+212800:
+Gameboy
+
+213600:
+Coca-Cola
+
+214400:
+Current Balance:
+
+215200:
+Cigars
+
+216000:
+unused
+
+216800:
+Key
+
+217600:
+Key
+
+218400:
+Key
+
+219200:
+Key
+
+220000:
+Key
+
+220800:
+Key
+
+221600:
+Key
+
+222400:
+Key
+
+223200:
+Key
+
+224000:
+Key
+
+224800:
+Key
+
+225600:
+Key
+
+226400:
+Key
+
+227200:
+Key
+
+228000:
+Key
+
+228800:
+Key
+
+229600:
+Key
+
+230400:
+Key
+
+231200:
+Key
+
+232000:
+Key
+
+232800:
+Key
+
+233600:
+Key
+
+234400:
+Key
+
+235200:
+Key
+
+236000:
+Key
+
+236800:
+Key
+
+237600:
+Key
+
+238400:
+Key
+
+239200:
+Key
+
+240000:
+Key
+
+240800:
+Key
+
+241600:
+Key
+
+242400:
+A.L.I.C.E. backpack
+
+243200:
+Empty inhalator
+
+244000:
+Aluminum Rod
+
+244800:
+Spring
+
+245600:
+Rod & Spring
+
+246400:
+Talon adaptor
+
+247200:
+PSO-1 adapter
+
+248000:
+Elcan Riflescope
+
+248800:
+14.5 inch 1:7 twist barrel
+
+249600:
+Medic Patch Armor Upgrade
+
+250400:
+Laptop+GDI decoder
+
+251200:
+Motor grease
+
+252000:
+Colt Triggergroup
+
+252800:
+Steel Tube
+
+253600:
+Decoder
+
+254400:
+Broken Radio
+
+255200:
+Colt M203 Underslung grenadelauncher
+
+256000:
+Rag
+
+256800:
+Diskette
+
+257600:
+Battery
+
+258400:
+Rubber Band
+
+259200:
+AN/PRC-104A Radio
+
+260000:
+Silver Nugget
+
+260800:
+Gold Nugget
+
+261600:
+Tank of Gas
+
+160:
+Special thanks to Terapvt and Dvornik for their help with the .exe editing!
+
+960:
+Brits pronounce it 'Sod off!'  If this doesn't bust the lock on the door you're shooting at, you can always use it to make a new door in the wall.
+
+1760:
+The modernized Makarov failed to live up to expectations. Its high recoil dramatically reduced its accuracy, so the Russian Army eventually dropped it for the new Pya/Grach pistol.
+
+2560:
+This gun had its moment of glory during WW2. Its high caliber makes it a mean little hand-held cannon, especially when it's pointed at your head!
+
+3360:
+A variant of the Grach pistol, the MR-446 is chambered for the Western 9mm NATO round. Its plastic frame also makes it a touch lighter than the original.
+
+4160:
+For decades, this sidearm has been the mainstay of army and police forces in Warsaw Pact countries everywhere. Reliable as an old dog, it's a pity that the adage also holds true for its bite.
+
+4960:
+Firing the huge 7.62 Tokarev bullet, this Czech pistol is powerful and accurate, and despite its venerable age, still packs a good wallop!
+
+5760:
+Introduced in 1951, this large automatic pistol's 3-round burst is still a favorite with Russian special law enforcement teams.
+
+6560:
+This submachine gun was designed to share roles as a Close Quarters Battle (CQB) weapon and a Personal Defence Weapon (PDW), and it performs admirably at either task.
+
+7360:
+This stylish Croatian submachine gun has gained the dubious status of being the favourite SMG of gangsters throughout eastern Europe.
+
+8160:
+Initially based off of the Steyr MPi-69 designs, numerous improvements resulted in this compact and handy firearm, which is still used in small numbers by the Russian Army and law enforcement.
+
+8960:
+As ubiquitous as they come, the IMI UZI is the most popular SMG in the world, and has seen active use by the military and police organizations of over 90 countries worldwide.
+
+9760:
+The Bizon's helical magazine is reminiscent of the Calico, but its sturdy design and mean looks will remind you that it's the AK-47's little cousin.
+
+10560:
+The workhorse of the Soviet Army during WW2, the PPSh-41 works by the golden rule: spray and pray.  And with it's 71-round drum, you'll think that you're watering your lawn!
+
+11360:
+The AKS-74U was a cheap answer to the need for a Russian police SMG, although its shortened barrel greatly reduces its accuracy.
+
+12160:
+The Arctic Warfare Magnum sniper rifle is operational in more than 20 countries and has seen active service in most conflicts the past decade.  As its name would imply, extreme weather conditions are not a problem.
+
+12960:
+The simple and rugged design of the original Kalashnikov won't give you any thrills or frills, but neither will it let you down.
+
+13760:
+The Vepr .308 makes for a fantastic hunting rifle.  It comes with the legendary AK reliability and a stiff RPK receiver for accurate shots.
+
+14560:
+It's Russian, it's as rugged as a Kalashnikov, and it's feared by officers worldwide. The Dragunov SVD lives up to its reputation as a lightweight and deadly accurate rifle.
+
+15360:
+Intended to give Russian snipers a specialized bolt-action rifle, the SV-98 handily outranges even the famous Dragunov.
+
+16160:
+The first carbine version of the M16 assault rifle, the Car-15 was intended for US Special Forces fighting in Vietnam
+
+16960:
+The CZ 700M1 is a highly accurate long-range weapon, and it neatly fills in the gap between cheap and high-end sniper rifles.
+
+17760:
+Second only to the UZI in popularity, the MP-5 is an outstanding submachine gun. It is finely crafted, reliable, and boasts fantastic single shot accuracy.
+
+18560:
+With its integrated sound suppressor and subsonic 9mm ammo, the VSS has seen action every time the Russian Army was involved in a local conflict in the last decade.
+
+19360:
+One of the newer AKs, the AK-105 is chambered to fire the 5.45mm round. Its performance is comparable to the AKS-74U due to the short barrel, but muzzle climb isn't nearly as much of a problem.
+
+20160:
+The AKS is the paratrooper version of the AK-74. A lighter weapon, it inherits the reliability and superior range, and also features a folding stock.
+
+20960:
+The modernized Kalashnikov is easier to operate that its predecessor, increasing on the original's range and reducing muzzle climb.
+
+21760:
+The relatively recent AEK-971 Russian assault rifle was designed to eliminate movement during full-auto fire. Compared with the AK-74, its accuracy in full auto is 15-20 per cent better.
+
+22560:
+One of the newer breed of Kalashnikovs, the AK-107 has a balanced automatic gas driven engine, reducing muzzle climb and increasing accuracy in full-auto mode.
+
+23360:
+The HK G3 has been described as one of the best 7.62mm NATO assault rifles ever produced.  It is reliable, versatile, controllable, and best of all, it's reasonably priced!
+
+24160:
+Created for the Russian Army as a replacement for the AK-74, the Abakan introduces a highly accurate two-round burst fire mode.
+
+24960:
+At short range, nothing says 'Go away, you bother me!' like a mouth full of shot.  But fit a scope to this 12 gauge shotgun and you can feed your targets buckshot sandwiches from long range as well.
+
+25760:
+Based on the famous and time-proven AK-47, the Saiga 12K shotgun is a reliable and effective close combat weapon, but most importantly, it's cheaper than its western counterparts!
+
+26560:
+Sometimes used by Russian Special Operation units as a counter-sniper rifle, the KSVK is easily capable of penetrating a brick or a thick wooden wall and disabling the targets futilely trying to find cover behind it.
+
+27360:
+Since its introduction in the late 1970s, the RPK-74 has become the standard squad machine gun in Soviet motorized rifle units.
+
+28160:
+Back in the Vietnam War era, the RPD was known as the standard squad automatic weapon of the Communist world, a reputation it still easily lives up to.
+
+28960:
+The Pulemyot Kalashnikova was developed in 1960's as a replacement for the WW2-era SGM and as a general-purpose machinegun.  A heavy Sonovagun, you'll need an ox to hump it around!
+
+29760:
+When the enemy is too close for comfort, this full-tang bowie-styled combat knife will definitely come in handy. It features a serrated 9 blade, and a wooden handle with a heavy-duty guard and pommel.
+
+30560:
+Polish up on your throwing skills with this double-edged chrome-plated high carbon steel blade. This slim little knife is a perfect choice for both novice and experienced throwers.
+
+31360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+32160:
+When you're holed up in a bunker counting your blessings, you'll be counting this one twice.  It may look ugly, but it's not nearly as ugly as the mess that this grenade launcher generally leaves behind!
+
+32960:
+Commonly referred to as the battalion commander's artillery, the M224 mortar is a must-have for the serious mercenary commandant. It is a 60mm caliber lightweight mortar with a finned barrel, sight, M7 base plate and bipod, that was built to specifically accommodate HE shells.
+
+33760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+34560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+35360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+36160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+36960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+37760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+38560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+39360:
+You'll be packing a real punch with this set of handy brass knuckles. Although sturdy, they're small enough to fit into most back pockets. One size fits all.
+
+40160:
+The GP-30 Underslung Grenade Launcher can be mounted underneath the barrel of almost all Warsaw Pact assault rifles, opening up a new world of tactical possibilities!
+
+40960:
+This is an improved version of the RPG-22. Used as a bunker buster as well as a light anti-armor weapon, the Aglen can penetrate 1000mm of reinforced concrete, 1500mm of brick, and 2400mm of logs and/or earth.
+
+41760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+42560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+43360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+44160:
+While its reliability under harsh conditions doesn't hold a candle to the Kalashnikov, when kept well maintained the M16 is a remarkably reliable rifle, and is still in active service by the US Armed Forces and law enforcement.
+
+44960:
+Adopted by the US Armed Forces in the early 1980s, the M249 Squad Automatic Weapon is reputed to be a reliable distributor of massive quantities of overkill.
+
+45760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+46560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+47360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+48160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+48960:
+Adopted by the US military in 1911, this service sidearm remained on active duty for 74 years. Even today, many experts still consider it to be one of the best pistols ever manufactured.
+
+49760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+50560:
+During the Vietnam War, the US Army felt the demand for an accurate sniper rifle. The M14 was selected and equipped with a modern telescopic sight, and thus was born the M21 tactical rifle.
+
+51360:
+This titanium crowbar will come in handy when stuck in a jam. It's a one piece bar of titanium that's harder and stronger than steel, and corrosion resistant. Since it weighs almost nothing, you can take it anywhere.
+
+52160:
+From the same family as the SA 80 Infantry Weapon, the Light Support Weapon sports a longer and heavier barrel, allowing for greater muzzle velocity and burst accuracy over its little sibling.
+
+52960:
+A heavy automatic pistol, the MR-445 Varjag is considered to be an indispensable sidearm by many special operations forces around the world.
+
+53760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+54560:
+The SA 80 Infantry Weapon has been the Britsh Army's standard combat rifle since 1985. It's integral 4x SUSAT scope makes it one of the best match rifles currently available.
+
+55360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+56960:
+Cheap and widely available for use in older, Russian made firearms, this 8-round magazine of 9mm PM ammo won't break your bank account.
+
+57760:
+Designed primarily for a number of eastern European SMGs, this magazine contains 20 rounds of the widely available 9mm PM round.
+
+58560:
+This 8-round pistol magazine of 9mm PM Armor Piercing bullets can hold its own even when the chips are down and the lead starts flying in earnest!
+
+59360:
+Holding 20 rounds of 9mm PM Armor Piercing bullets, this SMG magazine will guarantee you're not unduly bothered by Kevlar or its ilk.
+
+60160:
+While not compatible with older PM chambering weapons, the newer 9mm PMM round carried by this 12-round pistol clip features increased muzzle velocity and armor piercing capabilities.
+
+60960:
+The Bizon's helical magazine holds an astonishing 66 rounds of the newer 9mm PMM Armor Piercing cartridge. Alas, this round is not suitable for older weapons firing the PM cartridge or small children.
+
+61760:
+What could make you happier while walking down to the corner store than a 12-round clip of 9mm PMM hollow point ammunition, in case some of the locals get any funny ideas.  This round is not compatible with older PM chambering firearms.
+
+62560:
+The 9mm PMM JHP bullets filling the Bizon's 66-round helical magazine will keep you safe even should you find your evening stroll interrupted by a rampaging mob!  Unfortunately, the bullet is not compatible with older PM chambering firearms.
+
+63360:
+They've got Kevlar? Have no fear with this magazine; it's brimming with 15 rounds of hardened steel. This low power pistol round is your best bet against Kevlar.
+
+64160:
+We searched far and wide for this round; the Armor Piercing ability of the 30-round magazine makes it the bane of all unwelcome law enforcement personnel.
+
+64960:
+This 15-round magazine of COR-BON 9mm Jacketed Hollow Point ammunition is truly the top of the line. It's a definite deterrent against any unarmored assailant.
+
+65760:
+This 30-round mag of 115 grain Jacketed Hollow Point ammunition is a special buy straight from COR-BON. We guarantee it will make your MP-5 the envy of any SWAT team.
+
+66560:
+This pistol magazine holds 15 rounds of the powerful 7.62mm Tokarev Armor Piercing cartridge, and can breathe new life into your vintage WW2 memorabilia.
+
+67360:
+If Bobby Ray's offered frequent firer discounts, this item would probably break us.  Filled to the brim with the heavy 7.62mm Tokarev Armor Piercing round, this 71-round drum will keep you spraying and your targets praying for a good long while.
+
+68160:
+Containing a hollow point variant of the already powerful 7.62mm Tokarev round, this 15-round pistol magazine makes it messy.
+
+68960:
+This 71-round drum of 7.62x25mm TT Jacketed Hollow Point ammunition gives an entirely new meaning to the phrase 'crowd control'!
+
+69760:
+One of our hottest commodities is this 30-round mag of 'acquired' Russian 5.45mm Armor Piercing ammunition. This round is guaranteed to make you the death of any party.
+
+70560:
+This 5.45mm high capacity magazine holds 45 Armour Piercing rounds and was designed to keep the RPK-74 from running short on ammo at an inconvenient moment.
+
+71360:
+Need a quick sure-shot way to collect on a life insurance policy? These 30 rounds of 5.45mm Hollow Point ammunition will show you the money in no time at all.
+
+72160:
+There's nothing better to keep your RPK-74 happy and well-fed than the 45 rounds of 5.45mm JHP provided by this high capacity magazine.
+
+72960:
+Capable of piercing armor and hard cover like nobody's business, using any of these five 12.7mm rounds on a soft target is a serious violation of several international treaties!
+
+73760:
+The 9x39mm SP-6 is a subsonic round specially designed to retain armor piercing characteristics.  This 10 round magazine is manufactured specifically for the Vintorez Silent Sniper.
+
+74560:
+Looking for the perfect gift for the terrorist who has it all? Try a magazine of our surplus 7.62mm Warsaw Pact AP. It's the gift to end all gift giving.
+
+75360:
+If what you desire is an insane quantity of suppressive firepower, nothing says it better than this 75-round drum of 7.62mm Warsaw Pact Armor Piercing ammunition.
+
+76160:
+Ever get the urge to turn a person into a bloody sausage with legs? We recommend reaching for 30 rounds of our 7.62mm Warsaw Pact HP ammunition.
+
+76960:
+This drum filled with 75 rounds of 7.62mm Warsaw Pact hollow point ammunition can turn a lightly armored squad into a lightly armored squad of hamburger within seconds!
+
+77760:
+This 10-round magazine of 7.62x54mm Rimmed ammunition will help keep your Dragunov SVD happy, and your enemies wondering why their Commanding Officer is suddenly taking a nap!
+
+78560:
+Just what the doctor ordered for knocking off petty dictators with delusions of grandeur!  This 100-round nondisintegrating belt of 7.62x54mm Rimmed ammo is carried in a box which fastens to the right side of the PK's receiver.  
+
+79360:
+This 10-round clip of Armor Piercing 7.62mm NATO ammunition offers an ideal combination of range, penetration and damage that professional snipers demand.
+
+80160:
+This 7.62mm 20-round magazine is simply brimming with death, especially when it's filled with a surplus of Full Metal Jacketed rounds. This ammunition makes armor more or less moot.
+
+80960:
+Take advantage of our limited time offer on a price-reduced 10-round sampler box of .308 Winchester Hollow Point ammunition. Whether you're out hunting or sniping, this round will be your one-shot stopper.
+
+81760:
+If power is what you demand, more power is what you'll get with these 20 rounds of Cor-Bon Tactical .308 Winchester ammunition, the civilian variant of the 7.62mm NATO round. It's more than enough power to put any problem 6-feet under.
+
+82560:
+Typically used for law enforcement applications, largely because some agencies fear the over penetration of the .308 round in hostage type situations, the .223 generally splinters on impact, allowing almost no excess penetration.  This magazine contains 20 rounds.
+
+83360:
+This 30-round magazine is filled with our NATO standard 5.56mm. This round's steel penetrator makes it possible to beat all but the best in today's body armor.
+
+84160:
+For the serious autofire enthusiast only, this 120-round box is filled with our NATO standard 5.56mm. This round's steel penetrator makes it possible to beat all but the best in today's body armor.
+
+84960:
+If you're looking for the best bang for your buck, look no further. These 30 rounds of 50 grain 5.56mm JHP can save your life and your pocket book, and not necessarily in that order.
+
+85760:
+This is the economical choice for target shooting, hunting, or stopping potential long-range muggings with your LMG. No matter how you look at it, this 120-round box of 50 grain 5.56mm JHP is virtually a steal.
+
+86560:
+The ideal short-range man-stopper round. This pair of 12 gauge rounds contains '00' SSG ammunition. Law enforcement personnel worldwide favor this round for its effectiveness in urban firefights against unarmored opponents.
+
+87360:
+When you can never have enough, this 12 gauge magazine holds 7 rounds of '00' SSG ammunition. Law enforcement personnel worldwide favor this round for its effectiveness in urban firefights against unarmored opponents.
+
+88160:
+This is definitely ammunition for real men only. Two rounds of 12 gauge PolyCore slugs. Each round tears through body armor as though it were tissue paper.
+
+88960:
+Stocking up for Christmas?  This magazine contains 7 rounds of 12 gauge PolyCore slugs. Each round tears through body armor as though it were tissue paper.  For when it's not exactly Santa that's coming down your chimney...
+
+89760:
+Designed specifically with sniping in mind, the .338 Lapua Magnum round can penetrate 5 layers of military body armor from over a kilometre away, and still disable its target.  Enjoy your 5-round clip!
+
+90560:
+For military extreme long-range anti-personnel engagements, this 5-round clip of .338 Lapua Magnum hollow point ammunition will only serve to fuel your delusions of divinity.
+
+91360:
+These hardened steel Armor Piercing rounds tear through Kevlar like it was butter. This 7-round magazine is known for leaving wide wound cavities.
+
+92160:
+If you are serious about your .45 ammo, this 7-round magazine of Golden Sabre Jacketed Hollow Point ammunition is a sure-fire way to prove it.
+
+92960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+93760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+104960:
+This grenade creates a massive vacuum which deprives the surrounding impact area of oxygen as waves of air rush back into its core. Anyone standing within the detonated area won't know what hit them as they frantically gasp for air.
+
+105760:
+Guaranteed to make its victims cry like the babies they are. This grenade releases tactical dispersion gas that reeks havoc on exposed eyes and skin. It'll send everyone in its radius running for clearer pastures.
+
+106560:
+This ain't no hot dog garnish. This grenade releases a colorless, odorless, and tasteless gas that causes intense burning and blistering of the lungs. Sufferers can die without prompt medical attention.
+
+107360:
+This small grenade was developed for maximum throwing range combined with effective fragmentation. The body is loaded with TNT and provides good lethal coverage. Because of its size, even women find this grenade an easy toss.
+
+108160:
+Your typical army issue standard fragmentation hand grenade. Jam packed with TNT, this pressure-released firing device with pull-ring, provides great lethal coverage. Stop 'em dead in their tracks, every time.
+
+108960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+109760:
+Good old reliable trinitrotoluene is the second oldest and most commonly used explosive known to man-the first is dynamite. These sticks of explosives are highly stable, strawboard rolled and contain a quarter-pound charge.
+
+110560:
+When you suddenly find the need to do a little creative remodeling or bridge removal, you could do far worse than the 980g of Semtex contained in this satchel charge.  Remote detonator not included.
+
+111360:
+This white plastic explosive packs a bigger punch than TNT. Composition C4 comes in a plastic-covered block with a threaded-cap-well at each end. Unlike C1, its sister composition, this one's odorless.
+
+112160:
+A real man's mortar. This HE bomb features waterproof "horseshoe" snap-off propellant increments and the M734 multi-option fuse. This fuse can be set by hand for delayed, impact, near-surface or proximity burst detonations.
+
+112960:
+Designed to stop enemies dead in their tracks, or at least slow them up a while. This anti-personnel mine is a fragmentation weapon that blows up when stepped on. It includes a built-in anti-disturbance device to inhibit clearance, and a sensor that neutralizes the minefield after a while.
+
+113760:
+The Claymore requires careful remote detonation, but it generates a huge amount of damage within a localized blast radius.  Think of this heavy munition as a solution in search of your problems.  Remote detonators sold separately.
+
+114560:
+This illuminating mine with an attached tripwire will shine light on the situation every time. Pull pressure or cutting the tripwire will ignite the flare, visually announcing that enemies are about.
+
+115360:
+This illuminating mine with an attached tripwire will brighten up the place with a resounding roar. Pull pressure or cutting the tripwire will ignite the flare, which is followed by a wailing siren, letting nearby mercenaries know that enemies are skulking about the area.
+
+116160:
+Don't get left out in the cold just because you forgot your key. This trusty shaped-charge will solve all your problems. Place this small tungsten-backed plastique explosive against any door to blow the lock right off.
+
+116960:
+These one time use chemical break lights will certainly help to lighten up those dreary night missions. Stock up on these handy little babies 'cause you'll never know when you'll need them. Simply break 'n' shake to brighten your way.
+
+117760:
+The standard 40mm fragmentation grenade features a time-delayed firing device to ignite its encased TNT. Fired from a grenade launcher, this round can provide great lethal coverage.
+
+118560:
+This little hand grenade is as nasty as they come. Designed to eat its way through gas masks and incapacitate the wearer, it very quickly leaves the target in urgent need of medical attention.
+
+119360:
+The VOG-25 P "Jumper" won't do as much damage as the standard VOG-25, but its larger blast radius makes it the best choice for engaging multiple enemies and slamming them face-first into the dirt where they belong.
+
+120160:
+The 40mm Napalm grenade is essentially a tactical smoke grenade. The small explosion ignites grass and dust in the area of effect to produce a slowly dissipating cloud of smoke.
+
+120960:
+This hand grenade will help to fulfill a myriad a roles including: unseen advancement on enemy positions, marking possible landing sites, and wreaking havoc with fire-rangers.
+
+121760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+128960:
+The Armorshield ultra-light flak jacket was designed to be as light and thin as possible without compromising maximum protection. It's a sleeveless vest with a neck protector, pelvic plate, and no front openings as its Velcro fasteners are concealed on the sides.
+
+129760:
+While this classy officer's longcoat will certainly help you catch the eye of the little ladies, be warned that it may also send your way more than your fair share of sniper fire!
+
+130560:
+If you're trying to pass yourself off as one of the local constabulary, this police visor cap will help you look the part.
+
+131360:
+This vest offers 28 piles of Kevlar for better than average anti-ballistic type protection. It provides full protective coverage as it wraps around the shoulders, neck and sides, and includes a stowable groin protector. The waist and chest straps are fully adjustable.
+
+132160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+132960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+133760:
+The most advanced technology in body armor. This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. Its carrier pocket can hold an additional trauma plate.
+
+134560:
+For above average protection, the wise merc always wears the Personal Armor System Ground Troops Helmet. It's made from Kevlar, and has a comfortable suspension system, sweatband and chin strap. It also extends further over the ear and neck than average helmets.
+
+135360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+136160:
+The ballistic panels on these leggings are made from 28 piles of protective Kevlar. Fully adjustable waist and ankle straps were designed to maintain a snug fit without reducing mobility. These should be standard fare in every mercenary's wardrobe.
+
+136960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+137760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+138560:
+These Spectra Shield leggings are the most body armor protection available on the market. They reduce blunt trauma from multiple hits and angled shots. Fully adjustable waist and ankle straps make for a snug fit without reduced mobility.
+
+139360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+140160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+140960:
+Comfortable and extremely practical. This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap.
+
+141760:
+This wool cap is often used by snipers due to its light weight and close to the face features. It can also be pulled down in front of the face to offer some protection.
+
+142560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+143360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+144160:
+This helmet is made from a light Spectra composite that is famous for its superior anti-ballistic qualities. It features an IR-absorbing black finish, cushioning foam and an adjustable harness system with a leather headband and rubber chin strap.
+
+144960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+145760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+146560:
+Any mercenary that wants to come out alive, never leaves home without a few of these plates. Made from a hard ceramic composite, they can be inserted into the breast plate of most vests to improve their impenetrability.
+
+147360:
+Part of the standard dress uniform, this Non Commissioned Officer Garrison Cap will make sure that everyone knows exactly how far down the totem pole they are compared to you.
+
+148160:
+When you're skulking around in the bush, nothing is as irritating as an errant sunbeam or as dangerous as the change in acoustics most helmets exhibit.  For all of that and more, the Boonie Hat comes to the rescue.
+
+148960:
+Are you tough enough to wear a beret throughout the whole campaign? This Special Forces red beret is actually lined with kevlar to help protect the skull, but it leaves your stubbly mug completely unprotected.
+
+149760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+150560:
+When the temperature drops below freezing, you can bring the earflaps of this furry cap down and save your ears from imminent frostbite. 
+
+151360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+152160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+152960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+153760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+154560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+155360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+156160:
+This uniform has been lined with Kevlar to provide a minimal amount of protection, and a classy look!
+
+156960:
+This high quality ballistic vest is manufactured from 36 piles of Kevlar by Guardian Armories, Inc.  Also available in tuxedo style for those especially dangerous formal occasions.
+
+157760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+158560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+160960:
+From fractures to abrasions, this all-canvas kit-to-go includes everything you'll need to attend to most minor injuries. It includes: bandages, antiseptic, cotton balls, thermometers, iodine, arm slings, safety pins, scissors, and a mini first aid manual.
+
+161760:
+It's a first aid kit and then some. Aside from standard first aid supplies, this kit includes: a suture set, prep pads, suture scissors, a scalpel, Kelly forceps, tweezers, anesthetic, pain killers, antibiotics, a pen light, and the "Emergency War Surgery" manual.
+
+162560:
+This kit offers every tool you'll need to repair most combat items. A wide range of screwdrivers, ratchets, pliers, clamps, and clasps are included, as well as a hammer and sewing kit.
+
+163360:
+The perfect solution for getting behind locked doors and into security safes. This kit offers expert lockpicking tools, including: picks, shims, tension wrenches, warded master keys, a broken key extractor, and a palm-key press, all in a top-grain cowhide leather zipped case.
+
+164160:
+The Military Camo Compact includes olive drab, olive green, tan and white cream based facial paint, and a mirror. This long-lasting, non-running, facial paint can be easily removed with soap and water. The kit also includes a manual that outlines the proper use and care of your compact.
+
+164960:
+Not only good for spying on the neighbour's wife and her paramour, these field binoculars make a great tool for your squad's spotter, and could make the difference between who surprises whom.
+
+165760:
+This is the ideal sound suppressor for both indoor and outdoor missions, where you don't want to be calling any undue attention to your activities. Its light and compact design can be fitted easily to most handguns and submachine guns.
+
+166560:
+Dramatically improve your targeting accuracy with this extremely versatile sniper scope. Only used by true sniper rifles, you'll quickly appreciate this scope's accurate windage adjustment, a range-finder precision scale, and coated optics.
+
+167360:
+Every sensible mercenary packs one of these universal bipods. It fits most sniper and assault rifles, as well as light machine guns. Made from a die-cast aluminum, it has a coated matte finish. Its legs fold up when not in use, for easy storage.
+
+168160:
+The Bionic Ear Scout offers advanced warning of approaching intruders. This high fidelity stereo amplifier head set features dual wind-resistant micro-phones that amplify small sounds and filter out the very loud. Its fully adjustable head strap ensures a snug fit even when on the run.
+
+168960:
+True GenII night vision technology--these goggles offer dual-focus, unity magnification, a built-in infrared illuminator, and a focus range from ten inches to infinity. It also comes equipped with two "AA" batteries, a carrying case and a nylon head strap.
+
+169760:
+These paramilitary eye goggles feature triple-protection lenses: an interior anti-fog acetate lens, a tinted middle lens for reduced glare, and a scratch and shatter resistant exterior lens. And as an added bonus, they can be worn comfortably over prescription glasses.
+
+170560:
+This Russian rubber mask is a copy of the American M-17A1. It has cheek filters, scratch-proof lenses, adjustable head straps, and a unique drinking attachment. It also comes with a vinyl shoulder bag, and plastic poncho to help protect you from blistering agents.
+
+171360:
+Any sensible mercenary carries plenty of these with him.  Largely due to tree-hugging fascists, Bobby Rays now stocks only Nalgene brand  recyclable and refillable canteens.
+
+172160:
+This hand-held metal detector is extremely powerful - it'll find more than just coins on the beach. It is a lightweight transistorized metal detector with aural signalization that is used most effectively by explosive detection operatives.
+
+172960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+173760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+174560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+175360:
+Cash, coin, moolah, dough. Whatever you call it, it'll buy you stuff.
+
+176160:
+An empty glass jar is great for storing preserves, grandma's teeth, or anything else for that matter.
+
+176960:
+Ewwwwwwww! This jar's full of goopy queen creature blood!  Not for sale through BR.
+
+177760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+178560:
+Attach this baby to an explosive for real power and control. This time-delayed detonator allows you anywhere from five seconds to ten minutes to move to a location of safety before its attached explosive goes off.
+
+179360:
+A must have for any serious explosives agent. Place this time-delayed firing device to any explosive to blow up a target when you want, from where you want. The detonator won't ignite until you hit the remote trigger.
+
+180160:
+Not for sale through BR. Quest specific item.
+
+180960:
+Not for sale through BR. Quest specific item.
+
+181760:
+Not for sale through BR. Quest specific item.
+
+182560:
+Not for sale through BR.
+
+183360:
+Not for sale through BR. Quest specific item.
+
+184160:
+Not for sale through BR. Quest specific item.
+
+184960:
+Not for sale through BR. Quest specific item.
+
+185760:
+Not for sale through BR. Quest specific item.
+
+186560:
+Not for sale through BR.
+
+187360:
+Not for sale through BR.
+
+188160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+188960:
+This syringe sure is empty!
+
+189760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+190560:
+Whatever was in this syringe is long gone...
+
+191360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+192160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+192960:
+You won't lose sight of your target when using one of these. The Universal Daylight Laser projects a highly visible red spot upt to 100ft during the day and over 1,000ft at night. In a stainless steel housing, it fits onto the trigger guard of most weapons.
+
+193760:
+A must have for any serious explosives agent. Place this time-delayed firing device to any explosive to blow up a target when you want, from where you want. The detonator won't ignite until you hit the remote trigger.
+
+194560:
+Your average everyday handyman's wire cutters. Extremely useful and versatile-don't leave home without them!
+
+195360:
+Attach this metal object to the end of a shotgun barrel for a real deadly effect. It causes buckshot fired from the shotgun to spread out along a horizontal line instead of its standard circular pattern. Say good-bye to  anyone who gets into its path.
+
+196160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+196960:
+These UltraVision goggles are the latest rage! Using ultra-violet light, they turn night into day. Ultra powerful, ultra comfortable, and ultra cool!
+
+197760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+198560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+199360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+200160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+200960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+201760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+202560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+203360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+204160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+204960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+205760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+206560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+207360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+208160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+208960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+209760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+210560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+212160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+212960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+213760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+214560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+215360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+242560:
+The All-purpose Lightweight Individual Carrying Equipment backpack conveniently allows you to store a metal detector, wirecutter, extra battery and shaped charge for when you need it the most: in an emergency!
+
+243360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+244160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+244960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+245760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+246560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+247360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+248160:
+Designed for automatic and semi-automatic Kalashnikov rifles, the Elcan Riflescope comes equipped with the Russian Small Arms Universal Mounting System that fits all types of side rails found on Russian rifles and their variants.
+
+248960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+249760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+250560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+251360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+252160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+252960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+253760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!  This is a Quest Specific Item.
+
+254560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+255360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+256160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+256960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+257760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+258560:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+259360:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+260160:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+260960:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+
+261760:
+Not for sale through Bobby Rays.  If for some reason it is, please report this as a bug!
+

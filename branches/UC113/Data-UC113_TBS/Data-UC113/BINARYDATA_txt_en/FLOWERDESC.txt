@@ -1,0 +1,90 @@
+0:
+ "Colt M4A1"
+
+960:
+ "GP-30 Adaptor"
+
+1920:
+ "PSO-1 Adaptor"
+
+2880:
+ "Car-15 Upgrade"
+
+3840:
+ "RPK-74"
+
+4800:
+ "A.L.I.C.E"
+
+5760:
+ "Striker Armor"
+
+6720:
+ "Commando Armor"
+
+7680:
+ "Molotov Cocktail"
+
+8640:
+ "Elcan/PSO-1 Scopes"
+
+160:
+***** Trailblazer RULES!! *****
+
+1120:
+Billing Removed - No use for prices :D
+
+2080:
+Actually I have replaced the Send button with the Clear one
+
+3040:
+...and deleted the Send button. But the problem was the
+
+4000:
+...button Caption. The text "Clear" is used again in the
+
+4960:
+...screen when entering a sector (Group, Spread, Clear)
+
+5920:
+...So changing the text will result in change in both GD and the sector screen.
+
+6880:
+But I am a god and fixed it mouhahah :D
+
+7840:
+Ok, so any news? I have space to write some BS here :o)
+
+8800:
+Originally you'd see description for Flamethrower here! Happy Killin'!
+
+320:
+Several users have reported information on how to upgrade a Colt M4 to the M4A1, the automatic version of the weapon. It is said that by installing an original Colt Triggergroup to an M4, after various modifications, the result is quite similar to an M4A1. 
+
+1280:
+Several experts in custom gunsmithing have created home-made adaptors which make it possible to attach a GP-30 grenade-launcher to some Colt weapons. The process involves careful study of the weapon, melting a piece of metal in a specific way, and adding rails to fit the GP-30.
+
+2240:
+These adaptors were initially designed illegally by a small company, RUV, until Colt eventually forced it to stop production. It is believed that around 200 adaptors can still be found on special shops. The adaptor allows to attach a PSO-1 Sniper Scope to a Colt M4 rifle.
+
+3200:
+Car-15 and M4 have many things in common. Some take advantage by replacing Car's barrel with a 14,5 inch 1:7 twist barrel, which is a heavy 5.56mm barrel with a stepcut. In many occasions the outcome is better than the original Colt M4 !!
+
+4160:
+RPK-74 has been the standard Light Machinegun used in Soviet motorized rifle units. Fires 5.45mm accurate shots in relatively high rates of fire. In case of overheating, the barrel should be replaced by an experienced mechanic before further use.
+
+5120:
+A.L.I.C.E. light-weight backpacks have been designed by request of the famous mercenary "Scott". It has several pockets and slots for various items, such as ammunition, grenades, wirecutters, canteens, plus a magnetically shielded socket for your CD-player.
+
+6080:
+Designed specifically for assault sqauds, this full set of armor has spectra reinforced in several vital spots, offering increased protection for the wearer. Features pockets for canteens and a special slot for morphine.
+
+7040:
+Commando armor has been designed for those in need of superior body protection, usually Commandos, and special forces. Given the right tools, it can be made by upgrading Spectra, though some claim they can upgrade the Commando armor itself!
+
+8000:
+Growing more and more popular, a molotov cocktail has been used in many occasions against Police Officers, as it is quite easy to make. All you need is some explosive liquid (usually alcohol), a flammable object (usually old clothing) and a bottle.
+
+8960:
+Elcan scope is a low magnification riflescope. PSO-1 scope is a 4x magnification sniperscope. While both of them are mounted on different rails, GD will soon hold information on how to attach them to any kind of firearm! Stay tuned!
+

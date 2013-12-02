@@ -1,0 +1,204 @@
+0:
+¢æ ¢ç (press H to get help at any time) ¢ç
+
+1280:
+Don't show me this type of help anymore
+
+2560:
+¢æ ¢ç Welcome to Your Laptop ¢ç ¢æ
+
+3840:
+Overview
+
+5120:
+This screen allows you to review the lastest upgrades and performance enhancements to your laptop.  Technology advances, and you wouldn't want to be left behind!
+
+7680:
+Hardware
+
+8960:
+Four digits of Mhz's isn't this baby's only advantage. The 128-bit processor is guaranteed to cope with real-time 256-bit encryption, securing your privacy from virtually any hacking attempt. The cutting edge in mobile internet connections, LDSL offers great surfing speeds anywhere in the world. It also comes with a waterproof tower that floats on the water, so you won't miss any of your important e-mails even if you find yourself dug in on the beach!
+
+10240:
+Software
+
+11520:
+The brand-new sirOS IX is quickly becoming the operating system of choice for the discriminating secret agent and terrorist. Continuing with the same 'all about privacy' motto, it takes it one step further with additions and updates to most features. sirOS IX now has an automatic e-mail virus scanner, SPAM detection, and hachi coloring with low radiation rates, so you won't hesitate to use your hardware even while on the battlefield.
+
+12800:
+Web Changes
+
+14080:
+Time goes by, and like a great ocean the Internet is constantly changing. New, Danubia-specific sites are available for your browsing pleasure, offering valuable intel when and where you need it the most. Additionally, sir-FER 6.5 has been completely rewritten with security in mind. Never again will you have to worry about a buffer-overflow exploit secretly turning your prized laptop into an agent of the enemy!  Consult your software manual for more information.
+
+15360:
+***
+
+17920:
+***
+
+20480:
+***
+
+24320:
+***
+
+44800:
+¢æ ¢ç You currently have no team members hired. ¢ç
+
+46080:
+There isn't much you can do on this screen until you've arrived in Danubia with a team of hardened mercs ready to take names and dish out a world of hurt! ¡À ¡À To re-open your laptop, click on the Laptop button.
+
+47360:
+If you wish to save your game at this point anyway, you can access the Save Game screen via the Options screen (click on the Options button).
+
+48640:
+¢æ ¢ç You're not in Danubia yet... ¢ç
+
+49920:
+There isn't much you can do on this screen until you've arrived in Danubia. ¡À ¡À When you've finalized your team, click on the Time Compression button at the lower right. This will advance time until your team arrives in Danubia.
+
+51200:
+To open your laptop back up, click on the Laptop button.
+
+52480:
+¢æ Tip: ¢æ It might be a good idea to save your game at this point. You can do so by clicking on the Options button.
+
+53760:
+¢æ ¢ç The People of Danubia ¢ç
+
+55040:
+Overview
+
+56320:
+In this screen you can check up on some of the rumors flying around regarding a number of Danubia's most important people.  These rumors  represents the sum of all the information you have gathered prior to accepting this mission, so you will still need to determine whether or not they happen to be true. The rest is yours to discover!
+
+62720:
+Queen Brenda
+
+64000:
+Queen Brenda is originally Brenda Richards, who arrived in Danubia several years ago from a remote island called Metavira. Originally she was a research assistant to her father Jack Richards.  Jack wanted to expand his small pharmaceutical company based in Metavira by making products from the unique Fallow Tree sap, which grows only on that island. Brenda set up a research laboratory and production plant in Troy, where she supervised the creation of Crepaton Corporation, taking advantage of Danubia's relatively cheap skilled labor, efficient transport network, and low corporate taxes.
+
+65280:
+Crepaton Corp. became a household name when a miraculous healing drug called Regen, now known as Crepagen, was developed, leading to brisk sales and worldwide orders. Crepaton, effectively a Prozac - Viagra hybrid, soon became wildly popular among influential older men, accumulating untold wealth for Brenda Richards and her company. Disaster struck, however, when her father Jack died after being attacked by a large ant-like creature on Metavira. Brenda became severely depressed and despondent over the loss of her father, and reportedly started taking Crepaton herself.  Some sources claim that she is now a Crepaton addict!
+
+66560:
+It is claimed that Danubia's former King, Wasyl Durak, had lost much of his family inheritance and wealth to poor investment choices with the bursting bubble of the Dot Com Crash a few years back, and had married Brenda solely for her money.  He was found dead in his chambers one morning a little over 2 years ago, officially of cardiac arrest, although an autopsy was never performed.  With no heirs, this left Brenda as Queen, as is customary by Danubian tradition.  
+
+67840:
+Through Brenda, the Crepaton Corporation virtually controls the political scene in Danubia, where its money and influence has ensured the company can operate with massive tax concessions, poor environmental and workplace safety standards, and most disturbingly, the use of standover tactics and assassinations to publicly silence its harshest critics.
+
+69120:
+This situation has resulted in widespread civil disorder, unrest and ultimately chaos among the general population, leading to a breakdown of law and order and the declaration of Martial Law. Danubia's Army and Police chiefs are widely considered to be paid stooges in the employ of Crepaton Corp., who go through the motions to maintain the semblance of order whilst the company secretly rapes the country and diverts the majority of its massive profits into offshore bank accounts on behalf of its board of directors.
+
+74240:
+Kingpin
+
+75520:
+Peter Klaus is the mayor of Port Kip, and he is reputed to be as thoroughly corrupt a politician as they come.  Also known as Kingpin, he runs several casinos in addition to various standover and smuggling rackets. It is said that he has close ties to Satan's Sons, a ruthless gang terrorizing Danubia's subway system and ghettos. If that wasn't enough, sources claim that Mr. Klaus is also involved with the notorious smuggler Walter Smirnoff, who will supply weapons to anyone for the right price.
+
+76800:
+There are some indications that Kingpin supplies Crepaton Corporation with goons and standover heavies to intimidate union officials opposed to the company's increasingly ruthless policies. In an effort to avoid paying his share of taxes, Kingpin has made friends in many high places, including the  banking and finance sectors, and those he cannot trust he quietly removes.
+
+78080:
+Peter Klaus has gained notariety throughout Danubia mainly through his efforts to punish everyone creating custom syringes of Crepagen and inhilators of Crepaboost. Claiming that actions which hurt Crepaton Corporation ultimately hurt Danubia itself, he takes an active measure in making sure that cheaper blackmarket variants of the drugs don't surface to the public.
+
+79360:
+One sources went so far to claim that Crepaton Corporation has contracted the use of Mr. Klaus' Public Relations office.
+
+81920:
+Carmen
+
+83200:
+Amidst all the chaos and intense opposition, Danubia has managed to organize a weak resistance movement comprised mainly of worker's unions along with a few honest police officers and members of the general public, who wish to replace the current monarchy with a viable elected government. Carmen Gabreski is thought to be an active co-ordinator for this loose movement, as he is known to several security and intelligence agencies as a former guerrilla commander with good western connections. 
+
+84480:
+Global Defense Network (GDN) chief Admiral Robert Dunlap is known to have strong links with Gabreski and may be planning a coup in Danubia to install a western leaning government.  Gabreski has actively fostered an eccentric reputation for collecting curious artifacts, including human remains.  He is known to use the services of an African taxidermist to create grotesque works of art using human limbs and body parts, which are sometimes chromed or turned into exotic lamps and sculptures, and then sold to private buyers.
+
+85760:
+Despite his macabre hobbies (or perhaps because of them), he is thought to be highly honest and trustworthy man.  He is definitely opposed to Crepaton Corporation's policies, and is enthusiastic in his desire to topple Brenda's regime.  Carmen is known to associate with a self-styled computer 'hacker' who goes by the handle Yanni, and works closely with another semi-anonymous resistance leader (hereafter: Agent X), and Arthur 'Shady' Bailey, the proprietor of a security and bodyguard-for-hire company, who may be able to supply operatives and weapons to the growing resistance movement.
+
+92160:
+***
+
+97280:
+***
+
+101120:
+***
+
+103680:
+***
+
+110080:
+¢æ ¢ç Urban Chaos Weaponmod Notes ¢ç
+
+111360:
+Overview
+
+112640:
+This section should help you get a quick feel for the Urban Chaos weapons and items, and also provide a few basic pointers on how to optimally handle them.
+
+113920:
+Obviously, there have been many changes. Danubia is a former Warsaw Pact country, and so Russian weapons are plentiful, and correspondingly, NATO or western firearms are relatively scarce. If you do manage to get your hands on a western weapon, you might have trouble supplying it with sufficient ammunition to operate it for long.
+
+115200:
+No matter the differences in weapon varieties, the optimal strategy is still the same: remove your opposition quickly with massive damage to sensitive areas. Be advised, however, that pin-point accuracy at medium to long range is difficult without a sniper-scope.
+
+117760:
+Weapons
+
+119040:
+Carbine rifles are quick firing weapons, but they inevitably generate larger recoil than their heavier, full-size counterparts. This gives them the disadvantage of a higher burst penalty compared to assault rifles. Additionally, weapons firing in fixed three-round bursts are easier to handle than full-automatic firearms, giving them a slightly lower burst penalty.
+
+120320:
+Submachine guns have increased effectiveness at short ranges, where volume of fire is important. This makes SMGs your No. 1 choice for a Close Quarters Battle (CQB) weapon. Because of their high draw penalties, light machineguns and snipersystems are best used as support weapons, and should generally be avoided in close quarters.
+
+121600:
+Snipersystems contain the rifle and a high-magnification sniper-scope by default. Semi-action systems are faster to fire than their bolt-action counterparts, but they are not nearly as accurate. ¡À ¡À Laser scopes cannot be attached to snipersystems. The range of the sniper rifle outlasts the laser, while the high-mag sniper-scope renders the laser redundant. ¡À ¡À The KSVK anti-material snipersystem ¢æ CAN ¢æ take out a tank, but it will need about 5-7 shots to do so...
+
+122880:
+There are two types of shotguns in Danubia; pump-action and semi-automatic. The latter use the thrust of the kick to mechanically load the next round into the chamber, gaining in speed. Pump-action shotguns make up for it with a slightly longer range, however.
+
+124160:
+Accessories
+
+125440:
+The Elcan riflescope is a low-magnification scope that fits all Kalashnikov rifles. The PSO-1 sniper-scope is a high-magnification scope that is part of most Russian snipersystems. Both scopes use a side-mount not compatible with western standards, and so cannot be attached to NATO weapons.
+
+126720:
+There are three 40mm grenades in use in Danubia: ¡À    The ¢æ VOG-25 ¢æ is a high-damage, limited area of effect grenade, best used to destroy objects. ¡À    The ¢æ VOG-25 P ¢æ is a low-damage, large area of effect grenade, best used against multiple targets. ¡À    The ¢æ Napalm grenade ¢æ is a tactical smoke-grenade which will inflict light damage to persons in the limited area of impact, and leaves behind a billowing cloud of smoke much like a regular hand thrown smoke-grenade.
+
+128000:
+The AN/PRC-104A Radio makes it possible for the men on the sharp end to receive information from GDN HQ regarding the surrounding area, including enemy positions. When plugged into your laptop's RS-232 port, HQ is able to send you encrypted satellite intelligence securely via the receiving radio in real time. (This replaces the X-Ray Detector.) ¡À ¡À The A.L.I.C.E backpack is best used to carry the squad's mutual equipment. It can safely hold any item that isn't some form of attachment.  In the heat of battle, such small items tend to get 'misplaced'.
+
+129280:
+With regards to specialized forms of body armor: ¡À    The ¢æ Striker ¢æ suit is a CQB outfit most useful to those fighting in tight, urban environments. ¡À    The ¢æ Commando ¢æ outfit is generally used by regular troops in field, far from supply lines and long-term medical care facilities.
+
+130560:
+Ranks
+
+131840:
+For those wanting to implement ranks with your troops, there is a system hidden in UC that will allow you to do so. It is possible to retrieve rank-patches from Betty Fong in Calisto, but she only sells 'Private' patches. By using the GABBI cheat (hold down Ctrl and press G A B B I) you can change the rank when the merc 'ranks up', or is promoted. To do so you must be in the tactical screen. Place the rank patch in the mercs 1st hand and right click to bring up the detailed look of the item. Hold down Alt and press W. This will change the patch to the one of the next rank.  (Private becomes Corporal, etc.)
+
+133120:
+This system is based on levels. In the description of every rank patch there is also listed which level you must achieve in order to get promoted to the next rank. Every merc's current rank can be read from ¢æ Laptop screen -> Personnel -> Stats. ¢æ It now says 'Rank' where it used to read 'Exp Lvl'.  ¡À ¡À Example: Grunty Rank: 7 (+4) ¡À ¡À This means Grunty is a Junior Sergeant.  When Grunty gains another level, he will be promoted to Sergeant. ¡À ¡À The highest rank attainable by an enlisted man is Master Sergeant.
+
+134400:
+¢æ Officer rank ¢æ has the following prerequisites: ¡À    Must have attained Rank 7, and... ¡À    Must have a Leadership score of at least 60. ¡À ¡À Until they meet these prerequisites, applicants are Kursants, or Officer trainees. ¡À ¡À The highest rank attainable to officers operating in the Danubian theatre is Captain.
+
+135680:
+***
+
+142080:
+***
+
+153600:
+¢æ ¢ç Sector Inventory Screen ¢ç
+
+154880:
+In this screen, you can see a list of known items (i.e. items that have been seen by your mercs). ¡À ¡À Moving your cursor over them will indicate their approximate position in the sector on the mini map in the bottom right corner. ¡À ¡À If this sector is not the active sector, you can transfer items to any mercs stationed here by bringing up the inventory for the merc on the left hand side of the screen and equipping the merc with the item.
+
+156160:
+Some items may be inaccessible (e.g. if you saw an item through a window of a locked building). ¡À ¡À You cannot transfer items in this screen during combat.
+
