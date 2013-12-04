@@ -1,0 +1,45 @@
+0:
+We are all behind you. 
+
+320:
+Everyone in town supports you.
+
+640:
+Got my fingers crossed. Good luck.
+
+960:
+Things sure are starting to look better.
+
+1280:
+Don't even give General Marcos the chance to beg for his life.
+
+1600:
+This town is your town. We ain't never living under her rule again.
+
+1920:
+Death to Queen Brenda!
+
+2240:
+You're gonna save us. I know it.
+
+2560:
+Don't stop till you bury Brenda.
+
+2880:
+Don't stop now. We're with ya.
+
+3200:
+Ya got the whole town excited. The money's on you.
+
+3520:
+Sort out the Police Commissioner. I've been living to see it.
+
+3840:
+Got a lot of confidence in you. Whole town does.
+
+4160:
+We were never for her, you know. Just scared.
+
+4480:
+Just want you to know, we sure like having you around.
+

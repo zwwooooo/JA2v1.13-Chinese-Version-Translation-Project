@@ -1,0 +1,429 @@
+0:
+How did you get to me? Leave at once!
+
+480:
+You tempt fate.
+
+960:
+Someday, the people will understand.
+
+1440:
+Your preference for dying is all we have to talk about.
+
+1920:
+Stick it in the orifice of your choice!
+
+2400:
+You've been trouble since the day you arrived.
+
+2880:
+I dare you.
+
+3360:
+I don't serve anybody. They serve me!
+
+3840:
+I order you to find me a doctor.
+
+4320:
+Get out!
+
+4800:
+I hope this is important. I have to make some urgent decisions and can't waste my time.
+
+5280:
+Ah, that's timing. So what is it?
+
+5760:
+I see. And now you want to tell me, that your men killed the intruders. Right?
+
+6240:
+What? What are you paid for? You have my best men to control Atremo and now you want to tell me, that they were defeated by some tourists?
+
+6720:
+I don't like foreigners coming here and sticking their nose into my business!
+
+7200:
+This might cause danger to our production. Take care that they leave the country as soon as possible - dead or alive.
+
+7680:
+Did you get that? Don't disappoint me again! And now get out of here!
+
+8160:
+Douglas, talk with your contacts. I wanna know what those guys are here for and if this might be a danger for our business.
+
+8640:
+What is it this time, Douglas? I hope, that you have some good news.
+
+9120:
+How bad can it be?
+
+9600:
+You want to tell me, that a group of mercenaries comes to this damn country, they bring heavy equipment in here and you didn't even notice?
+
+10080:
+What are they here for?
+
+10560:
+That's possible. Make sure that they won't find him or the list.
+
+11040:
+I'm in a bad mood, Douglas. Why don't you tell me some good news?
+
+11520:
+Please, tell me, that this is not true!
+
+12000:
+Those mercenaries are dangerous, really dangerous. Send out your best men and bring me their heads!
+
+12480:
+Douglas, what is it this time?
+
+12960:
+I was afraid, that you would say that.
+
+13440:
+You get a lot of bucks every month. And the only thing you should take care of is that i can run my business without any disturbance!
+
+13920:
+Get some reinforcements and send them to Galileo! Burn down the whole city if necessary, but kill those damn commandos!
+
+14400:
+Wait, Douglas!
+
+14880:
+I have another idea. Your men can't handle those mercenaries anyway.
+
+15360:
+Brian!
+
+15840:
+Where is he?
+
+16320:
+BRIAN!
+
+16800:
+Take some of your elite troops and solve our problems in Galileo. I can't stand no more bad news.
+
+17280:
+Douglas? Who are you talking with? Is there anything i should know?
+
+17760:
+Don't try to conceal anything from me!
+
+18240:
+We have lost what? This can't be true!
+
+18720:
+Douglas, get over here!
+
+19200:
+I want my cities back! I'm losing lots of money every day those commandos bother me. And now get out of here and do your job!
+
+19680:
+You should know!
+
+20160:
+Those foreigners have overrun Drake. Why don't you inform me about the recent events? Why do i have to find out myself what has happened in Drake?
+
+20640:
+They will ATTEMPT to conquer the city? Damn, Douglas, my summer residence is in Drake! And even worse: Most of our production is lying down, while those commandos control the town.
+
+21120:
+No, Douglas, this is too important. You will go to Drake and take care, that those mercenaries will die!
+
+21600:
+Ah, Vince. Finally some progress, i hope.
+
+22080:
+Fine. Are they all dead or did you capture some of them?
+
+22560:
+You idiot! You should have defended Sheraton with your life!
+
+23040:
+Wait outside! I have to think... We need a good plan now.
+
+23520:
+Douglas, what shall i do with Vince? I cannot trust him any more, he disappointed me twice.
+
+24000:
+I always treat my men good. The only thing, that i expect is, that they do their damn job...
+
+24480:
+I'll do that myself. Come with me...
+
+24960:
+Douglas! Before i forget, clean up that mess outside. And then send some soldiers to Sheraton.
+
+25440:
+You are becoming synonymous with trouble, Douglas.
+
+25920:
+Douglas! You idiot! Is anyone out there actually doing what I pay them to do? Do you have any idea what this MEANS? Do you know how dangerous this is?
+
+26400:
+Aghhh... Let me think.
+
+26880:
+All right. First, send my elite soldiers to the occupied site and reinforce the others. I want anything that flies or moves shot on sight!
+
+27360:
+Okay. Listen closely, Douglas. The third site must be guarded carefully. I want my best teams on it around the clock. As for these other two, God! How does this happen!
+
+27840:
+Send in my elite forces and tell them to do whatever is necessary!
+
+28320:
+They control all three, now, do they? For this, there will be hell, absolute hell, to pay! I want everyone on this! All my troops. Hold nothing back.
+
+28800:
+We must get those sam sites under control again. I cannot run my business, if we are not able to get our goods out of the country by plane.
+
+29280:
+Am I making myself clear, Douglas? This situation is completely unacceptable to me!
+
+29760:
+Well, go on then. What are you waiting for?
+
+30240:
+What is it now, Douglas?
+
+30720:
+And they were defeated?
+
+31200:
+By surprise? By SURPRISE! Douglas! You idiot! It's a GODDAMN war! What's so surprising about being attacked! Oh, I knew I should have sent more forces.
+
+31680:
+Aghhh... Give me a minute.
+
+32160:
+Now get out of here and see to it that my orders are carried out.
+
+32640:
+Hello, Douglas. I am really beginning to dread our little meetings.
+
+33120:
+And what progress have you to report?
+
+33600:
+Did not anticipate it?! You idiot! That's not progress! I can't believe this!
+
+34080:
+It's... it's... unacceptable! Someone must pay for this. And they will! Aghhhh.
+
+34560:
+Okay...
+
+35040:
+The Central SAM is critical, Douglas. Be certain to tell my advisors that this time they had better not fail! Otherwise, they know what punishment they face... and I think they fear that more than death.
+
+35520:
+What is it now, Douglas? I... Oh! Flowers! How lovely and so thoughtful! From my troops, no doubt.
+
+36000:
+WHAT?!?
+
+36480:
+You IDIOT! Idiot! Idiot!
+
+36960:
+Is this some kind of joke? Some twisted and sick sense of humor? Oh, yes, this is EXTREMELY funny! I shoot them, I shoot them not. I shoot them!
+
+37440:
+You idiot! Say it! Say, "I am an idiot!" Do it.
+
+37920:
+Yes, yes you are! Now, listen to me! First, I want my elite soldiers to shoot the messenger who brought these.
+
+38400:
+And then, when we kill these little commandos, I want a single flower placed in their mouths as they die. A rose, I think. A blood, red rose, Ha ha. Now, do as you're told, and leave me be.
+
+38880:
+Finally, some good news. It's good to know, that at least some of my men are doing their job as they should.
+
+39360:
+Douglas! Come here.
+
+39840:
+Have you heard that? We finally made some progress.
+
+40320:
+But why do you disappoint me so much?
+
+40800:
+Why don't i see any progress of you and your men? 
+
+41280:
+I can't stand any more bad news from you. And now go and kill those mercenaries or... well, you know what will happen, if you fail.
+
+41760:
+Douglas, that's great. I've heard our new helicopter. You should have told me that you have ordered a new one.
+
+42240:
+Tell the pilot to land here as soon as possible, so that we can load up our good. We already lost too much time...
+
+42720:
+What do you mean? If it isn't ours, whose is it then?
+
+43200:
+Douglas, you fool! If those bastard have a helicopter they can just fly down here without any problem.
+
+43680:
+Do you know what this means, Douglas? Argh... We are all in danger. Tell my men at the sam site to shoot every helicopter or plane on sight. They must not reach Adrian.
+
+44160:
+Douglas! What is going on in Rudesa?
+
+44640:
+The latest report i received from the local governor was, that they were under attack. What is happening there, Douglas? Those commandos again?
+
+45120:
+You wanted to tell me what?
+
+45600:
+Douglas, you idiot! They have taken Rudesa? Argh... That means they are almost here!
+
+46080:
+Send out more guards! They must not come here, under no circumstances! Did you understand that, Douglas?
+
+46560:
+Why should i leave? What has happened?
+
+47040:
+Argh, Douglas. This whole thing is a nightmare. I have to think...
+
+47520:
+BRIAN!
+
+48000:
+Brian, double the guards. We are in serious trouble: the commandos have reached Adrian.
+
+48480:
+We have to clear off. Help me to destroy all the important documents and proofs of our business!
+
+48960:
+You will stay here and welcome those commandos!
+
+49440:
+Yes, Douglas? What is it this time?
+
+49920:
+Well, Douglas, i've more important things to do than talking about the old days in Metavira.
+
+50400:
+Anyway, you're right. My father hired some A.I.M. guys a few years ago to defend Metavira. After Lucas Santino was killed we started the production of the Fallow sap again.
+
+50880:
+My father never really recognized the meaning of my research on this sap, he never realized how much power and money we could have gained by controlling Metavira.
+
+51360:
+I went my own way and left Metavira. This country was the perfect place to continue my work: Corrupt politicians, weak police forces and no control by other countries... until that American governor and those commands showed up here.
+
+51840:
+Well, Douglas, i already said too much... I don't have time to chat with you any longer. Go back to work! The commandos advance on Adrian and i cannot see any progress of our men.
+
+52320:
+Hello, Douglas.... Brian. Oh! And, my? What do we have here?
+
+52800:
+Douglas! Yes it is! Heh, heh, heh. Well, where shall I begin with YOU, hm? You know, you have put me through much trouble, and for what? Money? Hah. I could pay you more than those rebels could ever afford.
+
+53280:
+Or, let me guess... you've taken on a moral cause? Aw... how mighty righteous of you. Well, listen here! This is NOT your country, and it's NONE of your business.
+
+53760:
+You will not be the first to die, nor the last. I will get every one of you. Mark my words. I ALWAYS get what I want. Don't I, Brian?
+
+54240:
+Just enough to be receptive, I think.
+
+54720:
+That's good, Brian. Now, where shall I start with you?
+
+55200:
+Oh, look! You bruise easily. Good thing I stopped him. God forbid you'd get hurt... or maybe... DIE. Let's not let that happen again. Now, tell me, who is it you're working for? Is it the rebels?
+
+55680:
+Heh. As I thought. And won't they be disappointed. Douglas? Send an attack on their camp, the elite forces, heh, heh. And be certain they know the reason behind it. I will have no more of their little games.
+
+56160:
+Not quite ready to tell the truth, are you? I already know who's employing you. That was just a little test of your honesty and I see you haven't much. Maybe Brian can knock some sense into you.
+
+56640:
+Douglas! Find out if this is true!
+
+57120:
+All right. Let's try another, shall we? Now, how many mercenaries have been hired?
+
+57600:
+Hmm. It is more than I had thought. How are they doing this? It's, it's unacceptable! That's what it is! Obviously, I will require more troops. You are aware of my elite forces, I gather? Heh.
+
+58080:
+You should be. They will be the last people you see just before you die, you and all your little friends... and now I know just how many bullets we will require.
+
+58560:
+Listen to me. I am tiring of this. And when I get tired, Brian gets angry. Very, very angry. Maybe, Brian, you'd like to show how angry you can get?
+
+59040:
+Good. I told my advisors that there were only a few of you, but they...
+
+59520:
+Good. I told my advisors that there were only a few of you, but they doubted me. ME! I'll be certain they get a little thank you for all the undue stress they've caused. Douglas, you know what to send them.
+
+60000:
+I'll find out soon enough when I count the bodies.
+
+60480:
+WHAT!? You're lying to me! I never... Perhaps Brian can teach you the manners your mother missed!
+
+60960:
+Okay. Now, listen closely. I want to know where your troops are located.
+
+61440:
+Very good. Then it is as we suspected. We need to revise our strategies. Brian? Come with me. Douglas? Summon my military advisors.
+
+61920:
+There is no end to this for you, is there? You are going to die this day for a war that you have no personal stake in! Is this what you call intelligent?
+
+62400:
+Well, if Brian can't beat it out of you, I know someTHING that can. Hasn't failed me yet. Brian? Do your thing, heh... and then, come with me. And Douglas? Summon my military advisors.
+
+62880:
+You have served your purpose. Now leave.
+
+63360:
+Burn with your friends in hell!
+
+63840:
+Heh. A pathetic little tithe. Don't insult me!
+
+64320:
+Do you think I am some kind of fool? Lying to me? Well...
+
+64800:
+Douglas! You idiot! Do you have any brains in your head? NO I don't want you to release anyone!
+
+65280:
+You're going to regret ever coming here! Brian, follow me. And Douglas? Don't forget to lock up.
+
+65760:
+Douglas! You idiot! Do you have any brains in your head? NO I don't want you to call a doctor!
+
+66240:
+
+
+66720:
+
+
+67200:
+
+
+67680:
+
+
+68160:
+
+

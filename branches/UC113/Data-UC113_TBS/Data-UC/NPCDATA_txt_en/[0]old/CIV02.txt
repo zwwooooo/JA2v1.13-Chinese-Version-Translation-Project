@@ -1,0 +1,45 @@
+0:
+You have to do something. Madlab's robots are on the rampage.
+
+320:
+Those malfunctioning robots are turning up everywhere!
+
+640:
+The robots are attacking people! I've seen it.
+
+960:
+Those god-awful robots are everywhere.
+
+1280:
+Can't you do something about those robots?
+
+1600:
+I heard those robocop machines shot someone last night.
+
+1920:
+You have to help us. The robots are terrorizing us.
+
+2240:
+I saw one... It was awesome.
+
+2560:
+If you really cared about us, you'd do something about those robots.
+
+2880:
+The town barely sleeps. The threat of attack from those robots terrifies us.
+
+3200:
+I've heard the robots are as big as we are... It can't be true.
+
+3520:
+Is it true? Do robots kill people at night?
+
+3840:
+Between you and me, I find this whole creature in a cave thing hard to swallow.
+
+4160:
+You are the only ones capable of stopping those robots, you must do something.
+
+4480:
+First Crepaton, now Madlab's robots. Haven't we suffered enough?
+

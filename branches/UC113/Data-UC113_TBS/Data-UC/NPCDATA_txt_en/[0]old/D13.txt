@@ -1,0 +1,30 @@
+0:
+If you think Calisto has problems, you have not been to Port Kip. It's run by a man called Kingpin who has connections with Queen Brenda.
+
+320:
+Psssst. There is a man called Tony who deals in weapons. You will find him in Port Kip. He operates from an office near the wharves.
+
+640:
+I hope you will not need to know this, but if ever your soldiers need medicine, there are hospitals in Galileo and Adrian. 
+
+960:
+You will want to avoid Troy. It is the regional headquarters for Crepaton Industries Amalgamated. They have a staff training academy there.
+
+1280:
+I think all of us should be standing up to the Queen's army. Maybe you could train and equip some citizens to become militia.
+
+1600:
+An airplane recently made a crashed landing at Calisto. I heard some foreign ambassador was aboard. He was taken away by the police.
+
+1920:
+Do you know a helicopter pilot is hiding at a farm northeast of here?
+
+2240:
+Do you know a helicopter pilot is hiding at a farm northeast of here?
+
+2560:
+Do you know a helicopter pilot is hiding at a farm southeast of here?
+
+2880:
+Do you know a helicopter pilot is hiding at a farm just west of here?
+

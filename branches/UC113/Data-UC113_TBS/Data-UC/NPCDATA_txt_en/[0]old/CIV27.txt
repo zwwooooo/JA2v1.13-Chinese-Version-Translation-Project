@@ -1,0 +1,45 @@
+0:
+You have no business here.
+
+320:
+The military will deal with you.
+
+640:
+You are not wanted here.
+
+960:
+Everyone in this town is treated well. You can move on.
+
+1280:
+You do not know the cost of your meddling.
+
+1600:
+As an official of this town, I insist you vacate immediately.
+
+1920:
+You should not have come here!
+
+2240:
+You have no standing in this town. I am the official administrator here.
+
+2560:
+We had no trouble here until you arrived.
+
+2880:
+The Queen will send reinforcements. Then we shall see...
+
+3200:
+The people here are happy, they do not need you.
+
+3520:
+Go back where you came from. You are not welcome.
+
+3840:
+I will not tolerate your intrusion into my jurisdiction.
+
+4160:
+I am the town administrator. You were not invited.
+
+4480:
+The armed forces of Danubia will see to it that you are soon buried.
+

@@ -32,7 +32,7 @@ I have some negatives to develop. If you need me, I'll be here.
 Thank you. I'm sure you'll be satisfied with the vest.
 
 5280:
-I have a very unique item. It's something I believe might interest you: advanced body armor of the highest quality. I could let it go for, say, $950 dollars.
+I have a very unique item. It's something I believe might interest you: advanced body armor of the highest quality. I could let it go for, say, $1000 dollars.
 
 5760:
 You don't owe me any money.
@@ -58,41 +58,17 @@ Miranda! Can it be true? You're free, it's a miracle!
 9120:
 You have done exactly as I asked. I will be forever grateful! We have no need for these documents now. Mr. Hearse will pay you well for the information.  Please... Take them to him.
 
-9600:
-
-
 10080:
 Miranda has told me she knows Mr. Klaus is interested in obtaining something called a MOC list. I have no idea what this is but I believe he is willing to pay a great deal for it.
 
 10560:
 He is a brutal man, engaged in various criminal enterprises and always protected by a retinue of bodyguards. I believe he has connections with Satan's Sons, so be very careful around him.
 
-11040:
-
-
-11520:
-
-
 12000:
 Must be All Saints Day in Danubia. We have to move quickly. Call Mr. Hearse and tell him you're safe. We need to exit this country immediately. Mr. Hearse had better lay low himself if he publishes that stuff I gave you.
 
-12480:
-
-
-12960:
-
-
-13440:
-
-
 13920:
 If you want me to help you, you must rescue my partner Miranda. If you harm me, your karma will be heavily in the black.
-
-14400:
-
-
-14880:
-
 
 15360:
 You're a complete lunatic!

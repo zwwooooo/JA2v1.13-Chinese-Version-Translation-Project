@@ -1,0 +1,45 @@
+0:
+Thank you for gettin' rid of robots.
+
+320:
+I sleep well now. It is because you killed all the robots.
+
+640:
+No more robots. Thank you.
+
+960:
+Those robots killed more people than auto accidents.
+
+1280:
+You killed robots. We are happy.
+
+1600:
+You number one robot killer.
+
+1920:
+It is much better without clanking robots on the rampage, sheeh.
+
+2240:
+We are safe from robots. Thank you, soldier.
+
+2560:
+If you weren't here, the robots would shoot everybody.
+
+2880:
+I hope I never see those monsters again.
+
+3200:
+I hate robots. I hope Crepaton executes Madlab.
+
+3520:
+You scare away monsters. You good person.
+
+3840:
+You're tough. Even monsters are scared of you.
+
+4160:
+Those robots will not come back with you here.
+
+4480:
+No more robots. We're okay now.
+

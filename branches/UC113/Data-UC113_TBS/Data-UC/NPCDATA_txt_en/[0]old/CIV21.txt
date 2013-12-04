@@ -1,0 +1,45 @@
+0:
+You a friend?
+
+320:
+I want to play outside.
+
+640:
+You like our hideout, soldier?
+
+960:
+Is it sunny outside? 
+
+1280:
+My daddy help the rebels.
+
+1600:
+You work with Carmen?
+
+1920:
+I don't want to stay here.
+
+2240:
+You play with us, soldier?
+
+2560:
+Are you going to help us?
+
+2880:
+My daddy is dead.
+
+3200:
+You help us, soldier?
+
+3520:
+My house went boom.
+
+3840:
+Carmen says we won't have to stay here for too long.
+
+4160:
+I'm waiting for daddy to come back.
+
+4480:
+Mr. Carlos says the bad men still might come.
+

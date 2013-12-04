@@ -1,0 +1,45 @@
+0:
+Don't shoot me.
+
+320:
+Mommy says the army are all very bad people.
+
+640:
+I'm scared... Don't hurt me.
+
+960:
+I don't like Crepaton. They have mean bosses.
+
+1280:
+Why don't you leave us alone?
+
+1600:
+We need a better life. 
+
+1920:
+My dad says the army is gonna fix you.
+
+2240:
+My brother is gonna be a soldier too.
+
+2560:
+Everybody in town welcomes you.
+
+2880:
+I'm not supposed to talk to you.
+
+3200:
+My uncle says you won't be here long.
+
+3520:
+Why are you in Danubia?
+
+3840:
+Leave me alone.
+
+4160:
+The Queen will get kicked out soon.
+
+4480:
+Brenda is in big trouble.
+

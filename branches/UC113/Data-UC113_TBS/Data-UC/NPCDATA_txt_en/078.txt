@@ -50,7 +50,7 @@ Oh, one thing... they're not needed for interrogations or trials. One of these p
 Good! This little souvenier is going to put money in your pocket.
 
 8160:
-I need some time to get the cash together. Give me 24 hours, then meet me back here.
+I need some time to get the cash together. Give me 24 hours, then meet me at the bar in Calisto.
 
 8640:
 I'll need to keep it. You will just have to trust me.

@@ -1,0 +1,45 @@
+0:
+I don't like you. You left us here with them.
+
+320:
+Why did you go? Don't you care about us...
+
+640:
+I hope you killed the man who hurt my mommy.
+
+960:
+Please don't leave this time.
+
+1280:
+I knew you'd come back.
+
+1600:
+Are you gonna stay this time?
+
+1920:
+I'm happy to see you again.
+
+2240:
+I was really scared when the army was here.
+
+2560:
+The army is mean. Please don't let them come back.
+
+2880:
+Where did you go?
+
+3200:
+Don't leave us again. Please...
+
+3520:
+I prayed you would come back to save us.
+
+3840:
+It was terrible. Don't ever go away again.
+
+4160:
+My parents are very happy to see you back.
+
+4480:
+I know you won't forget us.
+
