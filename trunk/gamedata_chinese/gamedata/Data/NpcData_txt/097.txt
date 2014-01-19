@@ -169,6 +169,6 @@ ok，我就直说吧，我是一个飞行员，不是士兵。我会做我事先说好的事，我不想卷入战斗，
 26880:
 地面有敌军部队活动！好吧，回头你得为此多付一笔钱才行。
 
-28800:
- 
+27360:
+Looks like the bird's been wounded, Cap. Can't do much for ya.
 
