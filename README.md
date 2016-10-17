@@ -1,9 +1,7 @@
-# TBS 1.13 lang zh_CN（简称 113TBS，原名 TBS Chinese(GB) patch）
-
-ja2v113-chinese-translate-project  
+# JA2 v1.13 汉化文件托管（ja2v113-chinese-translate-project）  
 Automatically exported from code.google.com/p/ja2v113-chinese-translate-project
 
-## JA2 v1.13 TBS 汉化 
+## TBS 1.13 lang zh_CN（简称 113TBS，原名 TBS Chinese(GB) patch）
 
 ### 源码部分
 
