@@ -25,3 +25,15 @@ Data-UB\AddOns\Data-UB-1.13\TableData\Invertory\Chinese.MercStartingGear25.xml
 Data-UB\AddOns\Data-UB-1.13\TableData\Chinese.MercProfiles25.xml
 Data-UB\AddOns\Data-UB-1.13\TableData\Email\Chinese.EmailSenderNameList.xml
 
+
+----------------------------------------------------------------------
+2014跟开发版不同之处
+----------------------------------------------------------------------
+Data-1.13\TableData\Map\FacilityTypes.xml
+
+
+----------------------------------------------------------------------
+其他
+----------------------------------------------------------------------
+UB的2014和开发版一样
+
