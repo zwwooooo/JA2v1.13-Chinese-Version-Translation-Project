@@ -4,27 +4,26 @@ Automatically exported from code.google.com/p/ja2v113-chinese-translate-project
 ### 1.13 ja2.exe 源码汉化
 
   * ja2.exe源码
-    * 熊窝svn [https://81.169.133.124/source/ja2/trunk/GameSource/ja2_v1.13/Build]
-    * beta svn [https://81.169.133.124/source/ja2/branches/Wanne/JA2%201.13%20MP/Build/]
+    * 熊窝svn [https://ja2svn.mooo.com/source/ja2/trunk/GameSource/ja2_v1.13/Build]
   * ja2.exe源码汉化文件托管
-    * svn [http://ja2v113-chinese-translate-project.googlecode.com/svn/trunk/source]
+    * git [https://github.com/zwwooooo/ja2v113-chinese-translate-project/source]
 
 
-### TBS 1.13 lang zh_CN（原名 TBS Chinese(GB) patch）
+### TBS 1.13 lang zh_CN（简称 1.13TBS，原名 TBS Chinese(GB) patch）
 
   * 熊窝叫 1.13_GameData_Chinese
-    * svn [https://ja2svn.dyndns.org/source/ja2/trunk/GameData/Chinese_Version]
+    * svn [https://ja2svn.mooo.com/source/ja2/trunk/GameData/Chinese_Version]
   * 汉化文件托管
-    * svn [http://ja2v113-chinese-translate-project.googlecode.com/svn/trunk/gamedata_chinese]
+    * git [https://github.com/zwwooooo/ja2v113-chinese-translate-project/gamedata_chinese]
   * 汉化相关文档说明
-    * svn [http://ja2v113-chinese-translate-project.googlecode.com/svn/trunk/gamedata_chinese/0_Docs]
+    * git [https://github.com/zwwooooo/ja2v113-chinese-translate-project/gamedata_chinese/0_Docs]
   * 汉化相关工具
-    * svn [http://ja2v113-chinese-translate-project.googlecode.com/svn/trunk/gamedata_chinese/0_Tools]
+    * git [https://github.com/zwwooooo/ja2v113-chinese-translate-project/gamedata_chinese/0_Tools]
 
 ### UC1.13汉化
 
-  * svn [http://ja2v113-chinese-translate-project.googlecode.com/svn/branches/UC113]
+  * git [https://github.com/zwwooooo/ja2v113-chinese-translate-project/tree/UC113]
 
 ### WF6.06MERC汉化
 
-  * svn [http://ja2v113-chinese-translate-project.googlecode.com/svn/branches/WF606MERC]
+  * git [https://github.com/zwwooooo/ja2v113-chinese-translate-project/tree/WF606MERC]
