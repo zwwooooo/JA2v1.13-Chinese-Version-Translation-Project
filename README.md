@@ -17,9 +17,9 @@ Automatically exported from code.google.com/p/ja2v113-chinese-translate-project
     * 熊窝叫 1.13_GameData_Chinese
       * svn [https://ja2svn.mooo.com/source/ja2/trunk/GameData/Chinese_Version]
     * 汉化文件托管
-      * git [https://github.com/zwwooooo/ja2v113-chinese-translate-project/gamedata_chinese]
-        * 汉化相关说明文档目录：https://github.com/zwwooooo/ja2v113-chinese-translate-project/gamedata_chinese/0_Docs
-        * 汉化相关工具目录：https://github.com/zwwooooo/ja2v113-chinese-translate-project/gamedata_chinese/0_Tools
+      * git [https://github.com/zwwooooo/ja2v113-chinese-translate-project/tree/GameData_Chinese]
+      * 汉化相关说明文档目录：https://github.com/zwwooooo/ja2v113-chinese-translate-project/tree/GameData_Chinese/0_Docs
+      * 汉化相关工具目录：https://github.com/zwwooooo/ja2v113-chinese-translate-project/tree/GameData_Chinese/0_Tools
 
   * 分支二：UC1.13汉化
     * git [https://github.com/zwwooooo/ja2v113-chinese-translate-project/tree/UC113]
