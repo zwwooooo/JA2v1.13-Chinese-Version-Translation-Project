@@ -1,0 +1,162 @@
+0:
+Need to deliver letter to Miguel
+
+160:
+Letter delivered, joined up with Rebels
+
+320:
+Rebels need food from Drassen
+
+480:
+Omerta has received food from Father Walker.
+
+640:
+Reward offered for Terrorists
+
+800:
+All terrorists have been caught
+
+960:
+Kingpin offered $20,000 for Chalice
+
+1120:
+Gave Kingpin Chalice.
+
+1280:
+Kingpin wants his money back.
+
+1440:
+Kingpin taken care of.
+
+1600:
+Keep eye out for runaway kid named Joey.
+
+1760:
+Joey returned safely.
+
+1920:
+Angel wants Maria rescued.
+
+2080:
+Rescued Maria.
+
+2240:
+Chitzena people want their Chalice back.
+
+2400:
+Returned Chalice.
+
+2560:
+Squad defeated and captured!
+
+2720:
+Prisoners located!
+
+2880:
+Squad captured!
+
+3040:
+Interrogated by Deidranna.
+
+3200:
+Hillbillies east of Cambria are a nuisance..
+
+3360:
+Resolved the hillbilly problem.
+
+3520:
+Deidranna's scientist AWOL!
+
+3680:
+Found Deidranna's scientist.
+
+3840:
+Need video camera for robot.
+
+4000:
+Gave video camera to Madlab.
+
+4160:
+Alma terrorized by bloodcats!
+
+4320:
+Took care of bloodcats.
+
+4480:
+Some hermit knows about these 'creatures'.
+
+4640:
+Found hermit.
+
+4800:
+Giant 'bug' creatures in the mines!
+
+4960:
+Killed Queen bug creature!
+
+5120:
+Chopper pilot around somewhere.
+
+5280:
+Found the chopper pilot.
+
+5440:
+Get Skyrider to chopper in Drassen.
+
+5600:
+Skyrider now working for us.
+
+5760:
+Need to free Dynamo from Tixa jail.
+
+5920:
+Dynamo no longer prisoner.
+
+6080:
+Escort lost tourists to Drassen airport.
+
+6240:
+Tourists taken care of.
+
+6400:
+Apparently, Doreen is cruel to kids.
+
+6560:
+Doreen has been taken care of.
+
+6720:
+Kyle dreams of owning a leather shop.
+
+6880:
+Gave Kyle the deed to Angel's leather shop.
+
+7040:
+Shank can arrange for fuel if escorted to Estoni.
+
+7200:
+Jake will sell us fuel.
+
+7360:
+Find missiles and destroy them.
+
+7520:
+Missiles destroyed!
+
+7680:
+Laptop internet connection broken.
+
+7840:
+Internet connection working again.
+
+8000:
+Get rid of bloodcats in Betty's storeroom.
+
+8160:
+Bloodcats taken care of.
+
+8320:
+Find antique musket thing for Raul.
+
+8480:
+Sold musket to Raul.
+

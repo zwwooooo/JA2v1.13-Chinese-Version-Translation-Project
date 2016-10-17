@@ -1,0 +1,318 @@
+0:
+I have an encounter.
+
+480:
+Get ready! They're here.
+
+960:
+This is not looking very good.
+
+1440:
+Not another one!
+
+1920:
+Look at the size of it! Oh, my... I hate insects. Even the ones you can squash with your foot.
+
+2400:
+Those bugs are hideous.
+
+2880:
+Shhhh! Noise.
+
+3360:
+What a terrible smell!
+
+3840:
+My nerves are wracked. I sense something's about to happen, and it's not good.
+
+4320:
+God! I hope there's none of those hideous insects around here.
+
+4800:
+Oh my Lord! What a nightmare!
+
+5280:
+There's something.
+
+5760:
+What's that lying around?
+
+6240:
+I'm in need of ammo.
+
+6720:
+I don't think I'm going to make it.
+
+7200:
+Wolfy... our time together was so... so limited. You were the best. I can't believe you're really gone.
+
+8160:
+Ahhh... Grizzly, you were my teddy bear. I wish I had known you for longer.
+
+8640:
+Sorry, I'm a little confused.
+
+9120:
+Bullet's stuck!
+
+9600:
+They've got me pinned.
+
+10080:
+I've had back rubs worse than that.
+
+10560:
+That was close.
+
+11040:
+I'll never connect with that.
+
+11520:
+I'm going to have to do something about this bleeding.
+
+12000:
+I need my beauty sleep. Soon!
+
+12480:
+Need a moment to catch my breath.
+
+12960:
+Sweet dreams!
+
+13440:
+Even dead, they bother me.
+
+13920:
+I wish somebody would take the air out of that macho idiot Steroid.
+
+14880:
+That Haywire makes me extremely uncomfortable.
+
+15360:
+I dated Mike. He had about as much life in him as he does now.
+
+15840:
+I don't believe I needed to see that.
+
+16320:
+I've always hated insects. Spiders are the worst.
+
+16800:
+Ready to move on.
+
+17280:
+Not in your lifetime.
+
+17760:
+It's about time. She was really getting on my nerves.
+
+18240:
+Please! Make that be the end of them.
+
+18720:
+What a slimeball.
+
+19200:
+This is nothing like I expected it to be.
+
+19680:
+I've never been around so many horny people in all my life. Well... at least not since I left All Saints private school.
+
+20160:
+Look for cover!
+
+20640:
+I'm tired of using the leftovers. I should be getting the best equipment. Especially armor. I've got a body to protect.
+
+21120:
+Nothing in my life ever works out.
+
+21600:
+Some of these people need to be introduced to soap.
+
+22080:
+It pays to pay attention.
+
+22560:
+I really don't understand why we'd want to do that.
+
+23040:
+That was absolutely brilliant.
+
+23520:
+Steroid gives me the creeps. If he has to be in the same country, keep him away from me.
+
+24480:
+Wolfy, you're the best!
+
+25440:
+Way to go, Teddy bear.
+
+25920:
+That would be a bit premature. Let's wait and see.
+
+26400:
+I don't believe it! Mike took a job with the other side?
+
+26880:
+What did that thing spit in my eyes? I'm blind!
+
+27360:
+Sorry, but I can't manage it.
+
+27840:
+There's something about him that kinda intrigues me.
+
+28320:
+Get ready! They're here.
+
+28800:
+We mustn't forget the ones we didn't get.
+
+29280:
+Too much! Now this was worth bending over for.
+
+30240:
+That kid looks like he doesn't belong here.
+
+30720:
+She won't get very far, Miguel, now that I'm here. Trust me, when it comes to the female mind, I'm a master. Maybe later, you and I could talk more about it.
+
+31200:
+Yeah! We did 'em all. I love that.
+
+31680:
+Hey! I think something's missing here!
+
+32160:
+It's women like her who give all of us a bad name. I, for one, am glad to see her dead, and I bet I'm not the only one.
+
+32640:
+I see one, I think "fireplace"...
+
+33120:
+Hey hey! What a way to lay 'em out! It makes me feel so good, so warm, so excited all over. I wish there was some way I could thank all of you.
+
+33600:
+Whoa... where are they? They pulled out early.
+
+34080:
+I need a quick nap. Sweet dreams!
+
+34560:
+I'm up and back on top. It does my body a world of good.
+
+35040:
+You're not the only one.
+
+35520:
+What's a girl have to do to get something that works around here?
+
+36000:
+Wait a sec. I don't trust it any more than I do a man's zipper.
+
+36480:
+This looks more suspicious than lipstick on a man's collar.
+
+36960:
+Wolfy? Grizzly? I'm so wet! I'm going down! Someone... Help me!
+
+37440:
+I'm in position and available. As always.
+
+38400:
+Sorry, there's been a lot of talk about you... none of it good.
+
+38880:
+Sorry, I have a major concern. It's called dying. And too many people who work for you are doing it.
+
+39360:
+Sorry, I just got a call from a major Hollywood producer. He says I'm being considered to debut in a feature film, and he wants to see me at his place right away. I could be the next female action hero.
+
+39840:
+Perhaps with more notice, but I can't right now. I've made other commitments.
+
+40320:
+Hello. This is Cynthia Guzzman. I'm kinda of tied up at the moment. If you'd like me to get back to you, leave a message. If you'd rather I ignored your call, breathe heavy--just once.
+
+40800:
+Well... you're running the show. Maybe you'll need me again sometime. Be sure to call.
+
+41280:
+Forget it! I wouldn't give it a second thought as long as that pumped-up, pushy Pollack is working for you.
+
+42240:
+Sorry, but Haywire is as scary as they get. My future certainly doesn't have us together in the same country.
+
+42720:
+I'm a busy girl. You don't want to leave the status of my contract to the final minute.
+
+43200:
+Sounds good to me.
+
+43680:
+I'll get my things together, and I'll be there as soon as possible.
+
+44160:
+Normally I wouldn't jump on your bandwagon, but since Wolfy's on the job, I guess I will be too.
+
+45120:
+I've worked with Grizzly for a little while now. I wouldn't say I know Teddy Bear inside out, but I'll put aside my hesitations for the chance to work with him.
+
+45600:
+For reasons I don't care to get into, I'd rather go home and shave my legs.
+
+46080:
+Like I said...
+
+46560:
+Your bank tells me that you're short a deposit. And please, spare me the bad sperm jokes.
+
+47040:
+That was a lot shorter than I expected. On the other hand, it might be better that way.
+
+47520:
+Sorry, I have a major concern. It's called dying. And too many people who work for you are doing it.
+
+48000:
+Forget it! I wouldn't give it a second thought as long as that pumped-up, pushy Pollack is working for you.
+
+48960:
+Sorry, but Haywire is as scary as they get. My future certainly doesn't have us together in the same country.
+
+49440:
+Normally I wouldn't jump on your bandwagon, but since Wolfy's on the job, I guess I will be, too.
+
+50400:
+I've worked with Grizzly for a little while now. I wouldn't say I know Teddy Bear inside out, but I'll put aside my hesitations for the chance to work with him.
+
+50880:
+Like I said...
+
+51360:
+Your bank tells me that you're short a deposit. And please, spare me the bad sperm jokes.
+
+51840:
+The Fox is listening.
+
+52320:
+Don't let my looks deceive you. While I take care of myself, I'm also quite capable of taking care of others, too.
+
+52800:
+You're not wearing pants, are you?
+
+53280:
+Okay, I imagine you'll want to get maximum value and go long-term?
+
+53760:
+This is taking longer than I have. Think about it, then call me back.
+
+54240:
+I can't tell you how skeptical I am about being in the same country as Steroid, but I'll give it my best shot. It's a big country right?
+
+55200:
+We'll be splitting up shortly. My contract's almost up.
+
+55680:
+Been getting better at this. A good woman's worth more money, don't you think?
+

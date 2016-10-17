@@ -1,0 +1,213 @@
+0:
+Uninvited guest.
+
+480:
+Look alive! We've got unfriendlies.
+
+960:
+I'm bein' slit up a treat here!
+
+1440:
+It's another sewer 'gator, 'swhat it is.
+
+1920:
+Cor! I seen something like 'at before. The kiddees, they get these little pet alligators 'n flush 'em down the loo. They get all big and albino and malformed from the sewer crud, y'know.
+
+2400:
+It's the sewer gators runnin' amuck! Ugly bastards doin' nasty stuff.
+
+2880:
+I heard something.
+
+3360:
+<sniff> 'At's silent but deadly, eh? Smells o' something sloggin' through the sewer, in me professional opinion.
+
+3840:
+Somethin' smells wrong here.
+
+4320:
+Bet there's sewer gators prowlin' around. Makes ya piss your knickers.
+
+4800:
+They think I'm a bucket of chum!
+
+5280:
+What's that then?
+
+5760:
+What's this?
+
+6240:
+Me ammo's out.
+
+6720:
+Bloody 'ell! I'm hurtin'!
+
+8640:
+Dunno where me head's at. I was doin' what again?
+
+9120:
+Sod it, me gun's jammed.
+
+9600:
+Back off, you bloody morons!
+
+10080:
+Like water off a duck's back.
+
+10560:
+'At was a close shave, now, wasn't it?
+
+11040:
+Bloody tough one from 'ere. Yer off your chump.
+
+11520:
+Oh, mother, I opened a bloody vein. What a mess.
+
+12000:
+Ready for a catnap.
+
+12480:
+Take it easy. I'm outta breath.
+
+12960:
+That's got 'em.
+
+13440:
+Just controllin' the pet population.
+
+13920:
+Sidney's a bloody twit, thinks 'e's better'n everybody else. Pig.
+
+14400:
+What's the deal with hirin' Vicki? I reckon we should hire every bloody crack whore who comes down the pike, then, eh?
+
+14880:
+Scope's the kind of egghead who makes me ashamed to be a Brit, her with her bloomin' snobbery and her oh-so-precious marksmanship medals. Piss on her!
+
+15360:
+I'm done with this assignment. You gotta have Scope prancin' around all hoidy-toidy, makin' life retched for everybody, you can just do it without me, then!
+
+15840:
+That's not something you see every day, is it?
+
+16800:
+Right, that's done. What do ya got next?
+
+17280:
+No bloody way.
+
+17760:
+Sorry, me lady. But ya just took early retirement.
+
+18240:
+Well! How many men get to say they popped the Queen Mum?
+
+18720:
+What a barmy arsehole.
+
+19200:
+Someday I'm gonna look back on this contract and puke me guts out.
+
+19680:
+All great chaps, if you don't mind workin with poofs, spoogewads, and skags.
+
+20160:
+Bombadiers on the way!
+
+20640:
+I feel bad about equipment like this. They're antiques. Wouldn't want to damage them by actually USING them.
+
+21120:
+If anyone's smart, they'll just leave me the 'ell alone.
+
+21600:
+I'm renouncin' me citizenship. I 'ate the Brits, imperialist, classist buggers. Change me place of birth if I could.
+
+22080:
+It's about time.
+
+22560:
+Oi, that's brill.
+
+23040:
+Gol, who could possibly 'ave predicted that...besides EVERYONE?
+
+23520:
+All right, I've 'ad all I can stand of Sidney, goddamned poofter. You go on and 'ave fun with his snotty posturing. I'm going on holiday.
+
+24000:
+I'm finished puttin' up with Vicki. Never shoulda put one o' THEM on the team, and you know what I mean. So, I'm just gonna be movin' along. Goodbye.
+
+25440:
+Attaboy, Malice! I knew you had it in ya!
+
+25920:
+Guess you don't like me work, since I just found out you're not PAYIN'! Up yours, you bloody cheapskate! I'm done with ya.
+
+26880:
+Can't see a bloody thing.
+
+27360:
+Pissin' away me time for nuthin'.
+
+27840:
+A friendly bloke. 'Course I'll rough 'em up if need be.
+
+28320:
+Keep your eyeballs open. We know we got unfriendlies.
+
+28800:
+Stay awake! We ain't plugged 'em all.
+
+29280:
+Bloody right! Now we be talkin'.
+
+30240:
+Hey, there be the bloody kid!
+
+30720:
+Aye, it's your war, pal. I did me duty for ya.
+
+31200:
+Not so daft, are you now. Buggers are all dead.
+
+31680:
+Looks like someone copped some 'o this. Not all 'ere.
+
+32160:
+Bet she's a born Brit. I can tell, right? You see, it's the attitude that gives 'em away. You ask me, aye, you ask anyone, there's no other way to resolve that there.
+
+32640:
+Bollix!
+
+33120:
+Right! What teamwork's all about. An' here I am, ready to take on the world. Think I might even get meself a new tattoo an' put all your names 'round it. Could put it right here on me... well, you know.
+
+33600:
+Ah, the unfriendlies, they run off. Bunch a bullers.
+
+34080:
+Got to get me a few winks. Right now.
+
+34560:
+Right. Wakey-wakey. Don't worry. I remember what I was doing.
+
+35040:
+Deal me in!
+
+35520:
+Piece of bloody junk this is, I tell ya.
+
+36000:
+Right. Stay clear. Looks like we got a trap here.
+
+36480:
+Hmm. Ground looks awfully queer to me...
+
+36960:
+You poofs! I'm drownin' 'ere!
+
+37440:
+Made the trek, but I ain't gonna just piss me time away standing 'ere.
+

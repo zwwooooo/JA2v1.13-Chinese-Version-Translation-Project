@@ -1,0 +1,51 @@
+0:
+Yes...
+
+480:
+Good to see you.
+
+960:
+I cannot be of more help.
+
+1440:
+Me, I am guard. It is what I do best.
+
+1920:
+I do not want it.
+
+2400:
+I do not know.
+
+2880:
+Yelling will change nothing. I know nothing...
+
+3360:
+I stay with Miguel. He must decide.
+
+3840:
+I bleed... Hurts much.
+
+4320:
+I do not have time.
+
+4800:
+Why have you brought them here? Have you lost your mind, woman? You bring death to all of us.
+
+5280:
+In respect of your husband, I take your word. We will go down. But if you make mistake, Fatima, you will die with them.
+
+5760:
+I would like this. I can learn much.
+
+6240:
+Fatima say they are here to help us. She say she have proof, Carlos.
+
+6720:
+You will pay for your mistake with your life!
+
+7200:
+You have impressed Miguel. He speaks highly of you.
+
+7680:
+I like money.
+

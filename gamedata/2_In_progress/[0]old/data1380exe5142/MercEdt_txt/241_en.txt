@@ -1,0 +1,245 @@
+0:
+This is gonna be easy! The dimwit doesn't see me!
+
+480:
+Found a target!
+
+960:
+I've got trouble here!
+
+1440:
+Found a target!
+
+1920:
+Found a target!
+
+2400:
+Damn!
+
+2880:
+Got to stay cautious.
+
+3360:
+Damn!
+
+3840:
+I never wear undergarments on the battlefield. It keeps me cautious!
+
+4320:
+Got to stay cautious. Don't want to mess it up now!
+
+4800:
+I'm having some troubles!
+
+5280:
+There's something here.
+
+5760:
+There's something here.
+
+6240:
+My gun is out of ammo!
+
+6720:
+I think I'm in serious trouble! I can't feel my feet...
+
+9120:
+What a time for my gun to jam!
+
+9600:
+Got lead flying in my direction!
+
+10080:
+I have blood dripping down my leg.
+
+10560:
+That was a close call...
+
+11040:
+I should wait for a better opportunity.
+
+11520:
+I have blood dripping down my leg.
+
+12000:
+The conditions weren't ideal
+
+12480:
+If I keep up this pace, I'm going to pass out.
+
+12960:
+That's the way it's done!
+
+13440:
+That's the way it's done!
+
+15360:
+That's the way it's done!
+
+15840:
+Violence... It's just not for everyone.
+
+16320:
+DAMN!
+
+16800:
+Everything's done. I'm on the clock!
+
+17280:
+It's going to hurt me to do it...
+
+17760:
+That's the way it's done!
+
+18240:
+That's the way it's done!
+
+19200:
+Is it true that your team is selling cookies?
+
+19680:
+You're a mercenary's dream. Low risk and a full day's pay!
+
+20160:
+Are you waiting for reinforcements?
+
+20640:
+This thing isn't even working!
+
+22080:
+It's been a pleasure working for you. More of a pleasure than you'll ever know.
+
+22560:
+Just what the hell are you looking for?
+
+23040:
+Just what the hell are you looking for?
+
+25920:
+Time is working against us.
+
+26400:
+I've got trouble here!
+
+27360:
+This type of stuff ain't exactly my strong point.
+
+28320:
+I wouldn't be shocked if there were mines around here.
+
+28800:
+Maybe they got scared and left.
+
+29760:
+Be sure to write!
+
+30720:
+Well... You're hanging tough! Make 'em eat their words this time around.
+
+31200:
+You can kiss those guys goodbye!
+
+32160:
+That's the way it's done!
+
+32640:
+I've got trouble here!
+
+33120:
+Money's nice, but coming out on top is even better!
+
+33600:
+Maybe they got scared and left.
+
+34080:
+If I keep up this pace, I'm going to pass out.
+
+34560:
+What a loudmouth... I'm glad I'm working for you!
+
+35040:
+You're in the ballpark, but you're in the cheap seats!
+
+35520:
+This thing isn't even working!
+
+36000:
+It's a boobytrap... Not much of one... I should be able to disarm it.
+
+36480:
+It's a boobytrap... Not much of one... I should be able to disarm it.
+
+36960:
+Swallowing too much water... Can't keep my head up...
+
+37440:
+This mission's behind us.
+
+38400:
+Poor planning, bad luck, whatever... You'd better start making some headway if you want me to consider joining your team.
+
+38880:
+It's too risky working for you. Call me if you learn not to take so many chances with our lives!
+
+39360:
+Maybe...when I first started, I might have put up with the insanity of revolving mercenaries, but not anymore! I quit!
+
+39840:
+And you can keep your money tucked safely in your pocket, because that's my final word!
+
+40320:
+If you're ever in need of a competent explosives expert, you know where to find me.
+
+40800:
+I'm not interested! With your personnel practices, you should get a revolving door installed in your office!
+
+42720:
+Time is working against us.
+
+43200:
+As promised... You were outbid!
+
+43680:
+You're the type of commander I might even enjoy working for!
+
+45600:
+I can't be part of this losing effort any longer!
+
+46080:
+For the umpteenth time...
+
+46560:
+I don't accept credit cards, IOU's, checks, or camels... It's cash! And you don't have it.
+
+47040:
+I just need time to work out some details.
+
+47520:
+I can't be part of this losing effort any longer!
+
+50880:
+For the umpteenth time...
+
+51360:
+I don't accept credit cards, IOU's, checks, or camels... It's cash! And you don't have it.
+
+51840:
+If you're shopping for an explosive expert, feel free to check out the competition. I have no family history of psychiatric illness or sheet metal in my head.
+
+52320:
+I don't take unnecessary risks. You'll have to run the operation with hardly any casualties if you want me to go.
+
+52800:
+You might want to stay away from the low-end guys. They only end-up shooting each other.
+
+53280:
+I don't accept credit cards, IOU's, checks, or camels...
+
+53760:
+Show some decency and leave me alone!
+
+55200:
+I'm scheduled to do a fireworks' show tonight in Libya.
+
+55680:
+Now what are you going to do for an explosive specialist? Hire one of those basket cases?

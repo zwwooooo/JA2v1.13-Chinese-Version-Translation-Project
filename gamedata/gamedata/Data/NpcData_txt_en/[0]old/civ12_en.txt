@@ -1,0 +1,45 @@
+0:
+You can't be worse than anything we're used to.
+
+320:
+I never thought I'd see you here. Not in my town.
+
+640:
+Be fair to us, and we'll be fair to you.
+
+960:
+I hope the whole country will be liberated someday.
+
+1280:
+You offer hope.
+
+1600:
+The town welcomes your presence.
+
+1920:
+You are a hero. May the Gods guide you to victory.
+
+2240:
+We pray this is a start to a better tomorrow.
+
+2560:
+The town rejoices in your victory.
+
+2880:
+Things can only get better for us now.
+
+3200:
+We have waited for this day most of our lives.
+
+3520:
+You are our saviors.
+
+3840:
+I do not know who sent you, but I thank them.
+
+4160:
+It is a great day for our town.
+
+4480:
+It is hard to believe. You are like a gift.
+

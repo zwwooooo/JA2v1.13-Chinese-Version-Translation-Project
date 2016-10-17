@@ -1,0 +1,114 @@
+0:
+Doctor Vincent Beaumont. Pleasure to meet ya.
+
+480:
+What can I do to help ya?
+
+960:
+Until you guys came down here, I had given up on this country. The only reason I'm still here is I couldn't turn my back on its people.
+
+1440:
+You guys are nothing short of heroes.
+
+1920:
+You keep it.
+
+2400:
+You wouldn't believe what Deidranna's put these people through. Most of them are probably far too scared to tell ya. They desperately want to believe in ya.
+
+2880:
+Why the attitude? There's no reason for it.
+
+3360:
+I have my concerns about you. It's nothin' uh, personal, of course.
+
+3840:
+Ughhh - I'm hemorrhaging... Uhh - I'm weak...
+
+4320:
+Don't mean to brush ya off, but I have to.
+
+4800:
+It will help keep things going around here.
+
+5280:
+Just the one wounded? That shouldn't pose any problems.
+
+5760:
+Looks like I have a full slate ahead of me today.
+
+6240:
+Though I hate to do this, I will have to charge you for any medical services rendered. Otherwise, we couldn't keep this place open.
+
+6720:
+I'll cut you a little bit of a break on the price. I wouldn't feel right otherwise.
+
+7200:
+Since you guys are for real, I'll only charge you for the cost of the supplies.
+
+7680:
+You guys are out there putting it on the line for us. The least we can do is give ya a freebie this time.
+
+8160:
+Unfortunately, I'm going to have to charge you for use of our services.
+
+8640:
+Ya got to promise me you won't tell anyone... I really appreciate what you're doing, so I'm going to play with some numbers and bury the costs of this treatment somewhere. It's hush-hush, and I can't do it too often.
+
+9120:
+Tell them I'm on my way.
+
+9600:
+Good. Shouldn't be too long...
+
+10080:
+All right! It could be a while, just leave it in my capable hands.
+
+10560:
+I wish I was in a position where I could do something better on the cost, but I can't. Hope you'll reconsider.
+
+11040:
+Don't take this wrong. Working with you was an adventure, but I sort of got it out of my system. I think the best place for me is right here.
+
+11520:
+I'll give ya a decent price on my services, but I will have to include the money you still owe me.
+
+12000:
+Before we get into any heavy conversation, I'd feel a lot better if you took care of the gunfire. I'm not crazy about the hospital being in the middle of a combat zone.
+
+12480:
+I've actually been giving it some thought. I wouldn't mind getting a firsthand piece of some of those thugs the Queen calls her army. I could be the team doctor, you know, ready to treat, right on the spot.
+
+12960:
+No more dragging people here for treatment... I do have some experience with field medicine, and I know a lot of the townsfolk in the countryside. It could help having me around...
+
+13440:
+Of course, the risk would be higher. I'd be exposing myself to all kinds of possible dangers. But, I'd be willing to do it for, say, 500 dollars a day...
+
+13920:
+Settled, let's get to it.
+
+14400:
+Well... it was just a thought.
+
+14880:
+I'm pretty sure we've still got the necessary supplies... The hospital has an inventory problem. The few supplies we do manage to get our hands on, some employee keeps stealing.
+
+15360:
+Not today, I'm afraid. Someone's been ripping our stuff off. I couldn't find a bandage if your life depended on it.
+
+15840:
+Thanks, but no thanks. Using medical supplies from a stranger would have malpractice written all over it.
+
+16320:
+You sick son-of-a-bitch.
+
+16800:
+Your efforts seem to be paying off. Sometimes I wish I was still part of it. But what's important is you're getting the job done.
+
+17280:
+Don't mean to be a stickler about this, but I'll need the cash.
+
+17760:
+The entire amount!
+

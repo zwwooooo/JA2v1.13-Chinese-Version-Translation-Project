@@ -1,0 +1,285 @@
+0:
+I've been spotted.
+
+480:
+I could get this goon by surprise.
+
+960:
+Have your last smoke soldier.
+
+1440:
+I've been spotted.
+
+1920:
+It's not possible.
+
+2400:
+There's something odd about it.
+
+2880:
+Close call.
+
+3360:
+I gotta find a crapper.
+
+3840:
+I'm a little flustered.
+
+4320:
+We're gonna have to do it again.
+
+4800:
+Lost cause!
+
+5280:
+I found something here.
+
+5760:
+I found something here.
+
+6240:
+Need more ammo! Quick!
+
+6720:
+Can't get up... I've got... multiple injuries...  I need medical attention... now!
+
+7200:
+Anita's dead! She was the first woman I truly loved. I'm gonna kill the person responsible!
+
+9120:
+My firearm is on the fritz... It won't shoot.
+
+9600:
+I'm under fire over here!
+
+10080:
+I'm punched...
+
+10560:
+Close call.
+
+11040:
+It's not possible.
+
+11520:
+I'll need to apply compresses or I'm gonna bleed all over the place.
+
+12000:
+I don't feel rested enough.
+
+12480:
+I'm punched...
+
+12960:
+You messed with the wrong broad buckaroo!
+
+13440:
+You messed with the wrong broad buckaroo!
+
+13920:
+Hurl won't be taking up any more of my time, the peculent pain in the ass.
+
+15360:
+I could kill him twice.
+
+15840:
+I gotta find a crapper.
+
+16800:
+Let's get down to work.
+
+17280:
+You're outta lunch.
+
+17760:
+One of us has got to go.
+
+18240:
+I've been doing this since I was in school.
+
+18720:
+That fast-talking shrimp!
+
+19200:
+We came up short soldier.
+
+19680:
+If you don't think a woman should be allowed in combat, I'd be more than willing to show you how you hadn't thought everything out.
+
+20160:
+Close call.
+
+20640:
+Forget it soldier!
+
+21120:
+I'm not much into this 'buy my silence' stuff. Especially not when I'm being demeaned.
+
+21600:
+Who needs men, right?
+
+22080:
+It won't mean anything when you're dead.
+
+22560:
+You remind me of patriotic puss.
+
+23040:
+I find it hard to believe you've done this before.
+
+23520:
+That guy looks a lot like Hurl... it is Cutter!
+
+24480:
+I'm the one who talked Anita into joining A.I.M.
+
+25920:
+There are other inquiries soldier.
+
+26400:
+Doing in one of our own is a little unorthodox, but...
+
+26880:
+Get your unskilled hands off me!
+
+27360:
+I have some experience at it, but I'm by no means an expert.
+
+27840:
+Protect her from any unnecessary danger.
+
+28320:
+I've run into some goons.
+
+28800:
+We're gonna have to do it again.
+
+29280:
+It looks like we got the best of them on this arrangement.
+
+30240:
+I wish I could kill him.
+
+30720:
+You're ordering me to kill a sister?
+
+31200:
+They never stood a chance.
+
+31680:
+I'm not comfortable with this.
+
+32160:
+And you can forget about using any of your underhanded methods to settle this matter soldier.
+
+32640:
+Puss!
+
+33120:
+You're a competent commander soldier. It was good to serve for you.
+
+33600:
+I don't believe we'll be seeing any more of those animals.
+
+35040:
+A cause I believe in.
+
+35520:
+I'm not having any luck getting this thing to work.
+
+36000:
+There's something odd about it.
+
+36480:
+The ground looks dangerous around here.
+
+36960:
+I'm swallowing water... I won't make it!
+
+37440:
+You owe us soldier. We came through for you.
+
+38400:
+You will have to show more commitment to the people you hire if you ever want me to consider working for you.
+
+38880:
+You're allowing the enemy to take all the glory. I don't want my name assocciated with your lost cause.
+
+39360:
+I thought I was clear when I left. I won't be going back!
+
+39840:
+I've been working too hard. I'm gonna have to pass on your offer.
+
+40320:
+My apologies for the inconvenience soldier. If your the only one who asks you can consider me in soldier. Let's get down to work.
+
+40800:
+Just remember, when you need me I won't be back.
+
+41280:
+I'm not Cutter's personal physician. If you want that candy butt on your team, you can't have me.
+
+42720:
+It won't be long before out of time.
+
+43200:
+OK, I'll give you a short leash.
+
+43680:
+Consider me in.
+
+44160:
+I accept your offer. It will allow me to keep an eye on Anita and protect her from any unnecessary danger.
+
+45600:
+You have absolutely no commitment to the team or any of it's members. I can't stay here any longer.
+
+46080:
+Like I've already said...
+
+46560:
+You can't even dream of paying me soldier.
+
+47040:
+It was one of my better assingments soldier.
+
+47520:
+I'm leaving before my good name becomes associated with this lost cause.
+
+48000:
+One of us has got to go. I can't spend my days dispensing medical advice to that gomer Hurl Cutter. I'm not his personal physician.
+
+49440:
+I have a relationship to consider here soldier.
+
+50880:
+Like I've already said...
+
+51360:
+You were too restrained in your offering, I... I won't be able to help you.
+
+51840:
+Let's put it behind us and get down to work.
+
+52320:
+I've been doing this since I was in school and though I... I hide my age well, I assure you I've got quite a few years of experience.
+
+52800:
+We're no further ahead.
+
+53280:
+You're fighting for a cause I believe in.
+
+53760:
+Forget it soldier. You're to stingy to converse with.
+
+54240:
+I'm not Cutter's personal physician. Sometimes I wish I could kill him twice.
+
+55200:
+It's time to head for home.
+
+55680:
+Open the piggy bank soldier.
+

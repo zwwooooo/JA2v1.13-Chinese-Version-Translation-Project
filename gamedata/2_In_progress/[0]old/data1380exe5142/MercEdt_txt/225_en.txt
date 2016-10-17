@@ -1,0 +1,167 @@
+0:
+I've located one! Haven't been noticed.
+
+480:
+There's one!
+
+960:
+I might need help here!
+
+1440:
+There's one!
+
+1920:
+There's one!
+
+2400:
+I've located one! Haven't been noticed.
+
+2880:
+Humm... Smells of porfume!
+
+3360:
+I've located one! Haven't been noticed.
+
+3840:
+The soil seems awfully fresh around here!
+
+4320:
+I wish that hadn't have happened!
+
+4800:
+I might need help here!
+
+5280:
+I found something over here.
+
+5760:
+I found something over here.
+
+6240:
+Urgent! Urgent... I need ammo!
+
+6720:
+Losin' lots of blood... I can't get up!
+
+9120:
+I'm in trouble... My gun's not working properly!
+
+9600:
+I've been fired at!
+
+10080:
+I seem to be bleeding!
+
+10560:
+Must be my lucky day.
+
+11040:
+I don't have much of a view.
+
+11520:
+I seem to be bleeding!
+
+12000:
+I feel faint...
+
+12480:
+I feel faint...
+
+12960:
+Don't take it personal...
+
+13440:
+I did my best!
+
+15360:
+I did my best!
+
+15840:
+This is the scariest time. The anticipation can be overwhelming.
+
+16320:
+Can't find my way!
+
+16800:
+I'm proud to be working for you.
+
+17280:
+That makes no sense.
+
+18240:
+I did my best!
+
+19200:
+Was it something I did? Something I said? I thought everything was going fine!
+
+19680:
+Maybe you should just surrender?
+
+20160:
+I've gotta get out of here!
+
+20640:
+It must be broken... Because I can't get it to work.
+
+21600:
+What planet are you from?
+
+22080:
+Sort of reminds me of high school!
+
+22560:
+Why me? Are you doing this because I'm a women?
+
+23040:
+Why me? Are you doing this because I'm a women?
+
+25920:
+I expect to be shown some respect!
+
+26400:
+Running into problems!!!
+
+27360:
+I try to help any way I can.
+
+28320:
+Looks like we lucked out and pulled an easy one!
+
+28800:
+I can't belive...
+
+29760:
+Hope you're paying your mercs well!
+
+31200:
+That should be one less group to worry about!
+
+32160:
+I did my best!
+
+32640:
+Running into problems!!!
+
+33120:
+It was hairy, but we did it.
+
+33600:
+I've had tougher vacations!
+
+35040:
+This one can be ours! Let's keep our heads.
+
+35520:
+It must be broken... Because I can't get it to work.
+
+36000:
+There's something about it that makes me leery.
+
+36480:
+There's something about it that makes me leery.
+
+36960:
+I won't be able to tread water for much... Need help right away!
+
+37440:
+We came through!

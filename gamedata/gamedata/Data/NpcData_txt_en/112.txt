@@ -1,0 +1,81 @@
+0:
+Cheerio. I don't recall we've met. Well, welcome to ma bar then. It's good to have you here.
+
+480:
+Good to see you again, old chap.
+
+960:
+Got a few regulars, here, I do. Mostly blokes getting out of the sun. Bloody hot here, I find.
+
+1440:
+Can't complain about business, but lately, you know, it's uh, it's mostly people coming in to use the loo.
+
+1920:
+Very kind of you, chap, but eh, I've no use for that.
+
+2400:
+It's a right good life, if you ask me. Never thought me a bartender, but I fancy it now. Pace is slow, blokes are kind, and every so often a, uh, pretty lady comes in, eh. Right proper, it is.
+
+2880:
+Maybe I'm wrong, chap, but you'll pardon me if I am, but I reckon, uh, you could use a stiff pint. Feeling a little tense, I gather.
+
+3360:
+No thanks. I wouldn't know what to do with a gun.
+
+3840:
+Need a doctor...
+
+4320:
+I'll leave you be, chap.
+
+4800:
+I do accept tips, but I'd rather you order first.
+
+5280:
+Got some choice bottles, eh. What's your fancy?
+
+5760:
+No hurry, chap. Take your time.
+
+6240:
+Blimey this heat, eh! Cold drink will do you good.
+
+6720:
+Sorry, chap. It's cash only. With all the wankers 'round here, I'd have me a bar full of knicknacks by now.
+
+7200:
+Not in the buying business, friend. Sorry.
+
+7680:
+Hmm, might be worth something... but not to me.
+
+8640:
+Nothing personal you understand, but, eh, it's a cash-only bar.
+
+10560:
+You're covered, chap.
+
+11040:
+Cheers, and thank you.
+
+11520:
+Wet your whistle, chap. But let me know when you'd like another.
+
+12000:
+When you're thirsty, just call.
+
+12480:
+You might be wanting this.
+
+13440:
+Bloody buller bastard!
+
+13920:
+Thanks, chap... Much appreciated.
+
+14400:
+Bloody big commotion... I will not be tending bar 'til it quiets down.
+
+14880:
+Sorry, chap, but the locals would stop comin' in if they knew I was serving you.
+

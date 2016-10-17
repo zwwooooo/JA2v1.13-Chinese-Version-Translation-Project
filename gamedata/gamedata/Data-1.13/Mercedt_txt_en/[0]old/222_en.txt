@@ -1,0 +1,204 @@
+0:
+Got a reptile!
+
+480:
+I could kill this reptile without being seen.
+
+960:
+Encountered some renegades!
+
+1440:
+Got a reptile!
+
+1920:
+Got a reptile!
+
+2400:
+Got a reptile!
+
+2880:
+I hear a green platoon...
+
+3360:
+Got a reptile!
+
+3840:
+It's gonna be dangerous!
+
+4320:
+It's gonna be dangerous!
+
+4800:
+C'mon!!!
+
+5280:
+Something here!
+
+5760:
+Something here!
+
+6240:
+Get me ammo now!
+
+6720:
+Ain't gonna make it! Blood everywhere... Make sure my kids don't get a damn thing!
+
+7200:
+Sorry Sammy... Old Sammy's been knocked off, huh. Well... We better win this thing in his honor!
+
+9120:
+Jammed gun!!!
+
+9600:
+You're just a kid, aren't ya?
+
+10080:
+Bleeding here!
+
+10560:
+It can happen to anyone.
+
+11040:
+I could save a bullet and wait for a better chance!
+
+11520:
+Oughhhaa...
+
+12000:
+I can't go... I got a kidney stone!
+
+12480:
+When do you get to rest in this man's army?
+
+12960:
+Platoon annihilated!
+
+13440:
+Looks like it's my turn to pay!
+
+13920:
+Blooming dogfish... You're worse than Larry!
+
+14400:
+What do you think you are? Family?
+
+14880:
+Blooming dogfish... You're worse than Larry!
+
+15360:
+Colonel Roachburn is back in business.
+
+15840:
+It's looking real good.
+
+16320:
+I'm lost!
+
+16800:
+I should have done this years ago!
+
+17280:
+Orders like that ain't confidence builders!
+
+17760:
+I'd have made love with your mother, but I didn't have the exact change.
+
+18240:
+I'm the only Roachburn for the job.
+
+19200:
+What did I do wrong?
+
+19680:
+After I kill ya, lightweight, I'm gonna mount your head just above the fireplace. You'll like it there. You'll have a great view of the lake.
+
+20160:
+Now would be an excellent time to raise the pay out on your life insurance.
+
+20640:
+They don't make these things like they used to.
+
+21120:
+That's gotta be rough on the pacemaker.
+
+21600:
+Just don't compare me to my kids... Heck, I don't even know if they are my kids. Their mother was a tramp. She was raised in a trailer. A tent trailer!
+
+22080:
+It feels great to be back! I never should have retired.
+
+22560:
+What the hell are you doing?
+
+23040:
+The last time you did that I woke up with a severe rash!
+
+23520:
+I can't stand my kids! They're always looking for money or causing me grief. They're just like their spoiled little mother!
+
+24000:
+I can't stand being around my kids. They all drive me nuts! Do something about it, or I will.
+
+24480:
+Sam and I go back at least thirty years.
+
+26400:
+Looks like it's my turn to pay!
+
+27360:
+Blooming dogfish... 
+
+28320:
+Whoever attempted to boobytrap this area did a pitiful job of covering their tracks!
+
+28800:
+Colonel Roachburn is back in business.
+
+29760:
+Chew on that, lightweight!
+
+30720:
+I tell you! You run into family in the strangest places.
+
+31200:
+Not too shabby for a rusty, old man!
+
+31680:
+And if they keep paying through their nose for new equipment, they're going be looking for a new line of work.
+
+32160:
+I'm the only Roachburn for the job.
+
+32640:
+C'mon!!!
+
+33120:
+Ah... Just like the old days... Moments worth savoring!
+
+33600:
+Looks like it's my turn to pay!
+
+34080:
+God... I hope it passes soon!
+
+34560:
+Colonel Roachburn is back in business.
+
+35040:
+I man has gotta have his pride, you know.
+
+35520:
+They don't make these things like they used to.
+
+36000:
+It may look peaceful, but it won't last!
+
+36480:
+It may look peaceful, but it won't last!
+
+36960:
+I'm losing strength... Feel weak... I can't swim anymore...
+
+37440:
+It would make my day...
+

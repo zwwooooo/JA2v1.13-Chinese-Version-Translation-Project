@@ -1,0 +1,309 @@
+0:
+Rivals.
+
+480:
+Let the games begin.
+
+960:
+Gotta turn things around.
+
+1440:
+Bug!
+
+1920:
+Blowing those things away is gonna be a whole lot of fun. Hahhaha.
+
+2400:
+Those bugs sure do get around.
+
+2880:
+Sure I heard a sound. A bad sound!
+
+3360:
+Whoa! Ain't nothin' I know that smells quite like that!
+
+3840:
+Starting to smell a rumble.
+
+4320:
+Wouldn't mind killing me another bug right about now.
+
+4800:
+Hahhaha. These bugs are going to get it.
+
+5280:
+What's that?
+
+5760:
+Is it worth it?
+
+6240:
+Bullets be handy, man.
+
+6720:
+Oh, man... I'm toast.
+
+7200:
+Fox bought it? That's too bad. She was a hot chick.
+
+8160:
+They got Bull? Man... musta used an elephant gun.
+
+8640:
+Clued out, man.
+
+9120:
+Misfire.
+
+9600:
+They got my number.
+
+10080:
+I've been beaten by chicks worse than that.
+
+10560:
+Hahaha... You'll have to do better than that.
+
+11040:
+Ain't looking easy, Scooter.
+
+11520:
+Sight of my own blood makes me nauseous, man.
+
+12000:
+I'm zapped. Need to crash.
+
+12480:
+Ehhho - Man... I gotta cut back on the beer and cigarettes.
+
+12960:
+Suck my exhaust!
+
+13440:
+Hahaha... Wiped out.
+
+13920:
+Biff's driving me nuts! Maybe I could just rip out his vocal cords. Course, I'd have to catch him first.
+
+15360:
+There... that wasn't so tough.
+
+15840:
+Not much chance of picking up the pieces there.
+
+16320:
+I ain't crazy about tight places, man. This place is givin' me the sweats.
+
+16800:
+I'm done here.
+
+17280:
+Forget it, Scooter!
+
+17760:
+You're a carcass now, sweetheart.
+
+18240:
+Hahaha... grandma roach is cooked.
+
+18720:
+What a doorknob.
+
+19200:
+I'm really not into this...
+
+19680:
+Dealing with idiots down here.
+
+20160:
+Sky bandits!
+
+20640:
+The stuff I'm using should be in a museum.
+
+21600:
+Piss me off! Some people just think they're better than others. And they're usually wearing suits.
+
+22080:
+I'm catching on.
+
+22560:
+That ain't the way I'd go about it.
+
+23040:
+I won't tell anyone, Scooter.
+
+23520:
+Ah, man. What were you thinkin' when you brought that chicken boy, Biff, down here. His whining gives me migraines.
+
+24480:
+Talent and beauty. Gotta love it.
+
+25440:
+My man Bull!
+
+25920:
+Ahhh... not sure what I'm doing yet. We'll talk again.
+
+26400:
+All right! The chance to kill Mike!
+
+26880:
+Flamin' eyeballs! God damn thing's blinded me.
+
+27360:
+This ain't gonna happen.
+
+27840:
+Someone with a head on their shoulders.
+
+28320:
+There's rivals hanging out in the area.
+
+28800:
+We haven't eliminated the other club yet. Nobody get stupid!
+
+29280:
+Don't mess with the vest, Scooter!
+
+29760:
+It's you and me, baby.
+
+30240:
+There's the kid. Gonna drag him back to his mother by his short hairs.
+
+30720:
+Rebel force! Right on, Scooter. Let me tell ya, I'm a rebel from way back. Your business is my business, Mike. I'm your man.
+
+31200:
+Last puke wasted. I don't even know why they show up.
+
+31680:
+Hey! Some of the parts is missing here, Scooter.
+
+32160:
+You know, had I had the time, I woulda taught the chick a thing or two, maybe we coulda salvaged her. But something had to be done and done quick for the sake of the kids.
+
+32640:
+Seatcovers!
+
+33120:
+This is the life, Scooter. Just kick back, grab a brew and take it all in. We kicked some nasty ass! Cause ya put a nasty group of guys together. Catch ya on life's highway, man.
+
+33600:
+They took off, man...
+
+34080:
+Gonna do a short coma, man.
+
+34560:
+All right. I'm back standing vertical. Gonna finish up what I was doing.
+
+35040:
+I'm in on that, Scooter.
+
+35520:
+What I'm carrying here is piece of garbage. And I can't get nothing done with a piece of garbage.
+
+36000:
+Sit tight. This thing's loaded and ready to blow.
+
+36480:
+Hey, watch your step. Enemy's been on their knees playing around.
+
+36960:
+Scoot...errr... I can't keep... my head...longer...
+
+37440:
+Road trip's over, man.
+
+38400:
+We got a problem, Scooter. From what I hear, you haven't got a clue what you're doing.
+
+38880:
+I could flip a coin as to whether I come back from Arulco alive. I'm looking for better odds than that, Scooter.
+
+39360:
+Could use the cash, but I gotta rally, man.
+
+39840:
+Headed home, Scooter. Made other plans.
+
+40320:
+Nails. Talk to me, I'll listen to ya later.
+
+40800:
+Keep my name in mind, Scooter.
+
+41280:
+If I spend another minute with Biff, I'll kill him. It's that simple. So out of respect for Speck, I'm gonna pass on your offer.
+
+42720:
+We're coming up on the end of this contract, Scooter. What's the crystal ball telling ya?
+
+43200:
+Yeah... I could get into it for a little longer.
+
+43680:
+We got a deal. I'd shake your hand but these contraptions ain't quite at that point yet.
+
+44160:
+Hey, the Fox is in Arulco, I'm in Arulco. You can bank on that.
+
+45120:
+With Bull signed on, I'm signed on. He's kick-ass! I like that.
+
+45600:
+Scooter, I'm gonna go home, take something strong, crash on the couch with the TV on, and forget I was ever here.
+
+46080:
+Concentrate, Scooter. I was telling ya...
+
+46560:
+Your bank is making like they don't know ya, Scooter. Consider everything, ...off.
+
+47040:
+Ya needed a specialist, huh, Scooter. Someone to get the job done and get out.
+
+47520:
+I could flip a coin as to whether I come back from Arulco alive. Looking for better odds than that, Scooter.
+
+48000:
+If I spend another minute with Biff, I'll kill him. It's that simple. So out of respect for Speck, I'm gonna pass on your offer.
+
+49440:
+Hey, the Fox is in Arulco, I'm in Arulco. You can bank on that.
+
+50400:
+With Bull signed on, I'm signed on. He's kick-ass! I like that.
+
+50880:
+Concentrate, Scooter. I was telling ya...
+
+51360:
+Your bank is making like they don't know ya, Scooter. Consider everything, ...off.
+
+51840:
+Nails.
+
+52320:
+Not too many people know this, but I can open just about anything you can lock.
+
+52800:
+I got shit to do...
+
+53280:
+What we talking, Scooter?
+
+53760:
+The silence is killing me, Scooter. I gotta run.
+
+54240:
+Okay, I'll work with Biff this time but keep in mind that I hate his guts. The less I see him the better. He irritates the crap out of me.
+
+55200:
+It's almost time for me to split, Scooter.
+
+55680:
+When the tough get going, the price goes up. I gotta new bottom line, Scooter.
+

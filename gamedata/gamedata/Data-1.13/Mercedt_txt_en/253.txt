@@ -1,0 +1,204 @@
+0:
+Perp in range.
+
+480:
+I caught a perp off guard.
+
+960:
+Bunch of punks!
+
+1440:
+Perp in range.
+
+1920:
+I caught a perp off guard.
+
+2400:
+Looks like you typical homicide/body dump.
+
+2880:
+What was that?
+
+3360:
+Let's stay on our toes.
+
+3840:
+Let's stay on our toes.
+
+4320:
+What was that? A bad joke?
+
+4800:
+I could really use some help.
+
+5280:
+Something here.
+
+5760:
+Something here.
+
+6240:
+Need slugs! The sooner, the better!
+
+6720:
+I'm a sitting duck... I don't think I can get up. I'm bleeding everywhere.
+
+7200:
+The almighty Mike is dead!?
+
+9120:
+This is extremely dangerous! I can't get this gun to shoot!
+
+9600:
+How big a target do you want?
+
+10080:
+Don't worry about me.
+
+10560:
+That will keep you awake!
+
+11040:
+I can't take the perp down from here.
+
+11520:
+I'll need the services of a medic.
+
+12000:
+It's almost the end of the shift.
+
+12480:
+I gotta drop a couple of pounds.
+
+12960:
+How fast do you gotta be to shoot people?
+
+13440:
+There's still plenty of leftovers.
+
+15360:
+You axed Mike! You got your name in the history books, but in this case it's not really a good thing, is it?
+
+15840:
+As far as I'm concerned, there's too many dead down there already.
+
+16320:
+I'm having a bad day.
+
+16800:
+Now, where did I put those damn Twinkies?
+
+17280:
+You just don't know how to play ball!
+
+17760:
+Thank you. It brought back fond memories of all the great years I spent in vice.
+
+18240:
+Danger may be my business, but since I've been here I'm no longer comfortable with dying as the bottom line. I have to get out!
+
+18720:
+You gotta lot of nerve, punk!
+
+19200:
+I'm a dedicated mercenary looking for a dedicated employer.
+
+19680:
+This is war! You don't get a phone call.
+
+20160:
+Are you kidding?
+
+20640:
+Maybe it's me, but I can't get it to work.
+
+21120:
+You know, I would really prefer to be called Herman, or, uh, sergeant detective Regents... Not that there's anything you can do about it.
+
+21600:
+Hey! It's all muscle!
+
+22080:
+This calls for a celebration. What do you say we get some eats?
+
+22560:
+Have you been bought? Do you have cash problems? Or did you pop a fuse?
+
+23040:
+Case closed, the mission has become impossible.
+
+24480:
+The opportunity to work with someone of Mike's caliber doesn't happen very often.
+
+25920:
+It's a good thing I have my policeman's brotherhood pension to supplement my income. There seems to be an abundance of chizzlers like you out there.
+
+26400:
+Ya know... If I killed Mike, nobody would ever call me slow again.
+
+26880:
+I'm stunned!
+
+27360:
+I really tried to do this.
+
+27840:
+Nice talking to you, but I've got better deal elsewhere.
+
+28320:
+Perp in vicinity!
+
+28800:
+The sooner we get it, the sooner we get to chow down!
+
+29760:
+This is where all that muscle comes in handy.
+
+30240:
+Looks suspicious to me.
+
+30720:
+I pulled my weight. I have no regrets!
+
+31200:
+That's the end of that corps!
+
+31680:
+If I were still working the beat, I'd take the old phone book to that character and this would be the last scheme he ever pulled.
+
+32160:
+This calls for a celebration. What do you say we get some eats?
+
+32640:
+Are you kidding?
+
+33120:
+I've never made this much money in my life! I'm going back to Chicago to celebrate!
+
+33600:
+Come on guys! Stop running!
+
+34080:
+It might take me a while, but I can catch up.
+
+34560:
+What's for dinner?
+
+35040:
+Weren't you paying attention?
+
+35520:
+Maybe it's me, but I can't get it to work.
+
+36000:
+Whoever put it on, didn't want it to be opened.
+
+36480:
+Looks like somebody's been shoveling dirt.
+
+36960:
+I can't swim!
+
+37440:
+We got it!
+

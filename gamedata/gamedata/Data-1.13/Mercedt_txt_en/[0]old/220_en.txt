@@ -1,0 +1,191 @@
+0:
+Another customer!
+
+480:
+Where's my pepper spray?
+
+960:
+There's a line-up.
+
+1440:
+Shoot em!
+
+1920:
+I don't think so...
+
+2400:
+I don't think so...
+
+2880:
+There's a mad rush
+
+3360:
+I don't think so...
+
+3840:
+It looks like it could be trouble.
+
+4320:
+I don't think so...
+
+4800:
+Where's my pepper spray?
+
+5280:
+More stuff.
+
+5760:
+More stuff.
+
+6240:
+No Ammo! I need a resupply!
+
+6720:
+I'm going need serious medical attention if I'm going to live to collect my disability.
+
+7200:
+I'm gonna get the son-of-a-bitch who killed Reuban and send tiny parts of his body to every state in the continental U.S. of A. Postage due!
+
+9120:
+Gun's screwed!
+
+9600:
+He doesn't know who he's shooting at!
+
+10080:
+It doesn't look like the bleeding is going to stop.
+
+10560:
+I've seen more gunfire at the postal station.
+
+11040:
+Everyone always wants the impossible.
+
+11520:
+I don't get paid enough for this.
+
+12000:
+Either I take a short break now, or I'm lying down for a long one.
+
+12480:
+I pulled out my back...
+
+12960:
+Next!
+
+13440:
+Next!
+
+13920:
+I hate snitches! I had one of those Bud Hellar types down at the postal station. Second week on the job, he disappeared. The same thing's gonna happen to Bud!
+
+15360:
+I really don't care!
+
+15840:
+That's impressive!
+
+16320:
+Ah... To hell!
+
+16800:
+It's done... Hope you're happy.
+
+17280:
+I won't be able to make it. I can't be everywhere!
+
+17760:
+I really don't care!
+
+18240:
+I really don't care!
+
+18720:
+Your butt is mine, buster! You'd better pray we never cross paths.
+
+19200:
+I was promised carnage! Plenty of carnage! Someone's gonna have to answer for this!
+
+19680:
+I could take you and that ragamuffin band of paper-pushing, numb-butted, overpaid, insignificants all by myself!
+
+20160:
+Cut me some slack!
+
+20640:
+It was broken when I got it.
+
+22080:
+Ya... I guess I could make myself available.
+
+22560:
+This mission is in the toilet!
+
+23040:
+Once I'm through with you, they'll be able to bury you in a standard, number eight, Manila envelope!
+
+23520:
+It's that good-for-nothing, snitch, Bud Hellar! Wipe the brown off your nose, Hellar!
+
+24480:
+Reuban's probably the only person on the planet who I wouldn't enjoy killing. He's cheap labor. Our country was built by guys like him.
+
+25920:
+I'm having my coffee. I'll get back to you...when I'm finished.
+
+26400:
+Where's my pepper spray?
+
+27360:
+Nothing ever does what it's supposed to do.
+
+27840:
+Haven't I seen you in somebody else's magazine?
+
+28320:
+This one's too stupid to even know I'm here!
+
+28800:
+It looks like it could be trouble.
+
+29760:
+Next!
+
+31200:
+Personally, I think we should get a bonus when things go this well.
+
+32160:
+Next!
+
+32640:
+Where's my pepper spray?
+
+33120:
+We won't be seeing anybody wearing that color any more.
+
+33600:
+We won't be seeing anybody wearing that color any more.
+
+34080:
+Oh... What a life.
+
+34560:
+Ya... You got me. Just don't go making like you own me.
+
+35040:
+You can't trust the government.
+
+35520:
+It was broken when I got it.
+
+36000:
+Now we got to get it all the way back.
+
+36480:
+Now we got to get it all the way back.
+
+36960:
+I'm going under... It's a bitch there's nobody to take with me...
+
+37440:
+Keep your eyes on the clock. I don't do overtime.

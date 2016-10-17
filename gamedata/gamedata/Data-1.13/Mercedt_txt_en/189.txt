@@ -1,0 +1,213 @@
+0:
+Oh no! They sees me!
+
+480:
+Hello... Hello... Me sees da bad guy here. He no sees me!
+
+960:
+Hello... Hello... Mes got big trouble here!
+
+1440:
+Dis no be right!
+
+1920:
+You be cursed, man!
+
+2400:
+Hello... Hello. Oh, dis is very bad, man.
+
+2880:
+Who do dat?
+
+3360:
+Dat be strange.
+
+3840:
+This area very VERY dangerous, man!
+
+4320:
+Me got to gets out of here!
+
+4800:
+Hello... Hello... Mes got big trouble here!
+
+5280:
+Hello, me sees something!
+
+5760:
+Me be taking it, man.
+
+6240:
+Hello. Hello! Why me no get no bullets?
+
+6720:
+Help me! Me needs a doctor, a REAL doctor!
+
+7200:
+Oh man. They killed reverend Porter. God will makes them pay!
+
+8640:
+Mes got lost, man, lost!
+
+9120:
+Mes stucks here with da bad gun!
+
+9600:
+Hello, you dere?! Me very VERY good doctor, you know, me shouldn't be out here, in shootout!
+
+10080:
+Me be real tired.
+
+10560:
+Dat was close, man!
+
+11040:
+It no be use, man.
+
+11520:
+Me bleeding, man.
+
+12000:
+Me be real tired.
+
+12480:
+Oh man! Mes have very big headache.
+
+12960:
+We da best!
+
+13440:
+We da best!
+
+13920:
+Dat Koolhan. No good doctor! I no likes him, man. He makes bad jokes 'bout me. Me leaves, if he no goes.
+
+15360:
+Me da best!
+
+15840:
+It was accident, man!
+
+16320:
+Oh man! Mes have very big headache.
+
+16800:
+Wes got it, man!
+
+17280:
+Me must be sayin' no!
+
+17760:
+It's makes me a hero, maybe.
+
+18240:
+Me sees terrible TERRIBLE things!
+
+18720:
+You no funny, man.
+
+19200:
+The way things be going with youse, me thinks youse just pretending to be mercenary guy!
+
+19680:
+Me a VERY good doctor! At a VERY good price!
+
+20160:
+This area very VERY dangerous, man!
+
+20640:
+Can't use this, it broken!
+
+21120:
+You just like them others! Me brings you papers. Harvard Medical School!
+
+21600:
+What you think man, you funny? You think everything a big joke? Me a doctor, very VERY good doctor!
+
+22080:
+Me be doctor of the month this month!
+
+22560:
+You just be pretendin' you know what you doin', man! Maybe me come back when you win one.
+
+23040:
+Me sees terrible TERRIBLE things!
+
+23520:
+Doc be no laughing at me no mores! When that doctor Koolhan dies, you tries mes again.
+
+24480:
+Reverend Porter be a great holy man! Raffi wish very VERY much to work with him.
+
+25920:
+Oh no! Mes a very VERY good doctor! Me not refuse of, like them others. Me just be looking to get paid, and with youse, it no sure.
+
+26400:
+Oh man! Youse very VERY dangerous!
+
+26880:
+Hello... Hello... Theys be shooting at mes, man!
+
+27360:
+You can forget it, man!
+
+27840:
+No worries! Me got a doll with your face on it.
+
+28320:
+You sures they be around here, man?
+
+28800:
+They hiding!
+
+29280:
+Dis very VERY nice. Me needs one of these.
+
+30240:
+No worries, man! Maybes... Batman will save youse!
+
+30720:
+Okays. Me be waitin' for your call.
+
+31200:
+Good, man. All those guys be dead!
+
+31680:
+You makes very VERY bad deal.
+
+32160:
+Maybe she's sleeping?
+
+32640:
+Dis no be right!
+
+33120:
+Nothing be better than workin' fou youse, man!
+
+33600:
+Is it you crying like dat, man?!
+
+34080:
+Hello! Me's taking me breaks now, okay?
+
+34560:
+Me just be gettin' ready!
+
+35040:
+We tells you, no?
+
+35520:
+Can't use this, it broken!
+
+36000:
+Maybe... it go boom.
+
+36480:
+This place over here very VERY dangerous, man!
+
+36960:
+Help me, man! Me can't swim no more!..
+
+37440:
+Hello! Did youse forget me?
+

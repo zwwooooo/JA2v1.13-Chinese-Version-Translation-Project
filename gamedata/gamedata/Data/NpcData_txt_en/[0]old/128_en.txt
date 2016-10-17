@@ -1,0 +1,102 @@
+0:
+We no meet before... Arnold Brunzwell, Arulco's Blacksmith and Handyman. Whatever the need, I fix it for you in no time. Well, not much time, anyway.
+
+480:
+You again, huh? You got work for me, I guess.
+
+960:
+Is an old trade, blacksmith. Machines, computers, they no do it right. Take a special hand and eye to get metal into shape.
+
+1440:
+I fix anything for you, but I no like electronics. Me and Fredo, we have a pact. He no become a blacksmith, I no fix electronics.
+
+1920:
+Interesting, but I no want it.
+
+2400:
+Business pick up lately. Arulco's army men blow up everything! Is always something to be fixed. Bad for the country. Good for me.
+
+2880:
+Hot one outside, no? Dis weather, it make people go crazy! Hunh?
+
+3360:
+No, hot metal belongs in a forge, not in me. I no want to die.
+
+3840:
+I suffer, terribly...
+
+4320:
+I get back to work now.
+
+4800:
+Maybe you tell me first what you need fixed.
+
+5280:
+You relax, man. Let me know what I can do for you. I get it done fast, fast, fast. Anything but electronics... get it back to you in about half an hour.
+
+5760:
+I'm thinking, maybe someday, I do the half-hour guarantee, like a pizza place, no? Half-hour for your repair or it's free. Then again, maybe I wait 'til the war is over.
+
+6240:
+Speed and efficiency, they be my mottos.
+
+7200:
+Something you need fixed, man?
+
+7680:
+All right, then. Let me have a look at what you got.
+
+8160:
+No, man. Not electronics. I told you, Fredo and I have a deal. You take the wirey stuff to him to fix. He in Grumm.
+
+8640:
+Ah, dis looks fine! No need to fix it.
+
+9120:
+Oh, I don't know if I could fix dis! I give it a try. Mean extra work for me, so I charge you a bit more.
+
+9600:
+Yeah, dis stuff? I fix it for you, man. Won't take no time.
+
+10080:
+Is not enough to cover charges here.
+
+10560:
+Yeah, we done then. I appreciate it. Thank you.
+
+11040:
+Thank you, and no forget your change. Is pleasure to deal with the good side.
+
+11520:
+I do best to have it ready for you, as soon as I can.
+
+12000:
+Maybe next time you find something you need.
+
+12480:
+Think you forgot something here.
+
+12960:
+Hey, man. There's only one of me.  You leave some now, and then some more later.
+
+13440:
+You a crazy dog!
+
+13920:
+I closed 'til the shooting stop.
+
+14400:
+It's too dangerous to talk to you. You're not liked in Grumm. People will talk.
+
+14880:
+You're a hero around here. It will be joy to serve you.
+
+15360:
+Better now... I better now.
+
+15840:
+Hey, I say quick service, not magic! I want to do good job! You come  back in a bit, and maybe it be ready.
+
+16320:
+I be closing up now, so if you don't mind, it's time for you to go. You can come back tomorrow, if you like.
+

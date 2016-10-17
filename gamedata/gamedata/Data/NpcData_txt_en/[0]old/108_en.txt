@@ -1,0 +1,69 @@
+0:
+Welcome. I am Yanni, caretaker and abiding servant to the temple of Chitzena.
+
+480:
+You have returned...
+
+960:
+Chitzena represents the humble beginnings of our country. Amongst these ruins lie thousands of years of our history.
+
+1440:
+It is tragic that Arulco finds itself in such a predicament.
+
+1920:
+I have no purpose for that.
+
+2400:
+Ten years ago, you would not even be able to get near the ruins. The crowds would form as far away as Cambria.
+
+2880:
+This is a peaceful corner of our country. There is no need for violence or anger.
+
+3360:
+I have vowed to remain in Chitzena until my death. I shall fulfill my obligation.
+
+3840:
+I... must get to Cambria... for treatment.
+
+4320:
+I must attend to my responsibilities. I shall not be far.
+
+4800:
+A donation... They are few and far between.
+
+5280:
+Feel free to tour the ruins. I ask that you respect the heritage and tranquility of Arulco's wonder. Please do not fire your weapons or otherwise disturb the grounds.
+
+5760:
+You will find yourself pretty much alone. Hardly anyone comes here anymore. Once, it was the pride and joy of Arulco, a destination for families on weekend outings and tourists from around the world.
+
+6240:
+Since the Golden Chalice of Chance has been removed from Chitzena, people have tired of looking at stones. It was the Chalice that drew the crowds. To touch it is to be blessed with life's fortune.
+
+6720:
+Centuries old, encased with the finest jewels, it is the spiritual lifeblood of the people. It is what they hold dear. To have it once again in its rightful place would rejuvenate the well-being of the nation.
+
+7200:
+Queen Deidranna took the Chalice years ago and placed it in the museum in Balime. At the time, she said it was for the security of this national treasure, but this is not the situation.
+
+7680:
+The Chalice is in the showcase for the enjoyment of the wealthy who live in Balime, and she did not want the peasants of the countryside to prosper from its blessing. However, it is locked up behind heavy security.
+
+8160:
+She had the Chalice in Balime so the wealthy could enjoy it, and the peasants of the countryside could not prosper from its blessing. I have heard, however, that it has been stolen, and its whereabouts are unknown.
+
+8640:
+Greatness would be bestowed upon the one who returns it to Chitzena. To have it here, once again, may very well unite the country.
+
+9120:
+You are a savage. A human without heart.
+
+9600:
+My highest appreciation. It is wonderful. I did not believe I would ever see the Golden Chalice again. The people will hear of your deed. Word travels very fast here. Your journey shall be facilitated by their gratefulness.
+
+10080:
+I cannot even think of conversing with all this fighting going on...
+
+10560:
+You have earned my appreciation.
+

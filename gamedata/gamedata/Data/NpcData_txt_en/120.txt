@@ -1,0 +1,45 @@
+0:
+Figured you'd be showin' sooner or later.
+
+480:
+Back away, soldier.
+
+960:
+You're playing with your life, soldier.
+
+1440:
+Your time will come.
+
+1920:
+I don't accept bribes.
+
+2400:
+You're not getting the hint, are ya?
+
+2880:
+Why don't you go play in some crossfire, kid. I'm not the least bit scared of ya.
+
+3360:
+You must be joking.
+
+3840:
+Call a medic!
+
+4320:
+Enjoy your life while it lasts, soldier!
+
+4800:
+All right. Now, buzz off.
+
+5280:
+Prepare to die!
+
+5760:
+Do not allow yourself to believe you're anywhere close to winning this war, soldier. Deidranna has Meduna fortified enough to stop an army. Any army!
+
+6240:
+And while you're wasting your time mingling amongst the peasants, she's building new weapons in Orta. Weapons like you've never seen, soldier.
+
+6720:
+I don't want your money, soldier.
+

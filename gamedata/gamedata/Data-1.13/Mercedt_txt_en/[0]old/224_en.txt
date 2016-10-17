@@ -1,0 +1,177 @@
+0:
+I found one.
+
+480:
+Like... There's a bad guy here that doesn't see me...
+
+960:
+Like... They're all over the place!
+
+1440:
+I found one.
+
+1920:
+I found one.
+
+2400:
+I'm outta here...
+
+2880:
+I'm outta here...
+
+3360:
+I'm outta here...
+
+3840:
+Like... I gotta get to a mall! Like now...!
+
+4320:
+Like... I'm not happy about it!
+
+4800:
+Like... They're all over the place!
+
+5280:
+Like... I found something.
+
+5760:
+Like... I found something.
+
+6240:
+I want ammo! Like... Like this could be dangerous!
+
+6720:
+Like... I'm dying... I need help soon...
+
+7200:
+My brother's dead! Like... I'm going to throw up!
+
+7680:
+Like I don't even really consider Gary to be my brother!
+
+9120:
+Like... This isn't good. My gun isn't shooting!
+
+9600:
+Like... There's shooting. And I'm like the target!
+
+10080:
+Like... I'm getting blood all over my uniform...
+
+10560:
+Like... I'm a little confused.
+
+11040:
+Like... There's no way I could ever hit that!
+
+11520:
+Like... I'm not happy about it!"
+
+12000:
+Like... It wasn't easy!
+
+12480:
+Like... I usually don't have a problem keeping up, but I really like need a break.
+
+12960:
+Maxed out, parasite!
+
+13440:
+Maxed out, parasite!
+
+15360:
+Amazing!
+
+15840:
+Like... I'm not happy about it!
+
+16320:
+Like I'm not very happy about this...
+
+16800:
+Like... I maded that!
+
+17280:
+Sorry...
+
+18240:
+Amazing!
+
+19200:
+Had I know it was going to be like...this dead, like I would have worn black.
+
+19680:
+Okay... So like we're impressed.
+
+20640:
+Like... This isn't working well. Like... This isn't working at all!
+
+22080:
+Oh, gross!
+
+22560:
+Sorry, but like... I'm seeing somebody already!
+
+23040:
+We aren't like going to be able to get the mission done, because like it's not possible.
+
+24480:
+I'm like so excited...
+
+24960:
+I can't stand my brother, Gary!
+
+26400:
+Like... There's a bad guy here that doesn't see me...
+
+27360:
+Like... I tried... And like, normally I do it easily.
+
+28320:
+Like... Is there anyone in charge?
+
+28800:
+Finally, some luck!
+
+29760:
+Like... That looked really painful from here!
+
+31200:
+Like... There's no more of them!
+
+32160:
+Maxed out, parasite!
+
+32640:
+I'm outta here...
+
+33120:
+Like... Like we did it!
+
+33600:
+Finally, some luck!
+
+34080:
+Like... I usually don't have a problem keeping up, but I really like need a break.
+
+34560:
+Like... It's on there real good!
+
+35040:
+Like... Larry's my brother. He took care of me while our dad was away in combat. Like... I'm not going to try very hard.
+
+35520:
+Like... This thing is set to really hurt somebody!
+
+36000:
+Let's be totally attentive... Like this could be a minefield!
+
+36480:
+Let's be totally attentive... Like this could be a minefield!
+
+36960:
+Help... I need help... Like...I don't know how to swim!
+
+37440:
+Like... I may get to the mall this afternoon after all!
+

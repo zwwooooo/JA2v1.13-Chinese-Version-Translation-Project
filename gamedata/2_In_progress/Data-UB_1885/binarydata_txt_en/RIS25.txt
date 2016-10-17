@@ -1,0 +1,117 @@
+0:
+¢ç Recon Intelligence Services ¢ç
+
+800:
+¢ç "If you don't know where to find us, we don't want your business" ¢ç
+
+1600:
+¢æ Client Name: ¢æ Confidential ¡À
+
+2400:
+¢æ Client No: ¢æ 1122 ¡À
+
+3200:
+¢æ Information requested: ¢æ Tracona--geography, government, military, and background intelligence ¡À
+
+4000:
+¢æ Additional Information requested: ¢æ Background check on Ricci Mining and Exploration Company ¡À
+
+4800:
+¢æ Account Status: ¢æ Cash, prepaid in full
+
+5600:
+¡À ¢æ Tracona Facts ¢æ ¡À
+
+6400:
+Extremely small third world country. ¡À
+
+7200:
+The terrain is exceptionally mountainous. Climate varies greatly depending on altitude. ¡À
+
+8000:
+The capital city of Sardena contains the country's only airport, major medical facility and secondary school. ¡À
+
+8800:
+Six rural villages are scattered in valleys throughout the countryside. The most remote is Varrez located near the southern border with Arulco. ¡À
+
+9600:
+Country has a very primitive roadways system. Most of it unsuitable for motorized vehicle travel. ¡À
+
+10400:
+Country was formed in 1910, after gaining its independence from Cali. ¡À
+
+11200:
+¡À ¢æ Government ¢æ ¡À
+
+12000:
+Since its formation, Tracona has always been under military rule. ¡À
+
+12800:
+Currently, the country is governed by General Sevaratanis. The second in command, and his most likely successor, is Deputy Commander Morris. ¡À ¡À
+
+13600:
+¡À ¢æ Military ¢æ ¡À
+
+14400:
+Led by a few career military officers, the armed forces are mostly fortified by young draftees serving out their mandatory five-year inscription. ¡À
+
+15200:
+Outside security consultants are used for training Special Forces and are suspected of being directly involved in tactical operations. ¡À
+
+16000:
+The military has developed a number of highly trained small units. By putting a strong emphasis on marksmanship and guerrilla tactics, Tracona has compensated for its limited weaponry and resources. ¡À
+
+16800:
+Military appears to be mostly defensive, lacking the numbers and equipment to be an invasive force. ¡À
+
+17600:
+¢æ Economy ¢æ ¡À
+
+18400:
+Over 50%% of the country's GDP is derived from mining. They are four mines currently in production in Tracona. A fifth mine, in Varrez, was depleted and closed recently. The ore extracted is mostly silver, nickel, and some gold. ¡À
+
+19200:
+After mining, the country's secondary industry is forestry. Timber represents over 25%% of Tracona's exports. ¡À
+
+20000:
+Fishing and farming account for most the remainder. There are some light manufacturing and assembly plants in Sardena ¡À
+
+20800:
+¡À ¢æ Recent Events ¢æ ¡À
+
+21600:
+A major construction project near Varrez was recently completed. The facility is believed to be a military installation. A neighboring power generation facility has been expanded to accommodate the new installation. ¡À
+
+22400:
+¡À ¢æ Additional Information ¢æ ¡À
+
+23200:
+Ricci Mining and Exploration is a subsidiary of Cobal Exploration Inc., though linkage is buried in myriad of offshore numbered companies and proved extremely difficult to trace. It appears that Ricci Mining and Exploration is used as a base of operations in hostile or troubled countries, or those ruled by objectionable regimes, to limit the risk of damage to the parent company's image. ¡À
+
+24000:
+¡À ¢æ Intelligence ¢æ ¡À
+
+24800:
+There has been a high level of troop movement in the Varrez area. Reasonable speculation offers that either a radar installation or short-range missile facility was completed on the outskirts of town. ¡À
+
+25600:
+The importance of the complex is evident in the fact that Deputy Commander Morris has been placed directly in charge of its operation. Besides being the second highest-ranking military commander in Tracona, it is widely believed that the ambitious Morris will be taking over for the aged General shortly. ¡À
+
+26400:
+¡À Memos intercepted from Ricci Mining and Exploration headquarters in the Cayman Islands allude to an arrangement with Tracona, most likely financial, that permitted the military to build the facility. ¡À
+
+27200:
+The company is in the process of renewing most of its ore exploitation contracts with many of the countries in the region. Other internal correspondence revealed a strong determination to ensure all contracts were renewed and labor disruptions eliminated "at all costs and using any means necessary..." ¡À
+
+28000:
+¡À Here at RECON INTELLIGENCE SERVICES, we hope you are satisfied with our search results. We wish to remind you that we consider our relationship an ongoing one. If any new information becomes available, we will be more than happy to forward it to you free of charge. ¡À
+
+28800:
+Should you have any other inquiries, feel free to contact us at any time. We would be pleased to extend our services to you once again. ¡À
+
+29600:
+Thank you for your patronage, ¡À
+
+30400:
+R.I.S. ¡À
+

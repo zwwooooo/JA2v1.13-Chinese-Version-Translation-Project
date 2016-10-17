@@ -1,0 +1,213 @@
+0:
+Soldiers.
+
+480:
+I knew they weren't too far.
+
+960:
+I need help. Fast!
+
+1440:
+Hellbug!
+
+1920:
+Holy Toledo! I heard of 'em, but I ain't never seen one...'til now.
+
+2400:
+There was a rumor that Deidranna had a way of disposing bodies so they'd never be found. I got a feeling those Hellbugs are involved.
+
+2880:
+What made that noise?
+
+3360:
+That's the same odor I smelled in the prison.
+
+3840:
+I'm feeling uncomfortable. Need to keep my head...
+
+4320:
+Those Hellbugs better be sleeping.
+
+4800:
+Hellbugs! All over the place.
+
+5280:
+Something there.
+
+5760:
+Might be useful...
+
+6240:
+I ain't got any bullets left.
+
+6720:
+Don't look good... Don't think I'll get my chance at revenge. Tell my wife I'm sorry about our son. I pray she forgives me.
+
+7200:
+I liked Shank. He'd come a long way from that spoiled rich kid who showed up that night in Tixa. Even gave him his nickname. Breeham would have got him killed in there.
+
+8160:
+Gonna miss Blood. Can't say I knew him a long time, but I liked what I knew.
+
+8640:
+Mind was in Tixa for a minute. Give me it again.
+
+9120:
+Something's wrong! Gun won't fire.
+
+9600:
+It's rainin' bullets.
+
+10080:
+I've had worse done to me while I slept.
+
+10560:
+You don't hit me, you don't scare me.
+
+11040:
+I can barely see it!
+
+11520:
+They took a chunk outta me. Probably need bandaging.
+
+12000:
+I'm spent. Looking to sack out a bit.
+
+12480:
+Lung capacity ain't what it was...
+
+12960:
+See ya.
+
+13440:
+Buzz off!
+
+14880:
+That animal Bubba is an ignorant S.O.B. Wish someone would just shoot him.
+
+15840:
+Make your stomach turn.
+
+16320:
+Gonna get that broad Deidranna. Ain't nothin' gonna stand in my way but death.
+
+16800:
+I'm finished. I'm ready.
+
+17280:
+I'm not into it right now.
+
+17760:
+That was for my son, you Nazi bitch! May the devil reject your soul.
+
+18240:
+Got the momma!
+
+18720:
+Dunghead.
+
+19200:
+Things ain't goin' right. Maybe I should go at this myself.
+
+19680:
+Don't trust nobody. I know, I was born in this country.
+
+20160:
+Those planes are headed right for us.
+
+20640:
+I guess it's part of the pecking order. The local guy gets the crap supplies.
+
+21120:
+Wish we'd pick up the pace. I got a date with Deidranna.
+
+21600:
+I hate to put a whole group of people in one despicable bunch. But every Hungarian who ever stepped into Arulco has caused nothing but trouble.
+
+22080:
+I'm gettin' better.
+
+22560:
+Haven't got a clue what that's gonna accomplish.
+
+23040:
+Stuff like that scares me.
+
+24480:
+You've done good, Shank!
+
+25440:
+Liking you more every day, Blood.
+
+25920:
+Hey! Where's my money?
+
+26400:
+I wasn't asking for much. Just a couple of bucks worth of respect. See ya. I'd rather take a go at her myself.
+
+26880:
+Burnt my eyes! Can't see nothing!
+
+27360:
+I just can't do it.
+
+27840:
+A sympathizer.
+
+28320:
+There's soldiers buzzin' around.
+
+28800:
+Deidranna's soldiers are still around. I won't rest 'til we get 'em all.
+
+29760:
+Packs a punch!
+
+30240:
+That's Mrs. Graham's boy. I'd give anything to have mine back.
+
+30720:
+That wasn't part of the plan. I got business with Deidranna.
+
+31200:
+They're all out of their misery. Though I wouldn't mind killing another one.
+
+31680:
+Didn't figure on this. Someone's looting our supplies. I'd put my money on Pablo. I've heard he's got connections to the black market.
+
+32160:
+I can't stand to see someone abuse children. She wasn't Deidranna, but she was too close for comfort.
+
+32640:
+Prison rat!
+
+33120:
+This isn't about me, you understand. This is about my son. You might not ever know the peace I feel right now, but let me tell you, you're a major part of it.
+
+33600:
+Damn it! They got away. Left us to do as we please.
+
+34080:
+I'm hitting the sack. Be up in a few.
+
+34560:
+I'm punched in.
+
+35040:
+Yeah, I'm in the same way.
+
+35520:
+Can't afford to have this happen. It needs to be fixed.
+
+36000:
+This is just waiting to blow someone up.
+
+36480:
+Look closely... It's got "trouble" written all over it.
+
+36960:
+No... no... tell my wife.. I... I... died... trying...
+
+37440:
+I'm waiting on new orders here.
+

@@ -1,0 +1,102 @@
+0:
+I'm Doctor Willis. Can I help ya?
+
+480:
+What seems to be the problem this time?
+
+960:
+Between you and me, this war has been necessary for a long time. I wish you the best of luck.
+
+1440:
+I cannot tell ya how many times I've thought of retiring to a quiet family practice in some other country.
+
+1920:
+I appreciate it, but I cannot accept it.
+
+2400:
+The sooner this conflict is over the better.
+
+2880:
+We're in a hospital. There's no need to raise your voice. I have already decided to offer my full cooperation.
+
+3360:
+I've taken quite the risk to offer you treatment. It's as involved as I care to be.
+
+3840:
+I cannot treat my injuries... I need assistance.
+
+4320:
+I'm sorry, but I have patients to attend to.
+
+4800:
+Thank you.
+
+5280:
+I'm sure we can handle another patient.
+
+5760:
+You're going to be keeping me busy for a while. I hope things are going better for you than they appear to be.
+
+6240:
+I'll attend to it, though I will have to charge you for my services. The money will allow me to give the people around here the medical attention they need.
+
+6720:
+Seeing how you're fighting for the betterment of Arulco, I'll give you a bit of a break on the price.
+
+7200:
+I wanted to let you know that we all appreciate what you're doing. And just to show you what I mean, I'm only asking you to cover the cost of the treatment.
+
+7680:
+We've all decided to waive any fees for our services. This treatment is on the hospital.
+
+8160:
+Of course, as distasteful as it is, there will be a charge for the treatment.
+
+8640:
+Seeing how you've helped the Grahams with their son, there'll be no charge for this treatment, and I'll keep my fees to a minimum from here on in.
+
+9120:
+Very well... I'll be right there.
+
+9600:
+Very well, then... leave everything to me, and I'll get things fixed up right.
+
+10080:
+Okay, leave them with me. I'll get them all back on their feet before you know it.
+
+10560:
+Well... If you change your mind or things take a turn for the worst, you know where to find me.
+
+11040:
+Once you get the fighting under control, maybe then, we can talk.
+
+11520:
+I just hope I don't run out of medical supplies. It seems someone's been stealing from us. They're probably selling it on the black market.
+
+12000:
+I'm terribly sorry, but I don't have the necessary supplies to heal anyone. We were cleaned out. Hopefully, we'll get a shipment in the next couple of days.
+
+12480:
+I can't take medical supplies or medicine from you. You'll have to clear it with administration.
+
+12960:
+You are demented!
+
+13440:
+It is too dangerous right now to help you. We are being watched.
+
+13920:
+I have to tell you, I had my doubts when you first got here. But you've proven that you're out to win this war, and the town of Cambria stands solidly behind you.
+
+14400:
+Just thought I'd mention that I realize you're mercenaries and you're in this for money, but we need you. We need you to stay with it. You're the last hope for this country.
+
+14880:
+Thanks. Feels a little strange to be on the receiving end.
+
+15360:
+Of course, you'll have to pay for the treatment, now, in cash.
+
+15840:
+I'll need all of it.
+

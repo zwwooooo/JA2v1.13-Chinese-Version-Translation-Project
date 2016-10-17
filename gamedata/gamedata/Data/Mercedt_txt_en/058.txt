@@ -1,0 +1,210 @@
+0:
+Enemy soldiers.
+
+480:
+Armies of enemy show their face.
+
+960:
+I am in deep mule cake.
+
+1440:
+Insect of terror.
+
+1920:
+It be bug, yes. Insect from bad movie.
+
+2400:
+They will eat every one of our people if they are not destroyed.
+
+2880:
+Noise. Is close.
+
+3360:
+It be smell of refried bean-fed, dying dog.
+
+3840:
+It most dangerous here. Must be careful.
+
+4320:
+I feel insects of terror be close.
+
+4800:
+They are too many. I feel doomed.
+
+5280:
+What be there?
+
+5760:
+There be something.
+
+6240:
+Need to recharge bullets.
+
+6720:
+Much suffering... death be waiting.
+
+7200:
+Miguel was brother to me. We have seen much together. Everything be okay. Carlos now be in charge.
+
+7680:
+Dimitri was good friend. But I must say, I be surprised he lived this long.
+
+8160:
+I respect Ira. It be sad she dead. She fight with us because of her heart. Arulco, you know, not be her country of birth.
+
+8640:
+Not thinkin' good.
+
+9120:
+It be bad gun. Bring death to Carlos.
+
+9600:
+They know it be me. They have much reason to kill Carlos.
+
+10080:
+Why must it be me, always.
+
+10560:
+Santa Maria. She protects me.
+
+11040:
+It be difficult. Most difficult.
+
+11520:
+I am wounded.
+
+12000:
+I be very tired.
+
+12480:
+I be in search of breathing.
+
+12960:
+Traitor be dead.
+
+13440:
+Terror be gone.
+
+13920:
+I do not trust Iggy. He was enemy, now friend. What is he tomorrow? I cannot be sure.
+
+15840:
+It does not bother me. Years of war have left me without heart.
+
+16800:
+I look for orders.
+
+17280:
+I will not do this.
+
+17760:
+Finally, we have removed her from our country. I pray the devil urinates forever on her soul.
+
+18240:
+Mother of terror did much harm to my country. Her death be most welcome.
+
+18720:
+Why must people like this be with us.
+
+19200:
+I am not sure of this agreement. It better when I fight for Miguel.
+
+19680:
+Arulco's people are much better than this.
+
+20160:
+She sends airplanes against us.
+
+20640:
+I think joining mercenary team get me better supplies. I was making mistake.
+
+21120:
+Sometimes I feel defeating Deidranna is not possible.
+
+21600:
+I love woman, but their place be with children.
+
+22080:
+I become smarter.
+
+22560:
+It does not feel smart.
+
+23040:
+Miguel would never make a mistake like this.
+
+24480:
+I respect Miguel. He earns this.
+
+24960:
+Good, Dimitri. Very good.
+
+25440:
+For woman, Ira is most capable.
+
+26880:
+I will never see again!
+
+27360:
+It does not work for me.
+
+27840:
+Most people of Arulco are friendly like this.
+
+28320:
+Her military force is present.
+
+28800:
+They are still here. There can be attack any time.
+
+29280:
+I never think I be so lucky to find something like this. It is a bad sign.
+
+30240:
+It is boy of lady Graham. We must capture him.
+
+30720:
+I join up with rebel forces.
+
+31200:
+We triumph! The enemies... they be dead.
+
+31680:
+Now people steal from us. Everything is not here.
+
+32160:
+The people of Arulco be better without her. She was bad, mean, selfish woman.
+
+32640:
+I HATE bloodcats...
+
+33120:
+This day brings much glory to me. The people of Arulco be free, and for this, we have thanks to you. You did what you came to do.
+
+33600:
+Is it possible? The enemy have fled.
+
+34080:
+With sleep, I be all right.
+
+34560:
+I be back to job now.
+
+35040:
+Then I am not the only one.
+
+35520:
+How can we win with bad equipment like this?
+
+36000:
+No, no. It is set to kill me.
+
+36480:
+Stop. That no look good.
+
+36960:
+Oh... Maria... the water... it is too fast... for my country... I try...
+
+37440:
+Okay, I make it safely. I wait for orders.
+

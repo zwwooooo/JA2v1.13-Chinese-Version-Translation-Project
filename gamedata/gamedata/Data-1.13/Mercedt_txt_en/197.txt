@@ -1,0 +1,201 @@
+0:
+One be here.
+
+480:
+One be here.
+
+960:
+Help me!
+
+1440:
+One be here.
+
+1920:
+Dis no nice.
+
+2400:
+Dis no nice.
+
+2880:
+Something be here.
+
+3360:
+No nice.
+
+3840:
+Dis no nice.
+
+4320:
+Dis no nice.
+
+4800:
+Help me!
+
+5280:
+Something be here.
+
+5760:
+Something be here.
+
+6240:
+Gun be empty!
+
+6720:
+I be hurt... very hurt...
+
+8640:
+I no know what to do.
+
+9120:
+Gun be broke!
+
+9600:
+Help me! I be shoot at!
+
+10080:
+I stop for a minute.
+
+10560:
+I be shooting here.
+
+11040:
+I no know what to do.
+
+11520:
+I be hurt... very hurt...
+
+12000:
+I stop for a minute.
+
+12480:
+I stop for a minute.
+
+12960:
+People be dying.
+
+13440:
+Dis no nice.
+
+15360:
+We be boss now.
+
+15840:
+People be dying.
+
+16320:
+Dis no nice.
+
+16800:
+I no know what to do.
+
+17280:
+Dis no nice.
+
+17760:
+We be boss now.
+
+18240:
+It be safe now.
+
+18720:
+No nice.
+
+19200:
+It be bad. I no take!
+
+19680:
+No be going without me.
+
+20160:
+It be bad. I no take!
+
+20640:
+Dis no nice.
+
+21120:
+I hope one day there be no more guns in Metavira.
+
+21600:
+I know best way.
+
+22080:
+We be boss now.
+
+22560:
+We no have chance.
+
+23040:
+We no have chance.
+
+25920:
+Need to go home now.
+
+26400:
+Crazy man! He kill everybody!
+
+26880:
+Dis no nice.
+
+27360:
+I try. I this lot of time.
+
+27840:
+I know quiet place...
+
+28320:
+I be shooting here.
+
+28800:
+It look ok.
+
+29280:
+Dis be important!
+
+30240:
+One be here.
+
+30720:
+I go.
+
+31200:
+It be safe now.
+
+31680:
+It be bad!
+
+32160:
+We be boss now.
+
+32640:
+One be here.
+
+33120:
+Need to go home now.
+
+33600:
+It be safe now.
+
+34080:
+No be going without me.
+
+34560:
+No be going without me.
+
+35040:
+I know.
+
+35520:
+It be broke.
+
+36000:
+It be bad. I no take!
+
+36480:
+No nice.
+
+36960:
+I... be in trouble... No no can swim more...
+
+37440:
+Be here!
+

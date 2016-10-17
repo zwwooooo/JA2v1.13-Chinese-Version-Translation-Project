@@ -1,0 +1,258 @@
+0:
+Got the upper hand on one here, boy.
+
+480:
+I've located an enemy here, boy!
+
+960:
+The place is crawling with 'em, boy!
+
+1440:
+Got the upper hand on one here, boy.
+
+1920:
+Got the upper hand on one here, boy.
+
+2400:
+Bad news, boy...
+
+2880:
+This is not a good sign.
+
+3360:
+Bad news, boy...
+
+3840:
+It's like a cemetery around here.
+
+4320:
+Bad news, boy...
+
+4800:
+The place is crawling with 'em, boy!
+
+5280:
+I found something here.
+
+5760:
+I found something here.
+
+6240:
+I'm out of slugs!
+
+6720:
+I've been hit bad, boy! You'd be better just to leave me...
+
+7200:
+They may have killed the Corporal, boy, but they're going to have deal with the Major!
+
+9120:
+Gun's jammed up pretty good!
+
+9600:
+Taking enemy fire, boy!
+
+10080:
+I need help, boy!
+
+10560:
+Not even close.
+
+11040:
+I can't get a fix on the target, boy!
+
+11520:
+I got a bleeder, boy!
+
+12000:
+I slipped up, boy!
+
+12480:
+What's the water situation like?
+
+12960:
+We can kiss those boys goodbye!
+
+13440:
+Boy did we kick butt!
+
+15360:
+Gonna bag this fool, boy!
+
+15840:
+Ohh yeah!
+
+16800:
+We have come through with flying colors, boy!
+
+17280:
+I still can't make it, boy!
+
+17760:
+We have come through with flying colors, boy!
+
+18240:
+Boy did we kick butt!
+
+19200:
+I'm not happy one bit, boy! So long old friend!
+
+19680:
+What are you? Bored?
+
+20160:
+Okay... So ya got lucky, boy!
+
+20640:
+We gonna have to repair this thing boy! It don't work
+
+21120:
+Can't handle it, doughboy?
+
+22080:
+You can hold your head up high, boy!
+
+22560:
+We're sorry, boy... We didn't know the guns were loaded.
+
+23040:
+Just tell me where you want it, boy!
+
+24480:
+Ohh Yeah!!!...
+
+25920:
+You'll have to try me another time, boy!
+
+26400:
+I'm gonna get that son-of-a-bitch!
+
+26880:
+I'm takin' lead, boy!
+
+27360:
+I must be having a bad day! Normally, I can do this stuff with my hands tied.
+
+28320:
+One step at a time here, boys... The place looks like a flippin' excavation site!
+
+28800:
+We can kiss those boys goodbye!
+
+29760:
+Boy did we kick butt!
+
+30720:
+It's getting about time to close things down, boy.
+
+31200:
+Mission accomplished, boy. Sector all clear!
+
+32160:
+Boy did we kick butt!
+
+32640:
+Got the upper hand on one here, boy.
+
+33120:
+Start chilling the champagne, boy! All's we have left to do is get it to the base!
+
+33600:
+Mission accomplished, boy. Sector all clear!
+
+34080:
+I slipped up, boy!
+
+34560:
+Give me that again, boy!
+
+35520:
+It's stuck on there real good, boy.
+
+36000:
+It's packing a punch, boy! I can probably deactivate it.
+
+36480:
+Take it one step at a time here, boys... Looks to me like they might have something planned or planted.
+
+36960:
+I can't stay above water much longer, boy!
+
+37440:
+Now it's your turn, boy!
+
+38400:
+So, take a hike, boy! I can find other work!
+
+38880:
+You're pitiful, boy! I'm leaving, and with any luck most people will forget I was ever part of it.
+
+39360:
+You got a death wish, boy!
+
+39840:
+You gotta be kidding, boy! You gave me my walking papers before I even fired my gun.
+
+40320:
+I got a couple of hot leads! Gonna have to see if they come in before I make any guarantees, boy.
+
+40800:
+If you manage to borrow the cash, boy, you come back and see me!
+
+42720:
+You might want to keep in mind...that finding work ain't really a problem for me, boy.
+
+43200:
+Nothing happening, boy! I'm accepting your offer!
+
+43680:
+You were the most serious of the lot, boy! You got me!
+
+44160:
+I was just yakking with Len... Let's go kick butt!
+
+45600:
+I got a couple of people offering me the same money, boy. Why not show everybody this time around that you really mean business.
+
+46080:
+Like I said to ya...
+
+46560:
+Got a few offers on tap, boy. I'm looking for some extra cash from my new boss!
+
+47040:
+That'll do fine boy! We've got a deal!
+
+47520:
+You're pitiful, boy! I'm leaving, and with any luck most people will forget I was ever part of it.
+
+49440:
+I got some serious problems with the way you're running things, boy! But I haven't seen Len in a while, so I won't pass on the chance.
+
+50880:
+Like I said to ya...
+
+51360:
+Let me clear the fog ? for ya here... boy! A mercenary is a soldier who works for money! ? We got to know for sure we're gettin' paid before we take an assignment!
+
+51840:
+Spike Scallion is the name! Filling people with holes is my game, boy!
+
+52320:
+You guys trying to go somewhere without me?
+
+52800:
+How ya doing, boy?
+
+53280:
+It's good to hear from ya!. But, you'll have to show me what you're made of, boy, if I'm going to think about working for you!
+
+53760:
+It's gettin' about time to close things down, boy.
+
+55200:
+Listen boy, I've never had this done to me before! And I can promise you it ain't never going to happen again.
+
+55680:
+That takes care of everything, boy!
+

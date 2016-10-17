@@ -1,0 +1,306 @@
+0:
+Well, look who's here.
+
+480:
+Well, look what the cat finally dragged in.
+
+960:
+Got my testicles in a sling here!
+
+1440:
+Come to papa, little tapeworm.
+
+1920:
+Jesus H. If that's a tapeworm, I'd hate to see the guy who passed it, eh?
+
+2400:
+Betcha it was one of those tapeworms.
+
+2880:
+Something's shifting around.
+
+3360:
+Smells like those tapeworms have irritable bowel syndrome.
+
+3840:
+It's too quiet. I'm waiting for the other shoe to drop.
+
+4320:
+I'm half-expecting one of those tapeworms to jump out at me.
+
+4800:
+I'm up to my ass in parasites!
+
+5280:
+What's that?
+
+5760:
+Over there.
+
+6240:
+Need another round.
+
+6720:
+Got the crap... kicked outta me... don't think I'll bounce back.
+
+8640:
+I blanked out for a moment.
+
+9120:
+Great time for my gun to jam.
+
+9600:
+They're putting in a serious effort on me here!
+
+10080:
+Aah, won't slow me down a bit.
+
+10560:
+Nothing like a near-death experience, eh?
+
+11040:
+I'm in a bad position for that shot.
+
+11520:
+This laceration is causing significant blood loss.
+
+12000:
+I can't concentrate anymore. I need sleep.
+
+12480:
+Overexerted myself.
+
+12960:
+Minus one.
+
+13440:
+There's something satisfying about killing those.
+
+13920:
+Steroid... he's as dumb as a firetruck.
+
+14400:
+That Bubba's so damn racist even the Klan won't have anything to do with him.
+
+14880:
+Biff's mother should've exercised her right to choose.
+
+15360:
+My God, I killed Mike! I didn't think ANYbody could kill Mike!
+
+15840:
+Isn't there a famous quote about the man who cried because he had no hat, until he met a man who had no head? Something like that... I don't know...just seemed appropriate.
+
+16800:
+Need something else to do.
+
+17280:
+Not gonna do it!
+
+17760:
+She's not half the woman she used to be, eh?
+
+18240:
+Hey! Now there's a head I'd like to put on a plaque in my living room!
+
+18720:
+Pond scum!
+
+19200:
+I don't know about anyone else, but I'm thinking of defecting.
+
+19680:
+What a bunch of sub-delta morons.
+
+20160:
+Warplanes coming over!
+
+20640:
+These supplies aren't just inadequate, they're outright insulting.
+
+21120:
+I wish they'd just let me go off and do my own thing.
+
+21600:
+Women shouldn't be in this line of work. They lack the skeletal structure and muscular strength.
+
+22080:
+I've always been a good learner.
+
+22560:
+Looks like decisions get made by dartboard around here.
+
+23040:
+Bet Einstein's turning in his grave.
+
+23520:
+F.Y.I. No-neck grunts like Steroid Gontarski drive me up the wall. If he'd been on this team when you asked me to join, I would've laughed in your face.
+
+24000:
+For future reference, if you're going to hire white trash like Bubba, don't bother asking me along. Good thing for you, I'm honoring the rest of my contract.
+
+25920:
+Not ready to commit yet. I gotta see how we do. Well, how YOU do.
+
+26400:
+Oh, Jesus, it's Mike. I was hoping this day would never come.
+
+26880:
+Jesus! I'm as blind as a kitten at birth.
+
+27360:
+There's got to be a better way for me to spend my time.
+
+27840:
+He was pretty helpful.
+
+28320:
+The quicker we flush these guys out, the better.
+
+28800:
+We can pick up the pace, but we'd better stay on our toes.
+
+29280:
+Now we're brewing! Hope it's in good shape.
+
+30240:
+Looks like he could be the kid on the lam. Should probably have a chat with him.
+
+30720:
+Well, you know you've got our support. Wonder if she knows what she's got coming.
+
+31200:
+No one left! Another sold out trip to rigor mortis!
+
+31680:
+As if we don't have enough to worry about. Now we're being short-shipped.
+
+32160:
+I get a kick out of this - but when someone deserves what they get, it's like icing on the cake.
+
+32640:
+Jesus H. Cat!
+
+33120:
+There's nothing like finishing a job, eh? Makes me think about Desert Storm. You know, with this team, we could have sandblasted the hell out of Saddam. U.N. inspectors be looking for his body, instead of weapons.
+
+33600:
+Cleared out! Guess they forgot something at home.
+
+34080:
+No sleep and all work makes me crazy. I'll turn in and get back on the job in a flash.
+
+34560:
+I'm back to work.
+
+35040:
+You can count me in, too.
+
+35520:
+Damn it. Proper maintenance may have prevented this.
+
+36000:
+Ooo! Got a live one here.
+
+36480:
+Watch out. Area's got "trouble" written all over it.
+
+36960:
+I... don't know... if I... can make it.
+
+37440:
+I'm here already. Not looking to stand around all day.
+
+38400:
+From where I sit, you run a pretty Mickey Mouse operation. And I've already been to Disneyland.
+
+38880:
+Not with your stats, my friend. The life I save, may be my own.
+
+39360:
+One of the pharmaceutical companies is sending me to the Caribbean for a few days. Tough life, eh?
+
+39840:
+You'll have to give me more notice next time. I'm a busy man.
+
+40320:
+This is Dr. Daniel Quinten. Please leave me a message. If this is a medical emergency, you can call my service.
+
+40800:
+I'm a little surprised, but I won't stay around where I'm not wanted.
+
+41280:
+I don't like going into battle with drug users. They're notoriously unstable. I'm referring specifically to Steroid Gontarski, although there may be others on the team as well.
+
+41760:
+Somehow, I doubt that Bubba Jones and rednecks like him appreciate my presence. Nor I, theirs. I'm not your man.
+
+42240:
+Biff Apscott is a disgrace to this profession. His lack of gonads is a severe threat to team safety. I won't work with him.
+
+42720:
+Will you be renewing my contract? I'll have to know soon if you expect me to remain available.
+
+43200:
+That's perfectly acceptable. Thank you.
+
+43680:
+I'll be happy to accept the contract. Thank you.
+
+45600:
+I have certain minimal standards. I could barely get out of bed in the morning while working for you. Needless to say, I do not accept.
+
+46080:
+Please pay attention. I said...
+
+46560:
+Apparently you're not in the financial position to sign me up at the moment. When you are, get back to me.
+
+47040:
+I'm a little surprised, but I certainly won't stay where I'm not wanted.
+
+47520:
+Not with your stats, my friend. The life I save, may be my own.
+
+48000:
+I don't like going into battle with drug users. They're notoriously unstable. I'm referring specifically to Steroid Gontarski, although there may be others on the team as well.
+
+48480:
+Somehow, I doubt that Bubba Jones and rednecks like him appreciate my presence. Nor I, theirs. I'm not your man.
+
+48960:
+Biff Apscott is a disgrace to this profession. His lack of gonads is a severe threat to team safety. I won't work with him.
+
+50880:
+Please pay attention. I said...
+
+51360:
+Apparently, you're not in the financial position to sign me up at the moment. When you are, get back to me.
+
+51840:
+Yes, Dr. Quinten here.
+
+52320:
+As you probably know, I specialize in medical treatment in the field.
+
+52800:
+I have patients waiting for me. And little patience waiting for you.
+
+53280:
+What length of time did you have in mind for me?
+
+53760:
+Please don't waste my time. Contact me when you know what you want.
+
+54240:
+By working on a team with Steroid Gontarski, there's an implication that I condone his use of drugs. As this is professionally and personally abhorrent to me, I'd request that you keep us on separate teams.
+
+54720:
+I find Bubba's presence a serious detriment to professionalism and an affront to common decency. Please keep him on a different, less crucial team.
+
+55200:
+Yup. It's getting 'bout time to think about leaving.
+
+55680:
+So, I was thinking, if I had all this experience, I should be asking for more. Right?
+

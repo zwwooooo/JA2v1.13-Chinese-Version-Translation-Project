@@ -1,0 +1,246 @@
+0:
+Have an enemy sighted!
+
+480:
+I have a pigeon here! Seems like easy pickings.
+
+960:
+This is gonna be wild!
+
+1440:
+I have a pigeon here! Seems like easy pickings.
+
+1920:
+I have a pigeon here! Seems like easy pickings.
+
+2400:
+Caught a break!
+
+2880:
+I wish I could figure this out.
+
+3360:
+Caught a break!
+
+3840:
+I don't trust it! Not for a minute!
+
+4320:
+I don't trust it! Not for a minute!
+
+4800:
+This is gonna be wild!
+
+5280:
+I found something over here.
+
+5760:
+I found something over here.
+
+6240:
+I need shells... And don't be cheap with them!
+
+6720:
+MEDIC!
+
+9120:
+Damn! My gun won't fire!
+
+9600:
+I'm bored...
+
+10080:
+What's the chance that it isn't hurts?
+
+10560:
+Somebody's gonna pay for that.
+
+11040:
+I'm not cut out for this sort of crap!
+
+11520:
+Need stitching...
+
+12000:
+A shot of water would help.
+
+12480:
+Give me a break...
+
+12960:
+There's another notch on my gun.
+
+13440:
+There's another notch on my gun.
+
+13920:
+You're going express to the big loony farm in the sky , Skitzy.
+
+15360:
+I've killed people for less! Much less!
+
+16800:
+You can depend on me.
+
+17280:
+The next time you do that, you'd better show more commitment!
+
+17760:
+We're running this place now!
+
+18240:
+There's another notch on my gun.
+
+19200:
+I'm bored! Bored out of my flippin' mind.
+
+19680:
+I plan on being the last person you see in your short miserable life!
+
+20160:
+Make the necessary arrangements!
+
+20640:
+Give me a break... This thing's defective!
+
+22080:
+Well... 
+
+22560:
+Give me a break... Do you have any idea what you're doing?
+
+23040:
+Give me a break... Do you have any idea what you're doing?
+
+23520:
+How special! I found the mental illness poster boy!
+
+25920:
+We're getting tight on time.
+
+26400:
+This is gonna be wild!
+
+27360:
+In a minute... I ain't finished yet!
+
+28320:
+I'm going to suck every last ounce of blood out of you.
+
+28800:
+They won't be bothering us anymore.
+
+29760:
+I've killed people for less! Much less!
+
+31200:
+This sector is OURS!
+
+32160:
+I've killed people for less! Much less!
+
+32640:
+This is gonna be wild!
+
+33120:
+I hate to see it come to an end!
+
+33600:
+This sector is OURS!
+
+34080:
+Give me a break...
+
+34560:
+Give me a break!
+
+35040:
+You can brag about this one!
+
+35520:
+Give me a break... This thing's defective!
+
+36000:
+We're steppin' on shaky ground...
+
+36480:
+We're steppin' on shaky ground...
+
+36960:
+Can't... catch my breath! Unable to swim... Anymore!
+
+37440:
+We got what we came for!
+
+38400:
+I was on your team. I got bored... The place had about as much action as a morgue without bodies.
+
+38880:
+I'm outta here! What a disappointment! I could have put at least a dozen more notches on my gun on any other assignment!
+
+39360:
+I'm outta here! What a disappointment! I could have put at least a dozen more notches on my gun on any other assignment!
+
+39840:
+I was on your team. I got bored... The place had about as much action as a morgue without bodies.
+
+40320:
+Give me a break... I'm on vacation!
+
+40800:
+Must be a couple of big ones going down, everbody's getting work. I want to see what else comes my way before I say yes.
+
+41280:
+Skitz Bonner is fried, I gotta do something about him. It's time to clean the gene pool...
+
+42720:
+Give me a break! Ya paid through the nose!
+
+43200:
+Let's do it, big spender!
+
+43680:
+Ya... I'll sign on!
+
+45600:
+I'm outta here... There ain't nowhere around here to spend this kind of money!
+
+46080:
+I thought I was clear when I said...
+
+46560:
+Give me a break... Is daddy gonna mail you the money?
+
+47040:
+If you'd remember how I left, you'd know I wasn't coming back!
+
+47520:
+I'm not ready to get back into the grind just yet!
+
+48000:
+Skitz Bonner is fried, I gotta do something about him. It's time to clean the gene pool...
+
+50880:
+I thought I was clear when I said...
+
+51360:
+Give me a break... Is daddy gonna mail you the money?
+
+51840:
+Shooting clay pigeons was all right, but shooting people is a whole lot more fun. I think it's the screaming...
+
+52320:
+I give you my word... I don't let too many of them get away.
+
+52800:
+Give me a break... Do you have any idea what you're doing?
+
+53280:
+I've got more than just your offer to think about. The deal clincher is going to be the amount of signing money you're offering.
+
+55200:
+Thanks for the offer, but I won't be taking it.
+
+55680:
+Your offer has been matched. You'll have to do better if you're still looking to hire me.
+

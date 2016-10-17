@@ -1,0 +1,213 @@
+0:
+Have a sighting!
+
+480:
+Have an enemy in sight.
+
+960:
+Encountered hostile forces!
+
+1440:
+Have a sighting!
+
+1920:
+You're lucky my wife's not here!
+
+2400:
+It's despicable.
+
+2880:
+We should be extra cautious.
+
+3360:
+Things don't smell right around here.
+
+3840:
+This isn't healthy. Too much time to think.
+
+4320:
+And I could be golfing...
+
+4800:
+Encountered hostile forces!
+
+5280:
+I've come across something.
+
+5760:
+I wonder how it ended up here.
+
+6240:
+Haven't got any slugs left.
+
+6720:
+Sustained life threatening injuries... Don't know how long i've got..
+
+7200:
+Doctor Highball was a highly regarded physician, a close personal friend and a damn fine hunter.
+
+8640:
+I'm having problems.
+
+9120:
+Damn! My gun is jammed!
+
+9600:
+S.O.S.! Surgeon being shot at! I need assistance!
+
+10080:
+I'm having problems.
+
+10560:
+That was a near miss.
+
+11040:
+I'm not sure...
+
+11520:
+I'll need suturing.
+
+12000:
+I'm feeling weak.
+
+12480:
+I'm feeling weak.
+
+12960:
+It's not something I get to do often enough.
+
+13440:
+It's not something I get to do often enough.
+
+13920:
+Bald head and earring. Eliminating Skitz would not only make me happy, but society as a whole would benefit.
+
+15360:
+As a practicing physican, I recommend a prompt visit to your family doctor...
+
+15840:
+War's not supposed to be a pretty thing!
+
+16320:
+Heat's getting to me. I'm feeling weak.
+
+16800:
+I worked long enough to earn an honest pay.
+
+17280:
+Don't even bother asking me anymore.
+
+17760:
+I'd tell you to take a couple aspirins and call me in the morning. But you're not gonna be around in the morning!
+
+18240:
+I trust there will be no mention of this in my record. Actually, I insist there be no mention of this incident in any records.
+
+18720:
+Your conduct is reprehensible!
+
+19200:
+You're just fishing.
+
+19680:
+No, I won't cough for you. And your doctor jokes are getting really annoying!
+
+20160:
+And I could be golfing...
+
+20640:
+I have to get a new one. This thing doesn't work!
+
+21120:
+I'm not one to spread unsubstantiated rumours, however, I am privy to the fact that Koolhan's medical license in under investigation.
+
+21600:
+I'm a huge golfer, you know. I aced the seventeeth at Pinehurst. Yeah! And less than ideal conditions, on September 19th, 1995. You can ask Cliff Highball.
+
+22080:
+I was a doctor before I was a mercenary.
+
+22560:
+I fail to see the purpose.
+
+23040:
+And I could be golfing...
+
+23520:
+As long as Skitz is working for you, I can't stay here. The guy's unbalanced enough to be committed.
+
+24480:
+Cliff can afford to be picky - he's twice the shot that I am.
+
+25920:
+Had I been aware of your payment problems, I would've saved myself the trip down here. Now I have to go all the way back.
+
+26400:
+They'll be talking about this one in the trade papers for the years to come.
+
+26880:
+I don't believe it!
+
+27360:
+I'm not having much success.
+
+27840:
+Just so we get this straight - I'm staying for purely humanitarian reasons.
+
+28320:
+It's ours to win. We just have to be careful with this.
+
+28800:
+Perhaps you should gather your things and get out while you still can!
+
+29760:
+You just don't get the same kind of satisfaction from family practice.
+
+30240:
+Wipe that smile off your face, you think you're the first deadbeat I've come across?
+
+30720:
+I'm teeing off at nine. I have to run.
+
+31200:
+There's no question we were by far the best out there!.
+
+31680:
+At the price we paid I wish we could have gotten more!
+
+32160:
+She might require medical attention.
+
+32640:
+Have a sighting!
+
+33120:
+On behalf of all doctors everywhere - thanks! And goodbye!
+
+33600:
+We've disposed of that team.
+
+34080:
+Day is nearly over...
+
+34560:
+I'll be there shortly.
+
+35040:
+Alright, I'll repeat myself.
+
+35520:
+This thing doesn't work!
+
+36000:
+I think somebody else should handle this. My hands are important to me!
+
+36480:
+We should be extra cautious. There's fresh markings in the dirt.
+
+36960:
+I'm panicking! I... can't... catch my breath!
+
+37440:
+I'll be there before you know it!
+

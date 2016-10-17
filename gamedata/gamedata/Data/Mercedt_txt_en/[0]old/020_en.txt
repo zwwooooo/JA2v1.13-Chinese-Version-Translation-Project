@@ -1,0 +1,264 @@
+0:
+Hostiles!
+
+480:
+There you are. I've been waiting for you.
+
+960:
+Knee-deep in bloody hell!
+
+1440:
+Dung beetle!
+
+1920:
+Bloody insane! I swear I was holding a magnifying glass to a dung beetle that had the legs of a rabbit.
+
+2400:
+Bloody nasty, those things.
+
+2880:
+Sshhh! There's something or someone nearby.
+
+3360:
+Ugghh, they have the smell of the dung beetle too.
+
+3840:
+Careful here. I have a troubling hunch.
+
+4320:
+An ideal habitat for those dung beetles.
+
+4800:
+Hell! They're bloody everywhere!
+
+5280:
+Over here.
+
+5760:
+What's there?
+
+6240:
+I have to load more ammo.
+
+6720:
+Bloody, hemorrhaging.
+
+8640:
+I'm a little foggy! Hope I didn't suffer a minor stroke.
+
+9120:
+Bloody cheap firearms.
+
+9600:
+My position is under fire!
+
+10080:
+Ahhh... Gets the kinks out.
+
+10560:
+Afraid they didn't miss by much.
+
+11040:
+Not likely.
+
+11520:
+A stitch or two might control the bleeding.
+
+12000:
+I demand my sleep. It is necessary, you know.
+
+12480:
+I lost my breath.
+
+12960:
+Return to sender.
+
+13440:
+Dung beetle hell for you, bug!
+
+15360:
+Mike deserved that! As far as I'm concerned, that bloody American braggart should have been terminated a long time ago.
+
+15840:
+Now, I can retire.
+
+16800:
+Task completed.
+
+17280:
+No! Find another boy.
+
+17760:
+I'm always disturbed about killing a lady. Fortunately, that was not the case.
+
+18240:
+The bloody carcass couldn't rot away fast enough for me.
+
+18720:
+Bloody jackanapes!
+
+19200:
+This place is a waste of bloody time and my talent!
+
+19680:
+A lot of the mercenaries I am being forced to work with shouldn't be in possession of firearms.
+
+20160:
+Watch the sky! They're going to make a run at us.
+
+20640:
+This equipment should be donated to some sort of paramilitary charity.
+
+21120:
+How does one end up amongst such a classless group of people?
+
+21600:
+It's nothing personal, but every race has its place. Something the bloody Americans don't seem to comprehend.
+
+22080:
+I knew I could improve.
+
+22560:
+Appears highly impractical and stupid!
+
+23040:
+No surprise.
+
+25920:
+I'm not prepared to rush into anything for the moment.
+
+26400:
+Mike? I knew that overconfident ass would find himself in this situation.
+
+26880:
+I'm bloody blind.
+
+27360:
+This isn't going to work.
+
+27840:
+Comes across as a decent chap.
+
+28320:
+Hostiles have been detected in this sector.
+
+28800:
+Don't let your guard down. The jackanapes could be regrouping.
+
+29760:
+It is my weapon of choice.
+
+30240:
+That looks like the kid that's driving his mother crazy. Should probably tan his backside before I bring him home.
+
+30720:
+Well, she's only a woman, Miguel. We'll all be golfing by the weekend.
+
+31200:
+Body bags are the outfit of choice for all enemies in this sector.
+
+31680:
+This is completely unacceptable. I demand to know where the rest of the goods are.
+
+32160:
+Sure, it disturbs me, but in good conscience, I could not allow this abuse to continue.
+
+32640:
+Bloody wildcat!
+
+33120:
+Obviously, a handsome dividend for the investment in my time. Perhaps when you think of freedom, you will also think of, "Dr. Clifford Highball."
+
+33600:
+They left! We rule the roost.
+
+34080:
+I require sleep. I am taking it, and I shall resume work when I wake.
+
+34560:
+Back to work.
+
+35040:
+Precisely my thoughts.
+
+35520:
+Bloody foreign stuff. Can't depend on it for nothing!
+
+36000:
+Caution. I have the work of an incompetent here.
+
+36480:
+Step careful. We could be stepping on trouble.
+
+36960:
+Bloody... hell... Never drink... and swim...
+
+37440:
+That little jaunt's over. What now?
+
+38400:
+Not bloody likely. Not with a history like yours.
+
+38880:
+No, you jackanapes! If I was suicidal, I'd just bloody well hang myself.
+
+39360:
+As much as I'd like to, I cannot. My mother-in-law is spending a couple of days with us. I'm afraid I'm destined to spend my time listening to what an ass her last husband was.
+
+39840:
+That's too short of a notice. I am afraid I cannot stay.
+
+40320:
+Thank you for calling Doctor Clifford Highball. I cannot speak with you at this time. Leave your first name and message, and I will return your call at a more opportune moment.
+
+40800:
+Glad I could be of service. You know where to find me if the need arises.
+
+42720:
+My contract's nearly complete. Should I assume that your lack of interest is an indication that you will not be renewing?
+
+43200:
+Good! This place is beginning to grow on me.
+
+43680:
+Done! The next conversation we have will be in Arulco.
+
+45600:
+Not in my plans. I'd rather perform an appendectomy on myself!
+
+46080:
+Pay attention. I said...
+
+46560:
+We are unable to complete this transaction. You need to have the money, jackanapes!
+
+47520:
+No, you jackanapes! If I was suicidal, I'd just bloody well hang myself.
+
+50880:
+Pay attention. I said...
+
+51360:
+We are unable to complete this transaction. You need to have the money, jackanapes!
+
+51840:
+Doctor Clifford Highball...
+
+52320:
+Few mercenaries have the ability to inflict or relieve pain like I do.
+
+52800:
+It really isn't that complicated.
+
+53280:
+And you'll be requiring me for how long, precisely?
+
+53760:
+There's no need for me to be here if you aren't ready to negotiate.  Have a nice day!
+
+55200:
+My contract is almost complete.
+
+55680:
+My constant improvement has made me more valuable, hence the rise in my fees.
+

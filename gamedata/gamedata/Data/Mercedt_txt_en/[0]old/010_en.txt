@@ -1,0 +1,267 @@
+0:
+Unfriendlies.
+
+480:
+We've got company.
+
+960:
+Can't keep this up much longer.
+
+1440:
+I shoulda packed bug spray.
+
+1920:
+What I need is a 50-foot can of something really bad for the environment.
+
+2400:
+Looks like the roaches did some stompin' of their own here.
+
+2880:
+Something's moving around.
+
+3360:
+Smells like an outhouse...
+
+3840:
+My spidey sense is tingling.
+
+4320:
+Next time, I'm bringing bug repellent.
+
+4800:
+Got a whole infestation on my hands here!
+
+5280:
+Want a closer look at that.
+
+5760:
+Got something over here.
+
+6240:
+Chamber's empty.
+
+6720:
+I'm not doing so well.
+
+8640:
+Lost my bearings for a second.
+
+9120:
+Damned weapon doesn't want to fire.
+
+9600:
+I'm in the wrong place at the wrong time.
+
+10080:
+Took a hazing there.
+
+10560:
+That was close enough.
+
+11040:
+Crappy odds on making that shot.
+
+11520:
+I gotta stop this bleeding. It leaves a trail.
+
+12000:
+Time to sleep. Don't want to lose my concentration.
+
+12480:
+I need to get my breathing under control.
+
+12960:
+Didn't even say goodbye.
+
+13440:
+They check in, but they don't check out.
+
+15360:
+Mike is down. Can't say I'm sorry about it.
+
+15840:
+What a mess. Where's the dignity?
+
+16800:
+Finished here. I need something to do.
+
+17280:
+Can't go along with that.
+
+17760:
+She's more beautiful dead than she ever was alive.
+
+18240:
+I'm glad...but I got a feeling that bug's going to be alive in my dreams for a long time to come.
+
+18720:
+Got no use for people like that.
+
+19200:
+Getting awfully hard to keep a positive attitude around here!
+
+19680:
+Too much talk around here. Not enough discretion.
+
+20160:
+Aircraft approaching, take cover!
+
+20640:
+Great equipment. Somebody get it on special?
+
+21120:
+Hey, where I come from, two's a crowd.
+
+21600:
+The Cold War may officially be over, but Russian Imperialism is still alive and well. Just go by their actions, not their words.
+
+22080:
+That's measurable progress.
+
+22560:
+That's a plan?
+
+23040:
+That had disaster written all over it.
+
+25920:
+Isn't the time. Not convinced this is right yet.
+
+26400:
+Mike's here. Killing Mike... hmm.
+
+26880:
+I'm blind. Stings worse than rubbing alcohol.
+
+27360:
+Wish I could, but I can't.
+
+27840:
+I wish him the best.
+
+28320:
+We know they're there. It's just a question of finding them.
+
+28800:
+Have to keep our eyes open for the ones that still remain.
+
+29760:
+Lethal. That's what you are.
+
+30240:
+I think that's the kid we're supposed to bring home to mommy.
+
+30720:
+She won't. And she won't see it coming. We'll get the job done.
+
+31200:
+That did it! Nothing left to kill.
+
+31680:
+We been short-shipped... it's not all here.
+
+32160:
+What did she expect? Don't see any reason to feel bad about it.
+
+32640:
+That cat knows how to blend.
+
+33120:
+Think I liked this. Not usually one to say it, but it was a good trip. Maybe you'll see me around... but I'll probably see you first.
+
+33600:
+Alone again. Unfriendlies high-tailed it out of here.
+
+34080:
+Yeah, I better sleep. Don't want to do a bad job.
+
+34560:
+I'm awake and at it.
+
+35040:
+I was just gonna say that.
+
+35520:
+Figures. Factory seconds always break.
+
+36000:
+Trapped! Here's an intentional accident waiting to happen.
+
+36480:
+Hmm. Could be anything in the ground, but it doesn't look good.
+
+36960:
+Try to notice me here... I'm drowning!
+
+37440:
+Okay, I got here... What's up?
+
+38400:
+No sir, I'd prefer a leader who inspires more confidence.
+
+38880:
+No... but I'll tell you what. If I hear of any suicide jockeys who're available, I'll send them your way.
+
+39360:
+I'm not going to be available. Let's just say I'm visiting a sick friend.
+
+39840:
+I'll be incommunicado for a while. Let me know in advance next time. I'll see what I can do.
+
+40320:
+If you're getting this message, I may or may not be available. Let me know where you can be reached if you want me to return the call. Don't look for me. You won't find me.
+
+40800:
+Get in touch with me if you want me to do any more work for you. We might be able to work something out.
+
+42720:
+I could make myself available if you want to extend my contract.
+
+43200:
+All right. I'm staying.
+
+43680:
+Yeah, okay, we'll see how well we work together. You don't like my style, I don't like yours, we shake hands when the contract's over and call it a wash.
+
+45600:
+It didn't work out. You'll have to find somebody else.
+
+46080:
+Don't make me repeat myself. I told you...
+
+46560:
+I'm not signing on with a charity case.
+
+47040:
+Fine. Last thing I want to do is push myself on you. I'll see you before you see me.
+
+47520:
+No... but I'll tell you what. If I hear of any suicide jockeys who're available, I'll send them your way.
+
+50880:
+Don't make me repeat myself. I told you...
+
+51360:
+I'm not signing on with a charity case.
+
+51840:
+Mmm?
+
+52320:
+I don't like hanging out on the phone.
+
+52800:
+You starin' at me?
+
+53280:
+How long's the job?
+
+53760:
+This isn't a chat line. Try me again when you know what you need.
+
+55200:
+Contract's almost up, in case it slipped your mind.
+
+55680:
+Pays to keep climbing the ladder. I go up and so do the dollars.
+

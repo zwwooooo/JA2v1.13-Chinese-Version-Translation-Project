@@ -1,0 +1,165 @@
+0:
+What do you want?
+
+480:
+What's up, Cap?
+
+960:
+Been thinkin' that maybe I should get the heck out of Arulco.
+
+1440:
+Heck of a country from a bird's eye.
+
+1920:
+Can't see a use for that, Cap.
+
+2400:
+You're talkin' to the only guy left in Arulco who can fly an chopper.
+
+2880:
+Tone her down there, Cap.
+
+3360:
+Got a problem with bosses, Cap. Only do contract work.
+
+3840:
+I need help... First aid...
+
+4320:
+Not lookin' to chew it now, Cap.
+
+4800:
+Money's always cool, Cap!
+
+5280:
+You're grounded, Cap, 'til I see my money.
+
+5760:
+Skyrider. That's what they call me. Ain't nobody around here that can fly an eggbeater like me.
+
+6240:
+Sorry about being a little abrupt there. Been hanging low. Queen's looking for me to be part of her air force. Pays dink, and the hours are long. Plus, I can't stand her... on a personal level.
+
+6720:
+You get me to my eggbeater in Drassen, Cap, and we might be able to work out some business.
+
+7200:
+There's my baby. She looks just fine, Cap. We're in business...
+
+7680:
+Here's the story. I charge by distance and risk. I'll get you wherever you want to go as long as I got enough fuel to get my butt back. I do EVACS too.
+
+8160:
+But I don't do anything in unfriendly zones. I'll drop you off or pick you up as close as possible. It's my policy - think before you book. Works for me... you can make it work for you.
+
+8640:
+I'll be looking to get paid when the trip's over. You don't pay me, you're walking around Arulco.
+
+9120:
+If that's workable for you, Cap, you make contact when you need me. Together we'll fry that broad's butt!
+
+9600:
+Got a couple of concerns, Cap. The Queen's got SAM sites spread across the country. We take to the skies, the broad's got the means to blow us the heck out of 'em.
+
+10080:
+Makes the risk higher, Cap. High risk, big fee. I know she's got a SAM site to the east of Drassen. Takin' it out would lower your costs and... well... help keep my pretty-boy butt intact.
+
+10560:
+Good work, Cap. Taking out the SAM site bought us some room to play.
+
+11040:
+Skyrider, here. What's your plans for the bird?
+
+11520:
+I've been asking around...doing some legwork for ya. Managed to get the locations for the rest of the SAM sites.
+
+12000:
+There's one slightly south of Chitzena, another south of Cambria, and she's got one in the capital city of Meduna. Best I can figure, that's all of them. No need to thank me.
+
+12480:
+Hold on, don't tell me, I've already heard. Cleaning up Estoni gave us a new option. You found fuel and a clearing. We can use it to refuel. Give us more range... Your team ain't what I'd call tight-lipped.
+
+12960:
+That's a big roger, Cap.
+
+13440:
+I'll never make it there and back on a tank of fuel, Cap.
+
+13920:
+Gonna have to abort, Cap. Destination's got unfriendlies. I'll wait for new orders.
+
+14400:
+Just keep in mind, Cap, I don't put my eggbeater down in hostile territory.
+
+14880:
+I'm here, Cap.
+
+15360:
+Gotta make it snappy, Cap. Fuel's a burnin'.
+
+15840:
+Can't hangout any longer, Cap. I gotta head to base before I run out of fuel.
+
+16320:
+I've spotted some unfriendlies at ground level, Cap. Thought ya might want to know.
+
+16800:
+Got unfriendly activity below, Cap.
+
+17280:
+Okay. Just so we're straight on this, I'm a pilot, not a soldier. I'll do what I'm told 'til I get there, but ain't getting involved. I don't want no gun. I don't want to have to kill nobody.
+
+17760:
+Just show me on the map where ya wanna go, and I'll get ya there.
+
+18240:
+I got no plans on havin' anything to do with you, Cap! You guys tried to kill me... Remember?
+
+18720:
+Better change your tone, Cap! Or you're gonna have to take chopper lessons.
+
+19200:
+I'm strictly freelance, Cap. You can book me by the ride, but you ain't never gonna own me.
+
+19680:
+What's happenin', Cap? I thought you were gonna get me to my eggbeater...
+
+20160:
+I can't wait 'til we get there. Haven't taken the bird out for a spin in a long while.
+
+20640:
+You're one sick mother, Cap.
+
+21120:
+Thanks for getting me back on my feet, Cap.
+
+21600:
+You know, if you were to get the bums out of Cambria, I could drop the bird down with your wounded. There's a hospital there. Could pretty much drop 'em at the door.
+
+22080:
+Keep your chin up, Cap. Things will turn around.
+
+22560:
+The way things are going, Cap, won't be long before I'm putting you down right smack in the heart of Meduna.
+
+23040:
+I'm chopperless, Cap. Can't do much for ya.
+
+23520:
+Conditions ain't right for flying today, Cap. Sorry.
+
+24000:
+Get things under control, then we'll yak all ya want.
+
+24480:
+Thought you forgot about me.
+
+24960:
+Looks like the bird's been wounded, Cap. Think I'll be all right, but I'll need to have her checked out when I get back to the base.
+
+25440:
+I got some serious trouble here, Cap. Been hit good. Have to hightail it back to the base.
+
+25920:
+Can't... Can't hold her, Cap. She's going down...
+

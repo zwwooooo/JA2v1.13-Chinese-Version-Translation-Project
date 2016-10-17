@@ -1,0 +1,87 @@
+0:
+Malleus, Incus & Stapes Insurance Brokers
+
+160:
+"We're listening"
+
+320:
+Life Insurance Specialists:
+
+480:
+Comments From Our Most Valued Clients
+
+640:
+How does insurance work?
+
+800:
+To enter/review an insurance contract..
+
+960:
+Gus Tarballs - A.I.M.
+
+1120:
+Ali Hussein - Kuwaiti Bridge Builders Association
+
+1280:
+Lance Allotte - Bungee Jumpers of America
+
+1440:
+Frederick Cousteau - The North American Shark Cage Testers Alliance.
+
+1600:
+What We Can Offer You:
+
+1760:
+Premiums:
+
+1920:
+Renewal Premiums:
+
+2240:
+Policy Regulations:
+
+2400:
+Submitting a Claim:
+
+2560:
+Fraud:
+
+2720:
+Entering / Reviewing an Insurance Contract
+
+2880:
+Employment Contract:
+
+3040:
+Length:
+
+3200:
+Days remaining:
+
+3360:
+Insurance Contract:
+
+3520:
+Premium Cost:
+
+3680:
+Premium Refund:
+
+3840:
+Change Length:
+
+4000:
+(insured)
+
+4160:
+(not insured)
+
+4320:
+(deceased with coverage)
+
+4480:
+(deceased without coverage)
+
+4640:
+(partially insured)
+

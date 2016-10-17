@@ -1,0 +1,312 @@
+0:
+Bad dudes.
+
+480:
+The bad dudes are here. Time for them to taste trouble.
+
+960:
+I could use a hand here!
+
+1440:
+Gotta roach on patrol.
+
+1920:
+Check out the goon with the jaws! Man, I hope that thing stays outta my face.
+
+2400:
+I'd say the roaches been busy, man.
+
+2880:
+I sure as hell heard something.
+
+3360:
+(sniff...sniff) Let's watch our step. I think there's roach droppings around here.
+
+3840:
+Gotta stay ready for anything.
+
+4320:
+This place looks like a roach motel. They got to be around here somewhere.
+
+4800:
+Hey, dudes, I don't want to be the main course for these hungry goons.
+
+5280:
+I spotted something.
+
+5760:
+What's that over there?
+
+6240:
+Need some lead for this gun!
+
+6720:
+Don't think I'm gonna make it... If you dudes get desperate, you got my permission to eat me.
+
+7200:
+Magic, my brother, I owe you more than I can possibly tell ya. I swear I'm gonna avenge your death. I dunno how, but I'll try, man.
+
+7680:
+I'm gonna miss ya, Grizzly Bear... you were so cool under pressure. I wish I had your nerves, man. Sleep good, dude.
+
+8160:
+Blood, you were all right, dude. Your martial arts moves always blew me away, man. Save me a chair, dude.
+
+8640:
+Whoa, I zoned out. What was I in the middle of?
+
+9120:
+Aw, man, perfect time to jam.
+
+9600:
+I dunno what a smithereens is, but I'm about to be blown to 'em!
+
+10080:
+Barely felt it, dudes.
+
+10560:
+If ya bite it, Ice, who's gonna feed the dog?
+
+11040:
+We're talking missin' here, dude.
+
+11520:
+Aw, man, I'm bleedin' all over everything.
+
+12000:
+I can barely stay awake...
+
+12480:
+I'm outta breath. Shoulda never smoked.
+
+12960:
+You're history, dude.
+
+13440:
+That roach is a goner.
+
+14880:
+I got nothing against Bubba, but the way he looks at me... it's like he'd like to string me up. I know his kind, man.
+
+15360:
+Oh, man! I got Mike! Should get some sort of medal or something.
+
+15840:
+Whoa, dude... blood bath!
+
+16800:
+What's up, dude?
+
+17280:
+Don't ask me, man, 'cuz I ain't doin' it.
+
+17760:
+All right! That dude was no lady...
+
+18240:
+Yeah! Queen's been spaded, dudes.
+
+18720:
+That dipshit is full of it.
+
+19200:
+Things better shape up around here. I got one foot out the door already.
+
+19680:
+I don't know where most of these dudes get off callin' themselves Mercs. They're more like Jercs.
+
+20160:
+Bombers overhead! Gotta move our asses!
+
+20640:
+What kind of rinky-dink equipment is this? Somethin' from a blue-light special?
+
+21120:
+It'd be kinda cool if we weren't fightin' all the time, and we could just sit around and have a couple of beers and shoot the breeze.
+
+21600:
+I'm Black, so I can say it: the South Africans got chips on their shoulders a mile high and a mile wide.
+
+22080:
+On-the-job training, man!
+
+22560:
+Say, dude, I think your brains are scrambled slightly!
+
+23040:
+I coulda told you that wasn't gonna work, dude!
+
+24480:
+Way to be! Hey, they don't call him Magic for nothing!
+
+24960:
+Grizzly, you got it goin' on! Such style, dude!
+
+25440:
+You're the man, Blood!
+
+25920:
+Keep your shirt on, dude. I'll renew... maybe... once I'm ready.
+
+26400:
+It's Mike, man! This is a situation, ain't it?
+
+26880:
+Man that burns. Can't see squat.
+
+27360:
+This is a long way from happenin', dude.
+
+27840:
+He was quite the dude.
+
+28320:
+It looks like there's bad dudes in the area, man.
+
+28800:
+We got oustanding business. We haven't accounted for all the bad dudes.
+
+29760:
+That dude pissed me off!
+
+30240:
+Lookie! Lookie! It's the snot-nosed teenager dude. Should probably show him how my daddy would have taken care of things.
+
+30720:
+Well, she ain't gotta chance, dude, cuz we gonna remove her from the map. Lady's about to find out what's what.
+
+31200:
+Yeah, dude! Put another sector in the win column. Ain't nothing left breathing here.
+
+31680:
+You know, back home we break fingers for this sorta stuff, dude. It's not all here.
+
+32160:
+Shoulda done that sooner, man. She begged for it. It was the righteous thing.
+
+32640:
+Whoa, man, freaking big cat!
+
+33120:
+Yeah, we showed 'em what's what. Bet they won't forget us, but I know I won't forget them, dude. It was good hanging with ya.
+
+33600:
+Company's gone home, dude. We can turn out the lights.
+
+34080:
+I'm sacking up, dude. Be back.
+
+34560:
+Rise and shine, man. I'm on it.
+
+35040:
+I'm the same way here, dude.
+
+35520:
+Got a job for the fix-it list, dude.
+
+36000:
+Aw, man... it's set to blow.
+
+36480:
+Hang back, dudes. Looks kinda iffy around here.
+
+36960:
+Ah... man... dude... like, I'm going down... Can't do this... dude.
+
+37440:
+The trip's behind me, dude.
+
+38400:
+Look who's askin'! Not a chance, man. The grapevine says you're bad news.
+
+38880:
+No way, man. You're the Dr. Kevorkian of the merc world! Nobody survives...
+
+39360:
+No chance, dude. My new computer's coming. I gotta be here to set it up and everything. You understand that, don'tcha, man?
+
+39840:
+No can do, man. It's my anniversary, and the wife and I are goin' away for a while. You shoulda told me in advance, man. Maybe I could've juggled it around... well, not in this case, but most of the time.
+
+40320:
+This is Ice and Roberta Williams. We're not answering the phone right now. We're busy, dude. So, tell us what we can do for you, and we'll call you back!
+
+40800:
+Okay, dude, I'm hittin' the road. Have fun, keep cool.
+
+42240:
+Not a chance. I don't trust Bubba, I don't wanna work with him, and I sure as hell don't want to have to depend on him.
+
+42720:
+Hey, dude, my contract's comin' due. Time to squat or get off the pot.
+
+43200:
+Ask and ye shall receive, dude. I'm in.
+
+43680:
+All right, man. We'll give it a spin.
+
+44160:
+The hell with everything else. I want to work with Magic. I'm in.
+
+44640:
+I don't know, dude. You ain't exactly top-of-the-line, y'know? But you got Grizzly signed up, and I guess he knows what he's doing. So, I'm in.
+
+45120:
+I tell ya, dude, under other circumstances, I'd probably say no. But I think Blood's got a hell of a chance of making it big in this business, and I want to say, "I knew him when." So, I'm in.
+
+45600:
+Nope, not into it, man. Not my kinda project, not my kinda commander.
+
+46080:
+Dude, I said...
+
+46560:
+Trying to live beyond your means, dude?
+
+47040:
+Okay, you don't have to tell me twice. Just don't come crying to me later when you decide you need the Iceman again.
+
+47520:
+No way, man. You're the Dr. Kevorkian of the merc world! Nobody survives...
+
+48960:
+Not a chance. I don't trust Bubba. I don't wanna work with him, and I sure as hell don't want to have to depend on him.
+
+49440:
+The hell with everything else. I want to work with Magic. I'm in.
+
+49920:
+I don't know, dude. You ain't exactly top-of-the-line y'know? But you got Grizzly signed up, and I guess he knows what he's doing. So, I'm in.
+
+50400:
+I tell ya, dude, under other circumstances, I'd probably say no. But I think Blood's got a hell of a chance of making it big in this business, and I want to say, "I knew him when." So, I'm in.
+
+50880:
+Dude, I said...
+
+51360:
+Trying to live beyond your means, dude?
+
+51840:
+Yeah, this is Ice.
+
+52320:
+My motto is, "Friendly service with a smile."
+
+52800:
+This some kind of game?
+
+53280:
+Let's talk schedule. Whatcha got in mind?
+
+53760:
+Y'ever figure out what you want, call me. But don't bust my chops, I got things to do.
+
+55200:
+Well, dude, it's almost time for me to split.
+
+55680:
+Yeah, dude, figured if I'm better, my take should be, too. So, I gave my bottom line a little boost.
+

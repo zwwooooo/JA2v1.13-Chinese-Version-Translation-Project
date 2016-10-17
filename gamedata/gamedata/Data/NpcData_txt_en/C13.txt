@@ -1,0 +1,24 @@
+0:
+There is a man named Perko in Cambria. He can repair almost anything. I do not know if this information is useful to you.
+
+320:
+I give advice. Stay away from San Mona. It is a very bad town. It is full of sinners.
+
+640:
+There is evil in our town. It is Doreen. She forces our children to work for nothing. We would like very much for this woman to leave... forever.
+
+960:
+I'm really concerned about Father Walker. Deidranna has really depressed him. He spends more time in the bar than in his church.
+
+1280:
+Do you also hideout in the swamp house northeast of here?
+
+1600:
+Do you stay in that swamp house directly east of here?
+
+1920:
+Do you come from that swamp house southeast of here?
+
+2240:
+Is your hideout that house in the swamp southwest of here?
+

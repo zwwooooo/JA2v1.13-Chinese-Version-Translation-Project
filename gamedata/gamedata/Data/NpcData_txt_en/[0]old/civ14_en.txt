@@ -1,0 +1,45 @@
+0:
+I wondered if you'd be back.
+
+320:
+The town paid dearly. Hope you're going to protect us this time.
+
+640:
+Well... At least you didn't forget about us.
+
+960:
+You have returned.
+
+1280:
+The army was not happy with us. You must not let them in here again.
+
+1600:
+The army took its revenge. Please do not desert us.
+
+1920:
+Finally, you have come back to save us.
+
+2240:
+You must defend the town better.
+
+2560:
+We can not go through that again. The army was extremely harsh during your absence.
+
+2880:
+Please... I beg you. Don't let the Arulcan army return.
+
+3200:
+It was Hell. I do not wish to live through that again.
+
+3520:
+We prayed you would not forget us.
+
+3840:
+We were at their mercy.
+
+4160:
+People will be more cautious of you now. The Queen has made sure of this.
+
+4480:
+We trusted you. It will take time to trust you again.
+

@@ -1,0 +1,84 @@
+0:
+Waldo Zimmer. Certified aeroplane mechanic. Graduated in '90 from Barlitz School of Aviation and Air Conditioner Repair.
+
+480:
+Yup...
+
+960:
+Feels like rain.
+
+1440:
+Ah-huh...
+
+1920:
+Nah...
+
+2400:
+Sure like to work on a jet engine one day.
+
+2880:
+I'm not scared of nuthin' no more.
+
+3360:
+Nah... Don't think I want to be doing that.
+
+3840:
+Yup... It don't look good for me.
+
+4320:
+Wish I could talk more. Can't.
+
+4800:
+I'm gonna take it, 'cause I haven't got paid in some time.
+
+5280:
+Yup. That helicopter works all right, but you killed the pilot. Course, there was another fella. Can't remember his name.
+
+5760:
+Saw him around here, oh, not a week ago, wearing big wader boots. He kinda smelt like a swamp, too.
+
+6240:
+Think he's in some kinda trouble with the Army... He was sneaking around, making sure nobody saw him. He's probably one of them draft dodger fellas.
+
+6720:
+Bet the Army could really use another pilot, too. You kinda created an immediate openin'.
+
+7200:
+What's the matter with you?
+
+7680:
+It's too dangerous to talk now.
+
+8160:
+Why, thank you.
+
+8640:
+Yup. Kinda think I can fix the helicopter. She's damaged pretty good though. Take some time... And parts. Plenty of parts. Come back tomorrow.
+
+9120:
+Lost the helicopter, huh. Too bad. If it was in Drassen, I might have been able to do something for ya. I'd have access to my tools and some parts.
+
+9600:
+Keep your money. Can't do nothing for ya.
+
+10080:
+You ARE gonna get the job done, huh? The whole thing. Don't want ya just gettin' her mad...
+
+10560:
+Yup. Kinda think I can fix the helicopter. Take some time... And parts.
+
+11040:
+Yup. Kinda think I can fix the helicopter. She's damaged pretty good though. Take some time... And parts. Plenty of parts.
+
+11520:
+Come back tomorrow.
+
+12000:
+Come back in some time.
+
+12480:
+Too bad.
+
+12960:
+Yup. Job done.
+

@@ -1,0 +1,321 @@
+0:
+I can feel you're here...
+
+480:
+My trigger finger's itchy...
+
+960:
+Hey! Easy now...not all at the same time!
+
+1440:
+Come here...I have a soft spot for rare animals.
+
+1920:
+Did you see that? Wow, what an animal.
+
+2400:
+Well, at least they're thorough...like Jurassic Park here, eh?
+
+2880:
+What was that?
+
+3360:
+That smell's unbelievable. These animals stink like a sewer in flood.
+
+3840:
+Hear anything? Me neither. Suspicious...I don't like it.
+
+4320:
+I think they're here. Come on out, you slimeballs, I'm waitin' for you.
+
+4800:
+Dammit, there's too many of 'em!
+
+5280:
+Somethin' lyin' there.
+
+5760:
+There's somethin' here.
+
+6240:
+Hah, out of ammo! Who needs it anyway?
+
+6720:
+Dammit, I'm hit.
+
+7200:
+Janno! No! We Estonians have to stick together. You can't just die on me. Hey, I'll buy you your favorite food...
+
+8160:
+You weren't bad for a Russian, Victor.
+
+8640:
+Time for some keep fit exercises.
+
+9120:
+I just love this thing when it jams!
+
+9600:
+I've killed better guys than you.
+
+10080:
+That was tough...but I'm tougher.
+
+10560:
+Wow! I felt the draught of that bullet.
+
+11040:
+Shoot to hit a target? Are you serious?
+
+11520:
+I'm losing blood.
+
+12000:
+Got to get some shuteye before I fall asleep on my feet.
+
+12480:
+Breathe!!
+
+12960:
+Whack...haa!
+
+13440:
+One more for my collection.
+
+13920:
+Chinese make me clazy.
+
+14880:
+A real arrogant bigmouth, that Lynx.
+
+15360:
+Well, Mike, Lenni was faster, haa.
+
+15840:
+Yeh, life's a bitch...
+
+16320:
+Night missions...not one of my strong points.
+
+16800:
+Ready.
+
+17280:
+That's an order I can't accept.
+
+17760:
+I once had a girl like her.
+
+18240:
+I knew I'd be the one to get you.
+
+18720:
+There are scumbags...and scumbags.
+
+19200:
+If I hadn't listened to you Janno, I'd be somewhere nice havin' fun right now.
+
+19680:
+I'd even trust a survival camp platoon more than this damn outfit.
+
+20160:
+Air attack!
+
+20640:
+Shitty equipment really gets on my nerves.
+
+21120:
+These people have a lot to learn. They have to put more into it.
+
+21600:
+I once saw a video of Arulco. But this is different. Interesting place.
+
+22080:
+Improving all the time!
+
+22560:
+That would be counter-productive.
+
+23040:
+I saw that comin'.
+
+23520:
+You want me to cooperate with Mr. Oriental Wisdom Q himself?
+
+24480:
+Yeh, Janno. They call him "Brain", did you know that?
+
+25440:
+Victor, that was impressive. You know I'm no Russian lover, but you're OK.
+
+25920:
+I suppose you've noticed that I have Kamikaze blood in me, hm? But the way things look right now, I think I'll wait a little before I extend my contract.
+
+26400:
+No...! That's Mike!
+
+26880:
+I can't see!
+
+27360:
+No, can't do it.
+
+27840:
+Nice place, nice climate - no wonder folks in Siberia act different.
+
+28320:
+This is an enemy sector. Want to bug him a little?
+
+28800:
+This party isn't over yet.
+
+29280:
+What is that?
+
+29760:
+Nice weapon.
+
+30240:
+Is that not...Joey?
+
+30720:
+Ahem...we're honored - these Latin American freedom fighters are always so dramatic.
+
+31200:
+This sector's clean.
+
+31680:
+Who arranged this deal? I want his balls for breakfast - there's stuff missing here!
+
+32160:
+She reminded me of an old girlfriend - what was her name again...
+
+32640:
+A Bloodcat!
+
+33120:
+That was a lot of fun - and we won! It was well planned and carried out even better.
+
+33600:
+Where have they all gone? Party poopers.
+
+34080:
+I have to take a break now....
+
+34560:
+I'm back!
+
+35040:
+Me too!
+
+35520:
+This thing doesn't work.
+
+36000:
+Well, doesn't this look like a nice trap? Do I hear something ticking?
+
+36480:
+Easy...there's something on the ground there.
+
+36960:
+Dammit, I'm drowning!
+
+37440:
+I'm on site and ready.
+
+38400:
+It's no fun when someone is as incompetent like you...the answer's no.
+
+38880:
+You might be generous, but only with the lives of your own people. I don't like that at all.
+
+39360:
+My girl is ...sick. I have to take care of her.
+
+39840:
+I don't like being left hanging until the last minute. Ask me sooner next time.
+
+40320:
+This is Lennart Vilde. If you something interesting to offer, please speak after the beep tone.
+
+40800:
+Looks like we're finished here. Time to go.
+
+41280:
+Listen to Dr. Q spiritualizing the whole day long? Sorry.
+
+42240:
+There's a small problem here. If this Lynx says more than 2 words, he's dead. That's not so good for your team spirit.
+
+42720:
+Wouldn't mind extending for you...anything doing?
+
+43200:
+OK, deal.
+
+43680:
+OK, I'm hurrying.
+
+44160:
+OK, if Janno is on the team, no problem. He at least knows what he's doing...
+
+45120:
+Victor is a professional, if he's signed up, that's OK by me.
+
+45600:
+No thanks. Try somebody else. Our last mission was enough for me.
+
+46080:
+I'll say it again...
+
+46560:
+Have you had a look at your money recently?
+
+47040:
+I don't think you know what you really want.
+
+47520:
+I don't like how you treat the lives and the health of your people. You have no style.
+
+48000:
+I see Chinese dangel! Solly, I leally cannot extend my contlact.
+
+48960:
+That Lynx kills the whole mission for me. Sorry, but I think I'll look for another contract.
+
+49440:
+Hey, if Janno is on board, I am too. We make a good team.
+
+50400:
+I suppose I should know better...but if Victor stays maybe we have a chance.
+
+50880:
+I'm telling you...
+
+51360:
+Thanks for asking, but you don't expect me to work for nothing, do you?
+
+51840:
+Lennart here, hello...
+
+52320:
+A night mission...now that would be nice for my shooting skills.
+
+52800:
+What are we waiting for?
+
+53280:
+For a month, a year...what are we talking about here?
+
+53760:
+Think first - then call.
+
+54240:
+The China wonder boy and me leally don't make velly good team.
+
+55200:
+Just to remind you, my contract is soon up.
+
+55680:
+My performance has improved, so my pay has to match that. You know I'm worth it...
+

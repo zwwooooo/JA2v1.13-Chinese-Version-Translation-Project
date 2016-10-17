@@ -1,0 +1,10 @@
+大图：
+Data-1.13\BigItems
+
+中图：
+Data-1.13\Interface\MDGUNS.sti
+长枪：58×22内
+短枪：29×22内
+
+小图：
+\Data-1.13\tilesets\0\smguns.sti

@@ -1,0 +1,36 @@
+0:
+I am the warden.
+
+480:
+You're still alive...
+
+960:
+Don't even try to sweet talk me!
+
+1440:
+You're wasting your breath. Just do whatever it is you're going to do.
+
+1920:
+You know what you can do with that!
+
+2400:
+Say what you will, the Queen will deal with you.
+
+2880:
+I don't fear you.
+
+3360:
+Join you? You'll all be dead by the end of the week.
+
+3840:
+Have... the decency.. to put me... out of my misery.
+
+4320:
+I have nothing to say.
+
+4800:
+You're making a huge mistake!
+
+5280:
+You trying to bribe me? I will confiscate this money as evidence.
+

@@ -1,0 +1,249 @@
+0:
+I see the enemy...
+
+480:
+I see an enemy... 
+
+960:
+Dere everywhere, boss!
+
+1440:
+Hehe... Dey don't know I'm here, boss!
+
+1920:
+Hehe... Dey don't know I'm here, boss!
+
+2400:
+It looks like a lot of gophers live here...
+
+2880:
+Da... What was that?
+
+3360:
+It looks like a lot of gophers live here...
+
+3840:
+Is anybody home?
+
+4320:
+Pretty quiet, huh...
+
+4800:
+Dere everywhere, boss!
+
+5280:
+Somebody left somethin' here.
+
+5760:
+Da... What's this?
+
+6240:
+No bullets!
+
+6720:
+Don't feel too good... Think I been hit, boss...
+
+9120:
+A bullet got stuck in my gun.
+
+9600:
+Dere somebody's shootin' at me.
+
+10080:
+Da... Is your insurance gonna cover dis?
+
+10560:
+Da... Dat was quick!
+
+11040:
+I don't see it!
+
+11520:
+Da... I got blood running down my legs!
+
+12000:
+Da... I gonna need to nap soon!
+
+12480:
+I gotta take a break...
+
+12960:
+Good-bye...
+
+13440:
+Bye-bye...
+
+15360:
+Good-bye...
+
+15840:
+It's awfully pretty around here.
+
+16320:
+Da... No! I don't know. I think...
+
+16800:
+It done, boss!
+
+17280:
+Da... I don't get it!
+
+17760:
+That was fun!
+
+18240:
+That was a lot of fun!
+
+18720:
+Mom warned me about people like you!
+
+19200:
+Dat wasn't very nice. I don't want to talk to you!
+
+19680:
+Da... Don't look good, boss.
+
+20160:
+Did anyone get da license plate?
+
+20640:
+It don't work!
+
+22080:
+Perfect!
+
+22560:
+Da... You can sure talk a lot, but my ears are tired of listening.
+
+23040:
+Da... I'm torn!
+
+25920:
+Maybe... I'll give you an answer soon.
+
+26400:
+I see an enemy... 
+
+27360:
+Da... It went badly?
+
+28320:
+It's shootin' time!
+
+28800:
+I don't think there's anybody left.
+
+29760:
+Bye-bye...
+
+30720:
+Daaaaa... Ya!
+
+31200:
+That bunch has all gone to heaven!
+
+32160:
+Good-bye...
+
+32640:
+Da... I don't like dat!
+
+33120:
+Da... We're gettin' pizza. You want any?
+
+33600:
+That was a lot of fun!
+
+34080:
+Da... I gonna need to nap soon!
+
+34560:
+Da... Okay!
+
+35040:
+Does anybody remember what we're supposed to do with it?
+
+35520:
+Da stuff looks awfully cheap!
+
+36000:
+If I cut the red wire... It won't hurt nobody!
+
+36480:
+Da... What a great view I'm gonna have!
+
+36960:
+Help me... I can't swim no more...
+
+37440:
+Da... What should I do again?
+
+38400:
+No! I ain't never gonna work for you. You tried to buy me...
+
+38880:
+No! I don't like you!
+
+39360:
+I'm confused... And I'm not happy!
+
+39840:
+What to do? Somebody else wants me too... I guess I go for the most money.
+
+40320:
+Da... What's this?
+
+40800:
+Finders keepers... Bye!
+
+42720:
+Da... What's a mime?
+
+43200:
+Da... You the boss.
+
+43680:
+Okay... You my new boss!
+
+45600:
+I'm confused... And I'm not happy!
+
+46080:
+I say again...
+
+46560:
+Da... I can't! You don't got da money!
+
+47040:
+Okay... Goodbye!
+
+47520:
+No! I don't like you!
+
+50880:
+I say again...
+
+51360:
+Da... I can't! You don't got da money!
+
+51840:
+I had a bomb blow-up right in my face... How many guys can say dat?
+
+52320:
+I can make new friends!
+
+52800:
+Hey... Don't I know you?
+
+53280:
+Pay me double!
+
+53760:
+Da... I think we got a bargain!
+
+55200:
+Da... I promised my mother I'd visit today.
+
+55680:
+Somebody has to give me more money. It's not easy to decide when the money's the same.
+

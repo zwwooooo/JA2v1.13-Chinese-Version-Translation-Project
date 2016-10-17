@@ -1,0 +1,201 @@
+0:
+Traitors!
+
+480:
+Have action here!
+
+960:
+This is dilemma!
+
+1440:
+Borscht!
+
+1920:
+Christ in Kremlin! Now I face them! Can this be real?
+
+2400:
+Had I been here, I would not have let this happen.
+
+2880:
+A noise! A suspicious noise.
+
+3360:
+Grandma's borscht? No, it cannot be.
+
+3840:
+I anticipate danger. I am ready.
+
+4320:
+Trouble is near... I know it.
+
+4800:
+I do not know fear.
+
+5280:
+I find something.
+
+5760:
+Interesting...
+
+6240:
+I need reload!
+
+6720:
+Ah... my name is spelled P-A-L-K-O-V, and I am diabetic in case doctor... must know.
+
+8160:
+Poor Ivan, mother Russia was better for you. You did her proud. I will fight this day for your honor.
+
+8640:
+Ah, a bad memory. I lost my concentration.
+
+9120:
+My weapon is not functioning.
+
+9600:
+They are just trying to scare me without success.
+
+10080:
+In Russia, we call that foreplay.
+
+10560:
+I felt a breeze.
+
+11040:
+I cannot see it from here.
+
+11520:
+I am shedding my blood!
+
+12000:
+I am requiring a sleep.
+
+12480:
+Urgent, let me catch my breath.
+
+12960:
+I win this one!
+
+13440:
+The monster is mash potatoes.
+
+14880:
+Why make me work with an idiot like Fidel! He is no good, and I wish him to be removed from my presence.
+
+15360:
+All right you fool, you have made your decision. Fidel stays, I go.
+
+15840:
+Inside I am warm and fuzzy.
+
+16800:
+Job complete. Next?
+
+17280:
+I do not feel it necessary.
+
+17760:
+So we meet again, Deidranna, and all too fitting that it would be me to bring you to your death. You may have hired me, but in good conscience, I could not continue.
+
+18240:
+Die, you mother of borscht!
+
+18720:
+What an imbicile.
+
+19200:
+Should have shot Deidranna when I had chance. But, no, and look now what we must go through.
+
+19680:
+Why can't more people be like me? Hm?
+
+20160:
+Overhead!
+
+20640:
+Junk! A soldier of my quality should have better equipment. Clearly, this is obvious to everyone.
+
+22080:
+I am improving.
+
+22560:
+Think this slower. I think you go too fast for self.
+
+23040:
+Drunk like skunk, I would not have done that.
+
+25440:
+Ivan, you are the pride of Mother Russia.
+
+25920:
+Perhaps there is an error in processing? I do not see pay yet.
+
+26400:
+Ungrateful infidels! Many would pay dearly for my service, so I shall seek them out instead.
+
+26880:
+Aghh! It is with much pain that I cannot see!
+
+27360:
+My opinion is, it is not possible.
+
+27840:
+Clearly, she liked me.
+
+28320:
+Traitors in the area!
+
+28800:
+We must remain on guard. The traitors are still near.
+
+29760:
+The party is over!
+
+30240:
+The teen boy! I will give him stern lecture.
+
+30720:
+Most unexpected. I had changed allegiance for you, and this what I get? Most unexpected.
+
+31200:
+All traitors lay in their blood without movement.
+
+31680:
+We are not the first to open this... Others have made claim to our things.
+
+32160:
+I hated this woman even when I was on other side. She is someone nobody could like. Yet... I like her now.
+
+32640:
+Siberia!
+
+33120:
+For this opportunity, for this success, I owe you congratulations and praise.
+
+33600:
+The traitors have moved out of territory.
+
+34080:
+It is urgent that I sleep.
+
+34560:
+I am presently working.
+
+35040:
+Me too!
+
+35520:
+I am tiring of this junk equipment.
+
+36000:
+Oooh... it is dangerous!
+
+36480:
+There lies traces of danger.
+
+36960:
+Ur...gent... the currents... they... pull... me... un <glub> der...
+
+37440:
+My arrival has happened.
+

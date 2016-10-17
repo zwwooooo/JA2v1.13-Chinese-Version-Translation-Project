@@ -1,0 +1,303 @@
+0:
+More scoundrels!
+
+480:
+We've got scoundrels skulkin' about. Let's teach them a thing or two.
+
+960:
+I'm in over my head here, man!
+
+1440:
+Got another jabberwock in the neighborhood.
+
+1920:
+Holy big sister, this is the first time I ever been seein' a real live Jabberwock. They be ugly things, man!
+
+2400:
+Somethin' nasty been this way, man. I be thinkin' it's one of the Jabberwock, whifflin' and burblin' and things.
+
+2880:
+There be some odd noises I'm hearin', man. I don't like it one bit.
+
+3360:
+Woo-ee, man! Those Jabberwocks sure be leavin' a stink.
+
+3840:
+I don't like how quiet it is, I be tellin' ya. It's like bein' in the eye of a hurricane, don't ya know.
+
+4320:
+I'm thinkin' we don't be alone here, man. I can feel the flamin' eyes of the Jabberwocks starin' at us.
+
+4800:
+Back off! Do I look like a bag of Jabberwock chow?
+
+5280:
+Somethin' be over there, man.
+
+5760:
+What be dat, man?
+
+6240:
+I got no more bullets in my gun.
+
+6720:
+Can there be pain worse than this?
+
+8160:
+Spider, you were all right. I'm so sorry we lost you, sister. So sorry...
+
+8640:
+I be losin' it, man.
+
+9120:
+This gun's out of order, man!
+
+9600:
+These lowlifes aren't givin' me a chance!
+
+10080:
+Dat be nothing, man... I don't bruise easily.
+
+10560:
+My horoscope said this was my lucky day.
+
+11040:
+Dat be a tough one, man.
+
+11520:
+Now I'm bleedin' for the love of God, man.
+
+12000:
+I be needin' my sleep.
+
+12480:
+I can't catch my breath, man.
+
+12960:
+Hope it hurt!
+
+13440:
+I killed the Jabberwock!
+
+13920:
+I never work with Lance Fisher before. Dat guy's a coward! He shouldn't be in this business. Get rid of him or I'm leaving.
+
+14880:
+I tell ya, man, that racist pig Gasket is getting under my skin. I be thinkin' of liposuctionin' him out.
+
+15360:
+Mike succumbs to the deadly Vicki! Now who be the number one merc, I ask ya?
+
+15840:
+Oh, that bother me even when I see it in the movies, man.
+
+16320:
+Crawl spaces creep me out, man... I hate it in here.
+
+16800:
+I be all finished, man.
+
+17280:
+Ain't no way I'm doing that, man.
+
+17760:
+She's better now.
+
+18240:
+Oh, frabjous day! The main jabberwock, she be snuffed, man!
+
+18720:
+What a waste of a brain, man.
+
+19200:
+I be losin' whatever faith I had in this miserable journey, man. I'm not a happy camper.
+
+19680:
+Most of the mercs on this team be lewd, crude, and rude, man. If I saw them on the sidewalk, I'd be crossin' the street to avoid them.
+
+20160:
+There be enemy aircraft, man!
+
+20640:
+All this equipment might be fine for Halloween costumes, but it be doing nothing for us!
+
+21600:
+Why there be so many beer-swillin', testosterone-soaked slobs in this business? It's gettin' so a woman can't go into combat without bein' hassled!
+
+22080:
+I'm not gettin' older, I'm gettin' better!
+
+22560:
+I can't believe there be no better way.
+
+23040:
+I can't believe we even tried that!
+
+23520:
+It be Lance, I be sure. There be nobody else with that look of fear!
+
+25440:
+I'm so proud of Spider... Dat girl's got it.
+
+25920:
+I not be renewing anything right now. One cannot be too cautious when deciding on a contract.
+
+26400:
+Oh, holy smokes, man, we're up against Mike himself!
+
+26880:
+I no be seeing nothing, man.
+
+27360:
+I be blowin' my time, man.
+
+27840:
+Some people deserve better than to be livin' here...
+
+28320:
+It appears we have company in this area, man.
+
+28800:
+I wouldn't be gettin' too confident. We still have company.
+
+29280:
+Oh, man... Something so fine should come with a card.
+
+30240:
+That be the little dickens over there, man. I should drag him home by his nose.
+
+30720:
+She be removing nothin'! You hang tight, and let us do our work.
+
+31200:
+Yeah, man! That be the last of them.
+
+31680:
+Hey! Some stuff be missin' here. Someone be looking for trouble.
+
+32160:
+She asked for it. Did everything but say it out loud, man. This world is better off. Trust me.
+
+32640:
+Jungle cat!
+
+33120:
+Yeah man! We lined 'em up, and we took 'em down. I been at this a long time, and I never met people as good as you. You keep a line open. We be talking again, soon.
+
+33600:
+They be outta here like a '57 Chevy, man. Afraid of us, they be!
+
+34080:
+<yawn> I be needing some sleep. Can't do a good job running on empty.
+
+34560:
+Ya. I be awake now, and back to work.
+
+35040:
+Same here.
+
+35520:
+This be workin' about as well as a Chevy motor in a Ford. Not at all!
+
+36000:
+Relax... I think this be trapped.
+
+36480:
+Hmm... I don't be liking the looks of that.
+
+36960:
+The water... it's moving... fast. I be tiring...
+
+37440:
+I be standing where ya wanted me, man.
+
+38400:
+No thanks, man. If I be takin' a job with the likes of you, I'll never respect myself again!
+
+38880:
+No thanks, man. Around here, they call you the Merc Motel...'cuz Mercs check in, but they don't check out!
+
+39360:
+Sorry man, I be havin' my annual Midnight Madness Sale at the shop.
+
+39840:
+I'm sorry man, I've been looking forward to the Car Show all year. Tell me you need me as early as you can and I be tryin' to help you out.
+
+40320:
+This is Vicki Waters. I be either on assignment or at the shop. So, leave me your vitals, and I be getting back to you as soon as I can.
+
+40800:
+Thanks, man. It wasn't so bad. I don't know why someone started that rumor about you.
+
+41280:
+When I worked for you, you were hiring weenies like that guy Lance, and last I heard, he's still there.
+
+42240:
+Sorry, man. I can't in good conscience be signin' with ya. Gasket is such a racist. I can't lay down my life for someone who'd just as soon like to kill me himself.
+
+42720:
+Say, man, my contract is almost up. Would you be wantin' to renew it?
+
+43200:
+Thanks man, I'll keep doing my best for you.
+
+43680:
+Thanks man, I'll show you how a real merc performs.
+
+45120:
+Well, I be tellin' ya, I've had better offers, but there's something about Spider that I be wanting to be workin' with her. I'll take the job, man.
+
+45600:
+No thanks, man. I don't think you know what you're doing out there. Maybe you should be pushin' pencils behind a big desk instead.
+
+46080:
+Did ya hear me, man? I was saying...
+
+46560:
+I hope you be havin' some extra money stashed away somewhere, 'cuz you don't have enough left in the bank.
+
+47040:
+I'll be on my way then. But I tell you, you are making a serious mistake. Mercs of my stripe are not easy to come by.
+
+47520:
+No thanks, man. Around here, they call you the Merc Motel...'cuz Mercs check in, but they don't check out!
+
+48000:
+I never worked with Lance Fisher before. That guy's a coward! He shouldn't be in this business! Get rid of him or I'm leaving.
+
+48960:
+Sorry, man, I can't in good conscience be signin' with ya. Gasket is such a racist. I can't lay down my life for someone who'd just as soon like to kill me himself.
+
+50400:
+Well, I be tellin' ya, I've had better offers, but there's something about Spider that I be wanting to be workin' with her. I'll take the job, man.
+
+50880:
+Did ya hear me, man? I was saying...
+
+51360:
+I hope you be havin' some extra money stashed away somewhere, 'cuz you don't have enough left in the bank.
+
+51840:
+Vicki Waters. Who I be speaking with?
+
+52320:
+You're not holding up your end of the conversation, man.
+
+52800:
+Come on, man, spit it out.
+
+53280:
+What kind of an arrangement did you have in mind?
+
+53760:
+You can always call me back when you have a clearer idea of what you want, but in the meantime, please don't waste my time.
+
+54240:
+I never worked with Lance Fisher before. That guy's a coward! He shouldn't be in this business!
+
+55200:
+Be lettin' you know, I be headin' off soon, man.
+
+55680:
+I be movin' up in the ranks, man. And my price be movin' with me.
+

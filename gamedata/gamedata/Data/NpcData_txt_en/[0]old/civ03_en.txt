@@ -1,0 +1,45 @@
+0:
+The spiders are gonna get me!
+
+320:
+Ya gotta help us. I'm really scared of those bugs.
+
+640:
+They're scary. Real scary... Those big spiders are bigger than me.
+
+960:
+A big spider ate my mommy.
+
+1280:
+I have bad dreams of bad bugs.
+
+1600:
+Are ya gonna kill the spiders?
+
+1920:
+I'm scared. Ya gotta do something about those things, soldier.
+
+2240:
+My dad says there are no such thing as monsters.
+
+2560:
+Don't let them eat us...please.
+
+2880:
+The bugs ate my auntie. And she was real big.
+
+3200:
+I don't want to die. Ya gotta do something.
+
+3520:
+I hear the bugs have really big teeth.
+
+3840:
+Are you gonna kill...kill them bugs for us?
+
+4160:
+The spiders make me stay awake.
+
+4480:
+They're big! Real Big!
+

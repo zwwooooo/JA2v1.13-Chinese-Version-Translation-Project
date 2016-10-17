@@ -1,0 +1,45 @@
+0:
+You are not welcome here.
+
+320:
+The army will take care of you.
+
+640:
+You have no right to be in Tracona.
+
+960:
+Why are you here?
+
+1280:
+The people will resist.
+
+1600:
+You are a force of invaders.
+
+1920:
+Your intrusion will be reported.
+
+2240:
+What gives you right to be here?
+
+2560:
+This is independent country.
+
+2880:
+Remember, you are being watched.
+
+3200:
+It best you leave now.
+
+3520:
+Go back! Go back now!
+
+3840:
+You are hated. And unwanted.
+
+4160:
+You are in Tracona without authorization.
+
+4480:
+Soon! The army will come for you.
+

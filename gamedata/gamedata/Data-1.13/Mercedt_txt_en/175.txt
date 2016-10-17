@@ -1,0 +1,312 @@
+0:
+We have enemy contact.
+
+480:
+The operation can begin!
+
+960:
+I need some help here.
+
+1440:
+Interesting creatures!
+
+1920:
+Pity my father isn't here. This species would interest him indeed.
+
+2400:
+Carnivores, maybe even omnivores? I could not say.
+
+2880:
+I heard something.
+
+3360:
+Could this be pheromone? This stuff is not meant for humans to smell.
+
+3840:
+It is much too peaceful here.
+
+4320:
+My interest in this new species is somewhat limited! I do not wish to study their hunting behavior from close-up.
+
+4800:
+Oh, they hunt in packs...aah!
+
+5280:
+A closer look at that...
+
+5760:
+What is that?
+
+6240:
+Out of ammo!
+
+6720:
+I need a pressure bandage - and morphium - fast!
+
+7200:
+Rudolf... it had to happen. It was either you or me... It is out of our hands. But really, could you EVER have imagined us two in a fireplace rocking chair?
+
+7680:
+Pity about you, Victor. You were a man of principle. That impressed me.
+
+8640:
+Where were we?
+
+9120:
+This weapon is jamming.
+
+9600:
+Too much lead in the air!
+
+10080:
+That was bad...
+
+10560:
+That was very close.
+
+11040:
+Wishful thinking.
+
+11520:
+I'm losing too much blood. I have to stop this bleeding!
+
+12000:
+Human bodies need a pause - it is time for mine.
+
+12480:
+It's like a rarified atmosphere - breathe...breathe!
+
+12960:
+He definitely earned that.
+
+13440:
+Maybe I should take a bio-sample?
+
+13920:
+That Buzz really gets to me.
+
+14880:
+Fox is exactly the right name for that little tramp.
+
+15360:
+It's over, Mike.
+
+15840:
+No doctor can help here.
+
+16800:
+I await new orders.
+
+17280:
+Regretfully, I have to say no.
+
+17760:
+Operation concluded - patient dead.
+
+18240:
+It's a shame really. And I have no formaldehyde... Do we have any dry ice here?
+
+18720:
+It would be better for some team members to get out of my way....fast.
+
+19200:
+My motivation is at zero level. This mission has lost its meaning for me.
+
+19680:
+Some people don't belong here - or, I could be in the wrong place at the wrong time - but mostly in the wrong company.
+
+20160:
+Air strike!
+
+20640:
+As a doctor I like to have good tools when I'm stitching someone up - as a merc, when I am killing someone, I do not need Scheisse like this!
+
+22080:
+It's nice when one can master something - and I am getting better all the time...
+
+22560:
+Doubtful...very doubtful.
+
+23040:
+Well, just as I said...
+
+23520:
+That Buzz has a bad effect on my circulation.
+
+24480:
+There is no one better than Rudolf!
+
+24960:
+Yes! Excellent, Victor! Why do they all call you Monk?
+
+25920:
+Too soon for me...let us wait to see how it will be.
+
+26400:
+Mike?
+
+26880:
+Ahh, my retina, my EYES...I can see nothing!
+
+27360:
+Surgical and military operations have one thing in common - some simply cannot be done...
+
+27840:
+One must admire the people here for their endurance. I can well imagine what they have been through.
+
+28320:
+Enemy in vicinity!
+
+28800:
+We are not done here yet - there are still enemies around.
+
+29280:
+What is that?
+
+29760:
+An excellent weapon!
+
+30240:
+That must be Joey - after him!
+
+30720:
+My apologies for my countrywoman. It is a special pleasure for me to help this country and its people. I have known the horrors of a dictatorship too.
+
+31200:
+This sector is now green - and surgically clean.
+
+31680:
+There are items missing. Someone has helped himself to our supplies.
+
+32160:
+It is through people like her that evil governments can exist and flourish.
+
+32640:
+Arulco really has very interesting fauna...
+
+33120:
+It is a good feeling, this fighting for a better world. I liken it to the feeling I get after a clean, successful operation. You first remove a cancerous growth - then the patient has rehabilitation...mmm-mmh
+
+33600:
+It would seem that the enemy has retreated.
+
+34080:
+I will sleep now.
+
+34560:
+Ahh, that was good. Even a short sleep can work wonders for the body.
+
+35040:
+My opinion exactly.
+
+35520:
+This thing here is kaputt.
+
+36000:
+Looks like a booby trap.
+
+36480:
+Be careful to watch the ground - it is perhaps a trap.
+
+36960:
+I am drowning...!
+
+37440:
+I await new orders.
+
+38400:
+No thank you. I have been reading about you - and the conditions in which people have to be working under you.
+
+38880:
+Corpses surround you - you are well-known for this.
+
+39360:
+I must visit a medical congress, I am sorry.
+
+39840:
+I do not like it when one makes me wait. The next time you could ask earlier...
+
+40320:
+Here is Dr. Laura Colin. In urgent cases, please buzz my pager.
+
+40800:
+You may ask me again next time...
+
+41280:
+I do not like being bugged. And Buzz bugs me very much - no, I am sorry.
+
+42240:
+No, not if our 'little fox' is on the team - that one I hate...she annoys me very badly.
+
+42720:
+Would you agree to a contract extension, perhaps?
+
+43200:
+Good. We agree.
+
+43680:
+Yes, I believe the mission will hold much interest for me.
+
+44160:
+I may speak openly...the reason why I am accepting in spite of my... misgivings.. is that you have employed Rudof Steiger. He is a true professional - if he is with us, my concerns are nothing.
+
+44640:
+Well, I am curious to know whether my positive impression of this Victor Kolesnikov can be true - therefore.. I agree.
+
+45600:
+Hah! I could imagine something much better...a better atmosphere, do you understand? Like going to the dentist to get a tooth pulled...
+
+46080:
+I said...
+
+46560:
+If you have money problems, please do not ask rhetorical questions in future, OK?
+
+47040:
+It is your decision.
+
+47520:
+I am of the opinion that too many good people die on your missions. And I do not mean through illness either!
+
+48000:
+I cannot stand men-hating women like that Buzz - I must say no.
+
+48960:
+With Fox together? Thank you, no. If I wish to hear telephone sex during a mission, I will let you know.
+
+49440:
+I like to work with Rudolf. For me he is a full pro. However, I must tell you...this is the only reason why I am saying yes.
+
+49920:
+That Victor Kolesnikov interests me, indeed...of course on a purely professional basis...I say yes!
+
+50880:
+I said...
+
+51360:
+You have no capital...but perhaps you are not aware of this?
+
+51840:
+Hallo?
+
+52320:
+Perhaps we should make a few...stretches and pushups?
+
+52800:
+More speed would be appreciated.
+
+53280:
+The contract...how long were you thinking of?
+
+53760:
+When you know what you wish - call me. I ask you not to be so generous in future - with my time.
+
+54240:
+I prefer not to work with Buzz. She has an effect on every team like arsenic on a human stomach.
+
+55200:
+Please remember - our agreement is coming to an end.
+
+55680:
+I am getting better and better. I think my pay should reflect this fact.
+

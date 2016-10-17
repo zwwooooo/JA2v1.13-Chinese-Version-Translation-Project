@@ -1,0 +1,45 @@
+0:
+You have to do something. Those gruesome bugs are eating us alive.
+
+320:
+Those beasts are everywhere!
+
+640:
+The insects are eating people! I've seen it.
+
+960:
+Those god-awful bugs are everywhere.
+
+1280:
+Can't you do something about those insects?
+
+1600:
+I heard those creatures ate someone else last night.
+
+1920:
+You have to help us. The spiders are terrorizing us.
+
+2240:
+I saw one... It was disgusting.
+
+2560:
+If you really cared about us, you'd do something about those beasts.
+
+2880:
+The town barely sleeps. The threat of a attack from those creatures terrifies us.
+
+3200:
+I've heard the bugs are as big as we are... It can't be true.
+
+3520:
+Is it true? Do giant bugs kill people at night?
+
+3840:
+Between you and me, I find this whole creature thing hard to swallow.
+
+4160:
+You are the only ones capable of stopping the giant spiders, you must do something.
+
+4480:
+First the queen, and now the bugs. Haven't we suffered enough?
+

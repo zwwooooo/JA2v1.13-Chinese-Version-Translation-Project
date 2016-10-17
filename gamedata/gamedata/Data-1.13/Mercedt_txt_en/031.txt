@@ -1,0 +1,294 @@
+0:
+Squaddie.
+
+480:
+Break's over!
+
+960:
+Time to get tough.
+
+1440:
+Prehistoric ant!
+
+1920:
+Bloody Creepers! Reminds me of me ex-wife's lawyer.
+
+2400:
+They sure keep themselves busy.
+
+2880:
+Heard a strange noise.
+
+3360:
+<sniff Man-o-man! Got some prehistoric gas comin' out of 'em.
+
+3840:
+Should tread carefully around here.
+
+4320:
+Wish they'd just show their ugly heads so we could get this started.
+
+4800:
+If I could find their neck, I'd snap it!
+
+5280:
+There's something.
+
+5760:
+Could be of use.
+
+6240:
+More lead'd be good.
+
+6720:
+I'm passed saving. Ugh... Let me die. At least I know my ex-wives will have to find work.
+
+7200:
+If they can get Mike... Anyone of us could be next!
+
+8640:
+Feeling tuned out. What's up again?
+
+9120:
+My piece crapped out.
+
+9600:
+They got me in their sights.
+
+10080:
+One of these days, it's a new line of work for me.
+
+10560:
+Good try, cadet!
+
+11040:
+Hardly anything to get a fix on!
+
+11520:
+I'm bleedin' steady.
+
+12000:
+<yawn It's time to talk to the sandman.
+
+12480:
+Chest's... crampin'.
+
+12960:
+Hope it hurt!
+
+13440:
+Gotcha!
+
+13920:
+Kaboom's a menace. I don't know how many times he's nearly blown me up. I'll be sure not to miss!
+
+15360:
+He was my best friend.
+
+15840:
+Doubt I'll find an ear to collect...
+
+16800:
+I'm free.
+
+17280:
+Not bloody likely.
+
+17760:
+Usually, I'm attracted to a woman like that... maybe I've finally gotten over it.
+
+18240:
+Thank God! The next job with bugs I pass on.
+
+18720:
+Bet mom was a prostitute and dad stiffed her.
+
+19200:
+What was I thinking when I signed on?
+
+19680:
+I'm working with a good bunch of mates.
+
+20160:
+Take cover, mates.
+
+20640:
+The stuff I've been getting to use is decaying. It was probably poorly stored somewhere for years.
+
+21120:
+It's good to get away once in awhile and meet some new mates.
+
+21600:
+La-di-da twits can take their manners and nose-in-the-air attitude and stick it up their starched white shirt-tails.
+
+22080:
+I get off on it.
+
+22560:
+Was it a late night, mate?
+
+23040:
+Reality bites, doesn't it?
+
+23520:
+Stand back! It looks like Marty Moffat.
+
+24480:
+Mike's top dog!
+
+25920:
+Hang on to that thought, mate.
+
+26400:
+Ah, please... let it not be Mike.
+
+26880:
+Got some of the bloody bug juice right in me eyes. Now...I can't see f-all!
+
+27360:
+Did what I could.
+
+27840:
+Someone I'd split a pint with.
+
+28320:
+It's an unfriendly sector, mate.
+
+28800:
+Still got unfriendlies hidin' somewhere, mate.
+
+29760:
+Firepower, mate! Separates the men from the boys!
+
+30240:
+It's that urchin Graham. We should bag him and send him home to his mum.
+
+30720:
+She won't get far with that, seeing that we're here. Have confidence, Miguel. She'll be the one with the worries now.
+
+31200:
+Squad down! Better luck next time!
+
+31680:
+I don't want to point any fingers, mate, but someone's had their hand in the cookie jar.
+
+32160:
+She reminded me of my second wife. My fourth and fifth, too. If you get my drift, this was a right good thing we'd done here. Haven't got the time or money to put 'em all through therapy.
+
+32640:
+Zoo's out, mate!
+
+33120:
+Sure, there were ups and downs, but all in all, it was a great job. Good to be a part, mate.
+
+33600:
+Look at that, will ya? They put their tails in their arse and ran away.
+
+34080:
+I'll just get me a bit of slumber, and I'll be right better at this.
+
+34560:
+Catnap does the trick. I'm back at her, mate.
+
+35040:
+My thoughts exactly.
+
+35520:
+Damn. Perhaps I should have looked after this more carefully.
+
+36000:
+This bugger's set to blow.
+
+36480:
+Looks like they've laid out a welcome mat for us.
+
+36960:
+Don't let my body... stay in the water for...long. Don't want any of me eight kids... to see my bloated body.
+
+37440:
+Had a good trek, mate. What ya be looking for me to do now?
+
+38400:
+Word's filtered back, mate. You ain't the type of boss I'm looking for. Maybe some of the new, more desperate guys can help you out.
+
+38880:
+Not bloody likely. You've built up quite a collection of rotting corpses, mate. I've got eight kids to think of, and none of their moms work.
+
+39360:
+I can't commit to anything right now, mate. Waitin' on a call back from another war that's about to explode.
+
+39840:
+Sorry, mate, but while you were deciding what you wanted to do with me, I signed on for something else.
+
+40320:
+You've reached the home of Robert James Sullivan. If you're calling about hiring one of the best mercenaries in the business, leave a message.
+
+40800:
+It's quite the country, mate. Glad I could be of help.
+
+41280:
+Kaboom needs help tying his freakin' shoes. And you actually expect me to work with him? You must be crazier than he is!
+
+42720:
+Tick-tock, tick-tock... You got some decisions to make, mate. I can't hang around without a contract.
+
+43200:
+All right, mate. It's back to business.
+
+43680:
+Sure... I could use some time away from here.
+
+44160:
+Just so you're up to speed. If it wasn't for Mike being on your team, I wouldn't be joining.
+
+45600:
+Not bloody likely, mate. I'd rather have root canals done on all of me teeth.
+
+46080:
+No problem, mate. I said...
+
+46560:
+Tough luck. Would have liked to help you out, but I got to get paid, mate.
+
+47040:
+I was kinda hoping to spend a little more time down here, but you're in charge, mate.
+
+47520:
+Not bloody likely. You've built up quite a collection of rotting corpses, mate. I've got eight kids to think of, and none of their moms work.
+
+48000:
+Everything was cool until you went and hired Kaboom. I can't stay on with you as long as he's on your team. He's got soup for brains... He needs help using a fork!
+
+49440:
+Just so you're up to speed. If it wasn't for Mike being on your team, I wouldn't be joining.
+
+50880:
+No problem, mate. I said...
+
+51360:
+Tough luck. Would have liked to help you out, but I got to get paid, mate.
+
+51840:
+Robert James Sullivan is not here at the moment... oh, sorry, mate... I thought it was someone else. Scully here.
+
+52320:
+I ask one thing, mate. Don't let my problems with women get you questioning my loyalty, because THAT you can bank on. I'm just a really... sociable guy.
+
+52800:
+I got a bit of time, mate.
+
+53280:
+Surely, mate, you'll want to consider the massive savings on a steady gig.
+
+53760:
+I don't have this much time, mate. Nobody does! Gotta go.
+
+54240:
+Allow me to give you a tip. You never want to be anywhere near Kaboom when he's cleaning his gun.
+
+55200:
+Clock's moving, mate. This gig's coming to a close.
+
+55680:
+Ching-ching! Hey, mate, I reckon that someone with my talent deserves a bit of a raise. Not that I'll actually see any of it, mind you, not with the child support payments I've got to make.
+

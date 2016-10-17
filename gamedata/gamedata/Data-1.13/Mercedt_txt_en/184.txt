@@ -1,0 +1,210 @@
+0:
+I think I see someone.
+
+480:
+I think I see an enemy. I might be able to shoot him from here.
+
+960:
+I'm in hot water here!
+
+1440:
+If I stay quiet, I could surprise him.
+
+1920:
+My eyes are playing tricks on me!
+
+2400:
+I got to do something about this. It's been happening way too often lately.
+
+2880:
+I hope it doesn't mean what I think it means.
+
+3360:
+This area smells of trouble.
+
+3840:
+I get nervous when there's no action.
+
+4320:
+This area is a little unnerving.
+
+4800:
+I'm in hot water here!
+
+5280:
+I think I see something.
+
+5760:
+I better take good care of this.
+
+6240:
+Out of bullets. I need all the ammo I can get!
+
+6720:
+I didn't see it coming. They blindsided me. I can't hang on for ver long... Send help.
+
+7200:
+Carp has passed away. It would've been nice if someone could've played pipes in his honour.
+
+8640:
+Must have overlooked something.
+
+9120:
+As if my aim wasn't enough of a problem, now my gun's not firing!
+
+9600:
+I hear shots! They're coming awful close!
+
+10080:
+I can't go much further... without taking... a break.
+
+10560:
+Take my heart miss a couple of beats!
+
+11040:
+A chance is extremely slim.
+
+11520:
+I think I'm bleeding.
+
+12000:
+I could use a rest.
+
+12480:
+I can't go much further...
+
+12960:
+Farewell!
+
+13440:
+We got one!
+
+13920:
+The Fox is nothing but trouble. Either you ship her out of here, or I'm shipping myself out.
+
+15360:
+I was hoping for more.
+
+15840:
+Your mother was a cheap date!
+
+16800:
+We've done it.
+
+17280:
+It is not possible!
+
+17760:
+This mission's over!
+
+18240:
+I have a feeling that was the last of them.
+
+18720:
+You've been warned.
+
+19200:
+There's far too many mercenaries dying down there.
+
+19680:
+I don't think you're capable of pulling off a succesful mission.
+
+20160:
+We have run into major snag!
+
+20640:
+Zis thing seems to be broken.
+
+21120:
+Women have no business being in combat!
+
+21600:
+I'm sure I can help you out - but I hope you realize my aim has been a little off lately.
+
+22080:
+I want to make sure you haven't overlooked my inconceivably strong mechanical skills.
+
+22560:
+We have run into major snag!
+
+23040:
+You have established a reputation for failure.
+
+23520:
+Women have no place in the military. Especially Fox. She's causing nothing but problems. I am leaving!
+
+24480:
+It will be great! My old chess buddy Carp signed on with you.
+
+25920:
+I've listened to your pity attempts at working things out far more times than I care to remember.
+
+26400:
+This guy could only stand still, I could finish him off.
+
+26880:
+I've been having some difficulties with my eyes.
+
+27360:
+I can't pry it.
+
+27840:
+You sure smell nice.
+
+28320:
+Are you scared?
+
+28800:
+Where did everybody go?
+
+29760:
+I'm half blind, and we're still creaming you!
+
+30240:
+I'm sure I can help you out.
+
+30720:
+This is a treatment I get for having a minor handicap?
+
+31200:
+I don't believe there's anyone left in that group!
+
+31680:
+Saying we paid too much would be an understatement.
+
+32160:
+It'll do.
+
+32640:
+Yikes!
+
+33120:
+We put in a good mission!
+
+33600:
+Just where did you do your training?
+
+34080:
+Things have been pretty slow lately.
+
+34560:
+I shall be working for you.
+
+35040:
+I believe I've mentioned that.
+
+35520:
+Zis thing seems to be broken.
+
+36000:
+There's something suspicious about it.
+
+36480:
+There's something suspicious about it.
+
+36960:
+Help me! I'm going underwater!
+
+37440:
+We should get going.
+

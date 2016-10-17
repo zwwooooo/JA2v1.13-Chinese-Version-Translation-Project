@@ -1,0 +1,213 @@
+0:
+Got trouble here!
+
+480:
+Dere an enemy over here!
+
+960:
+I gonna die, ain't I?
+
+1440:
+What's dis?
+
+1920:
+What's dis? Looks weird.
+
+2400:
+I saw where da body went.
+
+2880:
+We movin'?
+
+3360:
+Yep. It's not good.
+
+3840:
+Yep. It don't look safe here.
+
+4320:
+Come out, come out, wherever you are!
+
+4800:
+I gonna die, ain't I?
+
+5280:
+Somebody must have lost dis.
+
+5760:
+Something here.
+
+6240:
+Don't got no bullets.
+
+6720:
+Mom? Is that you, mom?
+
+7200:
+Mike's dead? Wow, nobody ever killed Mike before!
+
+8640:
+Where to?
+
+9120:
+Dis gun ain't shootin'!
+
+9600:
+Dey shootin' at me!
+
+10080:
+Ah. I run every day.
+
+10560:
+Lucky!
+
+11040:
+I'd be shootin' for nothing.
+
+11520:
+I wonder where the blood's comin' from?
+
+12000:
+I'm gettin' dizzy.
+
+12480:
+I'm gettin' dizzy.
+
+12960:
+I bet that hurt, huh?
+
+13440:
+I bet that hurt, huh?
+
+13920:
+Moses is too old. You make him retire tonight, or I go tomorrow.
+
+15360:
+Mike's dead? Wow, nobody ever killed Mike before!
+
+15840:
+Oops.
+
+16320:
+This is hopeless.
+
+16800:
+Yep! We done did it!
+
+17280:
+Nope! We ain't gonna do it.
+
+17760:
+It's over already?
+
+18240:
+I gotta get a real job.
+
+18720:
+I don't like you. You make me mad.
+
+19200:
+Get out from behind that desk and face me like a man!
+
+19680:
+Hi. I'm Carl. I'm thirty six. I'm single. And I own my own mobile home.
+
+20160:
+I hate it when dat happens!
+
+20640:
+It broken good.
+
+21120:
+I'm cheap, and I'm sure good at opening crates!
+
+21600:
+I rented some movies. I haven't finished watching 'em all yet.
+
+22080:
+You know? I was almost a big star in the WWE, but I just didn't fit into those star-spangled shorts.
+
+22560:
+I'm taking the money, and staying right here. What do you gonna do about it?
+
+23040:
+Is it quittin' time yet?
+
+23520:
+Moses gets lost in the bathroom! I can't work with him.
+
+24480:
+Yup, I really like to work with Mike!
+
+25920:
+I can count, you know. You don't have all the money!
+
+26400:
+Mike ain't gonna like dis!
+
+26880:
+I hate it when dat happens!
+
+27360:
+This is hopeless.
+
+27840:
+Dat's OK.
+
+28320:
+Come and get it!
+
+28800:
+Come out, come out, wherever you are!
+
+29760:
+I want to try again.
+
+30240:
+Come on, you little chizzler.
+
+30720:
+It's time to head for home!
+
+31200:
+Those guys are all gone.
+
+31680:
+We sure paid a lot of money.
+
+32160:
+Chick looks dead. I mean - real dead.
+
+32640:
+Got trouble here!
+
+33120:
+We need to get back soon, before it gets dark.
+
+33600:
+Dat everybody?
+
+34080:
+Goodbye!
+
+34560:
+I gotta go to the dentist. This tooth is killing me!
+
+35040:
+I think I told ya.
+
+35520:
+It broken good.
+
+36000:
+Yep. It's not good.
+
+36480:
+It don't look safe here.
+
+36960:
+<gurgle>
+
+37440:
+Where to?
+

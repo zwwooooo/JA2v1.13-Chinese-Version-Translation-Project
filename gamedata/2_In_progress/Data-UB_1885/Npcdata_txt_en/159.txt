@@ -1,0 +1,312 @@
+0:
+Hello? Hello? Is this operational? Hello? Wait. Now which switch was it? Bear with me. Line out. Okay? Hello?
+
+480:
+There we go! Please accept my apologies for that. We're just getting the equipment installed here, and I am trying, at present, to work out some of its finer points.
+
+960:
+You didn't have any trouble finding us, did ya? We are a relatively new organization, and for all intents and purposes, you are our first customer. I must say that this is highly exhilarating!
+
+1440:
+I am aware that you may have heard certain things about us, but I encourage you to put them aside. After all, my partner, Biff Apscott, and I are both former A.I.M. members and highly decorated mercenaries ourselves.
+
+1920:
+M.E.R.C. is our first attempt to open up the market by offering comparable quality, better service and unique candidates for recruitment. You will undoubtedly be interested to know why you should choose M.E.R.C. over A.I.M.
+
+2400:
+I have prepared, uh, there it is, a list. First, no money is required upfront, unlike certain other organizations. You pay only when you receive the invoice. Secondly, I am confident that you will appreciate our prices.
+
+2880:
+Lastly, we offer a good range of individuals, and, as business improves, I plan to expand my venture, offering more and more mercenaries for your perusal. I will also be updating our web page.
+
+3360:
+In passing, it was prepared rather quickly, and Biff is not as skilled with a mouse as he is with a gun. In any case, don't let it deter you. We are a new organization committed to serving your needs.
+
+3840:
+So, perhaps I could interest you in opening up an account? Biff has, I believe, incorporated that feature.
+
+4320:
+On behalf of M.E.R.C., thank you for opening an account with us. This is rather important to us actually, and we ask that you continue to support us as we strive to improve our service and selection.
+
+4800:
+Well, hello. Returning customers are a good sign! It is fair to say that this has been a trying venture. It's difficult starting out on your own with established competition. I am pleased you continue to patronize us.
+
+5280:
+Greetings. A paying customer, I hope. Pardon me, I have been reviewing our financials. Biff was attempting to recruit new members, but our account receivables are too low to warrant growth. Looks highly daunting to me.
+
+5760:
+Good, good! I must express my gratitude to you! I am fortunate that your continued patronage has allowed M.E.R.C. to expand. If I were prone to fancy, I would say that A.I.M. should be concerned for its members.
+
+6240:
+It's a pleasure to welcome you again. Just now, I was reviewing our books, and it appears that, supported by current levels of revenue, we will be able to recruit new mercenaries. It is most encouraging.
+
+6720:
+Oh, hello. How shall I say this? Well, firstly, understand it is a purely business decision on my part, and while I do appreciate your business, I regret that I cannot allow you any new recruits until your account is paid.
+
+7200:
+I am pleased you've stopped by. I was hoping for this opportunity. You see, I regret it's come to this, but your outstanding balance is causing great financial difficulty for us, and may, I fear, render our venture insolvent.
+
+7680:
+I am certain you understand all the labor, the dreams and the hopes that we had instilled in M.E.R.C., and perhaps you could see to it to correct what I am hoping is only an accounting oversight and remit your balance.
+
+8160:
+Good to see you! We did receive your payment, thank you, and our files indicate that we can once again restore complete service to you. As our venture grows, it is my hope to extend more credit to our valued accounts.
+
+8640:
+Pleasure to see you again, but I do have some bad news. Although we received your payment, I regret that we are unable to grant you full access due to the amount which remains outstanding. Could you review your account?
+
+9120:
+Thankfully someone can get through! This, this Internet is all so new to me, and today, the main server apparently lost our routing tables. It is very complicated, but I am attempting to insure it doesn't happen again.
+
+9600:
+Welcome to M.E.R.C. We are committed to offering you quality, affordable and highly trained freelance mercenaries. We are the new choice for discerning teams.
+
+10080:
+It's our new motto. I thought I would give it a once over to you, seeing as you are familiar with our operation. I'm quite partial toward it.
+
+10560:
+I am most pleased to inform you that, in no small part fueled by your active patronage of M.E.R.C., we were able to secure the services of new mercenaries. I welcome and encourage you to review their files.
+
+11040:
+Hello. You'll have to pardon me, but at the risk of sounding forward, numerous M.E.R.C. members have perished while serving under your command. This is disturbing. I encourage you to exercise more caution with my employees.
+
+11520:
+By the way, I hope you have thought to review your electronic mail. I forwarded you a notice concerning an outstanding balance you have with M.E.R.C.
+
+12000:
+Oh, and lest I forget, we did receive your payment. Thank you.
+
+12480:
+Let me add that we did receive your payment, and it has been applied to your account. I am certain that pressing matters kept you from paying it on time, and I hope that this was an abnormal occurrence for you.
+
+12960:
+I suppose it was an eventuality, but the first seems so hard to accept. Well...
+
+13440:
+Yes, I have... excuse me, heard about Biff's passing. He was, well, my business partner, the reason M.E.R.C. came into being. At least he was thoughtful enough to leave me the outstanding shares in his will.
+
+13920:
+Let me add that I did receive an email regarding Haywire. I recall when we interviewed him for a position with us. He had the potential to go far, provided he continued to take his medication. It is a sad day for M.E.R.C.
+
+14400:
+I am certain you know that it is with regret that I accept the news of Gasket's death. Just the other day, I had received word that his family was planning a revival for his homecoming. He was, they say, a "good old boy."
+
+14880:
+So you're aware, I have heard about Razor. When we first met, he came for Thanksgiving dinner. What skill! He carved the turkey, as well as portions of the table, in five minutes. His spirit will be difficult to replace.
+
+15360:
+Be aware that this is a trying time for Biff. I should have mentioned that to him, Flo was everything, and news of her passing was not taken well. I fear that for the foreseeable future, Biff will likely be indisposed.
+
+15840:
+And yes, I did receive the news of Florence's death. Somehow, and pardon me if I sound morose, but I feel a sense of comfort knowing that she and Biff are together in spirit. I had, one day, believed they would marry.
+
+16320:
+And, you're aware, obviously, that Florence has married? Perhaps we should have seen it coming. Biff has taken the news as if she were, well, dead. Poor Biff. I fear he will be indisposed for some time.
+
+16800:
+Now, to the news for which all M.E.R.C. grieves, Gumpy's death. When critics scoffed and suggested M.E.R.C. would attract only the fringe, I would hail Gumpy as our Harvard ambassador. Truly sorrowful.
+
+17280:
+There is, of course, the matter of Larry Roachburn. What a loss we all partake of this day. A fervent supporter of M.E.R.C., he will be remembered fondly by all. I suspect he'll need no embalming.
+
+17760:
+Yes, before you ask, I have heard that Larry has once again succumbed to his addictive demons. I had asked him to take a copy of his AA, NA, CA, HA and OA texts with him, but he felt he was on solid ground. Just terrible.
+
+18240:
+There is another thing... allow me a moment to collect myself. Cougar. He was, without question, our top performer, someone who could champion M.E.R.C.'s cause across the world. This hits us particularly hard.
+
+18720:
+Might I add that it is most strange how I feel about Numb's death. We conversed about this very topic, and he was undaunted at its prospect. All he requested was that his tattoos be displayed, post mortem, as art.
+
+19200:
+I have been advised of Bubba's death. Perhaps in this world, some individuals do not benefit from chance. I do believe Bubba was such an unfortunate. He seems to have been born that way.
+
+19680:
+And, of course, I presume you came to review our site? I won't keep you any longer.
+
+20160:
+Well, I've appreciated our discussion. You are most welcome to peruse our offerings, and, of course, hire any one of our talented mercenaries.
+
+20640:
+If there is anything further I can provide you, it would be my pleasure to do so. We, here, at M.E.R.C., truly appreciate your patronage.
+
+21120:
+Now, is there some service we can provide to you today?
+
+21600:
+You have my greatest appreciation for your payment. Thank you.
+
+22080:
+Thank you for your partial payment. And I presume you are aware the rest is still on your account?
+
+22560:
+Perhaps I could offer a suggestion. If you are in the market for a seasoned veteran of the mercenary trade, consider Biff Apscott. Not only is he the co-owner of this fine venture, but he is well respected by all in the trade.
+
+23040:
+I do believe that I have precisely the proper candidate for your interests. Have you reviewed Haywire's file? He is extremely adept at extinguishing enemy forces and is rather talented with edged weapons.
+
+23520:
+Now, consider Gasket. Have you had a chance to thoroughly review his dossier? He is both a constant and a level-headed team cooperative who is highly adept with his mechanical skills and is seeking to improve others.
+
+24000:
+If precision is important to you, and of course it is, might I direct you to Razor's file? He is quite an accomplished master with the blade, and I believe he would make a delightful accompaniment to your team.
+
+24480:
+Stability, no doubt, is a well-respected trait in a mercenary. Our own Flo would provide your team with exactly that. She has an extensive array of firearms knowledge, and is also a delight among other members.
+
+24960:
+Have you pondered a need for an explosives expert? Someone you might want to consider is Gumpy. He is, and we proudly say this, Harvard educated. And to his credit, he works well alone.
+
+25440:
+By the way, M.E.R.C. believes that any person, if they avail themselves of the proper help, can completely turn their lives around, and become almost the envy of others. Our veteran, Larry Roachburn, is proof of that.
+
+25920:
+I have the impeccable mercenary for you. Brilliant, well trained, by the book, and, bar none, M.E.R.C.'s perfect mercenary. I would recommend you consider Cougar before someone else does.
+
+26400:
+I have a thought for you. Perhaps you should study Numb's dossier. He's really quite an impressive aspirant. His background speaks volumes for itself, and his stern individuality is often highly commendated.
+
+26880:
+Have you given any thought to someone with prior experience? Our own Bubba, we proudly offer, has succeeded where so many would fall prey to society's criminal element. He is fearsome, and would make a stellar addition.
+
+27360:
+Might I interrupt to point out that we are, as revenue permits, constantly on the look out for new M.E.R.C. members. In fact, I do believe we are on the verge of signing new mercenaries shortly.
+
+27840:
+I received a news item recently, one I thought which might hold interest for you. In a survey conducted by Yale University, nearly 44%%%% of A.I.M. members were proved to be under the influence of a controlled substance.
+
+28320:
+There is something else. In fact, this so perplexes me that I simply must convey it. A member in good standing of A.I.M. has told me that they fully expect an FBI raid on their headquarters. It could mean their demise.
+
+28800:
+By the way, are you cognizant of the fact that nearly 95 percent of A.I.M.'s mercenaries are repeat offenders? Their bios are completely fictitious and probably written by a delusional idiot. I would bet on it.
+
+29280:
+Between you and I, I must say that I served for A.I.M., and I am aware of their practices, many illegal. The truth is that regardless of what they or their members say about me, they are known to be habitual liars.
+
+29760:
+I regret that Biff is unavailable right now. In the interest of maintaining the level of service that you have come to expect from M.E.R.C., Biff has begun preparing a Handbook of Field Etiquette exclusively for our members.
+
+30240:
+May I suggest something. Biff and Larry work superbly together, and you may want to consider hiring them as compliments.
+
+30720:
+Another thought, and it is quite achievable for you, is to employ the services of Flo as well. She and Biff are a solid team.
+
+31200:
+Haywire and Razor, by the way, form a very synergistic unit.
+
+31680:
+Razor has often commented upon his enjoyment of collaborative efforts with Haywire.
+
+32160:
+Biff would likely delight in the opportunity to accompany Flo to Arulco.
+
+32640:
+Larry and Biff are reknown for their work together, and would, I am certain, augment your team well.
+
+33120:
+I am most grateful for your business, and assure you that your recruits will arrive presently.
+
+33600:
+It has been my pleasure, and for your patronage, again, please accept my fondest thanks.
+
+34080:
+I regret that the M.E.R.C. candidate is not available at this time.
+
+34560:
+We look forward to being of service to you again.
+
+35040:
+When you think of "mercenary" think of M.E.R.C. first! See you again soon.
+
+35520:
+Goodbye, and thank you for visiting M.E.R.C.
+
+36000:
+And, of course, I look forward to receiving your payment in due course.
+
+36480:
+Well... Hello there, old friend. It is a coincidence that you drop by at this time, as I was just asking our new webmaster, Will Gates, if he had sent out an E-mail advising you of our latest marketing endeavor.
+
+36960:
+Apparently, the automated mail sender had a minor bug and the first client in our database received over five thousand copies. Nonetheless, you're here now, so let me personally convey our all new concept in pricing.
+
+37440:
+Unlike a certain other organization, which is imitating us on a limited time basis, we at M.E.R.C. are fully committed to bringing you the very best mercenaries at the very best prices. Let me explain...
+
+37920:
+No longer will you have to bother setting up an account with us, since all transactions are now finalized when hiring. How is this possible, you ask? Well, by having a one-time cost for the complete mission, that's how.
+
+38400:
+It's simple and convenient! You pay once, and you own one of our qualified personnel until the job is accomplished. But that's not all that's new, I've managed to secure the services of two new mercenaries.
+
+38880:
+Gaston Cavalier and Lt. Stogie Horge are both accomplished veterans of the soldier for hire milieu, and have chosen to join this organization, rather than any of the others. I urge you to check out their files.
+
+39360:
+And, as if that wasn't enough, we are currently giving away official M.E.R.C. umbrellas with every mercenary you hire. So, take your time and peruse our offerings at your leisure, because we don't believe in pressure.
+
+39840:
+Welcome back! I thought I might see you again. Are you ready to commit now? Surely, someone on the roster has caught your attention, and you are now in a position to finalize the deal. Take your time, I urge you.
+
+40320:
+I welcome you, once again. Apparently, after careful deliberation, you've decided to add yet another member of our outstanding personnel to your roster. A wise decision. Carefully considered, I bet.
+
+40800:
+Oh, with all the new changes, I forgot to mention one of the most important. A rather unfortunate oversight on my part. All our personnel have undergone a major equipment upgrade, which, of course, is included in the price.
+
+41280:
+Ahhhh, this appears to be one of those delicate moments, where I dread being the bearer of the bad news. However, I am left with little choice but to inform you that your bank failed to approve the transaction.
+
+41760:
+Oh..!  Excuse my premature exhilaration. I was so caught up in the moment that I neglected to consider your entire needs. If you have not completed your perusal of our personnel, please feel free to continue. My apologies.
+
+42240:
+Welcome back to M.E.R.C., where we strive to exceed your expectations. Your total satisfaction is Speck T. Kline's business, and I've been burning the midnight oil putting this superb package deal together for you.
+
+42720:
+Now, not only are you getting the services of our members for one low fee, and their upgraded equipment thrown in, but I've assembled a sack of gifts that would make Santa question his generosity.
+
+43200:
+You may want to take a moment and get a paper and pen, so you can write all this stuff down. Okay? Here goes... With every M.E.R.C. mercenary you hire from now on, we'll give you not one but all of the following...
+
+43680:
+An official M.E.R.C. umbrella, a Flo, full-aerobic action, shock-resistant wristwatch, an authentic "Che Guevara" Canteen, and an autographed combat knife from Sam Garver's Gator Ranch and Gift Shop.
+
+44160:
+And, unlike our competitor's free gift, this knife has been personally sharpened by Razor Lamont, who found them to be far too blunt for his liking. He also did a pretty convincing job with Sam Garver's signature.
+
+44640:
+That's right! Four free gifts with every mercenary hired. Not ONE, but FOUR! You can give them to your friends as gifts. Or better still, tell your friends about us, and let them earn their own free gifts.
+
+45120:
+In your moment of indecision, let me try and be of some assistance. Gaston Cavalier has one the most impressive dossiers to ever come across my desk. And his cutting sense of humor is always good for a laugh or two.
+
+45600:
+With the quality of mercenaries we offer the choice can be a rather difficult one. However, you might want to hire Stogie, since he is here on a trial basis only, and might not always be available.
+
+46080:
+Oh, yes, and there was the unpleasantness of Gaston's demise. I have attempted to contact friends and family, however it doesn't appear that he had any.
+
+46560:
+And, how can I forget the troubling news of Stogie's passing. Every time I light up a Cuban cigar I shall remember that man fondly. And, that could be for some time, as he forgot three boxes in my office.
+
+47040:
+Oh, and might I suggest taking... ah... Well, that's strange I can't think of anyone Gaston works well with. Let me ponder this for awhile... Maybe Flo, they're both French.
+
+47520:
+You might want to consider bringing Biff along, since Stogie has taken quite a shining to my young, eager, business partner. And Biff looks up to Stogie like a father.
+
+48000:
+Just a side note, but I used to work with Carp Melfield. He use to carry our stuff around for us. Well, that's perhaps not entirely fair... He use to fetch water, too.
+
+48480:
+You didn't hear this from me, but there is solid rumor that A.I.M.'s insurance company cancelled all their policies due to fraud. Perhaps, you didn't notice, but they no longer offer insurance on their site.
+
+48960:
+Take your time. You won't find any high pressure salesmanship here. Of course, you, a steady customer, already realize the benefits of dealing with a professional organization like M.E.R.C..
+
+49440:
+I wish Biff was still alive. He was my best buddy. He tried so hard. Now, I'm locked in legal battle with his mother attempting to purchase his share of the company. Why did she have to be receptionist a law firm?
+

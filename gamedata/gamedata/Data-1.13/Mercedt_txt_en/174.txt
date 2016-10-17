@@ -1,0 +1,309 @@
+0:
+There they are!
+
+480:
+Are you ready?
+
+960:
+There are too many!
+
+1440:
+One of these insects.
+
+1920:
+Tell me this is a nightmare. What does it mean if you dream of big insects?
+
+2400:
+These insects had a picnic here.
+
+2880:
+I hear something.
+
+3360:
+It stinks of these insects here.
+
+3840:
+Too much silence.
+
+4320:
+Can you feel the insects here too?
+
+4800:
+There are too many!
+
+5280:
+What is it?
+
+5760:
+Something there...!
+
+6240:
+No bullets..should I do the hand-to-hand?
+
+6720:
+I am wounded.
+
+8160:
+Merde, Barry. I am sorry..you were ok.
+
+8640:
+What, where?
+
+9120:
+My gun is out of order!
+
+9600:
+Merde!
+
+10080:
+Ummpf. I am stronger!
+
+10560:
+Mon Dieu!
+
+11040:
+This does not work.
+
+11520:
+I need help.
+
+12000:
+I will take a nap.
+
+12480:
+Ohh, air...
+
+12960:
+...see me and die...
+
+13440:
+I killed the monster.
+
+13920:
+I don't want any more of this Malice...
+
+14880:
+French tart.
+
+15360:
+Adieu Mike.
+
+15840:
+Ohlala!
+
+16320:
+You know, I am just too strong...
+
+16800:
+I am ready.
+
+17280:
+Ah non. I do not...accept this.
+
+17760:
+I had no choice...
+
+18240:
+Bye bye...
+
+18720:
+There are assholes everywhere.
+
+19200:
+Merde...
+
+19680:
+So many fools?
+
+20160:
+Air attack!
+
+20640:
+Our equipment, 'terrible'.
+
+21120:
+They have much to learn.
+
+21600:
+Zut alors...
+
+22080:
+I am better, non?
+
+22560:
+The idea is 'terrible'...
+
+23040:
+The idea was 'vraiment miserable', ehh...really bad.
+
+23520:
+I would not even ride in a bus with Malice.
+
+25440:
+Barry, that was 'formidable'!
+
+25920:
+We'll speak later.
+
+26400:
+Mike?
+
+26880:
+I'm blind!
+
+27360:
+This is impossible...
+
+27840:
+Very friendly.
+
+28320:
+Enemies in sector.
+
+28800:
+'Attention!'We are not alone.
+
+29280:
+What is that?
+
+29760:
+Like Rambo, 'n'est-ce pas'?
+
+30240:
+There...the boy...
+
+30720:
+Don't worry, we will help you...hemmm...I cannot speak so well.
+
+31200:
+They're all killed.
+
+31680:
+Something missing.
+
+32160:
+Adieu...
+
+32640:
+A Bloodcat!
+
+33120:
+I would say... victory!
+
+33600:
+Where are they? Have they all gone?
+
+34080:
+I need sleep...
+
+34560:
+I'm back.
+
+35040:
+I agree.
+
+35520:
+It does not work.
+
+36000:
+Merde, maybe it explodes?
+
+36480:
+Down there...'Attention!'
+
+36960:
+I'm drowning...
+
+37440:
+OK, I am here...
+
+38400:
+I say non, you have a bad reputation.
+
+38880:
+I say non, you loose too many men.
+
+39360:
+Merci, but no. Maybe another time.
+
+39840:
+You 'ave waited too long - I say non.
+
+40320:
+C'est Luc Fabre, please speak after peep.
+
+40800:
+I will leave now - Bonne Chance...eh...Good Luck!
+
+41280:
+Not with Malice in one team.
+
+42240:
+Avec this Florence? I regret, non...
+
+42720:
+My contract... we make an extension?
+
+43200:
+D'accord. I agree.
+
+43680:
+D'accord, I will join you.
+
+45120:
+Avec Barry together - ok... but only avec Barry.
+
+45600:
+Mon Dieu! How can you even ask? I say NON!.
+
+46080:
+I said...
+
+46560:
+And what about money?
+
+47040:
+I am leaving.
+
+47520:
+You...sacrifice your men too ...vite. Alors...I go.
+
+48000:
+Avec Malice? I say non.
+
+48960:
+I don't want to work with Flo, that's why I say non.
+
+50400:
+D'accord. I'll do it because of Barry.
+
+50880:
+I said...
+
+51360:
+You ask me...and have no money?
+
+51840:
+Hallo!
+
+52320:
+I'm the weapon of mass destruction...
+
+52800:
+Alors, what are we waiting for?
+
+53280:
+For how long?
+
+53760:
+Are you ready?
+
+54240:
+Working with Malice sucks, he's a fool.
+
+55200:
+My contract is soon....finished.
+
+55680:
+I'm more expensive now because I'm better.
+

@@ -1,0 +1,45 @@
+0:
+Haven't seen you before.
+
+480:
+Yeah, you again.
+
+960:
+Like it here, yep. Return to values. None of this high-tech stuff.
+
+1440:
+Some kind of honor, yeah, to meet a professional mercenary.
+
+1920:
+No, no, I don't need that.
+
+2400:
+I'm pullin' for the rebels, yeah. Hate government... Any kind of government.
+
+2880:
+Keep that up, and there'll be a future for you in pieces.
+
+3360:
+Guns aren't really my style. Nope, no.
+
+3840:
+Could use some help. Yeah...
+
+4320:
+Yeah, yeah. Gotta move on.
+
+4800:
+Nice of you, mmhm. Thanks.
+
+5280:
+Ya gonna pay!
+
+5760:
+Yup, I dropped that, didn't I? Thanks.
+
+6240:
+Knew you were a Fed!
+
+6720:
+Yep, yep. Looks a little dangerous here now. Not safe to talk. No.
+

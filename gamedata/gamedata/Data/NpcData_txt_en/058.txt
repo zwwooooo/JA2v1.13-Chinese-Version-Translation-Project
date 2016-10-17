@@ -1,0 +1,66 @@
+0:
+What can I do for you?
+
+480:
+It is hopeful, yes?
+
+960:
+We are grateful for your presence.
+
+1440:
+I hope we'll be all right.
+
+1920:
+No, I do not want this.
+
+2400:
+There is no one more evil than Deidranna.
+
+2880:
+There is no need for anger. We fight for the same cause.
+
+3360:
+The time is not right. I am needed in Omerta.
+
+3840:
+Wounded. I will die for sure.
+
+4320:
+I have to go now.
+
+4800:
+Do not move and no one will die.
+
+5280:
+Enrico? Chivaldori? Most suspicious. I question his reasons.
+
+5760:
+I am impressed with your leadership. I will join because it is best for Arulco.
+
+6240:
+An act of aggression against one of us is an act of aggression against all of us. Your fate is decided!
+
+6720:
+We are short of food, too, Miguel. We need safe passage to Drassen or more people will die.
+
+7200:
+It will aid our efforts. Thank you.
+
+7680:
+Are you sure this is wise, Miguel?
+
+8160:
+This situation has grown desperate. Omerta remains without supplies for its people. When will this change?
+
+8640:
+Our people are suffering in hunger. You must do something. It cannot continue without the loss of more life.
+
+9120:
+You have made progress, but we must exercise caution. We have not heard the last from Deidranna.
+
+9600:
+I see hope in the eyes of the people, a hope I have not seen in a long time. But I shall deny myself this feeling until victory is within our hands.
+
+10080:
+Almost half the country is ours, but we still have much work to do.
+

@@ -1,0 +1,210 @@
+0:
+Another customer!
+
+480:
+This one's too stupid to even know I'm here!
+
+960:
+There's a line-up.
+
+1440:
+Where's my pepper spray?
+
+1920:
+You can't trust the government.
+
+2400:
+I don't think so...
+
+2880:
+There's a mad rush.
+
+3360:
+I don't think so...
+
+3840:
+It looks like it could be trouble.
+
+4320:
+It looks like it could be trouble.
+
+4800:
+Where's my pepper spray?
+
+5280:
+More stuff.
+
+5760:
+More stuff.
+
+6240:
+No ammo! I need a resupply!
+
+6720:
+I'm going need serious medical attention if I'm going to live to collect my disability.
+
+7200:
+I'm gonna get the son-of-a-bitch who killed Reuban and send tiny parts of his body to every state in the continental U.S. of A. Postage due!
+
+9120:
+Gun's screwed!
+
+9600:
+I've seen more gunfire at the postal station.
+
+10080:
+I don't get paid enough for this.
+
+10560:
+He doesn't know who he's shooting at!
+
+11040:
+Everyone always wants the impossible.
+
+11520:
+Doesn't look like the bleeding is going to stop.
+
+12000:
+Either I take a short break now, or I'm lying down for a long one.
+
+12480:
+I pulled out my back...
+
+12960:
+Next!
+
+13440:
+Next!
+
+13920:
+I hate snitches! I had one of those Bud Hellar types down at the postal station. Second week on the job, he disappeared. The same thing's gonna happen to Bud!
+
+15360:
+It's done... Hope you're happy.
+
+15840:
+That's impressive!
+
+16320:
+Ah... To hell!
+
+16800:
+It's done... Hope you're happy.
+
+17280:
+I won't be able to make it. I can't be everywhere!
+
+17760:
+Once I'm through with you, they'll be able to bury you in a standard, number eight, Manila envelope!
+
+18240:
+I'm bored! I joined for the carnage. Things are far too quiet for me to hang around!
+
+18720:
+Your butt is mine, buster! You'd better pray we never cross paths.
+
+19200:
+You have no respect for labour!
+
+19680:
+I just need a couple of more signatures and A.I.M. is unionised, so you better be careful how you treat your people.
+
+20160:
+Cut me some slack!
+
+20640:
+It was broken when I got it.
+
+21120:
+I'm union. I don't work for anything below scale, and if you find somebody who does, let me know - I'll teach them the error of their ways.
+
+21600:
+My lawyer says I have to burn all that mail I've failed to deliver and stashed in my town house. Uh, something about search warrant being excercised later today.
+
+22080:
+It's why I joined. Cash, carnage and no more polyester uniforms.
+
+22560:
+There's a harebrained idea.
+
+23040:
+Oh, this mission is in the toilet!
+
+23520:
+I quit! I'd strangle that Bud Whatever-his-name-is! That's if I could get his head out of your butt! If not, I'd just shoot him.
+
+24480:
+Reuban's probably the only person on the planet, who I wouldn't enjoy killing. He's cheap labor. Our country was built by guys like him.
+
+25920:
+I've called for a boycott of you. The ability to blow money like that could probably get you pretty high ranking government posting.
+
+26400:
+He's a heel sucking twerp!
+
+26880:
+Someone's gonna have to answer for this!
+
+27360:
+Nothing ever does what it's supposed to do.
+
+27840:
+Haven't I seen you in somebody else's magazine?
+
+28320:
+I was promised carnage! Plenty of carnage!
+
+28800:
+Apparently, you've won a rather large amount of money in the Sweepstakes. If you just let me know where I can find you, I'll get you to sign, and be on my way.
+
+29760:
+I could take you and that ragamuffin band of paper-pushing, numb-butted, overpaid, insignificants all by myself!
+
+30240:
+Now we got to get all the way back.
+
+30720:
+Fired!!! I've never been fired! I worked for the post office for twenty-two years and I never missed more than a... month of work in any year!
+
+31200:
+Personally, I think we should get a bonus when things go this well.
+
+31680:
+You gotta appreciate this. This is better than that old-age paycheck scam we were running, no signatures to forge or anything.
+
+32160:
+I don't appreciate affordable labour being abused like that.
+
+32640:
+Where's my pepper spray?
+
+33120:
+Been there and seen it... There wasn't enough carnage or action to get me to go back.
+
+33600:
+We won't be seeing anybody wearing that color any more.
+
+34080:
+I'm having my coffee. I'll get back to you when I'm finished.
+
+34560:
+Ya... You got me. Just don't go making like you own me.
+
+35040:
+I've already told you!
+
+35520:
+It was broken when I got it.
+
+36000:
+It looks like it could be trouble.
+
+36480:
+They insist on changing the route on me...
+
+36960:
+I'm going under... It's a bitch there's nobody to take with me...
+
+37440:
+Keep your eyes on the clock. I don't do overtime.
+

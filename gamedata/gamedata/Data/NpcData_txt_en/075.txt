@@ -1,0 +1,429 @@
+0:
+How did you get to me? Leave at once!
+
+480:
+You tempt fate.
+
+960:
+Someday, the people will understand.
+
+1440:
+Your preference for dying is all we have to talk about.
+
+1920:
+Stick it in the orifice of your choice!
+
+2400:
+You've been trouble since the day you arrived.
+
+2880:
+I dare you.
+
+3360:
+I don't serve anybody. They serve me!
+
+3840:
+I order you to find me a doctor.
+
+4320:
+Get out!
+
+4800:
+This better be good.
+
+5280:
+Elliot! You idiot! We crushed those rebels in Omerta! How can it be?
+
+5760:
+Commando types??? What sort of commando types? From where?
+
+6240:
+What? How would the rebels get the means to recruit mercenaries? Well, no matter. Send me their bodies for examination!
+
+6720:
+Send my troops to the location at once!
+
+7200:
+You ARE aware that I have other things to do, Elliot?
+
+7680:
+An attack in Drassen! They were summarily slaughtered, I presume. Heh.
+
+8160:
+They... were... victorious? VICTORIOUS! Control DRASSEN? Ah... Elliot! You idiot!
+
+8640:
+Two cities! I MUST develop a better plan.
+
+9120:
+How is this happening? Three cities?
+
+9600:
+This is unacceptable! This must be stopped!
+
+10080:
+Spare nothing! We must not fall!
+
+10560:
+Send my best soldiers after these, these, commandos! And send ME their heads when they've finished! Am I making myself clear?
+
+11040:
+I am a very, very busy woman, Elliot.
+
+11520:
+Well, what is it!
+
+12000:
+Elliot! You.... Doughhh... What have they done now! Is there no end to this? Tell me, Elliot, have they been defeated?
+
+12480:
+Elliot! You idiot!
+
+12960:
+Cambria was an important city! My soldiers have let it fall, have they? Well, send this message to those still alive. They kill the mercenaries, or I kill their children. Their fate is of their own choosing.
+
+13440:
+And get some reinforcements! Now get lost. I shall not tolerate another such intrusion.
+
+13920:
+I hope, for once, you have a good reason to disturb me.
+
+14400:
+Alma? ALMA! ALMA! Elliot! You idiot! The God-damn training facility is there! What are they doing, sleeping?! And the mine! Oh, Elliot, what now!
+
+14880:
+I provide the best in armor, do I not? The best weapons, the best training and the best soldiers that money can buy.
+
+15360:
+Yet, you tell me we have lost a city, a mine and an entire training facility to a little band of guns for hire?
+
+15840:
+Oh, I don't believe this! This time, should we fail there will be hell to pay! Let the soldiers know that. I want all the mercenaries dead. Do you have any idea how much losing a mine costs me?
+
+16320:
+More than you'll ever make in your entire life, Elliot! In fact, from now on, you can forget your regular paycheck! Now get out of here and give me time to think.
+
+16800:
+Oh, allow me to hazard a guess. You bring me bad news.
+
+17280:
+Elliot! You idiot! That's not good news! Grumm! For God's sake, when will this end!?
+
+17760:
+Maybe I should recruit children! They'd do a better job of it.
+
+18240:
+Elliot! You idiot! Don't be so stupid. Now, spare nothing, no expense. These mercenaries must be killed. All of them. And bring me the bodies.
+
+18720:
+What is it, Elliot?
+
+19200:
+How bad, Elliot? And might I add that my nerves are especially edgy right now.
+
+19680:
+I am not interested in valiant efforts! I am interested in maintaining my POWER and making MONEY. I can't make money if those mines are not MINE. Don't you see?
+
+20160:
+Elliot! You idiot! And as for those mercenaries! Well now...
+
+20640:
+Obviously, they are more experienced than I had anticipated. Gather my advisors, Elliot. I'll send these pathetic rebels and their goons a surprise they are not likely to forget.
+
+21120:
+You are becoming synonymous with trouble, Elliot.
+
+21600:
+Elliot! You idiot! Is anyone out there actually doing what I pay them to do? Do you have any idea what this MEANS? Do you know how dangerous this is?
+
+22080:
+All right. First, send my elite soldiers to the occupied site and reinforce the others. I want anything that flies or moves shot on sight!
+
+22560:
+Okay. Listen closely, Elliot. The third site must be guarded carefully. I want my best teams on it around the clock. As for these other two, God! How does this happen!
+
+23040:
+Send in my elite forces and tell them to do whatever is necessary!
+
+23520:
+They control all three, now, do they? For this, there will be hell, absolute hell, to pay! I want everyone on this! All my troops. Hold nothing back.
+
+24000:
+Those rebels will cry for the day they started with me. Count on it.
+
+24480:
+Am I making myself clear, Elliot? This is completely unacceptable to me!
+
+24960:
+Well, go on then. What are you waiting for?
+
+25440:
+What is it now, Elliot?
+
+25920:
+And they were defeated?
+
+26400:
+By surprise? By SURPRISE! Elliot! You idiot! It's a GODDAMN war, Elliot! What's so surprising about being attacked! Oh, I knew I should have sent more forces.
+
+26880:
+Now get out of here and see to it that my orders are carried out.
+
+27360:
+Hello, Elliot. I am really beginning to dread our little meetings.
+
+27840:
+And what progress have you to report?
+
+28320:
+Did not anticipate it?! Elliot! You idiot! That's not progress! I can't believe this!
+
+28800:
+It's... it's... unacceptable! Someone must pay for this. And they will! Aghhhh.
+
+29280:
+The Central SAM is critical, Elliot. Be certain to tell my advisors that this time they had better not fail! Otherwise, they know what punishment they face... and I think they fear that more than death.
+
+29760:
+What is it now, Elliot? I... Oh! Flowers! How lovely and so thoughtful! From my troops, no doubt.
+
+30240:
+WHAT?!?
+
+30720:
+Elll-eee-ooot! You IDIOT! Idiot! Idiot!
+
+31200:
+Is this some kind of joke? Some twisted and sick sense of humor? Oh, yes, this is EXTREMELY funny! I shoot them, I shoot them not. I shoot them!
+
+31680:
+Elliot! You idiot! Say it! Say, "I am an idiot!" Do it, Elliot.
+
+32160:
+Yes, yes you are! Now, listen to me! First, I want my elite soldiers to shoot the messenger who brought these.
+
+32640:
+And then, when we kill these little commandos, I want a single flower placed in their mouths as they die. A rose, I think. A blood, red rose, Ha ha. Now, do as you're told, and leave me be.
+
+33120:
+And, for God Sakes Elliot, don't bring me any more of these stupid presents. Elliot! You idiot!
+
+33600:
+Elliot, I do have things to do, you know.
+
+34080:
+Well, Elliot! This is indeed a change of pace.
+
+34560:
+Elliot! You idiot! Getting something back that is already MINE is not good news! It shouldn't have been lost in the first place! Now get out of here and leave me be.
+
+35040:
+Hello, Elliot.... Joe. Oh! And, my? What do we have here?
+
+35520:
+Elliot! Yes it is! Heh, heh, heh. Well, where shall I begin with YOU, hm? You know, you have put me through much trouble, and for what? Money? Hah. I could pay you more than those rebels could ever afford.
+
+36000:
+Or, let me guess... you've taken on a moral cause? Aw... how mighty righteous of you. Well, listen here! This is NOT your country, and it's NONE of your business.
+
+36480:
+You will not be the first to die, nor the last. I will get every one of you. Mark my words. I ALWAYS get what I want. Don't I, Joe?
+
+36960:
+Just enough to be receptive, I think.
+
+37440:
+That's good, Joe. Now, where shall I start with you?
+
+37920:
+Oh, look! You bruise easily. Good thing I stopped him. God forbid you'd get hurt... or maybe... DIE. Let's not let that happen again. Now, tell me, who is it you're working for? Is it the rebels?
+
+38400:
+Heh. As I thought. And won't they be disappointed. Elliot? Send an attack on their camp, the elite forces, heh, heh. And be certain they know the reason behind it. I will have no more of their little games.
+
+38880:
+Not quite ready to tell the truth, are you? I already know who's employing you. That was just a little test of your honesty and I see you haven't much. Maybe Joe can knock some sense into you.
+
+39360:
+Elliot! Find out if this is true!
+
+39840:
+And if I find out you're lying, it will be hell to pay! Ahhh...
+
+40320:
+All right. Let's try another, shall we? Now, how many mercenaries have the rebels hired?
+
+40800:
+Hmm. It is more than I had thought. How are they doing this? It's, it's unacceptable! That's what it is! Obviously, I will require more troops. You are aware of my elite forces, I gather? Heh.
+
+41280:
+You should be. They will be the last people you see just before you die, you and all your little friends... and now I know just how many bullets we will require.
+
+41760:
+Listen to me. I am tiring of this. And when I get tired, Joe gets angry. Very, very angry. Maybe, Joe, you'd like to show how angry you can get?
+
+42240:
+I'll find out soon enough when I count the bodies.
+
+42720:
+Good. I told my advisors that there were only a few of you, but they doubted me. ME! I'll be certain they get a little thank you for all the undue stress they've caused. Elliot, you know what to send them.
+
+43200:
+Good. I told my advisors that there were only a few of you, but they...
+
+43680:
+WHAT!? You're lying to me! I never... Perhaps Joe can teach you the manners your mother missed!
+
+44160:
+Okay. Now, listen closely. I want to know where your troops are located.
+
+44640:
+Very good. Then it is as we suspected. We need to revise our strategies. Joe? Come with me. Elliot? Summon my military advisors.
+
+45120:
+Elliot! You idiot! Do you have any brains in your head? NO I don't want you to release anyone!
+
+45600:
+You're going to regret ever coming here! Joe, follow me. And Elliot? Don't forget to lock up.
+
+46080:
+Do you think I am some kind of fool? Lying to me? Well...
+
+46560:
+There is no end to this for you, is there? You are going to die this day for a war that you have no personal stake in! Is this what you call intelligent?
+
+47040:
+Well, if Joe can't beat it out of you, I know someTHING that can. Hasn't failed me yet. Joe? Do your thing, heh... and then, come with me. And Elliot? Summon my military advisors.
+
+47520:
+Elliot! You idiot! Do you have any brains in your head? NO I don't want you to call a doctor!
+
+48000:
+You're going to regret ever coming here! Joe, follow me. And Elliot? Don't forget to lock up.
+
+48480:
+Damn it, Joe! That BODY could have known something. Elliot, arrange for it to be transported.
+
+48960:
+If it isn't the Messenger of Gloom himself.
+
+49440:
+Well, out with it Elliot.
+
+49920:
+Elliot! You idiot! Say it already!
+
+50400:
+Against ME?!?
+
+50880:
+Agggghhhh....
+
+51360:
+Well now. When there ARE no rebels, there will be no rebel movement, will there, Elliot? I think the direction we must take is pretty clear, then.
+
+51840:
+Kill the rebels, kill their little hired hands, and the people, heh, they won't have a choice! Tell my advisors, Elliot. And leave me alone.
+
+52320:
+Elliot, good. I'm glad you've come. It seems you've forgotten to tell me something.
+
+52800:
+Yes. When did the new helicopter arrive? And how much has it cost me?
+
+53280:
+WHAT?
+
+53760:
+Elliot! You idiot! Why didn't you say so immediately! Do you know what this means? They can just drop in from anywhere! I want this helicopter grounded - permanently! And if Mr. Bullock lives... shoot him.
+
+54240:
+Elliot.
+
+54720:
+Let me guess, an urgent report that will undoubtedly upset me. Why can't you ever bring good news, Elliot?
+
+55200:
+Try me, Elliot.
+
+55680:
+That so, Elliot.
+
+56160:
+Well... Elliot! You idiot! He is the CORE of my team there! The most important one! How could this happen! Bring me the person responsible... and Elliot? I don't care what my elite forces are doing.
+
+56640:
+I need him found, and I need him found at once! Do I make myself clear?
+
+57120:
+Hello, Elliot.
+
+57600:
+Not today, Elliot. I can't bear any more bad news. I have important decisions to make.
+
+58080:
+On the outskirts of MEDUNA! For Christ's sake Elliot! They're practically in my back yard! Maybe we should have a barbeque! Invite them over! Have some champagne to celebrate their little victories!
+
+58560:
+How can I conceivably make any new plans when all the plans I've made have failed! Maybe I should have hired these mercenaries rather than the stumps calling themselves my soldiers!
+
+59040:
+Aghhhhh! Elliot! You id-EEEE-IT!
+
+59520:
+Hm. Well now. Joe?
+
+60000:
+Make sure all my soldiers know their whereabouts, and see to it that these mercenaries are executed. I want their remains, such as they may be, when my forces are finished with them. Oh, and clean up that mess.
+
+60480:
+What?! Oh my lord! Elliot! You idiot! Are you so stupid that you don't even know how to die properly?! Can't you do anything right?
+
+60960:
+Wait. Elliot, I've just had an idea.
+
+61440:
+Stop feeding bodies to the creatures.
+
+61920:
+Yes, I want to give the people a little lesson! They no longer support me, do they? This will change their pathetic little minds!
+
+62400:
+Elliot, I don't care. I truly... don't... care. Now get out of here, and do as I say.
+
+62880:
+You have served your purpose. Now leave.
+
+63360:
+Burn with your friends in hell!
+
+63840:
+Heh. A pathetic little tithe. Don't insult me!
+
+64320:
+Did they capture the entire town?
+
+64800:
+Aghhh... Let me think.
+
+65280:
+Aghhh... Give me a minute.
+
+65760:
+Okay...
+
+66240:
+Elliot, it seems you and my advisors are not keeping me informed.
+
+66720:
+Balime, Elliot! Those GODDAMN mercenaries have captured BALIME!
+
+67200:
+How do I know? Elliot, you idiot! Have you tried to use a bathroom in the palace? The whole town of Balime is living in my palace, Elliot. There are children crawling all over my throne.
+
+67680:
+Elliot, you idiot! They are not visiting, they're LIVING here. Listen carefully, Elliot. I've had just about enough of you. I want you to send the best of my elite guards to Balime to get that town back.
+
+68160:
+NOW, Elliot! RIGHT NOW!
+

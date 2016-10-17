@@ -1,0 +1,51 @@
+0:
+Don't believe we've met. In fact, I don't believe you got in here! I am Armand Ricci, and whatever business you're in Balime to conduct, I suggest you leave us out of it.
+
+480:
+Well, we meet again.
+
+960:
+This war has been a bother. It is especially hard for my wife. She's used to coming and going as she pleases.
+
+1440:
+My wife doesn't deal well with stress, and frankly, when she's upset, I find it very tiring.
+
+1920:
+You must be kidding? This? I am a man of taste. HIGH taste.
+
+2400:
+Soldiers in the house! This war! Well! We hardly expected it! Somewhat caught behind enemy lines, I'd say. Of course, now that you're here, I'm not certain where the hell the lines are!
+
+2880:
+Oh, please, don't threaten me. You really have no idea how much I hear that. It's tiresome.
+
+3360:
+No. In fact, I suggest you change your minds. The Queen is a powerful woman and a dear friend.
+
+3840:
+Don't just stand there. Get me a doctor!
+
+4320:
+Well, this little conversation has been thrilling, but...
+
+4800:
+Had you waited another minute, I could have died.
+
+5280:
+God forgive you...
+
+5760:
+I've worked hard to keep my house and belongings secure. Now, this war has already taken enough of a toll on my family. I absolutely REFUSE to be subjected to your little rants. You'll get nothing from me! Now leave!
+
+6240:
+Look! I have made myself more than clear. And don't think I don't know what you're after! Well, you WON'T get it! Now leave. I've already paid my allegiance, such as it were.
+
+6720:
+For God's sake! What do you want? Just take it easy. Don't do anything you'll regret. I'll... I'll give you what you want. Just, just let us be. What is Arulco coming to?
+
+7200:
+Please. I don't need your handouts.
+
+7680:
+If you wish to speak with me, I suggest you get this little skirmish under control first.
+

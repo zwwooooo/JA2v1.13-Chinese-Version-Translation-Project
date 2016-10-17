@@ -1,0 +1,117 @@
+0:
+Welcome to my establishment. I am one of de Santos Bartending Brothers. We are famous Arulco-wide for our drinks.
+
+480:
+Hello again. Is good to see you.
+
+960:
+We import all of our drinks except de rum. It was made locally before de war began.
+
+1440:
+Poor Manny, he tries very hard.
+
+1920:
+No. But I do accept cash tips.
+
+2400:
+Tell you dis. De people, dey know about you. Some like, some no like.
+
+2880:
+Maybe you need drink more than I think you do, no?
+
+3360:
+No thank you. It is too dangerous for me out dere.
+
+3840:
+Oh... is doctor here?
+
+4320:
+Call name if you need anything.
+
+4800:
+Thank you for de tip. You get good service.
+
+5280:
+De best liquor around! Only number-one brand names.
+
+5760:
+Everything looks good, yes...
+
+6240:
+Maybe something cool to take off de heat?
+
+6720:
+Hm. I am sorry. We only accept cash for de drinks.
+
+7200:
+Hmm. Much misery. I have no money to buy anything.
+
+7680:
+Is very interesting. Yes.
+
+8640:
+I am sorry, but dis is only a cash bar.
+
+10560:
+In Arulco, good service is awarded tip. So you know now...
+
+11040:
+Enjoy. And thank you for de tip.
+
+11520:
+You need another, you let me know. I make it perfect for you.
+
+12000:
+Well, you think about it.
+
+12480:
+Don't forget, your drink is here.
+
+13440:
+You low life!
+
+13920:
+Oh, is so much better.
+
+14400:
+Is not safe to do business now. Can no enjoy drink! Stop fighting first!
+
+14880:
+Is time for you to go now. We stay open late for you, then everybody want it, and I never sleep.
+
+15360:
+De Santos are also known for our amazing similarities. Dere are five of us, we are identical quintuplets. It is funny. We sound same, speak same things, and we are all bartenders in Arulco.
+
+15840:
+Well, everyone except Manny. Poor Manny. He was born a day after de rest of us. He has spent his entire life trying to catch up. We hope one day he will be one of de Santos bartending brothers too.
+
+16320:
+For now, he is a barboy. He sweeps floors, clean toilets and fills condom machines. We teach him drink-making when family gets together. He is getting much better.
+
+16800:
+I believe you know of us. My brother has spoken of you, de soldiers who are going to save Arulco. I tell you, we wish you de best of luck cleaning out de mess dis country is in.
+
+17280:
+My brothers tell me about you. We no meet yet. But, meet one, you meet them all, no? Heh. This what people say... Women, dey confuse us all de time. And me, I confuse de woman, let me tell you dis.
+
+17760:
+But you cannot tell my brothers. He, he, I have passed nights with each of their wives, except for Manny's. Poor Manny. My carpet is more beautiful den his wife. It has been good for their marriage.
+
+18240:
+Their wives do not look at dem de same after spendin' time with me. It is not dat I brag of de gift God has given me, but only to show you how close de Santos bartending brothers truly are.
+
+18720:
+I bet you think you have seen me before. I have heard very much about you from my brothers and de others. You are de one who will give birth to a new Arulco, an Arulco free and equal for everyone. De people are in awe of you.
+
+19200:
+It is a great time in de history of de Santos brothers. We are all bartenders now, even Manny, who many said would never be able to open a beer, has joined us. Our dead father sheds his tears in pride.
+
+19680:
+Yes, you are not the first to notice dat we look very similar. I do not understand, since de differences are obvious to me.
+
+20160:
+Yes. Many have mentioned dat I am de most handsome of de brothers.
+
+20640:
+Perhaps, you have had too much to drink already.
+

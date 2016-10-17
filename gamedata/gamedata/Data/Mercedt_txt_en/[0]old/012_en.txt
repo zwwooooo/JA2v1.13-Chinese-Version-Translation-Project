@@ -1,0 +1,291 @@
+0:
+I see you.
+
+480:
+Ah, now the party can start.
+
+960:
+I'm fighting a losing battle here!
+
+1440:
+A hellspawn.
+
+1920:
+Look at that! Like gazing upon the face of Satan himself. Absolutely mesmerizing.
+
+2400:
+The hellspawn were here, perhaps feeding on souls...
+
+2880:
+A sound. Close by.
+
+3360:
+I smell sulfur and rot. Hellspawn.
+
+3840:
+Trouble's coming. The feeling is unmistakable.
+
+4320:
+I sense hellspawn. They're watching us.
+
+4800:
+These hounds from hell are breathing down my neck.
+
+5280:
+Something, right there.
+
+5760:
+Should check that out.
+
+6240:
+Can't do much with an empty gun.
+
+6720:
+If this is death, I'm ready. Let's get on with it.
+
+7200:
+What's it like, Shadow? Where are you? What does it feel like? Well, I'm coming, buddy. Wherever you are, I'll see you there.
+
+8160:
+Blood, you had a touch of the darkness inside of you. Coulda brought that out, man. We'da been great together. Meet you on the other side.
+
+8640:
+Sorry, I got distracted. Someone must've walked across my grave.
+
+9120:
+Jammed my gun. Terrific.
+
+9600:
+They might kill me, but they won't scare me.
+
+10080:
+I laugh in the face of death. Hahahaha!
+
+10560:
+Hah. Sheppard walks again.
+
+11040:
+I hate trick shots.
+
+11520:
+I'm bleeding. That's cool.
+
+12000:
+They term sleep as death...by which we may be literally said to die daily. I need a nap. And I need it badly.
+
+12480:
+I'm out of breath. Give me a moment to rejuvenate.
+
+12960:
+Never the thrill I was looking for.
+
+13440:
+Return to your master.
+
+14880:
+Dumb slobs like Numb who fail to understand the spirituality of death shouldn't be allowed the privilege of killing.
+
+15360:
+That was a glorious death. You could see in Mike's eyes that he was welcoming it.
+
+15840:
+What a tragic waste. You could siphon that spirit through a straw.
+
+16800:
+That's done. I'm in search of new direction.
+
+17280:
+That will require rethinking.
+
+17760:
+Wonderful! If anyone has the power to return from death and drag us all to the other side, it's Deidranna.
+
+18240:
+I saw its eyes as it died. She had her father's eyes. The eyes of Satan. I will never be the same.
+
+18720:
+That's someone who'll live forever, despite their need for death.
+
+19200:
+What are we doing here, anyway? Does any of it matter?
+
+19680:
+This is the sorriest team of disorganized, undisciplined, spiritless vessels I've ever had to work with.
+
+20160:
+They're coming at us from above!
+
+20640:
+This equipment's falling apart. I'd be better off with a pointed stick.
+
+21120:
+In this job, the only person you can afford to trust is yourself.
+
+22080:
+Improvement. It is the goal of life's search.
+
+22560:
+I have major problems with that scheme.
+
+23040:
+What was the point? Other than its obvious consequence.
+
+25920:
+No, I haven't made up my mind about you yet.
+
+26400:
+It's our old friend Mike. This will be interesting.
+
+26880:
+Hignut! If not for the aggressor's presence, this journey into darkness would be a beneficial experience.
+
+27360:
+This is a misuse of my energy.
+
+27840:
+He is a man at peace with his soul.
+
+28320:
+There are enemies present. An encounter is imminent.
+
+28800:
+We have failed to silence all the intruders. We must not become careless.
+
+29280:
+There is reason for me finding this, as there is a reason behind everything.
+
+30240:
+There. The missing child.
+
+30720:
+We will remove her soul. Your rebels are spirited, dark and underground. We will get along fine.
+
+31200:
+One with death. They are all gone.
+
+31680:
+Our shipment has been looted.
+
+32160:
+If I see her on the other side, I will kill her again.
+
+32640:
+Hellcat!
+
+33120:
+The ending. It fills me with peace. We did it, and we could do it again. Look me up if you need me.
+
+33600:
+They've gone elsewhere. Afraid to face their fate.
+
+34080:
+I need to get sleep. I will be back.
+
+34560:
+I am awake and fulfilling my commitments.
+
+35040:
+Me. Too.
+
+35520:
+Mangled! This crap breaks more often than bones.
+
+36000:
+Wait. It looks rigged...
+
+36480:
+Meet your maker... This place is a cemetery waiting to happen.
+
+36960:
+I'm... coming... home...
+
+37440:
+My voyage has come to an end... for this trip anyway.
+
+38400:
+I can't allow myself to question the skills of my C.O.... and right now, I have more questions than you have time. I'm not your man.
+
+38880:
+I don't mind taking risks. I do mind a leader who fails to place value on the lives of his men. I sense a death I can't accept...mine.
+
+39360:
+I don't have time, I'm off to Tibet.
+
+39840:
+You should've asked me sooner. I'm testifying at a Senate Sub-Committee Hearing about a recent assassination attempt.
+
+40320:
+Leave me your name and a brief message. Don't try to contact me. I'll contact you if we have something to talk about.
+
+40800:
+That's fine. Per our agreement, my association with you and any of your operations never took place. We are clear on that, right?
+
+42240:
+I'm never going back into the field with Numb. I don't know any professional who would.
+
+42720:
+My contract's up soon. Ball's in your court. Let me know if you want to move on an extension. I don't pressure. I don't advertise.
+
+43200:
+All right. I'm yours. Same conditions apply.
+
+43680:
+I accept the contract with the stipulation that once it has expired or terminated, all relevant paperwork is given to me to be destroyed. There is to be no evidence of this engagement.
+
+44160:
+I'm less than confident of my decision. But Shadow Simmons speaks well of you, so I'll risk it. You have my soul.
+
+45120:
+The arrangement could be more attractive. But I'm intrigued by Keith Hanson. I see potential there. On that basis, I'm accepting your offer.
+
+45600:
+No, I wouldn't have come to terms in the first place if I'd known how it was going to work out. I've destroyed my paperwork. Please destroy yours as per our initial agreement.
+
+46080:
+Focus. I said...
+
+46560:
+Don't ever try to deceive me. Without the money, we have nothing to talk about.
+
+47040:
+That's entirely your prerogative. Please ensure that your secretary disavows any knowledge of my actions. I don't want to have to kill her.
+
+47520:
+I don't mind taking risks. But I do mind a leader who fails to place value on the lives of his men. I sense a death I can't accept... mine.
+
+48960:
+I'm never going back into the field with Numb. I don't know any professional who would.
+
+49440:
+I'm less than confident about my decision. But Shadow speaks well of you, so I'll risk it. You have my soul.
+
+50400:
+The arrangement could be more attractive. But I'm intrigued by Keith Hanson. I see potential there. On that basis, I'm accepting your offer.
+
+50880:
+Focus. I said...
+
+51360:
+Don't ever try to deceive me. Without the money, we have nothing to talk about.
+
+51840:
+Hello. What do you want?
+
+52320:
+I tell prospective clients that I believe in the three E's of killing. It should be efficient, expedient and elegant.
+
+52800:
+Speak now.
+
+53280:
+How long an engagement will this be?
+
+53760:
+When you really need me, I'm sure you'll call.
+
+55200:
+My engagement is drawing to a close. I shall be departing shortly in search of a new destiny.
+
+55680:
+I derive great satisfaction in your employ, however my compensation was no longer adequate. Everything evolves.
+

@@ -1,0 +1,303 @@
+0:
+Contact.
+
+480:
+What a shame. We'll have to do some killing.
+
+960:
+I have to get out of here!
+
+1440:
+Mutant trilobyte on the loose.
+
+1920:
+Mein Gott! It's like something prehistoric, something out of time, it's fascinating, and it's hideous, and I can't look away.
+
+2400:
+I don't think anything human could've done this... or any indigenous animal either, except perhaps those hypertrophic trilobytes.
+
+2880:
+I hear a noise. Can't identify it.
+
+3360:
+Phew, that must be the stench of the trilobytes.
+
+3840:
+I have a very ominous feeling about this place.
+
+4320:
+Let's hope we don't bump into any gigantic trilobytes.
+
+4800:
+How the hell do I overcome these things?
+
+5280:
+What have we got here?
+
+5760:
+Something here.
+
+6240:
+The chamber is empty.
+
+6720:
+Physician, heal thyself...quickly.
+
+7200:
+I learned much from you, Ice, and we are better people for having known you. In that way, you will live on. Godspeed.
+
+7680:
+Static, your good humor and youthful spirit helped see us through times of adversity. Those are precious gifts you have, and I will remember you always. Godspeed.
+
+8160:
+What an amazingly talented woman you were, Doctor Spider. Your grace under fire, your quick hands, your warmth. I can only hope to achieve that which came so easily to you. Godspeed.
+
+8640:
+What...what was I doing?
+
+9120:
+Gott im Himmel, my gun's not firing.
+
+9600:
+Have to find a better way to handle this!
+
+10080:
+Didn't even break a sweat.
+
+10560:
+Lucky to be alive. Good to feel that way once in a while.
+
+11040:
+There's hardly a shot from here.
+
+11520:
+This wound is too deep to stop bleeding on its own.
+
+12000:
+I'm so tired. Please, let me sleep.
+
+12480:
+Have to stop for a bit. Suffering a shortness of breath.
+
+12960:
+That one's kaputt.
+
+13440:
+Start fossilizing.
+
+15360:
+A shame to have to kill Mike... but he should have known better than to take the job.
+
+15840:
+Fragile, we are.
+
+16320:
+Rather not go in without my swimsuit and, I guess, I forgot to bring it.
+
+16800:
+What to do now...
+
+17280:
+I must refuse, no matter the consequence.
+
+17760:
+I like to think of her as permanently rehabilitated.
+
+18240:
+Just think. In a few hundred thousand years, she'll be petroleum!
+
+18720:
+Dummkopf!
+
+19200:
+I'd thought my spirit was unbreakable. But this misery is unbearable.
+
+19680:
+Mercs are not usually happy people, but this is the saddest, most neurotic team I've ever been part of.
+
+20160:
+They're flying in low!
+
+20640:
+What's the use of trying to fight when my guns and armor are so obviously inferior to that of the enemy?
+
+21120:
+Lighten up. We can have fun and get the job done at the same time.
+
+22080:
+I knew I'd gotten better!
+
+22560:
+This initiative sounds ill-formed and ill-timed.
+
+23040:
+That was an exercise in futility.
+
+24480:
+Ice is the kind of man I'm proud to serve with.
+
+24960:
+See, Static is a good soldier! And he makes me laugh.
+
+25440:
+This just confirms my impression of Spider. She is quite a woman.
+
+25920:
+Wait. Give me time to adjust and see if the chemistry works out right.
+
+26400:
+Ach du liebezeit! Mike is here! The schweinehund!
+
+26880:
+Ach du liebezeit! I am blind.
+
+27360:
+It is too bad, but it is too difficult for me.
+
+27840:
+Someone I would like to meet under different circumstances.
+
+28320:
+I have confirmed opposition activity in the area.
+
+28800:
+We must stay vigilant. Enemy forces remain in the vicinity.
+
+29280:
+I could make use of this...
+
+30240:
+That boy matches the description of the rebellious teenager we're supposed to be tracking down.
+
+30720:
+We accept your welcome and are eager to begin the task. Rest assured, Deidranna has indeed made a grave mistake in judgment.
+
+31200:
+Ja gut! Enemy defeated in this area.
+
+31680:
+Somebody, somewhere, has sticky fingers, and some of our stuff!
+
+32160:
+Even if the kids have to clean up the mess, I still say it was worth it. They will know freedom.
+
+32640:
+Mein Gott!
+
+33120:
+Next to the Berlin Wall, this is my greatest takedown! Thank you, friend.
+
+33600:
+The enemy has deserted the area. It is ours by default.
+
+34080:
+I will take my sleep now, and begin to work when I rise.
+
+34560:
+Yes, I am on the job.
+
+35040:
+You can say that again. Well, I can anyway.
+
+35520:
+This equipment has failed me. I am not surprised.
+
+36000:
+Mein Gott! This looks tricky!
+
+36480:
+Halt! The ground here reminds me of East Germany.
+
+36960:
+Mein Gott! I hate ... <gulb>... take... my gun... take.... anything...
+
+37440:
+Trip completed, I'm available.
+
+38400:
+I'll have to say no. I need a C.O. who inspires confidence, not caution.
+
+38880:
+Not me, no sir. I have an ex-wife and child to support, and your command tends to be deadly.
+
+39360:
+I haven't the time right now. I'm attending a seminar on the power of prayer in the healing process.
+
+39840:
+I have two marathons to run within the next week. So, while I can't take the job right now, I might be able to join you in the future. Try to let me know further ahead of time.
+
+40320:
+You've reached Thor, Cassandra, and Fenrus. We may be asleep or busy just now. After the tone, you can leave us a message, and we'll return the call as soon as we're able. Thank you!
+
+40800:
+Thank you for the opportunity. I hope we can work together again. Good luck.
+
+42720:
+When my contract expires a short time from now, will you want to keep me on as part of the operation?
+
+43200:
+I'll be glad to stay.
+
+43680:
+I'm looking forward to working for you.
+
+44160:
+Ice apparently thinks highly enough of you to be on your team. So, I think if you're good enough for him, you're good enough for me as well.
+
+44640:
+Static has a little more experience than I do in choosing teams. I'll trust his opinion of you and accept the assignment as he has.
+
+45120:
+I have a good deal to learn from Spider. I'd work with her under the worst of circumstances, and since she's with you, I suppose I'm with you, too.
+
+45600:
+I had thought this would be a good pairing, but I've come to realize I've made a mistake. But thank you for the opportunity.
+
+46080:
+Entschuldigung, I said...
+
+46560:
+With all due respect, sir, I can't pay the groceries with an I.O.U., and you don't have the cash to pay me.
+
+47040:
+I didn't realize I wasn't passing muster. But thank you for the opportunity to try anyways.
+
+47520:
+Not me, no sir. I have an ex-wife and child to support, and your command... tends to be deadly.
+
+49440:
+Ice apparently thinks highly enough of you to be on your team. So, I think if you're good enough for him, you're good enough for me as well.
+
+49920:
+Static has a little more experience than I do in choosing teams. I'll trust his opinion of you and accept the assignment as he has.
+
+50400:
+I have a good deal to learn from Spider. I'd work with her under the worst of circumstances, and since she's with you, I suppose I'm with you, too.
+
+50880:
+Pardon me, I said...
+
+51360:
+With all due respect, sir, I can't pay for groceries with an I.O.U., and you don't have the cash to pay me.
+
+51840:
+Hello, Thor Kaufman here.
+
+52320:
+I should let you know that as a vegetarian, I don't eat the regular tinned rations, but I can often scrounge myself a meal from the local flora. So, it's not as if I'd need any special supplies.
+
+52800:
+I need to get on with my life.
+
+53280:
+How long do you think you can use me?
+
+53760:
+Once you know what you need, call me. I'll be here.
+
+55200:
+A short time from now, my contract will be complete.
+
+55680:
+My performance is at peak, and I raised my fees to reflect that.
+

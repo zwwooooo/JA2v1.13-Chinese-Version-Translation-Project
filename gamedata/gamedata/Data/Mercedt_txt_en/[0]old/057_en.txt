@@ -1,0 +1,210 @@
+0:
+See soldier.
+
+480:
+I am prepared for battle.
+
+960:
+I will teach them.
+
+1440:
+Ant beast!
+
+1920:
+It be an enemy I am not familiar with. I must find its weakness.
+
+2400:
+I must stop the ant beasts.
+
+2880:
+Caution! I sure I hear a voice.
+
+3360:
+Most revolting. It be smell of ant beast.
+
+3840:
+I wait for chance to meet enemy. It will come soon.
+
+4320:
+Ant beasts be close. I must kill them to protect my people.
+
+4800:
+Like ants, the beasts are abundant and annoying.
+
+5280:
+I see item.
+
+5760:
+There be item.
+
+6240:
+My gun must be reloaded.
+
+6720:
+I see darkness. Must see doctor... or I will die.
+
+7200:
+The revolution has lost an important member. Carlos was my most trusted soldier.
+
+7680:
+Ira died for cause. She will be missed by many.
+
+8160:
+I was impressed by Shadow. He would have performed well as a member of the rebel force.
+
+8640:
+It be unusual for me, but I am...lost.
+
+9120:
+Must fix gun.
+
+9600:
+They do not know they shoot at Miguel. When they stop, I will show them.
+
+10080:
+They must try harder!
+
+10560:
+They will not kill me. I have lived through too much.
+
+11040:
+I do not think I can hit that.
+
+11520:
+I have damage.
+
+12000:
+I am too tired to think. I must sleep.
+
+12480:
+I need time. Need break.
+
+12960:
+Dead!
+
+13440:
+Death to beast.
+
+13920:
+I am most uncomfortable with Iggy on team. A traitor can never be trusted.
+
+14880:
+This woman, Buzz, she be filled with many problems. Problems we do not need.
+
+15840:
+War be most unpleasant.
+
+16800:
+I wait for direction.
+
+17280:
+I will not obey.
+
+17760:
+In the name of the people of Arulco, I pronounce you DEAD. There will be no burial.
+
+18240:
+Mother of ant beasts be a nightmare I have no more.
+
+18720:
+Person like this would not work one day for me.
+
+19200:
+I think I like better being leader more than soldier.
+
+19680:
+I am not always proud of my people.
+
+20160:
+Planes! They will try to harm to us.
+
+20640:
+I am leader of rebel force. I should not be getting such junk to use.
+
+21600:
+My father, ruler of Arulco, had much bad to say about Germans. He led our people through first war of world. I cannot accept them to this day.
+
+22080:
+I become better.
+
+22560:
+I do not understand. Have you touched tequila?
+
+23040:
+It be stupid. I would not do it.
+
+24480:
+Most excellent, Carlos.
+
+24960:
+Ira, you are full of surprises.
+
+25440:
+Shadow can teach my forces much.
+
+26880:
+It not possible. I cannot see!
+
+27360:
+I cannot do this. I have no excuse.
+
+27840:
+It is for people like this that I give my life for country.
+
+28320:
+Enemy forces are here.
+
+28800:
+We have not found everyone. Enemy forces are close.
+
+29760:
+The gun is a good teacher of lessons.
+
+30240:
+It be Joseph Graham. He be trouble. Cause his mother much pain.
+
+30720:
+It be best that I lead my own people. I will meet you again in victory.
+
+31200:
+Deidranna's forces be finished here. Death take them all.
+
+31680:
+It is unacceptable to find items missing from new shipment. I do not trust Pablo. He is from family of thieves.
+
+32160:
+Doreen, you left no choice with us. My people, they will understand what I had to do this day.
+
+32640:
+Bloodcat! Be careful...
+
+33120:
+I knew that you had the courage, and intelligence to lead us through. I will miss you, my friend.
+
+33600:
+Deidranna's men flee to safety. Their time will come another day.
+
+34080:
+I sleep. I return to work when I am finished.
+
+34560:
+I work.
+
+35040:
+I am included.
+
+35520:
+This operation is too important for such poor equipment.
+
+36000:
+Hm-mm. This trap does not fool me.
+
+36480:
+There is danger there.
+
+36960:
+I cannot stay... above water... Save Arulco... for me...
+
+37440:
+As you asked, I have reached new location.
+

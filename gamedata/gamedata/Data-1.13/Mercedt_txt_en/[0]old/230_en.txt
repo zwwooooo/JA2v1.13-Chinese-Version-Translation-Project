@@ -1,0 +1,258 @@
+0:
+I got the jump on this sucker!
+
+480:
+I got some sewer snipe in sight! Lookin' to toast it!
+
+960:
+Hell... I've been spotted.
+
+1440:
+Bastards!
+
+1920:
+Hell... I don't like this!
+
+2400:
+Hell... I don't like this!
+
+2880:
+Careful... Someone's been digging here!
+
+3360:
+Hell... I don't like this!
+
+3840:
+Hell... This place makes the Middle East look like a beach party. 
+
+4320:
+Hell... I guess it just wasn't our turn.
+
+4800:
+Hell... I don't like this!
+
+5280:
+I've eye-balled something over here.
+
+5760:
+I've eye-balled something over here.
+
+6240:
+Hell... I'm short of lead!
+
+6720:
+Been chewed up something bad! Hell... I'll be damn lucky to make it!
+
+7200:
+Hell! They took out Screw! Ya know down deep that guy's all heart.
+
+9120:
+Hell... What a time for my gun to jam!
+
+9600:
+Hell... You're playing with your life!
+
+10080:
+Hell... I'm leaking blood!
+
+10560:
+Hell! That was close...
+
+11040:
+Hell... I'd have to be real lucky!
+
+11520:
+Hell... I've done worse!
+
+12000:
+Hell... Stop for a minute.
+
+12480:
+Hell... I'm gonna pass out if I don't stop for a minute.
+
+12960:
+That's one troop down!
+
+13440:
+Expect the same, dirtball!
+
+15360:
+Say your prayers, slimeball... This one's from the Boss!
+
+15840:
+Hell... If I hadn't been there myself, I'd never believed it happened!
+
+16320:
+Hell no!
+
+16800:
+Hell ya! This mission's a done deal!
+
+17280:
+Hell no!
+
+17760:
+Say your prayers, slimeball... This one's from the Boss!
+
+18240:
+Say your prayers, slimeball... This one's from the Boss!
+
+19200:
+Hell... You can't be serious!
+
+19680:
+Hell... You're not even on my B list!
+
+20640:
+Hell... This thing is nothing but a piece of junk!
+
+22080:
+You picked a hell of time, snowball!
+
+22560:
+Hell... I bet once you learn how to load the weapons, you'll be real mean!
+
+23040:
+Hell... Do you have any credentials?
+
+24480:
+Hell... It's Screw. I guess... I'll need another beer buddy.
+
+25920:
+Hell... I haven't got time for this!
+
+26400:
+Have you lost your mind? Hell... This is the Boss you're sticking it to!
+
+27360:
+Hell... I haven't got any more time for this!
+
+27840:
+Hell... Forget I said anything!
+
+28320:
+Hell... This place makes the Middle East look like a beach party. 
+
+28800:
+Hell... This place makes the Middle East look like a beach party. 
+
+29760:
+Expect the same, dirtball!
+
+30720:
+Hell... I got nuthin' better to do, right now!
+
+31200:
+That was a job well done!
+
+32160:
+Hell... I heard you used to work at Dairy Queen!
+
+32640:
+Hell... I don't like this!
+
+33120:
+Hell... We sure showed them!
+
+33600:
+You can file this one under victory.
+
+34080:
+Hell... I'm gonna pass out.
+
+34560:
+All right!
+
+35040:
+Hell... What about me?
+
+35520:
+Hell... This thing is nothing but a piece of junk!
+
+36000:
+Hell... This thing's boobytrapped.
+
+36480:
+Hell... I smell a trap around here!
+
+36960:
+Phhhhhell... Swallowing water...
+
+37440:
+Hell... I'm already here!
+
+38400:
+Hell... This place makes the Middle East look like a beach party. If you want me to come back, you're going to have to get the body count down.
+
+38880:
+Hell... This place makes the Middle East look like a beach party. If you want me to come back, you're going to have to get the body count down.
+
+39360:
+Hell no! You're so disloyal, I doubt you could keep a DOG!
+
+39840:
+Hell no! The scent of death clings to you like ? a week-old shirt!
+
+40320:
+I have a good feeling about this. I'll let you know...
+
+40800:
+Hell... The excitement's killing me. We've got a tie. If you don't want it to happen again, go really big this time!
+
+42720:
+Hell... I got job offers coming out of my whammy! The guy who drops the most cash on me gets me!
+
+43200:
+I gave you a fair shake. Hell... A man can't do any more than that!
+
+43680:
+All right... We got a hell of a deal!
+
+44160:
+Okay... I'm gonna overlook some of the problems I have with ya 'cause Screw's on your team, and I haven't seen him for a while.
+
+45600:
+Hell... I wish I could, but I got do a tune-up on my car!
+
+46080:
+I said...
+
+46560:
+Where the hell are you gonna get the money?
+
+47040:
+Hell... I was gonna quit anyway!
+
+47520:
+Hell... This place makes the Middle East look like a beach party. If you want me to come back, you're going to have to get the body count down.
+
+49440:
+Okay... I'm gonna overlook some of the problems I have with ya 'cause Screw's on your team, and I haven't seen him for a while.
+
+50880:
+I said...
+
+51360:
+And don't even think about reaching for your wallet!
+
+51840:
+Hell... You're looking at the best! I can build, fix and kill anything! I'm the Boss!
+
+52320:
+Hell... I never heard of you! You're gonna have to show me what you're made of before I'll join!
+
+52800:
+Hell... You didn't expect me to turn over the cash, did ya?
+
+53280:
+It's a hell of a way to make a living. On the upside, you get to travel a hell of a lot.
+
+53760:
+Hell... You enjoy hiring mercenaries so much, hire yourself another!  I quit!
+
+55200:
+Hell... It's almost time to wrap this up!
+
+55680:
+Hell... This is a waste of time. You can't even meet me half way!
+

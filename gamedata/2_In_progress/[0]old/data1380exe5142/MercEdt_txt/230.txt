@@ -1,0 +1,254 @@
+0:
+我能突袭这混球了！
+
+480:
+见鬼...我被发现了。
+
+960:
+见鬼...我不喜欢这样。
+
+1440:
+Hell... I've been spotted.
+
+1920:
+Hell... I don't like this!
+
+2400:
+Hell... I don't like this!
+
+2880:
+小心...有人设下了圈套！
+
+3360:
+Hell... I don't like this!
+
+3840:
+Hell... This place makes the Middle East look like a beach party. 
+
+4320:
+Hell... I guess it just wasn't our turn.
+
+4800:
+Hell... I don't like this!
+
+5280:
+我瞧见了一些东西。
+
+5760:
+我瞧见了一些东西。
+
+6240:
+见鬼...我没弹药了！
+
+6720:
+好像吃到了烂苹果一样！见鬼...我还真他妈运气好！
+
+7200:
+Hell! They took out Screw! Ya know down deep that guy's all heart.
+
+9120:
+见鬼...我的枪真会挑时候来罢工！
+
+9600:
+见鬼...你活腻歪了吧！
+
+10080:
+见鬼...我流血了！
+
+10560:
+见鬼!刚才好险...
+
+11040:
+见鬼...我一定是幸运星了！
+
+11520:
+见鬼...我以前干过更差的活！
+
+12000:
+Hell... Stop for a minute.
+
+12480:
+见鬼...我再不歇歇就要阙倒了！
+
+12960:
+敌兵击杀确认！
+
+13440:
+Expect the same, dirtball!
+
+15360:
+That's one troop down!
+
+15840:
+见鬼...要不是亲眼看到，我怎么都不相信这种事情！
+
+16320:
+Hell no!
+
+16800:
+见鬼..好！算我一个！
+
+17280:
+见鬼..糟了...我还在等零件呢！
+
+17760:
+见鬼...我听说你以前是在DQ上班的！
+
+18240:
+Hell... We sure showed them!
+
+19200:
+见鬼...你不是说真的吧！
+
+19680:
+Hell... You're not even on my B list!
+
+20160:
+有狙击手想阴我！
+
+20640:
+见鬼...这东西就是块废铁！
+
+22080:
+笨蛋！你他妈真会挑时候！
+
+22560:
+见鬼...我打赌如果你学会了怎么上膛，你就会是个大坏蛋！
+
+23040:
+见鬼...你有啥证书不？
+
+24480:
+Hell... It's Screw. I guess... I'll need another beer buddy.
+
+25920:
+这件事上我感觉不错。我会告诉你的...
+
+26400:
+Hell... I don't like this!
+
+27360:
+见鬼...没时间干这个了！
+
+28320:
+Hell... This place makes the Middle East look like a beach party. 
+
+28800:
+Hell... This place makes the Middle East look like a beach party. 
+
+29760:
+等着瞧吧,蠢蛋！
+
+30720:
+Hell... Forget I've said anything.
+
+31200:
+你可以把这一仗在档案里标记为“胜利”了。
+
+32160:
+You can file this one under victory.
+
+32640:
+Hell... I don't like this!
+
+33120:
+见鬼...我们好好给他们上了一课！
+
+33600:
+You can file this one under victory.
+
+34080:
+Hell... I'm gonna pass out.
+
+34560:
+All right!
+
+35520:
+见鬼...这东西就是块废铁！
+
+36000:
+见鬼...这玩样上了陷阱了！
+
+36480:
+见鬼...这玩样上了陷阱了！
+
+36960:
+Phhhhhell... Swallowing water...
+
+37440:
+Hell... We're almost there.
+
+38400:
+见鬼！你太不忠诚了，我怀疑您是不是该去养条狗！
+
+38880:
+为了你的钱包着想，还是别他妈联系我了！
+
+39360:
+Hell no! You're so disloyal, I doubt you could keep a DOG!
+
+39840:
+见鬼！难不成你喜欢尸臭？像一个礼拜不洗的衬衫！
+
+40320:
+Hell! I've already been ousted by you!
+
+40800:
+见鬼...我快兴奋死了。我们这次平手了。如果你不想这种事情再发生的话，这次好好干！
+
+42720:
+见鬼...我之前接了个倒霉的差事！现在谁出价高，我就跟谁干！
+
+43200:
+我给过你公平机会的。见鬼...一个男人这样做够到位了吧！
+
+43680:
+好...我们就他妈说定了！
+
+44160:
+Okay... I'm gonna overlook some of the problems I have with ya 'cause Screw's on your team, and I haven't seen him for a while.
+
+45600:
+你他妈要从哪里搞钱来？
+
+46080:
+我就说...
+
+46560:
+见鬼...我真希望我能来干，可惜我要调整一下汽车发动机！
+
+47040:
+见鬼...无论如何我不干了！
+
+47520:
+Hell... This place makes the Middle East look like a beach party. If you want me to come back, you're going to have to get the body count down.
+
+49440:
+Okay... I'm gonna overlook some of the problems I have with ya 'cause Screw's on your team, and I haven't seen him for a while.
+
+50880:
+我就说...
+
+51360:
+And don't even think about reaching for your wallet!
+
+51840:
+见鬼...你面对的是这一行里最棒的家伙！我能制造、修理或杀掉任何东西任何人！我就是老板！
+
+52320:
+养活自己真他妈不容易。往好处想，你他妈能到处旅游了。
+
+52800:
+见鬼...你没指望我把钱还给你吧，是不？
+
+53280:
+见鬼...我真希望知道我要往哪边走！
+
+53760:
+Hell... You enjoy hiring mercenaries so much, hire yourself another!  I quit!
+
+55200:
+见鬼...差不多是时候了结这件事了！
+
+55680:
+见鬼...这真是浪费时间。你甚至不能满足我的一半条件！

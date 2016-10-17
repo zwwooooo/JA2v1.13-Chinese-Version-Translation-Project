@@ -1,0 +1,273 @@
+0:
+I got an enemy sighted up and ready for a box!
+
+480:
+I've got an enemy in sight! Still hasn't seen me.
+
+960:
+I've got my hands full here!
+
+1440:
+Spotted one!
+
+1920:
+Spotted one!
+
+2400:
+Well well!
+
+2880:
+I'm not sure about this... Something's wrong.
+
+3360:
+Well well!
+
+3840:
+You should order more body bags!
+
+4320:
+I don't feel much like it.
+
+4800:
+I've got my hands full here!
+
+5280:
+I see something here.
+
+5760:
+I see something here.
+
+6240:
+I need some lead. And I need it now!
+
+6720:
+Need help... I'm fading fast!
+
+9120:
+Crap! My gun won't fire!
+
+9600:
+I'm taking heat here! I want to build a little fire of my own!
+
+10080:
+We got screwed bad!
+
+10560:
+They got screwed bad!
+
+11040:
+Nobody could make that shot from here!
+
+11520:
+I'm bleeding...
+
+12000:
+I'm out of here...
+
+12480:
+I'm out of breath...
+
+12960:
+Kiss my rifle butt!
+
+13440:
+I wish they were all this easy.
+
+13920:
+Killing Larry will get me back into my old man's good books.
+
+15360:
+Mike... Mike... Answer me, Mike... Ah geez!
+
+15840:
+I've been luckier.
+
+16320:
+You're going to be sorry you messed with me!
+
+16800:
+I knew with me around... The job would get done.
+
+17280:
+I don't do that kind of thing!
+
+17760:
+You deserve it!
+
+18240:
+Kiss my rifle butt!
+
+18720:
+I'm gonna make this guy sorry he ever messed with me!
+
+19200:
+We made out like bandits!
+
+19680:
+Is this the best you can do?
+
+20160:
+This place is going to blow!
+
+20640:
+This thing's a piece of garbage! Doesn't anything work around here?
+
+22080:
+Consider yourself lucky...
+
+22560:
+Get your hands off me!
+
+23040:
+That can't be right!
+
+23520:
+Lookie, lookie! It's my loser brother, Larry.
+
+25920:
+We tried to work it out. Didn't happen... Don't bother me anymore.
+
+26400:
+Crraaap...it's Mike. I don't want to do this... Mike's my idol!
+
+26880:
+I'm taking it here!
+
+27360:
+I'm not good at this kind of stuff!
+
+27840:
+You're in the right neighborhood.
+
+28320:
+You can open your eyes now!
+
+28800:
+I think we got the last one around here.
+
+29760:
+Kiss my rifle butt!
+
+30720:
+With me in charge, you can count on it.
+
+31200:
+Ya... We did it!
+
+31680:
+I'm a little concerned...
+
+32160:
+She's DEAD?
+
+32640:
+Well well!
+
+33120:
+With me on your side, they didn't have a chance!
+
+33600:
+That's one group less.
+
+34080:
+Don't bother me anymore.
+
+34560:
+It's your lucky day. We're on!
+
+35040:
+I should have brought a book.
+
+35520:
+This thing is a piece of garbage! Doesn't anything work around here?
+
+36000:
+This locale looks suspicious..
+
+36480:
+The ground looks suspicious.
+
+36960:
+I can't breathe... I'm DRO...WNING!
+
+37440:
+I'll have to get more specific directions!
+
+38400:
+I'd never join up with someone ? like you!
+
+38880:
+Forget this... You're not taking me serious enough.
+
+39360:
+You're a loser!
+
+39840:
+I'm outta here! You can't even get a decent haircut for that kind of money.
+
+40320:
+Well... Well... Busy, busy! I've got too many options. I'll join up with the team willing to put up the most cash, right now!
+
+40800:
+It wasn't that bad working for you. I guess if you need my services again you can call.
+
+41280:
+Get rid of my brother, pill-head Larry, or I'm ? out of here!
+
+42720:
+Your amount was matched. We'll go again. This time make me proud!
+
+43200:
+Fortunate for you, money is tight right now... So, I'll take it!
+
+43680:
+I'll join even though you don't deserve me!
+
+45600:
+What about the money you already owe me? You give me three times what you you owe up-front and I'll go back!
+
+46080:
+Try listening...
+
+46560:
+You're stiffing a Roachburn! I thought you might want to be aware of that!
+
+47040:
+You stiffed a Roachburn, and now that I have the money... This Roachburn's stiffing you!
+
+47520:
+You're not even worth listening to anymore!
+
+48000:
+Get rid of my brother, pill-head Larry, or I'm ? out of here!
+
+50880:
+Try listening...
+
+51360:
+Had you really wanted me, you would have bid a little higher. So, too bad!
+
+51840:
+I'm the best man for the job!
+
+52320:
+My father wasn't badmouthing me, was he?
+
+52800:
+I've got a bigger mouth than my father, and I'm a heck of a lot younger.
+
+53280:
+How you planning on paying me?
+
+53760:
+Don't bug me no more!
+
+54240:
+I don't work with my brother, 'anything but a placebo' Larry!
+
+55200:
+It's a good possibility. I'll need some time to weigh all my options.
+
+55680:
+You seem to be a little quick with the axe. I want double my regular salary!
+

@@ -1,0 +1,276 @@
+0:
+Opposition.
+
+480:
+A lion is now in our path.
+
+960:
+They are relentless in their pursuit!
+
+1440:
+Scutter bug is here.
+
+1920:
+If I were superstitious, I might well see these fearsome scuttering insects as omens of doom. But they are no more or less portentous than man himself.
+
+2400:
+Signs of the scuttering beasts.
+
+2880:
+Something stirs just beyond.
+
+3360:
+Eugh. The scutter bugs have cast their sickly scent here.
+
+3840:
+Trouble whispers on the breeze. Be prepared.
+
+4320:
+I pray the scutter bugs are absent. I have no wish to die like a fly in a web.
+
+4800:
+The scutter bugs want to devour me!
+
+5280:
+Something.
+
+5760:
+What lies there?
+
+6240:
+I am in search of ammunition for my weapon.
+
+6720:
+I cast aside the pain of my injuries.
+
+8160:
+Victoria Waters, you were a woman of honor and spirit. May your soul's journey be met with happiness.
+
+8640:
+I have forgotten my instructions.
+
+9120:
+This weapon has jammed.
+
+9600:
+Assistance! I doubt I can prevail alone!
+
+10080:
+The discomfort will pass.
+
+10560:
+I shall not fear death when it finally greets me.
+
+11040:
+A highly doubtful shot.
+
+11520:
+I must not continue to lose blood.
+
+12000:
+The need for sleep must not be denied.
+
+12480:
+I must recover my breath.
+
+12960:
+That enemy breathes no more.
+
+13440:
+The bug's soul is at peace.
+
+15360:
+Mike has now passed on... his soul of betrayal has found peace at last.
+
+15840:
+That is a spirit that will never rest.
+
+16800:
+I need guidance.
+
+17280:
+That, I will not do.
+
+17760:
+In death, as in life, the harridan's spirit shrieked for release.
+
+18240:
+I'm honored to be the instrument of the scutter queen's death.
+
+18720:
+Such a fool.
+
+19200:
+My valor is wasted here.
+
+19680:
+I cannot but laugh at this army of clowns.
+
+20160:
+The enemy has taken to the air!
+
+20640:
+The quality of this equipment is a hindrance. It is almost worse than no equipment at all.
+
+21120:
+I prefer to anticipate the worst so that I am never disappointed.
+
+22080:
+There is no teacher greater than experience.
+
+22560:
+Why do you contrive to fail?
+
+23040:
+I humbly suggest you consult Chapter 11 of Sun Tzu.
+
+25440:
+I could sense Vicki's potential for greatness. It shines from within.
+
+25920:
+That might be a hasty decision. Let us see how events unfold.
+
+26400:
+Well, well, we are facing our friend Mike. This was meant to be; there are no coincidences.
+
+26880:
+Grave danger awaits. I cannot see what surrounds me.
+
+27360:
+The requirements surpass my capabilities.
+
+27840:
+There is something rather unique about that man.
+
+28320:
+This territory contains evil that must be confronted.
+
+28800:
+We have not rid this sphere of its evil. We must remain prepared.
+
+29760:
+I am forever spellbound by the frailty of life.
+
+30240:
+It appears to be the young Graham boy. His wild streak most likely stems from an inner confusion. With time, it too shall pass.
+
+30720:
+Each person is placed into another's path for a purpose, Miguel. And so ours have crossed, and now fate shall determine the outcome.
+
+31200:
+It is most favorable. The evil souls that inhabited this place have all been sent on their final journey.
+
+31680:
+The shipment is not complete. He who takes what is not his is destined to live a shorter existence. All that is left is to determine his identity.
+
+32160:
+The winds of karma brought back to her what she had set upon so many others. Our deed here will strengthen us, and relieve the people of a terrible burden.
+
+32640:
+Hunger prowls!
+
+33120:
+The Art of War states that a man may be successful if he follows a certain way of thinking. This gives me great joy now. For our mission, that which is now complete, the spirits are pleased. With most of us anyway.
+
+33600:
+The cowards flee! We are at peace momentarily.
+
+34080:
+A mind without sleep is without focus. I shall rest, then return to the task at hand.
+
+34560:
+I place into my work what slumber has provided.
+
+35040:
+Our minds think alike.
+
+35520:
+Performance is limited by the performance of our tools. I am, at this moment, useless.
+
+36000:
+We must examine this more closely, but with extreme caution.
+
+36480:
+Look there. The ground reveals the evil plan.
+
+36960:
+He... who dies... in water <gulb>... dies.
+
+37440:
+My journey has come to a successful conclusion.
+
+38400:
+I cannot join you. I seek a general that is wise in the ways of war.
+
+38880:
+I cannot accept. I believe you are reckless with the lives of your men.
+
+39360:
+Regretfully, I will be on retreat. I am sorry.
+
+39840:
+I must sorrowfully decline. I am participating in the review of a new treatment. Remember, asking for me in advance increases the possibility that I will be available.
+
+40320:
+Doctor Q. Huaong speaking. I regret I have missed your call. Should you wish, you may leave your message for me here, and I'll return it, or you may simply call me again at another time.
+
+40800:
+I'm pleased to have been of service. Perhaps we will work together again.
+
+42720:
+The end of our mutual agreement draws close. Do you wish to discuss an extension?
+
+43200:
+The renewal is agreeable to me.
+
+43680:
+The arrangement is mutually beneficial. I agree to the terms.
+
+45120:
+I question some of your decisions. Nevertheless, I will defer to the judgement of Victoria Waters, whom I have learned to trust. I agree to the arrangement.
+
+45600:
+Your ignorance of the art of war betrays your own men. I do not accept.
+
+46080:
+I repeat,...
+
+46560:
+I don't wish to embarrass you but there are financial considerations you have not fully taken into account.
+
+47040:
+I withdraw. Luck be with you and especially with your army.
+
+47520:
+I cannot accept. I believe you are reckless with the lives of your men.
+
+50400:
+I question some of your decisions. Nevertheless, I will defer to the judgement of Victoria Waters, whom I have learned to trust. I agree to the arrangement.
+
+50880:
+I repeat...
+
+51360:
+I don't wish to embarrass you, but there are financial considerations you have not fully taken into account.
+
+51840:
+Dr. Q. Huaong speaking.
+
+52320:
+Perhaps these video phones make you self-conscious. I know they have the same effect on me.
+
+52800:
+I cannot help you if you refuse to tell me what you want.
+
+53280:
+I'm prepared to offer you several alternatives.
+
+53760:
+Indecision is not becoming of a leader. Please call when you have corrected this flaw.
+
+55200:
+Our agreement draws toward its end. Of this, you should be aware.
+
+55680:
+An ancient proverb says that as a man increases in experience, so too shall his fee. I have great respect for proverbs.
+

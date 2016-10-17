@@ -1,0 +1,204 @@
+0:
+There's the enemy.
+
+480:
+The army! I knew we'd see them sooner or later.
+
+960:
+I've got my hands full.
+
+1440:
+Another of Deidranna's pets.
+
+1920:
+Deidranna's got to be behind those things. Mother nature isn't that diabolical.
+
+2400:
+We have to put an end to those things.
+
+2880:
+What was that?
+
+3360:
+Their odor is as sweet as their intentions.
+
+3840:
+Trouble's coming. I can feel it.
+
+4320:
+This place, it-it looks like a hangout for those things.
+
+4800:
+Those things are flippin' pains in the ass!
+
+5280:
+There's stuff.
+
+5760:
+Look here!
+
+6240:
+Gun's out of bullets.
+
+6720:
+I'm in serious pain... send a letter to my family in Brooklyn. Tell them I died bravely - died fighting for the oppressed.
+
+7200:
+Poor Dimitri - he fought for his family. He fought selflessly for his country.
+
+7680:
+Miguel's dead! This is terrible! Terrible news! Who will rule Arulco when it is finally free?
+
+8640:
+I'm not sure I understood.
+
+9120:
+Flippin' gun doesn't want to work!
+
+9600:
+Need a distraction!
+
+10080:
+Maybe I should just go home.
+
+10560:
+Whew... too close for comfort.
+
+11040:
+I'd be really pleased with myself if I could hit it.
+
+11520:
+I've been hit.
+
+12000:
+Ahh... falling asleep on my feet.
+
+12480:
+The pace is too much! I have to slow down.
+
+12960:
+Take that!
+
+13440:
+One thing less!
+
+14880:
+That Malice person makes my skin crawl.
+
+15840:
+Oh my God! That's so revolting!
+
+16320:
+I'll go in, but I was never what you'd call a fish in water. I like dry land.
+
+16800:
+I'm all done.
+
+17280:
+I have other plans.
+
+17760:
+I've dreamt of this moment for years. It feels wonderful!
+
+18240:
+God! I hope that was the mother of all those things.
+
+18720:
+Some people just haven't got a clue.
+
+19200:
+I thought this would be exciting. I thought I'd be working with professionals. How naive.
+
+19680:
+Don't be fooled. Not everyone in Arulco is like that.
+
+20160:
+Flippin' air attack! When will the harrassment cease?
+
+20640:
+I can't believe this! I got better supplies working with the rebel force.
+
+21600:
+I know I am American, but I dislike them. You don't see American forces down here liberating these people, do you? Who do you think armed Deidranna?
+
+22080:
+I'm learning.
+
+22560:
+That doesn't make any sense.
+
+23040:
+I'm not surprised.
+
+24480:
+Good show, Dimitri!
+
+24960:
+That's why Miguel is the leader.
+
+26880:
+I can't see a flippin' thing.
+
+27360:
+I'm useless. Maybe someone else can help.
+
+27840:
+People like that are why I stayed in Arulco.
+
+28320:
+We have company. Deidranna's men are around.
+
+28800:
+I'm sure we didn't find all of Deidranna's men.
+
+29760:
+Now - that was special!
+
+30240:
+It's Joey, the runaway kid. Let's get him.
+
+30720:
+Fine by me. But I don't think you're making the wisest decision.
+
+31200:
+We've eliminated all of Deidranna's men in this area.
+
+31680:
+Someone's thieving the stuff. And that's something... Pablo has a reputation for.
+
+32160:
+That's a step forward for Arulco. Trust me when I say that the people will appreciate this little act.
+
+32640:
+Oh God... It's one of those bloodcats.
+
+33120:
+You know, much as I had my doubts, Miguel believed in you. And now I know why. Nice work.
+
+33600:
+We're clear. They must've pulled out.
+
+34080:
+Grab some sleep, and I'll get back to work.
+
+34560:
+Still a little fuzzy, but I'm back working.
+
+35040:
+I was just thinking that.
+
+35520:
+Oh, this figures. Piece of junk is broken.
+
+36000:
+Whoa! I got something wired here.
+
+36480:
+Careful. That's a nasty little how-do-you-do.
+
+36960:
+God! Get me outta here! Help! No... I... don't...
+
+37440:
+I made it. Let's do something already.
+

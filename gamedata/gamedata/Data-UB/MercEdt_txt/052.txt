@@ -1,0 +1,300 @@
+0:
+发现目标。
+
+480:
+我们有好多麻烦的家伙要铲除。
+
+960:
+这非常混乱！
+
+1440:
+“寿司”！
+
+1920:
+这是一片到处惹事生非的“寿司”。
+
+2400:
+这些“寿司”好像自己能做料理吃。
+
+2880:
+我听到可疑的声音。
+
+3360:
+唷，好恶心，闻起来像腐烂的“寿司”。
+
+3840:
+有东西出现，这东西看着我们。
+
+4320:
+我从不喜欢那些东西，相信我，它们就在附近。
+
+4800:
+该死的，我需要后援。
+
+5280:
+那是什么？
+
+5760:
+值得一看。
+
+6240:
+没子弹了。
+
+6720:
+这次伤得严重了……也许这次溜不掉了。
+
+8640:
+对不起，再来次？我走神了。
+
+9120:
+枪卡住了，该死的。
+
+9600:
+他们还真是嚣张起来了！
+
+10080:
+我感觉就像一只被拍死了的蚊子。
+
+10560:
+这就是劫数啊。
+
+11040:
+需要更好的射击位置。
+
+11520:
+我受了很严重的穿刺伤害，仍在流血。
+
+12000:
+困得要撞墙了,睡觉吧。
+
+12480:
+我……我不得不慢下来。
+
+12960:
+目标被消灭。
+
+13440:
+尝尝我的厉害！
+
+15840:
+有些人把头剔得太干净了些。
+
+16800:
+我都做完了。
+
+17280:
+抱歉，我不干。
+
+17760:
+我们的首要目标被干掉了。
+
+18240:
+太好了！！呃，我的意思是……这算不了什么。
+
+18720:
+有些佣兵简直就是我们的累赘。
+
+19200:
+我希望事情会好转起来。
+
+19680:
+有些人应该变聪明些，从而认识到佣兵任务并不是每个人都能胜任的。
+
+20160:
+空袭！这不是演习！
+
+20640:
+这装备是废物，或许该把它丢在路边。
+
+22080:
+我尽我所能。
+
+22560:
+我想我们应该再看一遍。
+
+23040:
+早说过不行嘛。
+
+26400:
+好像还没人发现我们，现在我们还要去找这个Miguel。
+
+26880:
+最好视力快点复原，我现在什么也看不见了。
+
+27360:
+我实在做不了这个。
+
+27840:
+这里鱼龙混杂，不过还是有一些实在人的。
+
+28320:
+准备，这里有敌人。
+
+28800:
+敌人可能没走远……
+
+29760:
+这把枪真是利器啊。
+
+30240:
+嘿，他是Graham那小子。
+
+30720:
+我们来这是为了阻止某人的野心，Miguel，我们手头的火力就够了。
+
+31200:
+敌人都搞定了，至少在这地区是这样。
+
+31680:
+哼，下次我们和人做买卖，一定要擦亮眼睛，他们揩了我们的油。
+
+32160:
+这话从我嘴里说出来我都觉得很奇怪：我恨不得再给她一梭子子弹……这些可怜的孩子以后可以在妈妈身边多呆一会儿了。
+
+32640:
+“山猫”！
+
+33120:
+呃，我从任务一开始就加入了。这么长时间的战斗，恍如隔世，怎么说才……反正，是你给了我新的生活，我谢谢你！
+
+33600:
+他们溜了，这里就剩我们了。
+
+34080:
+我要休息，要不都快犯傻了，就一会儿。
+
+34560:
+我起床了，继续干活。
+
+35040:
+同感。
+
+35520:
+这装备只配扔进最近的垃圾桶。
+
+36000:
+该死！看起来我们有大麻烦。
+
+36480:
+别动！看到没？我看到可疑的东西。
+
+36960:
+嘿……这是……唔〈咕噜〉……唔〈咕噜〉……沉〈咕噜〉……沉……〈咕噜〉沉下去了！
+
+37440:
+我到了，一切OK。
+
+37920:
+The laptop is fixed. We're connected again.
+
+38400:
+Burrrr! Ah, what's all this white stuff? Are we in Canada?
+
+38880:
+I don't feel lucky.
+
+39360:
+If we don't get going soon, I'm going to freeze to death right here.
+
+39840:
+This leads nowhere. Have to figure out how to get that door open downstairs.
+
+40320:
+Don't know where you expect me to go, we are in a tunnel after all.
+
+40800:
+Only I could end up stranded in snow - dressed for the beach.
+
+41280:
+Base camp. This must be where the border guards lay their heads at night.
+
+41760:
+Lacking a certain something pretty much sums up this town.
+
+42240:
+Still can't believe I trekked through all that white stuff dressed like this.
+
+42720:
+Rats! We're shorthanded from here on in.
+
+43200:
+Don't think it's gonna be much of a surprise to anybody when we show up.
+
+43680:
+Got the whole team through. Now, to throw a little surprise party for the people on the other side.
+
+44160:
+I imagine when you're the only store around for a zillion miles you can have all the policies you want.
+
+44640:
+Guy's covered in slime from his ears to his tail.
+
+45120:
+Famous last words!
+
+45600:
+Never been double-crossed by an Eskimo before, anybody else?
+
+46080:
+Get ready to move out, Manuel. It's comforting to be working with a bonafide rebel.
+
+46560:
+Ya tell a good story, Colonel. You've seen it all I gather.
+
+47040:
+Sorry about Mary and all, John, but you know what they say, there's a reason for everything. Stay close, you might be a bit rusty.
+
+47520:
+Good to finally work with you, Tex. Your reputation precedes you.
+
+48000:
+Hmmmm. Never had the opportunity to use one of these before.
+
+48480:
+May want to rethink this fan thing.
+
+48960:
+It so much more fun wasting someone important.
+
+49440:
+Pass it over here. I want to take a look at that letter.
+
+49920:
+That was a beauty. Place is history... Definitely won't be launching anything from there.
+
+50400:
+Shoot! Taking out that guardhouse didn't solve all our problems.
+
+50880:
+Hmmm! A hand mortar. Heard of these, but I never thought I'd actually get to hold one.
+
+51360:
+Finally all dead! Now, I know why you never get to see them in a zoo. Too damn dangerous!
+
+51840:
+Ya need a little more practice there, Raul. Course that ain't gonna happen now.
+
+52320:
+The real pity is that he turned everything he was holding into scrap metal.
+
+52800:
+Gonna have to pop it open somehow. Probably with brute force, since there's no wirecutters around to cut through it.
+
+53280:
+That's one solid door!
+
+53760:
+Think we just got lucky... Pretty sure I heard something open.
+
+54240:
+That ain't no church bell!
+
+54720:
+That's our call. They closed down the fan.
+
+55200:
+This is intriguing. It's got all the info buddy needed to launch the missiles into Arulco. Coordinates, the whole nine yards. Since he obviously won't be using them, maybe we can.
+
+55680:
+I could probably enter this launch pad as the destination into the control panel... Be kinda ironic to use their own weapon against them, wouldn't it? Just have to use that elevator to make a clean getaway, when I'm finished.
+
