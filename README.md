@@ -3,7 +3,7 @@ Automatically exported from code.google.com/p/ja2v113-chinese-translate-project
 
 ## TBS 1.13 lang zh_CN（简称 113TBS，原名 TBS Chinese(GB) patch）
 
-### 1.13 ja2.exe 源码汉化
+### 主分支：1.13 ja2.exe 源码汉化
 
   * ja2.exe源码  
     熊窝svn [https://ja2svn.mooo.com/source/ja2/trunk/GameSource/ja2_v1.13/Build]
