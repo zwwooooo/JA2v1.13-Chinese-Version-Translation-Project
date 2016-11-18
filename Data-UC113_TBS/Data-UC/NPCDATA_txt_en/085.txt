@@ -1,429 +1,90 @@
 0:
-I collect for the Satans Sons benevolent society. So. how much you gonna donate today?
+Hey, you guys are celebrities! Saw your exploits on the news yesterday. Howdy, I'm the Captain.
 
 480:
-I collect for the Satans Sons benevolent society. So. how much you gonna donate today?
+Nice to see you again.
 
 960:
-
+I retired from the navy a while back. Run this fishing boat and tackle shop as a hobby, sell outboard fuel as well. Had a good trade going 'till the army overreacted with all this rebel business going on.
 
 1440:
-
+I retired from the navy a while back. Run this fishing boat and tackle shop as a hobby, selling outboard fuel and running sight-seeing tours. Business is pretty quiet lately. Military has closed a few waterways due to rebel activity.
 
 1920:
-
+Well, thanks a bunch. What would be really useful is $2000 cash so I can get me a new outboard motor. If you have some cash to spare the information I have will be very valuable to you.
 
 2400:
-
+Howdy, I'm the Captain. Take a seat. Lets talk some serious business; I got a proposition for ya...
 
 2880:
-You'll need urgent medical care anytime soon with that attitude.
+That's not the way to treat a friend!
 
 3360:
-
+Heck no, I retired from all that gung ho stuff years ago. What I need is for the political situation to settle down so business can pick up again.
 
 3840:
-
+Holey moley! Got a hull puncture below the waterline! Can you guys help me with the first aid?
 
 4320:
-
+Been a pleasure doing business with you.  The sooner you guys put a stop to the mayhem, the sooner us ordinary folks can return to a quiet, productive life again.
 
 4800:
-
+Can't talk right now, there's shooting outside. What the Hell's going on now? I told them alligator hunters to shoot somewhere else yesterday. Why don't people have manners?
 
 5280:
-
+Great! Thanks! No need to count it. Right, now for the information you need comes in two parts. Which do you want first?
 
 5760:
-
+OK most important is the oil refinery. East of here in sector O10 is an offshore oil refinery operated by Crepaton. 'Pharmaceuticals only', you gotta be kidding, these guys are into everything!
 
 6240:
-I'm gonna decrease your lifespan substantially....  You need to be both respectfull and generous to avoid unpleasant consequences in my subway.
+They ferry in workers for 12 hour shifts by patrol boat from Rudesa, but what interests you is the serious amount of cash kept there. Since the rebellion, security has been tightened up, so it's no walkover.
 
 6720:
-
+The patrol boat skippers all know my vessel and never stop me so I can get you to a nice, quiet dark spot rear of the terminal, no fuss, but you're on your own after that. Take some wirecutters with you.
 
 7200:
-
+You might have talked to Pedro, the other charter boat operator. His outfit is just west of here. Take some serious advice friend, and don't use his boat. He will get you to the terminal all right...
 
 7680:
-
+I thought we were on the same side! Take this you snake!
 
 8160:
-
+Terminal for you, friend! He only drops off at the main jetty. His boat sits too deep in the water to navigate shallows. You can bet your arse the front gate reception is gonna be less than welcoming.
 
 8640:
-
+So meet me in the locked room after dark, then we can head out. Here's the key. Gotta be sensible, no point committing suicide doing this in broad daylight.
 
 9120:
-
+After the jobs done, give me a call and I'll pick you up from the main wharf. Got a feeling there won't be any security left after you're through.
 
 9600:
-
+Careful with the terminal workers. I don't want any innocent casualties on my conscience. And watch yourself; there's lots of volatile material in that place!
 
 10080:
-
+Now for part two, which is real interesting. In the sector north of here is a stranded patrol boat crewed by reservist conscripts who ran aground. They can get it going again but only at high tide.
 
 10560:
-
+I know these guys are also rebel sympathizers, so that makes your access to their naval base a good probability. Just get introduced, hop on board and they will drop you on the dock, I can radio them you're coming.
 
 11040:
-
+Just remember that while approach is easy, soon as you step on the wharf everythings gonna hit the fan in a really spectacular fashion, so take whatever cover exists and shoot your way through.
 
 11520:
-
+There is another approach into that place though it requires some swimming. In sector N14, start near the hazard light beacon at east edge. That'll take you to some marshes rear of the base.
 
 12000:
-
+Be sensible and do this stuff at night, whatever you decide. The only funeral I'm looking forward to is the Queen's.
 
 12480:
-
+ 
 
 12960:
-
+ 
 
 13440:
-
+ 
 
 13920:
-
-
-14400:
-
-
-14880:
-
-
-15360:
-
-
-15840:
-
-
-16320:
-
-
-16800:
-
-
-17280:
-
-
-17760:
-
-
-18240:
-
-
-18720:
-
-
-19200:
-
-
-19680:
-
-
-20160:
-
-
-20640:
-
-
-21120:
- 
-
-21600:
- 
-
-22080:
- 
-
-22560:
-
-
-23040:
-
-
-23520:
-
-
-24000:
-
-
-24480:
-
-
-24960:
-
-
-25440:
-
-
-25920:
-
-
-26400:
-
-
-26880:
-
-
-27360:
-
-
-27840:
-
-
-28320:
-
-
-28800:
-
-
-29280:
-
-
-29760:
-
-
-30240:
-
-
-30720:
-
-
-31200:
-
-
-31680:
-
-
-32160:
-
-
-32640:
-
-
-33120:
-
-
-33600:
-
-
-34080:
-
-
-34560:
-
-
-35040:
-
-
-35520:
-
-
-36000:
-
-
-36480:
-
-
-36960:
-
-
-37440:
-
-
-37920:
-
-
-38400:
-
-
-38880:
-
-
-39360:
-
-
-39840:
-
-
-40320:
-
-
-40800:
-
-
-41280:
-
-
-41760:
-
-
-42240:
-
-
-42720:
-
-
-43200:
-
-
-43680:
-
-
-44160:
-
-
-44640:
-
-
-45120:
-
-
-45600:
-
-
-46080:
-
-
-46560:
-
-
-47040:
-
-
-47520:
-
-
-48000:
-
-
-48480:
-
-
-48960:
-
-
-49440:
-
-
-49920:
-
-
-50400:
-
-
-50880:
-
-
-51360:
-
-
-51840:
-
-
-52320:
-
-
-52800:
-
-
-53280:
-
-
-53760:
-
-
-54240:
-
-
-54720:
-
-
-55200:
-
-
-55680:
-
-
-56160:
-
-
-56640:
-
-
-57120:
-
-
-57600:
-
-
-58080:
-
-
-58560:
-
-
-59040:
-
-
-59520:
-
-
-60000:
-
-
-60480:
-
-
-60960:
-
-
-61440:
-
-
-61920:
-
-
-62400:
-
-
-62880:
-
-
-63360:
-
-
-63840:
-
-
-64320:
-
-
-64800:
-
-
-65280:
-
-
-65760:
-
-
-66240:
-
-
-66720:
-
-
-67200:
-
-
-67680:
-
-
-68160:
-
+Empty Record # 29
 

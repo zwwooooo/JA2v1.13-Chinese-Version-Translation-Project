@@ -1,0 +1,24 @@
+0:
+There is a man named Perko in Galileo. He can repair almost anything. I hope this information is useful to you.
+
+320:
+I give you friendly advice. Stay away from Port Kip. It is a very bad town full of sinners. The police there are corrupt.
+
+640:
+Lynn the Crepaton labour manager forces our children to work for low wages at the local plant. We would like her to leave... forever.
+
+960:
+I'm really concerned about Betty the store owner. She has a farm in sector I10. Her cattle are being attacked by bloodcats.
+
+1280:
+Do you know a helicopter pilot is hiding at a farm northeast of here?
+
+1600:
+Do you know a helicopter pilot is hiding at a farm directly east of here?
+
+1920:
+Do you know a helicopter pilot is hiding at a farm southeast of here?
+
+2240:
+Do you know a helicopter pilot is hiding at a farm southwest of here?
+

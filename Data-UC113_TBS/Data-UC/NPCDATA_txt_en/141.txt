@@ -10,6 +10,9 @@ Empty Record # 02
 1440:
 Empty Record # 03
 
+1920:
+ 
+
 2880:
 That was definitely the wrong thing to say.
 
@@ -25,8 +28,15 @@ Empty Record # 09
 4800:
 Empty Record # 10
 
+5280:
+ 
+
 6240:
 I'm a fortune teller in addition to being a Protection Insurance collector... And I see serious accidents in your future, your very near future!
 
+6720:
+ 
+
 7200:
 Empty Record # 15
+
