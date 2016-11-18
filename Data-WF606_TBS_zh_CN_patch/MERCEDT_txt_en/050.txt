@@ -1,0 +1,351 @@
+0:
+Enemy detected.
+
+480:
+I do believe we are finally going to see some battle.
+
+960:
+Assistance would be welcome.
+
+1440:
+Located a menace.
+
+1920:
+Burnt biscuits! How can such a beast exist? I would never accept such a a tale if I was not to lay eyes upon it myself.
+
+2400:
+Truly ferocious, they are.
+
+2880:
+I hope that sound wasn't what I think it was.
+
+3360:
+<sniff> Oh...my, that would chase a dog.
+
+3840:
+I am experiencing queasiness. A premonition of trouble.
+
+4320:
+I shall keep my guard around here. I sense those beasts are close by.
+
+4800:
+They sure are determined.
+
+5280:
+I see something.
+
+5760:
+Uncovered an item.
+
+6240:
+Require reloading.
+
+6720:
+I am slipping into shock... not going to survive.
+
+7200:
+Sidney was killed? He was always so cautious...I shall miss him terribly.
+
+7680:
+
+
+8160:
+
+
+8640:
+Request a reissue of orders.
+
+9120:
+Firearm malfunction!
+
+9600:
+I am being fired upon.
+
+10080:
+That was more painful than anyone can appreciate.
+
+10560:
+Luck was with me.
+
+11040:
+Are you quite sure you want me to try to hit that target from here?
+
+11520:
+I require medical aid.
+
+12000:
+It has been an exhausting shift. I'm feeling rather pooped.
+
+12480:
+I am tuckered out.
+
+12960:
+Cheerio!
+
+13440:
+They're revolting...
+
+13920:
+
+
+14400:
+
+
+14880:
+
+
+15360:
+Forgive me, Mike. I was left without a choice, and that was of your own making.
+
+15840:
+Ewwhh... I would have preferred not to have seen that.
+
+16320:
+
+
+16800:
+Awaiting new orders.
+
+17280:
+I do not have the motivation to carry out that order.
+
+17760:
+I never believed a woman capable of such evil. She will no longer sully our reputation.
+
+18240:
+Finally, what a relief!
+
+18720:
+In the words of Magic, "Quite the Snapperhead."
+
+19200:
+I should be at home spending time with the kids.
+
+19680:
+Some people have so little to offer. And they all seem to be gathered here.
+
+20160:
+I hear planes!
+
+20640:
+The equipment I have been assigned may have had a noble history. However, the time has come to make some new purchases.
+
+21120:
+If anybody needs any help with anything, just let me know.
+
+21600:
+I am not particularly proud to admit this, but the French irritate me to no avail. Especially, Parisians.
+
+22080:
+I believed I was making progress.
+
+22560:
+Precisely what would be the purpose?
+
+23040:
+Rather predictable, I would say.
+
+23520:
+
+
+24000:
+
+
+24480:
+I can always count on Sidney.
+
+24960:
+
+
+25440:
+
+
+25920:
+For the moment, I would like to take a wait-and-see approach.
+
+26400:
+Why, this is difficult to believe. Mike is working for her?
+
+26880:
+Biscuits! I've been blinded.
+
+27360:
+I should probably stop trying.
+
+27840:
+Rather pleasant, wouldn't you say?
+
+28320:
+Enemies are known to be in the vicinity, sir.
+
+28800:
+They most likely took shelter under the rock they crawled out from under.
+
+29280:
+I could most certainly make use of this.
+
+29760:
+
+
+30240:
+I believe that is the Graham boy. With our help, perhaps his mother will finally get some sleep.
+
+30720:
+It is indeed terrible, Miguel, but it is also by no means over. You shall enjoy the benefits of our full support.
+
+31200:
+Good work! That's the last of them.
+
+31680:
+Hmm. Our order has not been processed completely. I expect this will be corrected. Unless, of course, someone has been skimming off the top.
+
+32160:
+Terrible. But she did bring this upon herself. Can't feel poorly for that, then, now can we?
+
+32640:
+Ferocious feline!
+
+33120:
+Cheers! Rather pleasant, isn't it? To know we made a difference in the lives of so many people. That's what this is all about, then. Congratulations all around!
+
+33600:
+The enemies have withdrawn. I believe we're at ease for a while.
+
+34080:
+I shall take a short rest. I don't feel I'm doing my best, now.
+
+34560:
+Ah, much, much better. I shall get back to work, then.
+
+35040:
+Ditto that!
+
+35520:
+This is hardly worthwhile. It is not even functioning.
+
+36000:
+Hmm. There's more to this than meets the eye.
+
+36480:
+Exercise caution. We may be in jeopardy.
+
+36960:
+Bloody biscuits! My children... help... say goodbye!
+
+37440:
+Reporting in from new position, Commander.
+
+37920:
+
+
+38400:
+I regret, Commander, that your reputation is... to be blunt, poor. Perhaps with time, you will be able to correct that, and I shall be in a position to accept your proposition.
+
+38880:
+Sorry, but the casualty rate, in my opinion, reflects a carelessness on your part, Commander.
+
+39360:
+Unfortunately, I will not be able to oblige. I have made promises to my children which I intend to keep.
+
+39840:
+I wish you had not left it to the last moment. I wasn't aware of your intentions, Commander. So, I made other commitments.
+
+40320:
+Hello. You have reached the residence and office of Scope Sterling. I regret that I am unable to answer at this moment. If you'd be so kind as to leave a message, I shall return your call as quickly as possible.
+
+40800:
+I hope you found my services up to snuff, Commander. Best of Luck.
+
+41280:
+
+
+41760:
+
+
+42240:
+
+
+42720:
+Pardon me, Commander, but have you given any thought as to whether I shall remain in Arulco?
+
+43200:
+Continuing my employment with you shall be a pleasure, Commander.
+
+43680:
+Most satisfactory, Commander.
+
+44160:
+I'd never allow the opportunity to work with Sidney to slip me by. I shall put my misgivings about you aside.
+
+44640:
+
+
+45120:
+
+
+45600:
+Sorry, Commander but childbirth was more pleasant.
+
+46080:
+Pardon me. I said...
+
+46560:
+Evidently, your financial situation does not place you in a position to be offering me a contract.
+
+47040:
+Must say, I am slightly surprised, Commander. However, I did appreciate the opportunity.
+
+47520:
+Sorry, but the casualty rate, in my opinion, reflects a carelessness on your part, Commander.
+
+48000:
+
+
+48480:
+
+
+48960:
+
+
+49440:
+I'd never allow the opportunity to work with Sidney to slip me by. I shall put my misgivings about you aside.
+
+49920:
+
+
+50400:
+
+
+50880:
+Pardon me. I said...
+
+51360:
+Evidently, your financial situation does not place you in a position to be offering me a contract.
+
+51840:
+Hello. You have the attention of Scope Sterling.
+
+52320:
+Tragic about Diana, wasn't it?
+
+52800:
+Is this going to be much longer?
+
+53280:
+What duration were you considering?
+
+53760:
+My apologies, but I cannot remain here indefinitely.
+
+54240:
+
+
+54720:
+
+
+55200:
+Pardon the intrusion, but the contract for my employ is approaching its conclusion.
+
+55680:
+I am well versed in military operations, and my skills continue to improve. It is only right and proper for me, at this time, to increase the cost of my services.
+

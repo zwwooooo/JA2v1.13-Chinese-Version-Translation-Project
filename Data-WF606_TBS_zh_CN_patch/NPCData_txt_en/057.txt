@@ -1,0 +1,96 @@
+0:
+It be good to make your acquaintance.
+
+480:
+You are well?
+
+960:
+I have faith in us. Victory will come.
+
+1440:
+It be a shame you did not see Arulco in its glory.
+
+1920:
+I have no need for that.
+
+2400:
+We must keep confidence.
+
+2880:
+You threaten the wrong man. You do not wish to challenge me.
+
+3360:
+It does not seem right at this moment.
+
+3840:
+I... require... emergency.. treatment.
+
+4320:
+We have nothing to talk about.
+
+4800:
+That is enough Carlos. Let me see this letter.
+
+5280:
+Hmm...It be true. Enrico writes you guys come to help with Drug carthel and Deidranna. He ask us to join you.
+
+5760:
+So, I welcome you in this country. But I can't agree to Enricos offer right now. We have to be cautious. If you fail no one will be left to help people against ruthless Deidranna.
+
+6240:
+Yes. It is time to unite as one force. Together we will witness victory.
+
+6720:
+That will do, Ira. I am sure our friends have heard of her nature. If not, they will know soon enough.
+
+7200:
+Die, bastards!
+
+7680:
+I can't say I'm unhappy you are here. But you are not first group from abroad to clear this country. They come some years ago and cause nothing but trouble. I wonder if some of them left Arulco alive...
+
+8160:
+I hope you are more successful than your predecessors. And because of respect of Enrico we will help you. Once you have under control two towns come back and we talk again.
+
+8640:
+And take this advice from me. Try to capture Chitsena, with it's harbour in your hands you have supply channel. And with manpower you have it's impossible to capture better guarded location. Go to Chitsena!
+
+9120:
+Now I see we can trust you. And it seems that you coming is start of new future for our people.
+
+9600:
+Yes... Carlos be my closer advisor. He is right. He usually be right.
+
+10080:
+If you can remove Deidranna's forces from your path, there is a priest in Drassen named Father Walker. He be a drunk of poor judgement, however he will be sympathetic to our situation.
+
+10560:
+Find him and tell him no more than you need to. I will send others to catch supplies he will gather. I wish you luck, and express my gratitude.
+
+11040:
+I can spare Ira. She knows the priest well. I know he has some ...passion for her. We used this way before...
+
+11520:
+A donation! I will make certain it goes to good use.
+
+12000:
+Good. The people of Omerta have you to thank for their food and supplies.
+
+12480:
+Perhaps, now I can give you Dimitri. He is a good man and he knows country well.
+
+12960:
+As we get supplies for people in Omerta me and Carlos will join you.
+
+13440:
+We must have patience, Carlos. Our guests, I am sure, are doing what they can.
+
+13920:
+You have expanded the base of operations. Two villages are now liberated.
+
+14400:
+I must express my appreciation, four towns are now under our control. I sense Deidranna does not sleep peacefully.
+
+14880:
+Carlos and I are available to join with your group now.
+
