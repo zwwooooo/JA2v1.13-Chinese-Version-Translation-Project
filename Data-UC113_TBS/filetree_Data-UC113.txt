@@ -3,16 +3,16 @@
 E:\00_TEMP\03_JA2\00_JA2_翻译\150519-UC113汉化完善\DATA-UC113
 ├─BINARYDATA
 │      AIMBIOS.EDT
-│      ALUMNAME.EDT
-│      alumni.EDT
-│      BRAYDESC.EDT
-│      CREDITS_MOD.EDT【不翻译】
+│      ALUMNAME.EDT【不翻译，保留英文】
+│      alumni.EDT【记忆：同1.13TBS】
+│      BRAYDESC.EDT【记忆：同1.13TBS】
+│      CREDITS_MOD.EDT
 │      EMAIL.EDT
 │      FILES.EDT
-│      FLOWERCARD.EDT
-│      FLOWERDESC.EDT
-│      HELP.EDT
-│      ITEMDESC.EDT
+│      FLOWERCARD.EDT【记忆：同1.13TBS】
+│      FLOWERDESC.EDT【记忆：同1.13TBS】
+│      HELP.EDT【记忆：同1.13TBS】
+│      ITEMDESC.EDT【记忆：同1.13TBS】
 │      MERCBIOS.EDT
 │      QUESTS.EDT
 │      RIS.EDT
