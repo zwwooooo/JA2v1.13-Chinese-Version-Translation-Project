@@ -1,10 +1,9 @@
-卷 ZWW 的文件夹 PATH 列表
-卷序列号为 CD5AB53B 5AC5:4763
-E:\00_TEMP\03_JA2\00_JA2_翻译\150519-UC113汉化完善\DATA-UC113
+DATA-UC113
+
 ├─BINARYDATA
 │      AIMBIOS.EDT
 │      ALUMNAME.EDT【不翻译，保留英文】
-│      alumni.EDT【记忆：同1.13TBS】
+│      ALUMNI.EDT【记忆：同1.13TBS】
 │      BRAYDESC.EDT【记忆：同1.13TBS】
 │      CREDITS_MOD.EDT
 │      EMAIL.EDT
@@ -22,12 +21,12 @@ E:\00_TEMP\03_JA2\00_JA2_翻译\150519-UC113汉化完善\DATA-UC113
 │      179.EDT
 │      
 └─NPCDATA
-        073.EDT
-        078.EDT
-        089.EDT
-        167.EDT
-        CIV54.edt
-        CIV55.edt
-        CIV56.edt
-        CIV57.edt
+│      073.EDT
+│      078.EDT
+│      089.EDT
+│      167.EDT
+│      CIV54.EDT
+│      CIV55.EDT
+│      CIV56.EDT
+│      CIV57.EDT
         
