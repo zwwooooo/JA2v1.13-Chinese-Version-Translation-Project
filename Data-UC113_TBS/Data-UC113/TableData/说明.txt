@@ -1,0 +1,7 @@
+
+
+- Chinese.LoadScreenHints.xml
+同 TBS 1.13。
+
+- Chinese.OldAIMArchive.xml
+UC 1.13 底部多了3个人

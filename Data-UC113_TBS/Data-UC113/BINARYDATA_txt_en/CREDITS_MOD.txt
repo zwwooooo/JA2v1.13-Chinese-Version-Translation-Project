@@ -1,0 +1,153 @@
+0:
+@T,C208,R134,D16,B40,S10,J1,};
+
+160:
+@T,{;JA2 v1.13 - Urban Chaos Development Team
+
+320:
+@};
+
+480:
+@T,C144,R134,{;Original JA2 Urban Chaos by
+
+640:
+@};The Mod Squad
+
+800:
+@T,C144,R134,{;Recreating Urban Chaos Experience
+
+960:
+The Judge
+
+1120:
+@};Wilson W (Wil473)
+
+1280:
+@T,C144,R134,{;Graphics
+
+1440:
+Marlboro Man
+
+1600:
+Tbird94lx
+
+1760:
+@};DBB/CosPlay Mod 
+
+1920:
+@T,C144,R134,{;Portraits fixing
+
+2080:
+Wil Gates
+
+2240:
+@};The Scorpion
+
+2400:
+@T,C144,R134,{;Installer
+
+2560:
+@};Roman
+
+2720:
+@T,C144,R134,{;Beta Tester
+
+2880:
+Alred27
+
+3040:
+BulletSix
+
+3200:
+Caprik
+
+3360:
+EdgeDerakh
+
+3520:
+Fred
+
+3680:
+Gotthard
+
+3840:
+jEbUs
+
+4000:
+JeffG
+
+4160:
+JMX
+
+4320:
+John Aries
+
+4480:
+Khor1966
+
+4640:
+Klaus
+
+4800:
+Manami
+
+4960:
+Panpipper
+
+5120:
+Pender
+
+5280:
+PET
+
+5440:
+Pustekuchen
+
+5600:
+Ramirez
+
+5760:
+Rhenus
+
+5920:
+Sachsenweger
+
+6080:
+SaintSinner
+
+6240:
+ShadoWarrior
+
+6400:
+Spinx
+
+6560:
+SPiRiT
+
+6720:
+Thorn
+
+6880:
+TimS
+
+7040:
+Toan
+
+7200:
+Trailblazer
+
+7360:
+Uriens
+
+7520:
+Wil Smith
+
+7680:
+@};ZaPPPa
+
+7840:
+@T,B40,C208,{; 
+
+8000:
+@}; 
+
