@@ -1,0 +1,414 @@
+﻿<FACILITYTYPES>
+	<FACILITYTYPE>
+		<ubIndex>1</ubIndex>
+		<szFacilityName>医院</szFacilityName>
+		<szFacilityShortName>医院</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>DOCTOR</ubAssignmentType>
+			<szTooltipText>用更好的设备给你的伤兵做手术，提高医疗效果。</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MEDICAL</ubAssignmentType>
+			<szTooltipText>Plenty of opportunities to upgrade your medical skills here.  The locals may also appreciate the side effect of you being on-call in the hospital.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MEDICAL</ubAssignmentType>
+			<szTooltipText>Plenty of supplies, reference books, and equipment needed to teach someone how to apply a band-aid properly.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MEDICAL</ubAssignmentType>
+			<szTooltipText>Plenty of supplies, reference books, and equipment needed to learn how to apply a band-aid properly.  Also plenty of patients to practice on - bandaging the locals, properly, is good for the cause after all.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PATIENT</ubAssignmentType>
+			<szTooltipText>Of course you will get better in a hospital.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>Yay, hospital food!  Keep the team fed and healthy.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>2</ubIndex>
+		<szFacilityName>小破酒吧</szFacilityName>
+		<szFacilityShortName>酒吧</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>在当地的酒吧灌一把！用你花的钱和灌倒的人来增加城镇的支持度。</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>Arrange some takeout from the local bar.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>3</ubIndex>
+		<szFacilityName>监狱区</szFacilityName>
+		<szFacilityShortName>监狱</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Help maintain law and order in this country by lending a hand in the prison.  Not exactly what you signed up to do though.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>4</ubIndex>
+		<szFacilityName>运输办公室</szFacilityName>
+		<szFacilityShortName>运输办公室</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>A bit of hands on management with shipping the Crepaton products out of Danubia by sea will increase your profits.  Be a good boss and the locals may appreciate the new management.</szTooltipText>
+		</ASSIGNMENT>
+   </FACILITYTYPE>
+   
+   <FACILITYTYPE>
+		<ubIndex>5</ubIndex>
+		<szFacilityName>机场</szFacilityName>
+		<szFacilityShortName>机场</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>A bit of hands on management with shipping the Crepaton products out of Danubia by air will increase your profits.  Be a good boss and the locals may appreciate the new management.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>Airplane food will keep you going, not much more.  Somewhere in this airport is a supply of duty free little bottles of booze.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+   
+	<FACILITYTYPE>
+		<ubIndex>6</ubIndex>
+		<szFacilityName>发电厂</szFacilityName>
+		<szFacilityShortName>发电厂</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Keep the lights on, and the people will appreciate you more.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Spend some time in the gym. Increases the efficiency of STRENGTH practice.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+   
+	<FACILITYTYPE>
+		<ubIndex>8</ubIndex>
+		<szFacilityName>军事指挥中心</szFacilityName>
+		<szFacilityShortName>指挥所</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>这个指挥所里有各种电子设备，用来监控各种战术战略信息，能帮助你有效的进行防御，获取野外敌人信息。</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_LEADERSHIP</ubAssignmentType>
+			<szTooltipText>Well stocked libary on leadership theory.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_LEADERSHIP</ubAssignmentType>
+			<szTooltipText>Well stocked libary on leadership theory.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+ 
+	<FACILITYTYPE>
+      <ubIndex>9</ubIndex>
+      <szFacilityName>射击靶场</szFacilityName>
+      <szFacilityShortName>靶场</szFacilityShortName>
+      <ASSIGNMENT>
+         <ubAssignmentType>TRAINER_MARKSMANSHIP</ubAssignmentType>
+		 <szTooltipText>为啥不花点时间来练习枪法？那些愚木的靶子在渴求被射。这肯定比在荒郊野地里射石头有趣得多。</szTooltipText>
+     </ASSIGNMENT>
+      <ASSIGNMENT>
+         <ubAssignmentType>STUDENT_MARKSMANSHIP</ubAssignmentType>
+		 <szTooltipText>为啥不花点时间来练习枪法？那些愚木的靶子在渴求被射。这肯定比在荒郊野地里射石头有趣得多。</szTooltipText>
+      </ASSIGNMENT>
+   </FACILITYTYPE>
+   
+   <FACILITYTYPE>
+      <ubIndex>10</ubIndex>
+      <szFacilityName>Police Detachment</szFacilityName>
+      <szFacilityShortName>Police</szFacilityShortName>
+      <ASSIGNMENT>
+         <ubAssignmentType>STAFF</ubAssignmentType>
+		 <szTooltipText>The locals here may be willing to scout out the surrounding area for you. You can collect the information gleaned from them to get a better idea about enemy activity in this region.</szTooltipText>
+      </ASSIGNMENT>
+   </FACILITYTYPE>
+   
+   <FACILITYTYPE>
+      <ubIndex>11</ubIndex>
+      <szFacilityName>SAM Site</szFacilityName>
+      <szFacilityShortName>SAM Site</szFacilityShortName>
+      <ASSIGNMENT>
+         <ubAssignmentType>STAFF</ubAssignmentType>
+		 <szTooltipText>Goose will owe you for keeping the skys clear for him.</szTooltipText>
+      </ASSIGNMENT>
+   </FACILITYTYPE>
+   
+   <FACILITYTYPE>
+      <ubIndex>12</ubIndex>
+      <szFacilityName>Factory</szFacilityName>
+      <szFacilityShortName>Crepaton Factory</szFacilityShortName>
+      <ASSIGNMENT>
+         <ubAssignmentType>STAFF</ubAssignmentType>
+		 <szTooltipText>Help out the plant manager and increase profits.</szTooltipText>
+      </ASSIGNMENT>
+   </FACILITYTYPE>
+   
+   <FACILITYTYPE>
+      <ubIndex>13</ubIndex>
+      <szFacilityName>Brothel</szFacilityName>
+      <szFacilityShortName>Brothel</szFacilityShortName>
+      <ASSIGNMENT>
+         <ubAssignmentType>REST</ubAssignmentType>
+		 <szTooltipText>War is stressful, you'll find a way to unwind here.</szTooltipText>
+      </ASSIGNMENT>
+   </FACILITYTYPE>
+   
+   <FACILITYTYPE>
+      <ubIndex>14</ubIndex>
+      <szFacilityName>Church</szFacilityName>
+      <szFacilityShortName>Church</szFacilityShortName>
+      <ASSIGNMENT>
+         <ubAssignmentType>REST</ubAssignmentType>
+		 <szTooltipText>A solemn hour of prayer and devotion in a quiet little church can help raise anyone's spirit. It might also convince the locals that you respect their way of life.</szTooltipText>
+      </ASSIGNMENT>
+   </FACILITYTYPE>
+   
+	<FACILITYTYPE>
+		<ubIndex>15</ubIndex>
+		<szFacilityName>Boxing Club</szFacilityName>
+		<szFacilityShortName>Gym</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_HEALTH</ubAssignmentType>
+			<szTooltipText>There's plenty of gymnastic equipment here, just waiting to be used. This is a great way to get a balanced work-out that might improve your shape considerably. Increases the efficiency of HEALTH training.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>There's plenty of gymnastic equipment here, just waiting to be used. This is a great way to get a balanced work-out that might improve your shape considerably. Increases the efficiency of STRENGTH training.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>16</ubIndex>
+		<szFacilityName>University Museum</szFacilityName>
+		<szFacilityShortName>Museum</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Like Napoleon, take the opportunity to add to the archaeological knowledge of this country.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+      <ubIndex>17</ubIndex>
+      <szFacilityName>Militia Headquarters</szFacilityName>
+      <szFacilityShortName>Militia HQ</szFacilityShortName>
+      <ASSIGNMENT>
+         <ubAssignmentType>STAFF</ubAssignmentType>
+		 <szTooltipText>The war room here has all sorts of digital equipment, designed for maintaining a good grasp on the strategic situation across the country. This will help you coordinate your defenses, and collect information about enemy movements in the wilderness.</szTooltipText>
+      </ASSIGNMENT>
+   </FACILITYTYPE>
+   
+   <FACILITYTYPE>
+      <ubIndex>18</ubIndex>
+      <szFacilityName>Junkyard</szFacilityName>
+      <szFacilityShortName>Junkyard</szFacilityShortName>
+      <ASSIGNMENT>
+         <ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+		 <szTooltipText>This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.</szTooltipText>
+      </ASSIGNMENT>
+      <ASSIGNMENT>
+         <ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+		 <szTooltipText>This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.</szTooltipText>
+      </ASSIGNMENT>
+      <ASSIGNMENT>
+         <ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+		 <szTooltipText>This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.</szTooltipText>
+      </ASSIGNMENT>
+   </FACILITYTYPE>
+   
+   <FACILITYTYPE>
+		<ubIndex>19</ubIndex>
+		<szFacilityName>Beach Resort</szFacilityName>
+		<szFacilityShortName>Beach</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Sun, sand, surf. This sure as hell beats sleeping in a trench.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>20</ubIndex>
+		<szFacilityName>Snack and Shack</szFacilityName>
+		<szFacilityShortName>Motel</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Look a mini-bar.  This sure as hell beats sleeping in a trench.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PATIENT</ubAssignmentType>
+			<szTooltipText>This motel is slightly more hygenic than the battlefield.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>21</ubIndex>
+		<szFacilityName>Police Barracks</szFacilityName>
+		<szFacilityShortName>Police Barracks</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>This sure as hell beats sleeping in a trench.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PATIENT</ubAssignmentType>
+			<szTooltipText>This motel is slightly more hygenic than the battlefield.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+      <ubIndex>22</ubIndex>
+      <szFacilityName>UBT: 1)Roxx</szFacilityName>
+      <szFacilityShortName>Adrian UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+      <ubIndex>23</ubIndex>
+      <szFacilityName>UBT: 1)Calisto 2)PortKip</szFacilityName>
+      <szFacilityShortName>Atremo UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+      <ubIndex>24</ubIndex>
+      <szFacilityName>UBT: 1)Troy 2)Atremo</szFacilityName>
+      <szFacilityShortName>Calisto UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+      <ubIndex>25</ubIndex>
+      <szFacilityName>UBT: 1)Roxx 2)Galileo</szFacilityName>
+      <szFacilityShortName>Drake UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+		
+	<FACILITYTYPE>
+      <ubIndex>26</ubIndex>
+      <szFacilityName>UBT: 1)Troy 2)PortKip</szFacilityName>
+      <szFacilityShortName>Galileo UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+      <ubIndex>27</ubIndex>
+      <szFacilityName>      3)Drake</szFacilityName>
+      <szFacilityShortName>Galileo UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+		
+	<FACILITYTYPE>
+      <ubIndex>28</ubIndex>
+      <szFacilityName>UBT: 1)Galileo 2)Sheraton</szFacilityName>
+      <szFacilityShortName>Port Kip UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+      <ubIndex>29</ubIndex>
+      <szFacilityName>      3)Atremo</szFacilityName>
+      <szFacilityShortName>Port Kip UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>	
+	
+	<FACILITYTYPE>
+      <ubIndex>30</ubIndex>
+      <szFacilityName>UBT: 1)Troy</szFacilityName>
+      <szFacilityShortName>Prax UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+      <ubIndex>31</ubIndex>
+      <szFacilityName>UBT: 1)Adrian 2)Drake</szFacilityName>
+      <szFacilityShortName>Roxx UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+      <ubIndex>32</ubIndex>
+      <szFacilityName>UBT: 1)Port Kip</szFacilityName>
+      <szFacilityShortName>Sheraton UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+      <ubIndex>33</ubIndex>
+      <szFacilityName>UBT: 1)Prax 2)Calisto</szFacilityName>
+      <szFacilityShortName>Troy UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+      <ubIndex>34</ubIndex>
+      <szFacilityName>      3)Galileo</szFacilityName>
+      <szFacilityShortName>Troy UBT</szFacilityShortName>
+	  <ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>All UBT stations seem to have at least one or two food vendors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+      <ubIndex>35</ubIndex>
+      <szFacilityName>Jail</szFacilityName>
+      <szFacilityShortName>Jail</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>36</ubIndex>
+		<szFacilityName>Prison</szFacilityName>
+		<szFacilityShortName>Prison</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+</FACILITYTYPES>
