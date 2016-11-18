@@ -26,3 +26,7 @@ ry1808、darkguitar 、sadspark 、ry1808 、sharp198602、cresforce、浮云6生、1942、
 2013.10.11
 
 - 后续更新请关注 http://zww.me/ja2 | http://tbsgame.net/bbs/index.php?showtopic=67481
+
+2015.05.19
+
+- 前段时间已从 Google Code（关闭） 转移到 GitHub，最近稍微有时间重玩，发现有些问题，重新整理汉化工作夹
