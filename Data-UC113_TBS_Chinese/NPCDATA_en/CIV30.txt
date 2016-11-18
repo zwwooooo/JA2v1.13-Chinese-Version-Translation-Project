@@ -1,0 +1,45 @@
+0:
+Do something. It's very dangerous.
+
+320:
+All of us will die!
+
+640:
+Kill them before they kill us.
+
+960:
+Be careful. And watch where you shoot.
+
+1280:
+You must stop this. We are all in danger.
+
+1600:
+Protect the innocent. Please.
+
+1920:
+Stop the shooting!
+
+2240:
+Our town is a battlefield.
+
+2560:
+Be done with them quickly, before more civilians die.
+
+2880:
+We are caught in the middle. Do something!
+
+3200:
+You must take control of the situation.
+
+3520:
+This country is crazy.
+
+3840:
+Bullets! Everywhere bullets.
+
+4160:
+Can't something be done? We are in the middle of a war!
+
+4480:
+Get away! You are a target.
+

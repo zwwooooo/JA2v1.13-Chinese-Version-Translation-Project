@@ -1,0 +1,45 @@
+0:
+The robots are gonna get me!
+
+320:
+Ya gotta help us. I'm really scared of those robots.
+
+640:
+They're scary. Real scary... Those robots are bigger than me.
+
+960:
+A big robot ate my mommy.
+
+1280:
+I have bad dreams about robots climbing through my window..
+
+1600:
+Are ya gonna disable the robots?
+
+1920:
+I'm scared. Ya gotta do something about those things, soldier.
+
+2240:
+My dad says there are no such thing as monsters.
+
+2560:
+Don't let them eat us... please!
+
+2880:
+A robot ate my auntie. And she was real big.
+
+3200:
+I don't want to die. Ya gotta do something.
+
+3520:
+I hear the robots have really big teeth.
+
+3840:
+Are you gonna kill... kill them robots for us?
+
+4160:
+The robots make me stay awake, I'm so tired from worrying.
+
+4480:
+They're big! Real big! Bigger than Godzilla!
+

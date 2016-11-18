@@ -1,0 +1,45 @@
+0:
+Miss Lynn is a terrible woman.
+
+320:
+Please free us from this bad woman.
+
+640:
+I hate being here.
+
+960:
+You must help us.
+
+1280:
+Help us! I want to go home.
+
+1600:
+Miss Lynn is evil.
+
+1920:
+We should be in a real school.
+
+2240:
+I hate making clothing.
+
+2560:
+My hands hurt.
+
+2880:
+Please tell her to let us go home.
+
+3200:
+Miss Lynn is a friend of the Queen.
+
+3520:
+We only go home late at night. We work all day long.
+
+3840:
+Why do we have to work at our age?
+
+4160:
+You should be careful of Miss Lynn.
+
+4480:
+Please let us go home.
+

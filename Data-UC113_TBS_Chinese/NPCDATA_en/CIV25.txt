@@ -1,0 +1,45 @@
+0:
+I have no money to drink.
+
+320:
+The barman won't give me any more credit.
+
+640:
+They took all my money.
+
+960:
+I gotta get a drink real bad.
+
+1280:
+Got some coins for a thirsty man?
+
+1600:
+Somebody stole my wallet. Can you help?
+
+1920:
+I need financial assistance. The casino took my money.
+
+2240:
+I have no money because of this town.
+
+2560:
+I am poor. Kingpin is rich, but I am poor.
+
+2880:
+If only I could fight, I could maybe earn some money.
+
+3200:
+Beware of your money in this town, it will end up in Kingpin's pocket before you realize it.
+
+3520:
+Kingpin will break my legs if I don't pay my debt soon.
+
+3840:
+Gambling took all my money.
+
+4160:
+I lost my money at the casino.
+
+4480:
+Beware! This town is controlled by greedy people.
+

@@ -1,0 +1,204 @@
+0:
+¢ç Welcome to Casino Danubia! ¢ç
+
+800:
+A myriad of pleasures and excitement awaits you at Casino Danubia, located only a few hours drive south of the Atremo airport.  Take advantage of the favorable currency exchange rate and get more play time for your U.S. dollar.  ¡À
+
+1600:
+Should you need an advance on funds, or should you wish to deposit your winnings, the Bank of Danubia would be more than happy to help you out.  This map shows the locations of some of the nearby branches, conveniently near to wherever you may happen to find yourself. ¡À
+
+2400:
+¡À ¡À ¡À 
+
+3200:
+¡À ¡À ¡À
+
+4000:
+¡À ¡À ¡À
+
+4800:
+¡À ¡À ¡À 
+
+5600:
+[Note: The Admiral asked me to include the previous scan of a Danubian tourism brochure.  He assured me you would be able to make constructive use of it somehow. - Reg] ¡À ¡À ¢ç ¢æ Danubia Overview ¢ç ¡À
+
+6400:
+¢æ Quick Facts ¢æ ¡À
+
+7200:
+Danubia is a small European country and former Warsaw Pact member which balkanized along with everyone else with the collapse of Soviet hegemony in the region.  It has a varied temperate climate, but is comprised almost entirely of urban sprawl. ¡À
+
+8000:
+There are ten major cities.  The cities of Adrian and Drake are the richest in the country. Rudesa would technically be the poorest, but each city has its own mix of industrial and residential areas, with the central sectors often surrounded by a larger, poorer suburb.  The suburbs are considered unsafe at any time of day or night, and are not officially recognized as part of the urban areas.   ¡À
+
+8800:
+It has a dozen ports and a ferry between the mainland and the southern island. ¡À
+
+9600:
+There are four major airports and one grass airstrip. ¡À
+
+10400:
+Danubia also sports a large subway system with stations in most of its cities. ¡À 
+
+11200:
+[Note: See the Underground Bullet Train link from the AIM website for details.  Oh, and with this file I've included an auto-updating patch which will hack your laptop's strategic interface to display subway stops where it used to display mines.  I also took the liberty of updating your help files, accessible via the 'h' key. - Reg] ¡À ¡À ¡À ¢æ Government ¢æ ¡À
+
+12000:
+Danubia is a ostensibly a monarchy.  The former King Wasyl Durak married Crepaton Corp. exec Brenda Richards in order to secure and guarantee a large corporate revenue stream.  Less than a year later, Wasyl was found dead in bed, officially of a heart attack, and Queen Brenda formally took over. ¡À ¡À
+
+12800:
+¢æ Military and Law Enforcement ¢æ ¡À
+
+13600:
+Danubia is a former Warsaw Pact member and has a strong military and police force. There are at least seven known army outposts, with more hidden bases rumoured to exist throughout the country.  Military forces are kept well armed and well trained, mostly with a variety of munitions left behind after the Soviets pulled out of the region.  ¡À
+
+14400:
+Police are common in the core cities, but are largely unwilling to patrol the poorer suburbs.  Which is just as well, as most police officers function as hired guns for the local lords. In effect, they comprise a large, well armed and state-subsidized street gang. Travellers are advised to stay well clear of the "law". ¡À
+
+15200:
+¢æ Economy ¢æ ¡À
+
+16000:
+The small country of Danubia found itself under considerable media scrutiny with the announcement of a miracle drug known as "Crepaton". This drug, now the country's primary export, was originally developed and used as an anti-depressant, but is also known to increase healing rates, and, when the formula is altered slightly, will give the user significant stamina for a short period of time. ¡À
+
+16800:
+This drug is legal by subscription only, although a number of countries have expressed concern about the lack of long-term studies done on the drug and its possible side effects.  It is produced in five state-owned factories. ¡À ¡À
+
+17600:
+¢æ Recent History ¢æ ¡À
+
+18400:
+The Crepaton Drug was developed by Brenda Richards, former humanitarian of the Island of Metavira. Her company, the Crepaton Corporation, manufactures, packages and distributes the drug throughout the world. However, Crepaton Corp. also keeps all income from the drug and refuses to re-invest any of it back into the communities of Danubia. ¡À
+
+19200:
+This, of course, has started a moderate rebellion within the country. ¡À
+
+20000:
+In reaction to this uprising, Queen Brenda used her corporate security to supplement the army; and has closed the country's borders to prevent any persons coming or going into the country, with the somewhat ironic justification that "outside influences have corrupted our people". ¡À
+
+20800:
+¡À
+
+21600:
+¡À
+
+22400:
+¡À
+
+23200:
+¡À ¡À
+
+24000:
+¡À ¡À
+
+24800:
+¡À ¡À
+
+25600:
+¡À ¡À
+
+26400:
+¡À ¡À
+
+27200:
+¡À ¡À
+
+28000:
+¡À ¡À
+
+28800:
+¡À ¡À
+
+29600:
+¡À ¡À
+
+30400:
+¡À ¡À
+
+31200:
+¡À ¡À
+
+32000:
+¡À ¡À
+
+32800:
+¡À ¡À
+
+33600:
+¡À ¡À
+
+34400:
+¡À ¡À
+
+35200:
+¡À ¡À
+
+36000:
+¡À
+
+36800:
+¢æ Hello, Old Friend, ¢æ ¡À
+
+37600:
+First let me apologize, for I realize that it's been quite some time since we've last spoken to one other. I know you've had your share of problems the last few years, and that things didn't turn out as well as they should have. Believe me, I share your pain...  Since AIM went out of business, the private enterprise in the field has pretty much all dried up. ¡À
+
+38400:
+But you'll be happy to hear that some friends of mine and I have been working on a way to bring a portion of it back. ¡À
+
+39200:
+Recently, I have been contacted by a number of former "business associates". It seems that they really fumbled the hand grenade this time, and trying to recover it by sending in a fireteam to blitz the quarterback could very well make this incident more famous than the Gunfight at the OK Corral. ¡À
+
+40000:
+My friend, the proverbial golden goose was dropped smack-dab into the middle of Europe. In the Balkans, no less, where so many would be quite happy to see some of these "businessmen"... in their gun sights. ¡À 
+
+40800:
+A plane went down over Danubia with an ambassador on board.  But wait, for it gets better.  The ambassador  was transporting a briefcase full of some rather interesting and incriminating memorabilia; namely, an encrypted miniCD with a listing of their entire "Mercenary Operative Contacts", or MOC list. ¡À
+
+41600:
+That is, the miniCD contains a listing of their entire network of operatives currently active in Europe.  With their luck, it's also probably accessed with some idiot password like "MistyLoves69", or something equally inane. ¡À
+
+42400:
+The bottom line is that they can't send in any of their own spooks to do the job.  If the encryption is compromised, the Danubians will have a bullet with his name on it before he ever touched the ground. So they need someone with better cover. Someone like you. You've been off the radar for quite some time now, but you've still got all the skills and know-how a mission like this requires. ¡À
+
+43200:
+I've asked my boys to reactivate some of the old servers so that you can get in touch with our ops. I hope those old webcams still work. They should, Ivan bought them for me in Moscow... ¡À
+
+44000:
+One word of caution: Tell your men to leave their artillery at home. This is Central Europe, not some banana republic.  No Danubian civilian is allowed to carry personal firearms of any sort.  Flash an Uzi and you'll soon find yourself painted with a dozen red dots.  And for such a small country, it certainly has enough police and army troops to make your life miserable. ¡À
+
+44800:
+My advice is to avoid the main roads until you get in contact with our people on the ground. I'll try and give them word to prepare something for you on your arrival, but don't get your hopes up too high.  They are poor and in need of help.  If you require further funds, I would highly recommend you find a nearby government bank or some such and do a little creative "fundraising" of your own. ¡À
+
+45600:
+Otherwise, keep a low profile until you can find some serious hardware to play with.  And then bring all of Hell down on top of them like the Angel of Vengeance herself! ¡À
+
+46400:
+Know that I have the utmost confidence in your abilities.  Some of our boys have been squandering their free time by working on their beer bellies.  A little fresh air and exercise will be good for them, and for you as well I'm sure. ¡À
+
+47200:
+Good luck and Godspeed, ¡À Admiral (Ret.) R. Dunlap ¡À ¡À
+
+48000:
+P.S. I've had my aide Reginald put together a brief dossier on Danubia for you. Sorry for the bang up rush-job, but as you can imagine, this entire enterprise was arranged on rather short notice.  While the rest of the world moves on, Danubia marches to the beat of a different drummer; the stacatto taps of a Kalashnikov burst, to be a bit more more precise. - RD
+
+48800:
+
+
+49600:
+
+
+50400:
+
+
+51200:
+
+
+52000:
+
+
+52800:
+
+
+53600:
+
+

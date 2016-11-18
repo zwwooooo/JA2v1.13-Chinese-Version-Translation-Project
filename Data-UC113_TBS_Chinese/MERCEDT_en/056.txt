@@ -1,0 +1,429 @@
+0:
+More scum!
+
+480:
+Okay, let's pop some zits.
+
+960:
+Got my butt in a sling here!
+
+1440:
+Boogiebug in the vicinity.
+
+1920:
+God, I used to think somethin' like that lived underneath my bed. We called it, "the boogieman."
+
+2400:
+Lookit this mess. Must've been left by one of them boogiebugs.
+
+2880:
+I heard a funny noise.
+
+3360:
+Christ-mas, that's foul.
+
+3840:
+Gettin' goosebumps. Usually happens before all hell breaks loose.
+
+4320:
+Gotta keep an eye out for those boogiebugs.
+
+4800:
+The boogies are nailin' me!
+
+5280:
+Check that.
+
+5760:
+Someone dropped something.
+
+6240:
+This baby needs ammunition.
+
+6720:
+I ain't dead yet, but that's about the only good news I got.
+
+7200:
+
+
+7680:
+
+
+8160:
+
+
+8640:
+Gimme that again. I got turned around a bit.
+
+9120:
+This gun picked a fine time to jam up.
+
+9600:
+Good time for a grenade.
+
+10080:
+Aah, playground stuff.
+
+10560:
+Good thing I ain't afraid to die.
+
+11040:
+That shot don't look good from here.
+
+11520:
+I got a rare blood type, so I better stop bleedin' soon.
+
+12000:
+I'm ready to drop. I should catch a few winks.
+
+12480:
+Need a minute...to get my breath back.
+
+12960:
+Ashes to ashes!
+
+13440:
+Back to hell.
+
+13920:
+
+
+14400:
+
+
+14880:
+
+
+15360:
+
+
+15840:
+Euh, takes a helluva lot to make me puke, but that's just about my limit.
+
+16320:
+
+
+16800:
+Squared away. Find me somethin' else.
+
+17280:
+I don't feel much like it.
+
+17760:
+Wasn't nothin'. Though, I'd love to do it again.
+
+18240:
+Yee-haw! That sure beat steppin' on it.
+
+18720:
+What a wampass.
+
+19200:
+I'd rather be sellin' cookies door-to-door than puttin' up with this crap.
+
+19680:
+I dunno what rock these guys crawled out from under, but most of 'em creep me out.
+
+20160:
+The bastards're flyin' in low!
+
+20640:
+This equipment and a buck wouldn't get ya a cup of coffee.
+
+21120:
+
+
+21600:
+
+
+22080:
+I'm gettin' the knack.
+
+22560:
+And where's the brains of this outfit?
+
+23040:
+What the hell did we THINK was gonna happen? A miracle?
+
+23520:
+
+
+24000:
+
+
+24480:
+
+
+24960:
+
+
+25440:
+
+
+25920:
+
+
+26400:
+So tell me, what's the plan now that I'm here?
+
+26880:
+I got sprayed in the eyes. Everything's a blur.
+
+27360:
+I could spend my life trying to get this.
+
+27840:
+What a character.
+
+28320:
+We know there's enemies present. Let's see if we can flush them out.
+
+28800:
+They're still around...somewhere. Let's not get cocky.
+
+29280:
+
+
+29760:
+I just love this weapon.
+
+30240:
+He looks like momma's boy. Let's grab him.
+
+30720:
+Can't wait to see her try it. She'll be wishing she went to beauty school when I get through with her.
+
+31200:
+Yeah, baby. That's the last of this group of losers.
+
+31680:
+How's about someone cough up the missing stuff before I start snapping heads?
+
+32160:
+Bitch. Lie still. Mind you, if she gets up, I want to shoot her again. Best thing I've done all day.
+
+32640:
+Holy litterbox!
+
+33120:
+Right on! You know, I always knew we could do it. You and me? Well, we started out that day, and we haven't looked back since. Thanks for the experience.
+
+33600:
+Aw, looks like the poor widdle babies got scared and ran away. Just us here now.
+
+34080:
+I'm gonna crash for a sec. Let you know when I get back on the job.
+
+34560:
+I'm up and on it.
+
+35040:
+Hey, I said it first.
+
+35520:
+This is broken, doubt it's even worth holding.
+
+36000:
+Whoa! This baby's ready to do some damage.
+
+36480:
+I wouldn't walk near there even if it was the only way to the outhouse.
+
+36960:
+Drowning! Holy shit! Gotta get... <glub outta here!
+
+37440:
+So tell me, what's the plan now that I'm here?
+
+37920:
+
+
+38400:
+
+
+38880:
+
+
+39360:
+
+
+39840:
+
+
+40320:
+
+
+40800:
+
+
+41280:
+
+
+41760:
+
+
+42240:
+
+
+42720:
+
+
+43200:
+
+
+43680:
+
+
+44160:
+
+
+44640:
+
+
+45120:
+
+
+45600:
+
+
+46080:
+
+
+46560:
+
+
+47040:
+
+
+47520:
+
+
+48000:
+
+
+48480:
+
+
+48960:
+
+
+49440:
+
+
+49920:
+
+
+50400:
+
+
+50880:
+
+
+51360:
+
+
+51840:
+
+
+52320:
+
+
+52800:
+
+
+53280:
+
+
+53760:
+
+
+54240:
+
+
+54720:
+
+
+55200:
+
+
+55680:
+
+
+56160:
+
+
+56640:
+
+
+57120:
+
+
+57600:
+
+
+58080:
+
+
+58560:
+
+
+59040:
+
+
+59520:
+
+
+60000:
+
+
+60480:
+
+
+60960:
+
+
+61440:
+
+
+61920:
+
+
+62400:
+
+
+62880:
+
+
+63360:
+
+
+63840:
+
+
+64320:
+
+
+64800:
+
+
+65280:
+
+
+65760:
+
+
+66240:
+
+
+66720:
+
+
+67200:
+
+
+67680:
+
+
+68160:
+
+

@@ -1,0 +1,45 @@
+0:
+Remember to stay out of trouble.
+
+320:
+Hope you're having a good time. 
+
+640:
+You should pop into one of the bars for a cold one. Do ya good.
+
+960:
+There's a lot of ways to spend money in this town. 
+
+1280:
+Remember... Step out of line, and Kingpin's boys will soon find you.
+
+1600:
+This town's like an amusement park for big people, especially the casino.
+
+1920:
+Lighten up, you're on vacation aren't you?
+
+2240:
+You should be smiling by now. This town is the safest in Danubia.
+
+2560:
+Did ya check out the Casino?
+
+2880:
+Hope body armor ain't the only protection you got.
+
+3200:
+War or no war, life is always good in Port Kip.
+
+3520:
+Port Kip is like Vegas without cops.
+
+3840:
+Stay here long enough, you'll forget about your troubles.
+
+4160:
+I love it here. Got all anyone could want.
+
+4480:
+You look like ya could use a drink.
+

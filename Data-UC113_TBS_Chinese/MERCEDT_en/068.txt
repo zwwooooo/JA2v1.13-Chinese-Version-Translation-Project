@@ -1,0 +1,240 @@
+0:
+I've located an enemy here, boy! 
+
+480:
+Now it's your turn, boy! 
+
+960:
+The place is crawling with 'em, boy! 
+
+1440:
+Got the upper hand on one here, boy. 
+
+1920:
+Listen boy, I've never had this done to me before! And I can promise you it ain't never going to happen again. 
+
+2400:
+This isn't a good sign! 
+
+2880:
+Listen, boy. 
+
+3360:
+That's plenty enough for most people to refuse going down, and that's plenty enough for me! 
+
+3840:
+It's like a cemetery around here. 
+
+4320:
+I'm not happy one bit, boy!
+
+4800:
+I need help, boy! 
+
+5280:
+I found something here. 
+
+5760:
+I've seen something, boy.
+
+6240:
+I'm out of slugs! 
+
+6720:
+I've been hit bad, boy! You'd be better just to leave me... 
+
+7200:
+They may have killed the Corporal, boy, but they're going to have deal with the Major!  
+
+7680:
+Empty Record # 16
+
+8160:
+Empty Record # 17
+
+8640:
+I must be having a bad day.
+
+9120:
+Gun's jammed up pretty good! 
+
+9600:
+I'm takin' lead, boy! 
+
+10080:
+Gonna to make it slow and agonizing if that's all right with you... 
+
+10560:
+Not even close. 
+
+11040:
+I can't get a fix on the target, boy! 
+
+11520:
+I got a bleeder, boy! 
+
+12000:
+You better just leave me... 
+
+12480:
+I got some problems...
+
+12960:
+So long old friend! 
+
+13440:
+With any luck most people will forget I was ever part of it. 
+
+13920:
+Empty Record # 29
+
+14400:
+Empty Record # 30
+
+14880:
+Empty Record # 31
+
+15360:
+Empty Record # 32
+
+15840:
+That'll teach ya! 
+
+16320:
+I slipped up, boy! 
+
+16800:
+Mission accomplished, boy.
+
+17280:
+You gotta be kidding, boy!
+
+17760:
+That takes care of everything! 
+
+18240:
+We have come through with flying colors, boy! 
+
+18720:
+You got a death wish, boy! 
+
+19200:
+We gonna have to scratch the mission, boy! 
+
+19680:
+Might be time for me to look for another assignment. And you should do some serious thinking about leaving the business. 
+
+20160:
+Empty Record # 42
+
+20640:
+We're going to have to repair this thing, boy... It don't work! 
+
+21120:
+It's like a cemetery around here, so I won't pass on the chance to find other work!
+
+21600:
+Empty Record # 45
+
+22080:
+Nothing happening, boy!
+
+22560:
+I got some serious problems with the way you're running things, boy!
+
+23040:
+You're having a hard time keeping anything in mind, aren't you boy?
+
+23520:
+Empty Record # 49
+
+24000:
+Empty Record # 50
+
+24480:
+Len, boy... Show everybody this time around that you really mean business. 
+
+24960:
+Empty Record # 52
+
+25440:
+Empty Record # 53
+
+25920:
+Let me clear the fog for ya here... boy! A mercenary is a soldier who works for money!
+
+26400:
+Listen up, boy, and listen up close. Spike Scallion's got your name and face and a damn good memory. You and I aren't finished! 
+
+26880:
+I haven't seen anything in a while.
+
+27360:
+I still can't make it, boy! 
+
+27840:
+You can hold your head up high, boy! 
+
+28320:
+Finding work ain't really a problem for me, boy.
+
+28800:
+It's gettin' about time to close things down, boy. 
+
+29280:
+Give me that again, boy! 
+
+29760:
+This Gun's pretty good, boy! 
+
+30240:
+What are you, boy? A boozer? A doper?
+
+30720:
+Listen boy, I'll leave quietly this time, but you better tell that mumbling chopper pilot to keep his damn mouth shut on the ride back! 
+
+31200:
+Sector all clear! 
+
+31680:
+Can't handle it, doughboy? 
+
+32160:
+That'll teach ya! 
+
+32640:
+What are you? Bored? 
+
+33120:
+Boy did we kick butt! Start chilling the champagne! We have come through with flying colors, boy!
+
+33600:
+We can kiss those boys goodbye! 
+
+34080:
+Well... this session is over! 
+
+34560:
+How ya doing, boy? 
+
+35040:
+That's all right with me... 
+
+35520:
+This thing... It don't work! 
+
+36000:
+It's packing a punch, boy! I can probably deactivate it. 
+
+36480:
+One step at a time here, boys... The place looks like a flippin' excavation site! 
+
+36960:
+I can't stay above water much longer, boy! 
+
+37440:
+Let's go kick butt!  
+
+37920:
+ 
+
