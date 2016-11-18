@@ -1,0 +1,240 @@
+0:
+Came across one!
+
+480:
+Ready to engage! 
+
+960:
+I'm in combat! 
+
+1440:
+Came across one!
+
+1920:
+It took forever to find! And it was right under our noses! 
+
+2400:
+If it has to get done, I'm the right man to do it! 
+
+2880:
+Listen, Commander. 
+
+3360:
+It smells like crap!
+
+3840:
+I'm getting a bad feeling about this place. 
+
+4320:
+Let's not be overconfident. 
+
+4800:
+I'd better get out of here! 
+
+5280:
+I spotted something! 
+
+5760:
+Take a look at this. 
+
+6240:
+Ammo's a problem! 
+
+6720:
+Fighting to stay conscious... Don't know how long I can last! 
+
+7200:
+Empty Record # 15
+
+7680:
+Empty Record # 16
+
+8160:
+Empty Record # 17
+
+8640:
+I can't get a handle on a good direction. 
+
+9120:
+My piece is jammed! 
+
+9600:
+Sniper! 
+
+10080:
+It's more painful than it looks! 
+
+10560:
+That was a little too close for my liking... 
+
+11040:
+I don't have a clear shot. 
+
+11520:
+Took a flesh wound. 
+
+12000:
+We'll have to keep our eyes on the clock! 
+
+12480:
+I need to ease up for a moment. 
+
+12960:
+Problem solved. 
+
+13440:
+Problem solved. 
+
+13920:
+Unusually Ruthless Reuban... Crazy Reuban... Trimmer of the family tree. You can call him whatever you want, but get rid him! 
+
+14400:
+Empty Record # 30
+
+14880:
+Empty Record # 31
+
+15360:
+Empty Record # 32
+
+15840:
+You'd better put out the call for blood donors. 
+
+16320:
+I should have been able to handle it. 
+
+16800:
+Colonel Kelly reporting for duty, Commander. 
+
+17280:
+It ain't going to happen! 
+
+17760:
+She had a lot of class! 
+
+18240:
+This one's ours to win.
+
+18720:
+I got the drop on this guy. 
+
+19200:
+I wish I could build an extension on my house! 
+
+19680:
+I don't want any part of your sordid affairs! 
+
+20160:
+Empty Record # 42
+
+20640:
+This crap is malfunctioning. 
+
+21120:
+That cloud over your head's gotten way too dark for me! 
+
+21600:
+Empty Record # 45
+
+22080:
+I'm a professional!
+
+22560:
+I think you're making a mistake... 
+
+23040:
+Listening to you has been a mistake!
+
+23520:
+What are you doing bringing crazy Reuban down here?
+
+24000:
+Empty Record # 50
+
+24480:
+Empty Record # 51
+
+24960:
+Empty Record # 52
+
+25440:
+Empty Record # 53
+
+25920:
+You're shy a couple of greenbacks! 
+
+26400:
+I'm gone! This place is a crap shoot and you're shooting crap!
+
+26880:
+I don't have a clear shot. 
+
+27360:
+I doubt anyone can do it!
+
+27840:
+We won this one! 
+
+28320:
+We could be in for some resistance along the way! 
+
+28800:
+Let's not be overconfident. 
+
+29280:
+Who could refuse such a gift? 
+
+29760:
+Excellent choice... 
+
+30240:
+That guy won't pose any more problems! 
+
+30720:
+You can't be foolish enough to think you can win this without me? 
+
+31200:
+That troop won't pose any more problems! 
+
+31680:
+We mucked it! Let's hope there's a next time. 
+
+32160:
+She never had a chance! 
+
+32640:
+I've got a situation here! 
+
+33120:
+Let's call it a day!
+
+33600:
+We're running things now! 
+
+34080:
+Just give me a couple of minutes, and I'll get back to you. 
+
+34560:
+Consider me on duty! 
+
+35040:
+I'll sign on! 
+
+35520:
+This thing is malfunctioning. 
+
+36000:
+I think we should get an explosive's guy down here to take a look at this. 
+
+36480:
+Stay alert! The ground seems displaced around here. 
+
+36960:
+I'm gasping for air... Too tired to swim... 
+
+37440:
+Now... It's our turn! 
+
+37920:
+ 
+

@@ -1,0 +1,60 @@
+0:
+Lt. Conrad Gillett. Please, don't ask for autograph.
+
+480:
+You like to be seen with me, hmm?
+
+960:
+A plan. A clear, concise plan. It is backbone of good operation.
+
+1440:
+I have been instructor at every military academy worthy of mention in the eastern hemisphere.
+
+1920:
+That is not good enough for me.
+
+2400:
+Good training is the strength of a unit. Without preparation, the men, they fall apart. This is why I am best in charge.
+
+2880:
+Remain calm. I am in charge here. There is no need for excitement from you.
+
+3360:
+No. My skills exceed your expectations.
+
+3840:
+Urgent! Doctor!
+
+4320:
+Hmm. This conversation no longer interests me. Shooting you interests me.
+
+4800:
+A product of good training, I see.
+
+5280:
+Remain calm... while I shoot you.
+
+5760:
+You are lucky to meet me. Your timing is most fortunate. My contract with the army has just expired, and I am in search of employment.
+
+6240:
+My credentials are much too numerous to mention, but you have no doubt heard of me. I am not only the best freelance military instructor available, but I remain very current and ready for active duty.
+
+6720:
+You will look back on this day as being your wisest. The job you offer is of interest to me. However, the talents of man like Lt. Conrad Gillet are not without price.
+
+7200:
+Okay... I am already in country. I will make you one time special price. Do not expect me to go lower. And you must not tell anyone I work for such low price.
+
+7680:
+Very good. You now have someone capable of leading and training team.
+
+8160:
+You have not heard of me I guess. This is most unfortunate. I shall leave country in search of others worthy of my services. Have a good one.
+
+8640:
+I will consider it fees for my consultion. You are welcome.
+
+9120:
+It is you. You have money you owe me? This is all we have to talk about.
+

@@ -1,0 +1,357 @@
+0:
+More scum!
+
+480:
+Okay, let's pop some zits.
+
+960:
+Got my butt in a sling here!
+
+1440:
+Boogiebug in the vicinity.
+
+1920:
+God, I used to think somethin' like that lived underneath my bed. We called it, "the boogieman."
+
+2400:
+Lookit this mess. Must've been left by one of them boogiebugs.
+
+2880:
+I heard a funny noise.
+
+3360:
+Christ-mas, that's foul.
+
+3840:
+Gettin' goosebumps. Usually happens before all hell breaks loose.
+
+4320:
+Gotta keep an eye out for those boogiebugs.
+
+4800:
+The boogies are nailin' me!
+
+5280:
+Check that.
+
+5760:
+Someone dropped something.
+
+6240:
+This baby needs ammunition.
+
+6720:
+I ain't dead yet, but that's about the only good news I got.
+
+7200:
+
+
+7680:
+
+
+8160:
+
+
+8640:
+Gimme that again. I got turned around a bit.
+
+9120:
+This gun picked a fine time to jam up.
+
+9600:
+Good time for a grenade.
+
+10080:
+Aah, playground stuff.
+
+10560:
+Good thing I ain't afraid to die.
+
+11040:
+That shot don't look good from here.
+
+11520:
+I got a rare blood type, so I better stop bleedin' soon.
+
+12000:
+I'm ready to drop. I should catch a few winks.
+
+12480:
+Need a minute...to get my breath back.
+
+12960:
+Ashes to ashes!
+
+13440:
+Back to hell.
+
+13920:
+
+
+14400:
+
+
+14880:
+
+
+15360:
+Ahh...Doodlehead! Haha...
+
+15840:
+Euh, takes a helluva lot to make me puke, but that's just about my limit.
+
+16320:
+Trust me, the next time I see snow it better be Christmas.
+
+16800:
+Squared away. Find me somethin' else.
+
+17280:
+I don't feel much like it.
+
+17760:
+Wasn't nothin'. Though, I'd love to do it again.
+
+18240:
+Yee-haw! That sure beat steppin' on it.
+
+18720:
+What a wampass.
+
+19200:
+I'd rather be sellin' cookies door-to-door than puttin' up with this crap.
+
+19680:
+I dunno what rock these guys crawled out from under, but most of 'em creep me out.
+
+20160:
+The bastards're flyin' in low!
+
+20640:
+This equipment and a buck wouldn't get ya a cup of coffee.
+
+21120:
+My boobs feel like I'm in the frozen food section.
+
+21600:
+
+
+22080:
+I'm gettin' the knack.
+
+22560:
+And where's the brains of this outfit?
+
+23040:
+What the hell did we THINK was gonna happen? A miracle?
+
+23520:
+
+
+24000:
+
+
+24480:
+
+
+24960:
+
+
+25440:
+
+
+25920:
+Maybe we got the attention of the military.
+
+26400:
+Aww... he doesn't look so good.
+
+26880:
+I got sprayed in the eyes. Everything's a blur.
+
+27360:
+I could spend my life trying to get this.
+
+27840:
+What a character.
+
+28320:
+We know there's enemies present. Let's see if we can flush them out.
+
+28800:
+They're still around...somewhere. Let's not get cocky.
+
+29280:
+Fine piece of work.
+
+29760:
+I just love this weapon.
+
+30240:
+He looks like momma's boy. Let's grab him.
+
+30720:
+She'll be wishing she went to beauty school when I get through with her.
+
+31200:
+Yeah, baby. That's the last of this group of losers.
+
+31680:
+How's about someone cough up the missing stuff before I start snapping heads?
+
+32160:
+Bitch. Lie still. Mind you, if she gets up, I want to shoot her again. Best thing I've done all day.
+
+32640:
+Holy litterbox!
+
+33120:
+Right on. I knew we'd see this day. I enjoyed it, too. I like this quickie, getting in and out a whole country. Thanks again, for the experience.
+
+33600:
+Aw, looks like the poor widdle babies got scared and ran away. Just us here now.
+
+34080:
+I'm gonna crash for a sec. Let you know when I get back on the job.
+
+34560:
+I'm up and on it.
+
+35040:
+Hey, I said it first.
+
+35520:
+This is broken, doubt it's even worth holding.
+
+36000:
+Whoa! This baby's ready to do some damage.
+
+36480:
+I wouldn't walk near there even if it was the only way to the outhouse.
+
+36960:
+Drowning! Holy shit! Gotta get... <glub> outta here!
+
+37440:
+So tell me, what's the plan now that I'm here?
+
+37920:
+
+
+38400:
+I don't feel much like in your group of losers.
+
+38880:
+I'd rather be sellin' cookies door-to-door than getting a burial like no other.
+
+39360:
+I'd rather be sellin' cookies door-to-door than puttin' up with this crap.
+
+39840:
+Why do I get the feeling that one of us is gonna have to play babysitter?
+
+40320:
+The next time I can't wait to try it out.
+
+40800:
+I enjoyed it. Thanks for the experience.
+
+41280:
+
+
+41760:
+
+
+42240:
+
+
+42720:
+I sure hope we don't come up short later on.
+
+43200:
+Right on! Should we move on?
+
+43680:
+Right on! From here on in, we're stuck with each other.
+
+44160:
+
+
+44640:
+
+
+45120:
+
+
+45600:
+I don't feel much like it.
+
+46080:
+Okay. Again...
+
+46560:
+Your bucks wouldn't get ya a cup of coffee.
+
+47040:
+Would that be right, then?
+
+47520:
+I'd rather be sellin' cookies door-to-door than getting a burial like no other.
+
+48000:
+
+
+48480:
+
+
+48960:
+
+
+49440:
+
+
+49920:
+
+
+50400:
+
+
+50880:
+Okay. Again...
+
+51360:
+Your bucks wouldn't get ya a cup of coffee.
+
+51840:
+So tell me, what's the plan now that I'm here?
+
+52320:
+Let's get moving already.
+
+52800:
+Should we move on?
+
+53280:
+Let's bring the battle to them for a change.
+
+53760:
+This isn't going anywhere.
+
+54240:
+
+
+54720:
+
+
+55200:
+I sure hope we don't come up short later on.
+
+55680:
+Something tells me our trails just got a little happier.
+
+56160:
+
+
+56640:
+
+

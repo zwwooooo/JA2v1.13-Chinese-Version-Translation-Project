@@ -1,0 +1,78 @@
+0:
+Pleasure, Guv!  Arthur Bailey. Call me Shady... my competitors do. Hahaha! Jealousy, that's all it is. Assured Outcomes provides quality security personnel, not like some of those scruffy fleabags from MERC.
+
+480:
+Back again, Guv? Ready to do business then?
+
+960:
+Has my receptionist explained the arrangements? Right, jolly good! Our one time up front introduction fee is $20,000 cash, payable to me. Then, select whoever is best suited to your needs. Only $1,000 a day, each.
+
+1440:
+My guarantee to you is that Assured Outcome operatives are disciplined, loyal and skilled. No groping the ladies, no partaking in substances, no hands in the till, nor any other funny business.
+
+1920:
+Goodness, no.
+
+2400:
+Please, either we do business or you leave. Do you wish to discuss recruitment arrangements?
+
+2880:
+I though we were discussing business. Somewhat terse with your choice of words, aren't you old chap. Not kosher at all, in my book.
+
+3360:
+No thank you. I'm already doing my part.
+
+3840:
+Oh, bloody hell...
+
+4320:
+Please excuse me, other clients are waiting for my return calls. It has been a pleasure. Do call again. May have new talent on the books soon.
+
+4800:
+Kind of you.
+
+5280:
+I just might take your head to a taxidermist chappie I know, you scummy shitbag!
+
+5760:
+What the bloody hell is going on here?
+
+6240:
+We have a deal, thank you! Let's meet the lads then. I have a few former AIM operatives on the books. Drop in from time to time, more staff are available, though not present today. Couple chaps down with the flu.
+
+6720:
+Listen up, my friend. I don't have time for this.
+
+7200:
+I became a successful player within the security - mercenary game through diligent work. Business is business, and I have other deals to attend to.
+
+7680:
+Oh dear, please, would you mind pestering my receptionist instead? I am extremely busy arranging the recruitment of additional operatives.
+
+8160:
+Bloody hell! Do tell me, when I relate the story of this tedious conversation to friends, would you prefer I call you 'annoying' or 'crazy'? I really would appreciate your immediate departure.
+
+8640:
+Your persistence is wearing me down. Strongarm tactics are not my forte. Some of us are gentlemen in spite of the business!  Very well then. As a one-off gesture I am prepared to waive the introduction fee. Follow me.
+
+9120:
+I find it most regretable we were unable to conclude business as gentlemen!  Follow me, I'll show you where they are. I run a business with huge overheads, so $20,000 means a lot to me.
+
+9600:
+Righto, here are the lads. Get yourself introduced, then inform reception regarding your selection. We need to arrange daily cash transfers to cover your requirements.
+
+10080:
+Have it your way. I don't have any more personnel to offer today. Come back again, there may be a further selection available in the future. I'm poaching... errrr... negotiating with some of Speck's lads on the QT.
+
+10560:
+How can I put this? I'm not fond of conflict any more than you are. I'd rather hire out the lads as nightclub bouncers, but it's all about money, isn't it? I hope you're satisfied with the arrangements.
+
+11040:
+ 
+
+11520:
+ 
+
+12000:
+Empty Record # 25
+

@@ -1,0 +1,45 @@
+0:
+I'm glad to be working for ya.
+
+320:
+The days don't seem as long now that our hard work is going to a good cause.
+
+640:
+No need to waste your time down here. We'll keep an eye on things.
+
+960:
+Every shovel full of ore puts us that much closer to freedom. I like coming to work now.
+
+1280:
+You show that Queen what's what!
+
+1600:
+We're working as fast as we can. And doin' it with pleasure.
+
+1920:
+Ya might want to take care of business up top. We got everything under control down here.
+
+2240:
+Let me tell ya, it's a lot better digging for you guys.
+
+2560:
+Ya come down here for the peace and quiet? Not much else to do here.
+
+2880:
+You're doing a great job. And we're working as fast as we can to do our part. Keep it up!
+
+3200:
+*whistles*
+
+3520:
+Are you part of the inspection team?
+
+3840:
+Kick the Queen in the ass for me!
+
+4160:
+You here to help dig?
+
+4480:
+Nice gun! Can I have it?
+

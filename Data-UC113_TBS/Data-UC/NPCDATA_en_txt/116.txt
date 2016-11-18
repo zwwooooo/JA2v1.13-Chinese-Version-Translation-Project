@@ -1,0 +1,36 @@
+0:
+You guys must be the mercenaries. Glad you made it.
+
+480:
+Do you have the decoded information? Great!
+
+960:
+You've come a long way since landing at Atremo. Seems you left a pile of the Queen's soldier's corpses knee deep in every town you've visited. Outstanding result!
+
+1440:
+Let's get straight to business. Do you have the decoded information? Great, hand it over.
+
+1920:
+I need the decoded information, not that.
+
+2400:
+Outstanding work! Here, take this key card. Go back to sector P6. There's a secret entrance to the Queen's bunker in the locked building. This key card opens the door.
+
+2880:
+Hey, cut the crap! You're here on serious business.
+
+3360:
+No thanks. I'm already up to my neck in clandestine activity and shooting people.
+
+3840:
+I'm wounded and need a dressing. Have you guys got a medic with you?
+
+4320:
+You guys came through like professionals. Outstanding! Take care and good luck with the Queen. Put a bullet into her for me. Goodbye and thanks, our nation is in your debt.
+
+4800:
+Toast all those goons first, then we can talk.
+
+5280:
+  
+

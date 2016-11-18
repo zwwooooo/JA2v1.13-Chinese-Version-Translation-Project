@@ -1,0 +1,42 @@
+0:
+You look like you're goin' somewhere. If you want to get there healthy, you should consider some 'Protection Insurance'. I'm a collection agent for the Satan's Sons Commuter's Insurance Company, so you can pay me.
+
+480:
+Subway riding can be dangerous around here. You need some insurance, I think. You can pay me now... In cash!
+
+960:
+Empty Record # 02
+
+1440:
+Empty Record # 03
+
+1920:
+ 
+
+2880:
+That was definitely the wrong thing to say.
+
+3360:
+Empty Record # 07
+
+3840:
+Empty Record # 08
+
+4320:
+Empty Record # 09
+
+4800:
+Empty Record # 10
+
+5280:
+ 
+
+6240:
+I'm a fortune teller in addition to being a Protection Insurance collector... And I see serious accidents in your future, your very near future!
+
+6720:
+ 
+
+7200:
+Empty Record # 15
+

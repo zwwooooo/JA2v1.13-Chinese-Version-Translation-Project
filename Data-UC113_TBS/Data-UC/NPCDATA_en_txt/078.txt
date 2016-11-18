@@ -1,0 +1,117 @@
+0:
+I'm Carmen Gabreski, I'm with the rebels, and a contact from those who hired you. That was quite a battle.
+
+480:
+You have news?
+
+960:
+Danubia is in the grip of urban chaos. 
+
+1440:
+A word of advice. The country is crawling with people that cannot be trusted, especially the police.
+
+1920:
+We are both interested in obtaining a GDI decoder which several Crepaton enforcers are known to carry. You will need such a device for your mission. 
+
+2400:
+Ah....  I do my part.
+
+2880:
+Turn it down a bit......
+
+3360:
+No. I'm needed by the rebels, we have some unsettled scores to settle on behalf of the people..
+
+3840:
+Oooh, I've been wounded. Someone is going to pay...
+
+4320:
+Have to keep moving so till we meet again. Goodbye. Be sure to contact our agent Yannis when you reach Sheraton. 
+
+4800:
+I'm not sure what you're up to, but I'll take the cash if there are no strings attached.
+
+5280:
+That's really nice. But just whose freakin' head is it? 
+
+5760:
+I have a mission for you, if you're interested. Danubia is controlled by Crepaton Industries Amalgamated, CIA for short, the puppet regime of Brenda is in their pockets. I believe someone other than Brenda is the real power behind Crepaton.
+
+6240:
+I have information there are three or four Crepaton goons visiting plants and research facilities frequently. If you decide to help our people topple Brenda deliver the MOC List to Agent X.
+
+6720:
+I have everything you need to know in this laptop. Study the files carefully. If you need to find me I do move about but we will meet again. You must connect the GDI decoder to this laptop then insert a diskette to obtain a MOC List.
+
+7200:
+Oh, one thing... they're not needed for interrogations or trials. One of these people is Crepaton's Personnel Relations Manager whose duties include making sure dissenters and union officials vanish or are committed to Prax mental hospital.
+
+7680:
+Good! This little souvenier is going to put money in your pocket.
+
+8160:
+I need some time to get the cash together. Give me 24 hours, then meet me at the bar in Calisto.
+
+8640:
+I'll need to keep it. You will just have to trust me.
+
+9120:
+Jackpot! Looks like Crepaton will be one short on a headcount.
+
+9600:
+I believe this is yours...
+
+10080:
+I knew you'd show up sooner or later.
+
+10560:
+Here's your money... It has been a pleasure doing business, if you run into anybody else on the list, I'm interested. Might even have this stuffed and chromed to use as a paperweight.
+
+11040:
+Ahem... Collecting heads of Crepaton officials is my hobby. So, if you acquire one, I will pay generously.
+
+11520:
+ 
+
+12000:
+ 
+
+12480:
+ 
+
+12960:
+ 
+
+13440:
+ 
+
+13920:
+ 
+
+14400:
+ 
+
+14880:
+Oooh, I've been wounded. Someone is going to pay...
+
+15360:
+ 
+
+15840:
+I'm keeping a low profile till the shooting stops.
+
+16320:
+You might want to consider a career as a bounty hunter. You get to travel all over the world like an international garbage collector taking the trash out.
+
+16800:
+Never saw it coming.
+
+17280:
+ 
+
+17760:
+ 
+
+18240:
+Empty Record # 38
+

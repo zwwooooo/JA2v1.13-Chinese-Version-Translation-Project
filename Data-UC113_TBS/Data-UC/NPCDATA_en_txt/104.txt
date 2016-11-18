@@ -1,0 +1,78 @@
+0:
+Welcome to my bar. I am Manny, one of the famous De Santos bartending brothers.
+
+480:
+I prepare many exotic drinks. Information is also on the menu.
+
+960:
+Welcome friends, please be seated. What can I serve you?
+
+1440:
+I understand you are interested in weapons. Perhaps I can help. A friend of the rebels has vouched for your discretion, so I will tell you all I know.
+
+1920:
+Thank you. Your generosity is welcome, but I have that already.
+
+2400:
+If you are interested in trading weapons, see Tony at Port Kip. I think he is a front for Walter Smirnoff's gunrunners. They all wear tan coloured pants and white shirts.
+
+2880:
+Hey, don't be like that! I'm trying to help you!
+
+3360:
+My life is predictable, though boring. Better than being involved with guns though. Sorry, I must decline your offer.
+
+3840:
+Blood, aarrrrggghh! Call a doctor... Help, I'm wounded...
+
+4320:
+I hope the information has been useful. My brother Peter has a bar in sector E13.
+
+4800:
+Your generosity is welcome, but I must decline your offer.
+
+5280:
+I prepare many exotic drinks. What can I serve you?
+
+11040:
+I am interested in that.
+
+11520:
+I hope you will find the drinks interesting!
+
+12000:
+I hope the information has been useful. My brother Peter has a bar in sector E13.
+
+12480:
+Hey!
+
+14400:
+I'm too busy ducking bullets to talk now!
+
+14880:
+A man named Walter Smirnoff organizes widespread smuggling throughout Danubia. He has no political affiliations, but does supply criminal gangs with weapons which destabilizes the country.
+
+15360:
+You will find several gunrunner depots around the country. They also use Calisto airport freight terminal. Be careful, these guys are well armed, shoot first, then ask questions later.
+
+15840:
+There are gunrunner depots east of Calisto, east of Galileo, east of Troy, and west of Galileo. Could be more. They transport contraband around the country using small, escorted convoys.
+
+16320:
+Walter Smirnoff can sometimes be found at a small grass airstrip east of Rudesa. He often picks up shipments smuggled in by light planes.
+
+16800:
+ 
+
+17280:
+ 
+
+17760:
+ 
+
+18240:
+ 
+
+18720:
+ 
+

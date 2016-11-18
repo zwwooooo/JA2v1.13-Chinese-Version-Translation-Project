@@ -1,0 +1,69 @@
+0:
+You can call me Colonel Kelly, Commander.
+
+480:
+Commander?
+
+960:
+I'm a professional!
+
+1440:
+Well... If it has to get done, I'm the right man to do it!
+
+1920:
+Gotta be a mistake.
+
+2400:
+I'm building an extension on my house.
+
+2880:
+You could be discharged for that!
+
+3360:
+You're asking me to work for you? It ain't going to happen!
+
+3840:
+Took a flesh wound.
+
+4320:
+Spare me the sob stories. I just want to get out of here!
+
+4800:
+I found a doctor!
+
+5280:
+You'll have to deal with it, because there's no more dealing with me.
+
+5760:
+Excellent choice... You're starting to look serious about winning this thing!
+
+6240:
+In times of trouble, they call me Kick-Ass Kelly!
+
+6720:
+I would never abandon my men, nor would they allow it!
+
+7200:
+Consider me on duty!
+
+7680:
+You can't be foolish enough to think you can win this without me.
+
+8160:
+You're shy a couple of greenbacks!
+
+8640:
+Who could refuse such a gift?
+
+9120:
+No time to explain!
+
+9600:
+Empty Record # 20
+
+10080:
+ 
+
+10560:
+ 
+

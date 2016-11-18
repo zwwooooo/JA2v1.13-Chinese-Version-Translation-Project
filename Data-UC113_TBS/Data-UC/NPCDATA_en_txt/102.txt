@@ -1,0 +1,36 @@
+0:
+I'm Claudia Papanus, a very important executive at Crepaton Corporation.
+
+480:
+Say, do you need something or what? I'm busy.
+
+960:
+You're boring me.
+
+1440:
+What's that, I'm on a rebel hit list! You're not kidding! Guards, guards, help!
+
+1920:
+What I need is more money and power, not that.
+
+2400:
+I'm on my way to an important meeting.
+
+2880:
+Who are you kidding? You're joking, right?
+
+3360:
+Do I want to be a what? I make too much at Crepaton to waste my time playing soldier.
+
+3840:
+I'm wounded! Call a specialist, quick!
+
+4320:
+Time to check out of this scenario.
+
+4800:
+Hey, what's all the shooting about? I'm late for my appointment.
+
+5280:
+   
+

@@ -1,0 +1,39 @@
+0:
+Welcome to Adrian Ferry Terminal.
+
+480:
+Do you wish to reserve seats? There is a ferry to the Island twice a day.
+
+960:
+Sorry, you just missed the boat. Perhaps you would like to take our charter helicopter instead?
+
+1440:
+Talk to the pilot. He's in the compound outside, checking his machine.
+
+1920:
+I am not permitted to accept gifts or bribes. Company policy.
+
+2400:
+Passage to the Island costs $20 for each person, children half price. No animals allowed.
+
+2880:
+Take it easy, I only work here.
+
+3360:
+My life is full of excitement already. Only yesterday a ferry rammed the wharf!
+
+3840:
+Blood! Aarrrrggghh, I hate blood... I need a doctor.
+
+4320:
+If that's all you need, please stand aside. There are other customers waiting.
+
+4800:
+I'm sorry, but I'm too busy lying on the ground ducking bullets to talk right now.
+
+5280:
+ 
+
+5760:
+Empty Record # 12
+

@@ -1,0 +1,105 @@
+0:
+Oh, we're at the Calisto International Airport.  Maybe we can find out about that plane crash from the Air Traffic Controller.  He should know what's going on.
+
+480:
+Hey, I haven't been here in a while. Maybe would could stop off and see Betty. She moved here from Tracona and opened a little hardware store, maybe we could buy something?  Could we please, come on, pretty please?
+
+960:
+Ooh, this is the Crepaton Factory.  This is where they make Crepaton. You know Crepaton, right?  It's the little green pill that makes you feel good all day long... Errrr, at least that's what I'm told.
+
+1440:
+This is Troy. There's some shops here, a movie theatre, the subway and, of course, a police station which we should probably either blow up or stay away from.
+
+1920:
+The big greenhouses here are owned by the Crepaton Corporation.  They grow exotic plants that they use for their drug formula.
+
+2400:
+This is the Crepaton Headquarters here.  And I think they have a training facility with lots of supplies, too.
+
+2880:
+We'd better be careful here. I heard anyone who ever came here to question Crepaton Corp. was never seen again. 
+
+3360:
+This is the Crepaton production plant.  They make Crepaton here, I think.
+
+3840:
+Oh, we're at the Soccer Stadium. Do you think we have time to catch a game?
+
+4320:
+This must be the Galileo Hospital.  I heard about this place but have never visited it myself.  Maybe this is our chance.
+
+4800:
+This is Industrial Avenue. We should find all sorts of factories and warehouses here.
+
+5280:
+I heard there was a guy named Shady who hires out bodyguards and such in this area.  But I think someone told me his office is in some basement.
+
+5760:
+Here in Port Kip we should be able to find lots of shops and factories. Maybe even a gas station, too.
+
+6240:
+Another industrial area, I think.  There's the river port and docks over there, and I think we should be able to find a gun dealer somewhere around town.
+
+6720:
+Oh, I think there is the Danubia National News headquarters around here somewhere.  Besides that, there's lots of businesses we could visit, but watch out for the police.
+
+7200:
+This should be the Sheraton Crepaton plant.  I seem to remember there was a guy here who did computer stuff too... I think his name was Himmy, or something like that.
+
+7680:
+Just a church here, I think. If you feel like praying, this would be the place to do it.
+
+8160:
+Oh, we're in Drake.  Drake is a typical luxury resort.  Maybe we could take a break here, huh?
+
+8640:
+I remember this place, this is where General Marcos visits all the time.  Everybody says he's got himself a girlfriend here, hehe... Hope his wife doesn't receive an anonymous letter.
+
+9120:
+Oh, Oh! We should stop at the theatre here. I hear they're playing 'Rambo' again.  That guy is just so cool, isn't he?
+
+9600:
+Upper class is what lives here.  We better just get a room at the motel and keep a low profile.
+
+10080:
+We're in Gothom City... Why does that sound familiar to me? Oh well, anyway, we should see if we can find Jake, he sells stuff here.
+
+10560:
+Oh, oh, we're in Roxx.  There's a really big prison just north of here.  We probably don't want to go there though.
+
+11040:
+This is Rudesa. I heard they had a drought here, but I didn't realize it was this bad!
+
+11520:
+There's a casino here that we could play at if you like.  But I think we might also find some stores to buy things.
+
+12000:
+This is Adrian, the capital of Danubia.  We can find all sorts of businesses around here and I think there is a ferry somewhere in this town that takes you over to the Island.
+
+12480:
+Oh, this is the Palace of Queen Brenda.  Pretty fancy, huh? She usually hangs out here.
+
+12960:
+This is a SAM site to protect the large military presence in the area.  But I think that the Danubia Military Headquarters in just north of here.
+
+13440:
+Oh, Adrian International Airport.  We hit the big time now.  And I think there is a Helicopter Service to the Island around here.
+
+13920:
+Crepaton Headquarters Building is here.  Gee, isn't it nice how modern everything is here.  Wish the rest of the country looked like this.
+
+14400:
+Everybody says Queen Brenda runs this country, but I think the real power is behind the Crepaton Corporation, not Brenda.
+
+14880:
+This is the Mental Hospital run by Dr. Lecter.  I heard that they do experiments on people here.  So if it's ok with you, we shouldn't stay too long.
+
+15360:
+Oh, oh.  This is one of the Danubian SAM sites.  I think this one covers Eastern Danubia.
+
+15840:
+Another SAM site, this one covers the Northern parts of Danubia.
+
+16320:
+There's another SAM Missile site here.  I think this one covers the middle of Danubia.
+

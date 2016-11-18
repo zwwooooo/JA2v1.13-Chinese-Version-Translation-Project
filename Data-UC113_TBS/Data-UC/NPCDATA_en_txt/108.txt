@@ -1,0 +1,78 @@
+0:
+Welcome. I'm Yannis, a reliable, modest, and highly talented computer programming genius employed on a permanent casual basis by the Danubian rebels. I was told to expect you.
+
+480:
+You have returned... Welcome back friends!
+
+960:
+Sheraton is a quiet, backwoods town. I like visiting computer shops in Adrian... but duty calls.
+
+1440:
+It's tragic that Danubia finds itself in such a predicament.
+
+1920:
+I have no use for that.
+
+2400:
+These Crepaton techs are amateurs when it comes to online security. You could drive a bus through their firewall.
+
+2880:
+There's no need for violence or anger. I'm an associate of your friends.
+
+3360:
+I have vowed to remain in Sheraton. I must fulfill my obligations.
+
+3840:
+I'm injured... Need to get to a hospital for treatment, fast! Ohhhhhhh, I hate the sight of blood... Especially mine!
+
+4320:
+I have a few Crepaton databanks to hack into. I shall not be far from my cappucino machine and keyboard. You know where to find me.
+
+4800:
+A donation... These are few and far between. Thank you!
+
+5280:
+So how's the mission progressing? Found the MOC list yet? Carmen did mention I'm your second contact in Danubia, yes? Great, then we're old friends already.
+
+5760:
+Why do I need it? You guys are gonna be customers of Dr. Mortimer if our common enemies discover the encrypted information it contains. Why are politicians so careless? Blair needs his arse kicked!
+
+6240:
+Step one is to analyse the disk data, figure out where the central database is located, then hack the living daylights out of it. I'm gonna cause a cosmic meltdown wherever it's at!
+
+6720:
+My job is to make sure you're not compromised by erasing records of employment, recent travel details, plus various other incriminating AIM stuff that's accumulated in the databanks of a less-than-friendly organization.
+
+7200:
+Our spooks in black suits, Danubia CIA, have a motley selection of assassins after your blood, so you guys are up to your necks in it. The MOC list in my hands is the first step towards organizing your continued robust health.
+
+7680:
+Carmen's no tech, so here's the story again. You have Carmen's laptop. Get hold of a GDI decoder, plug it into the Laptop, then insert the Diskette. Voila, the MOC List is yours. No idea where you can find the Diskette, though.
+
+8160:
+What's so special about this unique diskette?  Along with enough info to get you guys buried, Blair found something else. Not sure what. Just find that diskette before it's owner realizes what it contains.
+
+8640:
+My advice is to search thoroughly wherever you go. Some guy might have it in a cabinet or safe, I have no idea. Got word from Blair there's only one diskette... we hope. All this trouble only started after his plane was downed.
+
+9120:
+You rotten bastard, I was on your side!
+
+9600:
+Congratulations, let me do some keyboard magic...  Here it is again. Please deliver it to Agent X, your final contact. He's on an island south of Rudesa, and will give you instructions on how to find Queen Brenda.
+
+10080:
+I can't talk with this fighting going on...
+
+10560:
+Good luck to you guys, and safe journey.
+
+11040:
+ 
+
+11520:
+ 
+
+12000:
+ 
+

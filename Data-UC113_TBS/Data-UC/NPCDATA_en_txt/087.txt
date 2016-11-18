@@ -1,0 +1,90 @@
+0:
+My name is Carlos. Oh, the rebels asked you to talk to me.
+
+480:
+I understand you need information about the police.
+
+960:
+Please be seated. What can I serve you?
+
+1440:
+Crepaton Corporation. Sure Miranda Cruz's partner gave me a copy of what she found for safekeeping. That crowd is into deeply dubious stuff on a major scale!
+
+1920:
+Thank you. Your generosity is overwhelming, but I don't need that.
+
+2400:
+If you are interested in finding Crepaton executives, try the roads near Drassen or Rudesa. Several of them commute between research and production plants on a daily basis.
+
+2880:
+That's no way to treat someone who wants to help you.
+
+3360:
+I could not leave this job. All my brothers are also bartenders. Soon I hope to open a bar in one of the larger towns.
+
+3840:
+Help me stop this bleeding, then take me to hospital. I feel faint at seeing blood, especially my own!
+
+4320:
+A pleasure to have been useful. Sorting out a few Crepaton major players will soon raise your popularity in Danubia.
+
+5280:
+What are you interested in?
+
+5760:
+Please be seated!
+
+7680:
+I see...
+
+12000:
+A pleasure to have been useful. Sorting out a few Crepaton major players will soon raise your popularity in Danubia!
+
+12480:
+Don't leave this!
+
+14400:
+I heard shots, whats going on? Hit the floor everyone!
+
+14880:
+Claudia Papanus is Crepaton's marketing director. She travels in a black limousine with lots of security, so expect resistance. Ernest Bacardi is their research and development brains.
+
+15360:
+Some of that stuff Miranda found is dynamite! Seems Crepaton are using the mental patients at Prax Psycho Hospital as guinnea pigs for their new drugs. They have a payola deal with Dr. Lecter.
+
+15840:
+Ernest Bacardi often visits the Troy greenhouse complex where they grow exotic plants as part of the formula ingredients. Crepaton are always transporting stuff about in CIA marked vans.
+
+16320:
+Our Queen has several Swiss numbered bank accounts packed with billions, while us ordinary folks are struggling to make ends meet. No one will listen 'till she's toppled from power.
+
+16800:
+There are a few honest politicians and administrators in Danubia, but they're keeping a low profile. Joey Papanus cracks down hard on anyone criticizing the regime.
+
+17280:
+ 
+
+17760:
+ 
+
+18240:
+ 
+
+18720:
+ 
+
+19200:
+ 
+
+19680:
+ 
+
+20160:
+ 
+
+20640:
+ 
+
+21120:
+ 
+

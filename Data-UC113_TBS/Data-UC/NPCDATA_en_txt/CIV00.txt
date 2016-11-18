@@ -1,0 +1,45 @@
+0:
+My family is starving.
+
+320:
+I am starving.
+
+640:
+My life is a shambles.
+
+960:
+I have very little means to survive.
+
+1280:
+I used to work for a living, now I beg.
+
+1600:
+I'm poor.
+
+1920:
+I need money for food.
+
+2240:
+Do you have any food to spare?
+
+2560:
+I'm sorry... but I'm hungry.
+
+2880:
+I must eat soon.
+
+3200:
+I hope you can change this country. I don't want to be a beggar forever.
+
+3520:
+I need to buy medicine for my daughter.
+
+3840:
+I wish I was healthy like you.
+
+4160:
+Please don't hurt me - I'm only a beggar.
+
+4480:
+I am so tired of begging for food.
+

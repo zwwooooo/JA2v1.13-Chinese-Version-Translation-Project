@@ -1,0 +1,141 @@
+0:
+Easy now! I presume you to be the mercenaries people been going on about. Well, you don't be messing with Doctor Kairns. I be wearing the same jersey as you.
+
+480:
+You're a fine sight to behold.
+
+960:
+Can't really stay fer too long. Got more on me mind than 10 people if ya put 'em together!
+
+1440:
+Ya know, I had so much going for me. Grants, brought up in publications I was, and dare I say, following in Einstein's path! Then I come ta this. Ta this! It'll haunt me, it will.
+
+1920:
+Aye, no. I don't be needing that.
+
+2400:
+I tell ya, the Queen's one crazy lady! 
+
+2880:
+Aye, we'd be much better off if we talked kindly here. Don't ya think?
+
+3360:
+Ya must be jokin'! I got me enough trouble already!
+
+3840:
+Aye, God this hurts...
+
+4320:
+Not wise to be ignorin' my work. I should really get to it.
+
+4800:
+Get along much faster now, I will.
+
+5280:
+What's going on? What did I do to you?
+
+5760:
+Aye, let's talk later. Looks like ya still have a score to settle.
+
+6240:
+Every little bit helps, it does.
+
+6720:
+I'm sure ya probably heard already. Aye, I can see it in yer eyes. Wonderin' what I'm doin' here. Has he really left the employ of the Queen? Well... I have!
+
+7200:
+Oh, don't get ma wrong! 
+
+7680:
+Aye, she gave me lab all the toys it could ever be needing. Why, there was nothing I couldn't do! Then, ya see, I got to questioning things. Wonderin' about her motives.
+
+8160:
+So, I decided to take my head outta my work, and take a proper look around. And you know what I saw? The same thing you see. 
+
+8640:
+And so I left! Just up and gone. And don't tell me you wouldn't have done different. Oh, and I'm not going back, no, not until I'm ready. 
+
+9120:
+I'll do what I have to, to stop her!
+
+9600:
+Say, maybe I'm outta line here, but something just occurred ta me. You see, in order to right the wrongs I've committed, I've been workin' on... building this robot, and its purpose, well, it's ta kill the Queen.
+
+10080:
+I was planning to take her on myself, but I figure now you and the robot have a better chance. I mean, look at ya! And friend, I'm not after glory. I just want her stopped, and I think you can do that.
+
+10560:
+My robot, she's nearly done. All she be needing is a rifle and a video camera. And then she'll be the Queen's worst nightmare! I tell ya, you gather me up what I need, and she's yours.
+
+11040:
+Aye! This'll work fine. Now it's a permanent thing once I get her attached, so you best have another weapon in mind fer yerself.
+
+11520:
+Aye, are you sure about this? I mean, once I attach it, it's a permanent thing. And this gun isn't exactly what I'd call top-of-the-line. Can ya part with anything better?
+
+12000:
+All right, I'll put it on then. Don't be surprised if it's not a marvel.
+
+12480:
+Now all I be needing is a camera.
+
+12960:
+Perfect. A little gem, she is. It'll do just fine.
+
+13440:
+Aye God, what is this? The Hubble Telescope? It barely works my friend. There'd be no point in using this. The robot'd be useless.
+
+13920:
+Come back tomorrow, and she'll be ready for ya...
+
+14400:
+Now all I be needing is a rifle of some sort, preferably a good one.
+
+14880:
+Well, there she is, then! Now, let me give you a little insight into how she operates. And you be careful with her. Took me a while to build. Can't be building another in a jiff, you understand.
+
+15360:
+She works by remote. As long as you not be too far, ya can easily maneuver her about by watching the image on the tiny display. And if she's got ammo, you pull this trigger here to fire her weapon.
+
+15840:
+I guess that's it then. Best of luck with it. 
+
+16320:
+There's not much more I can tell ya, except to get on with it, of course.
+
+16800:
+Look, I got me a plan, and if you want to be on the receiving end of it, it's fine with me! But I suggest you relax, and let me go about ma business!
+
+17280:
+Aye, ya got all my support.
+
+17760:
+What's your problem? You gettin' a little testy. Don't let yer nerves get ya going. Save it for the Queen.
+
+18240:
+Don't know what I was thinking last time we met, or if I was thinkin' at all. But ya might be interested in knowing just where the Queen's secret weapons plant is located, don't ya think?
+
+18720:
+Hidden below a wildlife conservation center. Don't be fooled. The building above is just a ruse. But it is well-protected, so be prepared.
+
+19200:
+Ya broke her, did ya? Well, I guess ya be needin' another. Okay, no cause for panic. It will require a bit of time, I'm afraid. A few days for sure.
+
+19680:
+I'll need ta gather all the parts, while you'll need to get me another camera and rifle. It can be done, though I sure hate to lose one that way. Aye, let's get to her then.
+
+20160:
+I'm workin' as fast as I can, but she's not ready yet.
+
+20640:
+She be ready now. But I want ya to be more careful with this one. I can't be sure I can get my hands on the parts I'll need to build another.
+
+21120:
+ 
+
+21600:
+ 
+
+22080:
+ 
+

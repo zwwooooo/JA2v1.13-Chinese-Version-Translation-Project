@@ -1,0 +1,60 @@
+0:
+Welcome to my bar. I understand a friend recommended me. It is often the case; news of my skills with the drinks travel far and wide.
+
+480:
+I prepare many exotic drinks. Gossip is also on the menu, in addition to reliable information.
+
+960:
+Welcome friends, please be seated. My name is Herve De Santos, now what can I serve you?
+
+1440:
+I recommend you try a Pink Handbag, the latest rage in Danubia. My creation of course.
+
+1920:
+Thank you, gifts are always welcome, but I have that already.
+
+2400:
+If you are interested in finding General Marco, I overheard his driver say he intends to tour several new checkpoints and minefields recently installed on roads leading to the capital.
+
+2880:
+Why do you say that? I'm trying to help you!
+
+3360:
+My life is rewarding enough already. Having a talent for mixing exotic cocktails is raking in a fortune plus an ever growing clientelle. Sorry, but I must decline your offer.
+
+3840:
+Blood aarrrrggghh, I need a doctor!
+
+4320:
+Take care on the roads and watch out for army patrols.  There are other customers waiting. I must get back to my duties, now. Goodbye.
+
+5280:
+You will find many exotic drinks on the menu...
+
+5760:
+There are other customers waiting!
+
+7680:
+What do you offer?
+
+11520:
+All good!
+
+12480:
+Take that!
+
+14400:
+I'm too busy ducking bullets to talk right now.
+
+14880:
+You will find military convoys on the roads since the revolt began. They are trying to isolate the capital from rebel attacks by setting up checkpoints and minefields.
+
+15360:
+The army has several heavily defended bases and SAM sites around Danubia. Additionally, there are four patrol boat bases along the coast. All good places to obtain advanced weapons.
+
+15840:
+It is known that General Marcos' mistress lives in a luxurious resort just north of Drake. He often drives from the capital in an armored black limousine, always heavily escorted.
+
+16320:
+There are rumors of tanks being positioned on roads near and inside the capital itself. A SAM site protects Adrian in addition to two other bases on the city's outskirts.
+

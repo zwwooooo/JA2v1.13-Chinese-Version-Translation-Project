@@ -1,0 +1,84 @@
+0:
+Who the Hell?
+
+480:
+What's your problem?
+
+960:
+Bet every goddamn one of you is an American. You can't stay out of anything can you? You sons-of-a-bitches...
+
+1440:
+I'm not looking to make new friends.
+
+1920:
+Keep your own shit.
+
+2400:
+You know how it ends. Let's get it started.
+
+2880:
+I am going to put a huge hole in your midsection.
+
+3360:
+I not looking to join you! But I can be had for a price.
+
+3840:
+Ugh! Bandage this!
+
+4320:
+Enough talking!
+
+4800:
+At least you're trained.
+
+5280:
+Life is a bitch!
+
+5760:
+If you're willing to part with more, maybe we can work something out.
+
+6240:
+She is all yours. I'm out of here.
+
+6720:
+Those mercenaries, Brenda. The ones causing all the trouble. You wanted them.
+
+7200:
+Yeah, Brenda. You do. You want me to tenderize them?
+
+7680:
+Gladly Brenda. How do you like this?
+
+8160:
+Yeah! I'll star-spangle you!
+
+8640:
+Aw, come on! You are full of it! Brenda, just look at them!
+
+9120:
+Right, Brenda!
+
+9600:
+Brenda?
+
+10560:
+Yes? What can I do for you?
+
+11040:
+As you wish.
+
+11520:
+Douglas, the situation is out of control.
+
+12000:
+Those mercenaries again... They've occupied Troy.
+
+12480:
+Brenda, I have great news.
+
+12960:
+My troops have conquered one of the cities that was taken by those mercenaries.
+
+13440:
+It's only a matter of time before this country is under our control again.
+

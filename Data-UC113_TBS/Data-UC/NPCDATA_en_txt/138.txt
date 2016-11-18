@@ -1,0 +1,66 @@
+0:
+Yes, I am the Traffic Controller, you do not plan to shoot me also, do you?
+
+480:
+Oh, I see you are back. Do you require my services in helicopter repair?
+
+960:
+Would you mind pointing that in another direction?
+
+1440:
+I fully enjoy my work, much as you may enjoy yours.
+
+1920:
+Thank you, but I am fine.
+
+2400:
+Not many tourists since they closed the borders in Danubia.
+
+2880:
+I simply direct the planes, I mean no harm to you.
+
+3360:
+I do not think I would be much use to you, unless you wish for me to direct Air Traffic.
+
+3840:
+I would greatly appreciate some medical attention.
+
+4320:
+Please excuse me, I do have a job to do.
+
+4800:
+ 
+
+5280:
+The plane crash. Yes, I recall the plane crash. It was on my scope flying over Danubian Airspace. I just completed verifying the pilots route when suddenly the airplane began loosing altitude.
+
+5760:
+The pilot radioed a distress call to me, but the police, the police told me to ignore the call.
+
+6240:
+I do not trust the policemen in Danubia, and neither should you.  I dare not tell them, but later, I received another call from the pilot, he was alive.  But I could do nothing for him.
+
+6720:
+I am not sure where he could be, but possibly the locals might have seen him somewhere nearby.  Speak to them, but be cautious, you do not want the police to interrogate you.
+
+7200:
+You will pay!
+
+7680:
+It is not safe, come back later.
+
+8160:
+Thank you, thank you!  May the gods bless you and your family.
+
+8640:
+Yes, I think I can fix the helicopter. She is damaged very badly though.  It will take some time... please, come back tomorrow and I will try to have her ready for you.
+
+9120:
+You lost the helicopter, that is too bad. If it was in Calisto, I might have been able to do something for you. I'd have access tools and parts.
+
+9600:
+You destroyed the helicopter, what do you expect, miracles?
+
+10080:
+Do not let Danubia fall, you must succeed.
+

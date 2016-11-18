@@ -1,0 +1,111 @@
+0:
+Hey there. Don't recall I've ever met you before. Matt Duncan, Crepaton Plant manager.
+
+480:
+Your here, I was just thinking we need a sign things are improving, your arrival must be it.
+
+960:
+I hope you're not getting a bad feeling about Danubia. Country was fine 'till Crepaton started meddling in politics.
+
+1440:
+Hey, I just keep myself concerned with running the plant, that's enough responsibility.
+
+1920:
+Got everything I need, no thanks.
+
+2400:
+Let me put it this way. You can't blame a whole country for the excesses corporate greed inflicts. It's sad.
+
+2880:
+C'mon man, take it easy. There's nothing so important you gotta yell about it like that.
+
+3360:
+No thanks. I got a lot of men to look after here.
+
+3840:
+Lord! This hurts something awful... Think I need a doctor!
+
+4320:
+I won't hold you up. Suppose you got lots to be doing helping the rebels.
+
+4800:
+You're going to prevail. Thanks! See ya.
+
+5280:
+I trusted you!
+
+5760:
+Looks like my plant falls on your side of the fence now. Can't say I'm unhappy about that.
+
+6240:
+I'll see how many of the workers are willing to join me in keeping the plant running for you. Should be a nice income earner for the cause.
+
+6720:
+If you guys need extra personnel, there's a shady character in Galileo running a bodyguard and mercenary for hire outfit. Operates from a basement office near the subway.
+
+7200:
+You'll have to convince them you intend to hold the town. Once they're confident, they'll back you and remain loyal. Training a few of the locals to become militia will help.
+
+7680:
+There is something you can do to make me a friend for life and rally the workers. Get my brother Skitz out of Prax Mental Hospital. He was only committed because of his union activities. Lord knows what they're doing to him in there!
+
+8160:
+Busting my brother out of Prax is reason for celebration. Get Skitzy off that medication Lecter was pumping into him and he'll be fine... Errr, I hope. Always wondered if his talk about killing people was a joke... Must be, gotta be.
+
+8640:
+We got a serious problem at the plant.
+
+9120:
+I was wondering when I'd see you again. Hopefully this time everything will pan out okay.
+
+9600:
+Too dangerous to have a chat now, don't you think?
+
+10080:
+I'm glad you guys came to Danubia. You're doing one hell of a job!
+
+10560:
+Wanted to let you know that we're producing more Crepagen than ever.
+
+11040:
+I'm having a problem getting men to work. Crepaton buttered their bread for so long, they figure it's only a question of time before you desert us.
+
+11520:
+Crepaton's bossy bitch Claudia Papanus had Skitz committed just for being a hard bargaining union leader. They can't cope with organized resistance to their tyranny.
+
+12000:
+He's quite popular with the guys around here. They call him Skitz. Please,  get him outa Prax hospital, heard Lecter was using experimental drugs on him. You'll make a town full of friends here if you do.
+
+12480:
+Heard word that you got my brother out. Good work, man! Everyone around here is pretty impressed by your efforts.
+
+12960:
+Pretty disappointed to hear about the passing of my brother. I'm gonna miss Skitzy...
+
+13440:
+Man, is it ever good to see ya, Skitz! Come on, man, tell me straight here and now. Did you really bury those people you keep joking about... Is that for real?
+
+13920:
+So, you joined up... Gonna say hello to Brenda and kick butt for both of us, I hope.
+
+14400:
+Man, if you're gonna give handouts, I'd rather you find someone who needs it.
+
+14880:
+I'm keeping the plant closed 'till you do some more exterminating.
+
+15360:
+Well, thank God that's over. Plant's clear.
+
+15840:
+ 
+
+16320:
+ 
+
+16800:
+ 
+
+17280:
+Empty Record # 36
+

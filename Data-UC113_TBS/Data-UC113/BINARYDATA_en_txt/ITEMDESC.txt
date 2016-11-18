@@ -1,0 +1,3012 @@
+0:
+Special thanks... 
+
+800:
+Sawed-off
+
+1600:
+PMM
+
+2400:
+Tokarev
+
+3200:
+Viking
+
+4000:
+Makarov
+
+4800:
+CZ-52
+
+5600:
+Stechkin
+
+6400:
+Scorpio
+
+7200:
+Agram
+
+8000:
+AEK-919K
+
+8800:
+UZI
+
+9600:
+Bizon
+
+10400:
+PPSh-41
+
+11200:
+AKS-74U
+
+12000:
+AWM
+
+12800:
+AK-47
+
+13600:
+Vepr 
+
+14400:
+Dragunov
+
+15200:
+SV-98
+
+16000:
+Car-15
+
+16800:
+CZ 700
+
+17600:
+MP-5
+
+18400:
+Vintorez
+
+19200:
+AK-105
+
+20000:
+AKS-74
+
+20800:
+AKM
+
+21600:
+AEK-971
+
+22400:
+AK-107
+
+23200:
+G3
+
+24000:
+AN-94
+
+24800:
+Rys-U
+
+25600:
+Saiga 12K
+
+26400:
+KSVK
+
+27200:
+RPK-74
+
+28000:
+RPD
+
+28800:
+PK
+
+29600:
+Knife
+
+30400:
+Throw. Knife
+
+31200:
+Boxcutter
+
+32000:
+RGM-40
+
+32800:
+Mortar
+
+33600:
+Shovel
+
+34400:
+M4
+
+35200:
+M4/GP-30
+
+36000:
+M4A1/GP-30
+
+36800:
+Scoped M4A1
+
+37600:
+Scoped M4A1/GP-30
+
+38400:
+RPO-A
+
+39200:
+Dusters
+
+40000:
+GP-30
+
+40800:
+LAW
+
+41600:
+Bloodcat Claws
+
+42400:
+Bloodcat Bite
+
+43200:
+Machete
+
+44000:
+M16A2
+
+44800:
+SAW
+
+45600:
+Infant Spit
+
+46400:
+Young Male Spit
+
+47200:
+RPG-7
+
+48000:
+Cannon
+
+48800:
+Colt .45
+
+49600:
+Bloody Knife
+
+50400:
+M21
+
+51200:
+Crowbar
+
+52000:
+SA 80 LSW
+
+52800:
+Varjag
+
+53600:
+M16A2/M203
+
+54400:
+SA 80
+
+55200:
+M4A1
+
+56000:
+'small name'
+
+56800:
+9mm PM 8
+
+57600:
+9mm PM 20
+
+58400:
+9mm PM 8 AP
+
+59200:
+9mm PM 20 AP
+
+60000:
+9mm PMM 12 AP
+
+60800:
+9mm PMM 66 AP
+
+61600:
+9mm PMM 12 HP
+
+62400:
+9mm PMM 66 HP
+
+63200:
+9mm 15 AP
+
+64000:
+9mm 30 AP
+
+64800:
+9mm 15 HP
+
+65600:
+9mm 30 HP
+
+66400:
+7.62TT 15 AP
+
+67200:
+7.62TT 71 AP
+
+68000:
+7.62TT 15 HP
+
+68800:
+7.62TT 71 HP
+
+69600:
+5.45mm 30
+
+70400:
+5.45mm 45
+
+71200:
+5.45mm 30 HP
+
+72000:
+5.45mm 45 HP
+
+72800:
+12.7mm
+
+73600:
+9mm SP-6
+
+74400:
+7.62mm WP 30
+
+75200:
+7.62mm WP 75
+
+76000:
+7.62mm WP 30
+
+76800:
+7.62mm WP 75
+
+77600:
+7.62x54mmR 10
+
+78400:
+7.62x54mmR 100
+
+79200:
+7.62mm NATO 10
+
+80000:
+7.62mm NATO 20
+
+80800:
+7.62mm NATO 10
+
+81600:
+7.62mm NATO 20
+
+82400:
+.223 mag
+
+83200:
+5.56mm 30
+
+84000:
+5.56mm 120
+
+84800:
+5.56mm 30 HP
+
+85600:
+5.56mm 120 HP
+
+86400:
+12 ga. 2 BS
+
+87200:
+12 ga. 7 BS
+
+88000:
+12 ga. 2 slugs
+
+88800:
+12 ga. 7 slugs
+
+89600:
+.338 Lapua
+
+90400:
+.338 Lapua HP
+
+91200:
+.45 mag AP
+
+92000:
+.45 mag HP
+
+92800:
+PG-7VR Rocket
+
+93600:
+PG-7 Rocket
+
+94400:
+'small name'
+
+95200:
+'small name'
+
+96000:
+'small name'
+
+96800:
+'small name'
+
+97600:
+'small name'
+
+98400:
+'small name'
+
+99200:
+'small name'
+
+100000:
+'small name'
+
+100800:
+'small name'
+
+101600:
+'small name'
+
+102400:
+'small name'
+
+103200:
+'small name'
+
+104000:
+'small name'
+
+104800:
+Stun Grenade
+
+105600:
+Tear Gas
+
+106400:
+Mustard Gas
+
+107200:
+Mini Grenade
+
+108000:
+Hand Grenade
+
+108800:
+Pipe Bomb
+
+109600:
+TNT
+
+110400:
+Satchel 
+
+111200:
+C4
+
+112000:
+Mortar Shell
+
+112800:
+Mine
+
+113600:
+Claymore
+
+114400:
+Trip Flare
+
+115200:
+Trip Klaxon
+
+116000:
+Shaped Charge
+
+116800:
+Break Light
+
+117600:
+40mm VOG-25
+
+118400:
+T-/Mustard Gas 
+
+119200:
+40mm VOG-25 P
+
+120000:
+40mm Napalm
+
+120800:
+Smoke Grenade
+
+121600:
+Shell
+
+122400:
+Struct Ignite
+
+123200:
+Molotov
+
+124000:
+Struct Exp
+
+124800:
+GB Exp
+
+125600:
+Big Tear Gas
+
+126400:
+S C Gas
+
+127200:
+L C Gas
+
+128000:
+'small name'
+
+128800:
+Flak Jacket
+
+129600:
+Longcoat
+
+130400:
+Visor Cap
+
+131200:
+Kevlar Vest
+
+132000:
+Leather Jacket
+
+132800:
+BDU
+
+133600:
+Spectra Vest
+
+134400:
+Kevlar Helmet
+
+135200:
+Striker Vest
+
+136000:
+Kevlar Pants
+
+136800:
+Ghillie Pants
+
+137600:
+EOD pants
+
+138400:
+Spectra Pants
+
+139200:
+Commando Pants
+
+140000:
+Striker Pants
+
+140800:
+Steel Helmet
+
+141600:
+Wool Cap
+
+142400:
+Medic Helmet
+
+143200:
+Ghillie Hood
+
+144000:
+Spectra Helmet
+
+144800:
+EOD helmet
+
+145600:
+Striker Helmet
+
+146400:
+Ceramic Plates
+
+147200:
+Garrison Cap
+
+148000:
+Boonie Hat
+
+148800:
+Beret
+
+149600:
+Officer's Cap
+
+150400:
+Red Army Cap
+
+151200:
+Commando Vest
+
+152000:
+Commando Medic
+
+152800:
+ASL Vest
+
+153600:
+SQD LDR Vest
+
+154400:
+Kvlr Leather
+
+155200:
+Longcoat w/ medal
+
+156000:
+Uniform
+
+156800:
+Guardian Vest
+
+157600:
+Ghillie Jacket
+
+158400:
+EOD vest
+
+159200:
+'small name'
+
+160000:
+'small name'
+
+160800:
+1st Aid Kit
+
+161600:
+Med Kit
+
+162400:
+Tool Kit
+
+163200:
+Locksmith Kit
+
+164000:
+Camo Kit
+
+164800:
+Monoculars
+
+165600:
+Suppressor
+
+166400:
+PSO-1 Scope
+
+167200:
+Bipod
+
+168000:
+Extended Ear
+
+168800:
+Night Goggles
+
+169600:
+Sun Goggles
+
+170400:
+Gas Mask
+
+171200:
+Canteen
+
+172000:
+Metal Detector
+
+172800:
+Commando Upgrade
+
+173600:
+Striker Upgrade
+
+174400:
+Elixir
+
+175200:
+Money
+
+176000:
+Jar
+
+176800:
+Full Jar
+
+177600:
+Crepaboost
+
+178400:
+Detonator
+
+179200:
+Remote Det.
+
+180000:
+Videotape
+
+180800:
+Deed
+
+181600:
+Ticket
+
+182400:
+Laptop
+
+183200:
+MOC list
+
+184000:
+Claws
+
+184800:
+Teeth
+
+185600:
+Pelt
+
+186400:
+Switch
+
+187200:
+Useless Junk
+
+188000:
+Crepagen
+
+188800:
+Empty Syringe
+
+189600:
+Empty Syringe
+
+190400:
+Empty Syringe
+
+191200:
+Full Jar
+
+192000:
+Ownership
+
+192800:
+Laser Scope
+
+193600:
+Remote trigger
+
+194400:
+Wire Cutters
+
+195200:
+Duckbill
+
+196000:
+Alcohol
+
+196800:
+UV Goggles
+
+197600:
+Discarded LAW
+
+198400:
+Head
+
+199200:
+Head
+
+200000:
+Head
+
+200800:
+Head
+
+201600:
+Head
+
+202400:
+Head
+
+203200:
+Head
+
+204000:
+Crepaton
+
+204800:
+Beer
+
+205600:
+Porn
+
+206400:
+Video Camera
+
+207200:
+Robot Remote
+
+208000:
+Claw
+
+208800:
+Flesh
+
+209600:
+Organ
+
+210400:
+Remote
+
+211200:
+Wallet
+
+212000:
+Radio parts
+
+212800:
+Gameboy
+
+213600:
+Coca-Cola
+
+214400:
+CurBal
+
+215200:
+Cigars
+
+216000:
+'small name'
+
+216800:
+Key
+
+217600:
+Key
+
+218400:
+Key
+
+219200:
+Key
+
+220000:
+Key
+
+220800:
+Key
+
+221600:
+Key
+
+222400:
+Key card
+
+223200:
+Private
+
+224000:
+Corporal
+
+224800:
+Junior Sergeant
+
+225600:
+Sergeant
+
+226400:
+Senior Sergeant
+
+227200:
+Master Sergeant
+
+228000:
+Kursant
+
+228800:
+Kursant Corporal
+
+229600:
+Kursant Jr Sgt
+
+230400:
+Kursant Sergeant
+
+231200:
+Kursant Sr Sgt
+
+232000:
+Kursant Master Sgt
+
+232800:
+Junior Lieutenant
+
+233600:
+Lieutenant
+
+234400:
+Senior Lieutenant
+
+235200:
+Captain
+
+236000:
+Key
+
+236800:
+Key
+
+237600:
+Key
+
+238400:
+Key
+
+239200:
+Key
+
+240000:
+Key
+
+240800:
+Key
+
+241600:
+Key
+
+242400:
+A.L.I.C.E.
+
+243200:
+Empty inhalator
+
+244000:
+Rod
+
+244800:
+Spring
+
+245600:
+Rod & Spring
+
+246400:
+Talon adapter
+
+247200:
+PSO-1 adapter
+
+248000:
+Elcan Riflescope
+
+248800:
+1:7 twist barrel
+
+249600:
+Medic Patch
+
+250400:
+Laptop+Decoder
+
+251200:
+Motor grease
+
+252000:
+Triggergroup
+
+252800:
+Platinum Watch
+
+253600:
+Decoder
+
+254400:
+Broken Radio
+
+255200:
+Colt M203
+
+256000:
+Rag
+
+256800:
+Diskette
+
+257600:
+Battery
+
+258400:
+Medal
+
+259200:
+AN/PRC-104A
+
+260000:
+Silver
+
+260800:
+Gold
+
+261600:
+Gas
+
+262400:
+'small name'
+
+263200:
+'small name'
+
+264000:
+'small name'
+
+264800:
+'small name'
+
+265600:
+'small name'
+
+266400:
+'small name'
+
+267200:
+'small name'
+
+268000:
+'small name'
+
+268800:
+'small name'
+
+269600:
+'small name'
+
+270400:
+'small name'
+
+271200:
+'small name'
+
+272000:
+'small name'
+
+272800:
+'small name'
+
+273600:
+'small name'
+
+274400:
+'small name'
+
+275200:
+'small name'
+
+276000:
+'small name'
+
+276800:
+'small name'
+
+277600:
+'small name'
+
+278400:
+'small name'
+
+279200:
+'small name'
+
+280000:
+'small name'
+
+160:
+...to Terapvt and Dvornik
+
+960:
+Sawed-off Shotgun
+
+1760:
+PMM
+
+2560:
+Tokarev
+
+3360:
+MR-446 Viking 
+
+4160:
+Makarov PM
+
+4960:
+CZ-52
+
+5760:
+Stechkin APS
+
+6560:
+Scorpio vz.82
+
+7360:
+Agram 2000
+
+8160:
+AEK-919K
+
+8960:
+UZI
+
+9760:
+Bizon-2
+
+10560:
+PPSh-41
+
+11360:
+AKS-74U
+
+12160:
+AI AWM
+
+12960:
+AK-47
+
+13760:
+Vepr .308
+
+14560:
+Dragunov SVD
+
+15360:
+SV-98
+
+16160:
+Colt Car-15
+
+16960:
+CZ 700M1
+
+17760:
+HK MP-5
+
+18560:
+Vintorez VSS
+
+19360:
+AK-105
+
+20160:
+AKS-74
+
+20960:
+AKM
+
+21760:
+AEK-971
+
+22560:
+AK-107
+
+23360:
+HK G3
+
+24160:
+AN-94 Abakan
+
+24960:
+Rys-U
+
+25760:
+Saiga 12K
+
+26560:
+KSVK
+
+27360:
+RPK-74
+
+28160:
+RPD
+
+28960:
+PK
+
+29760:
+Combat Knife
+
+30560:
+Throwing Knife
+
+31360:
+Boxcutter
+
+32160:
+RGM-40 Grenade Launcher
+
+32960:
+Mortar
+
+33760:
+Tri-fold Shovel
+
+34560:
+Colt M4
+
+35360:
+Colt M4/GP-30
+
+36160:
+Colt M4A1/GP-30
+
+36960:
+Scoped Colt M4A1
+
+37760:
+Scoped M4A1/GP-30
+
+38560:
+RPO-A Napalm launcher
+
+39360:
+Knuckle Dusters
+
+40160:
+GP-30 Grenade Launcher
+
+40960:
+RPG-22 LAW
+
+41760:
+Bloodcat Claws
+
+42560:
+Bloodcat Bite
+
+43360:
+Machete
+
+44160:
+M16A2
+
+44960:
+M249 SAW
+
+45760:
+Infant Creature Spit
+
+46560:
+Young Male Spit
+
+47360:
+RPG-7
+
+48160:
+Tank Cannon
+
+48960:
+Colt .45
+
+49760:
+Bloody Throwing Knife
+
+50560:
+M21
+
+51360:
+Crowbar
+
+52160:
+SA 80 LSW
+
+52960:
+MR-445 Varjag
+
+53760:
+M16A2/M203
+
+54560:
+SA 80 IW
+
+55360:
+Colt M4A1
+
+56960:
+9mm PM Pistol magazine
+
+57760:
+9mm PM SMG magazine
+
+58560:
+9mm PM Pistol magazine, AP
+
+59360:
+9mm PM SMG magazine, AP
+
+60160:
+9mm PMM Pistol clip, AP
+
+60960:
+9mm PMM Bizon magazine, AP
+
+61760:
+9mm PMM Pistol clip, HP
+
+62560:
+9mm PMM Bizon magazine, HP
+
+63360:
+9mm Pistol magazine, AP
+
+64160:
+9mm SMG magazine, AP
+
+64960:
+9mm Pistol magazine, HP
+
+65760:
+9mm SMG magazine, HP
+
+66560:
+7.62TT Pistol magazine, AP
+
+67360:
+7.62TT drum, AP
+
+68160:
+7.62TT Pistol magazine, HP
+
+68960:
+7.62TT drum, HP
+
+69760:
+5.45mm magazine
+
+70560:
+5.45mm Hi-cap magazine
+
+71360:
+5.45mm magazine, HP
+
+72160:
+5.45mm Hi-cap magazine, HP
+
+72960:
+12.7mm magazine
+
+73760:
+9x39mm SP-6 magazine
+
+74560:
+7.62mm WP magazine
+
+75360:
+7.62mm WP drum
+
+76160:
+7.62mm WP magazine, HP
+
+76960:
+7.62mm WP drum, HP
+
+77760:
+7.62x54mmR mag
+
+78560:
+7.62x54mmR beltbox
+
+79360:
+7.62mm NATO magazine, 10 AP
+
+80160:
+7.62mm NATO magazine, 20 AP
+
+80960:
+7.62mm NATO magazine, 10 HP
+
+81760:
+7.62mm NATO magazine, 20 HP
+
+82560:
+.223 magazine
+
+83360:
+5.56mm magazine
+
+84160:
+5.56mm box
+
+84960:
+5.56mm magazine, HP
+
+85760:
+5.56mm box, HP
+
+86560:
+12 gauge, 2 rds Buckshot
+
+87360:
+12 gauge, 7 rds Buckshot
+
+88160:
+12 gauge, 2 rds Slugs
+
+88960:
+12 gauge, 7 rds Slugs
+
+89760:
+.338 Lapua Magnum clip
+
+90560:
+.338 Lapua Magnum clip, HP
+
+91360:
+.45 Pistol magazine, AP
+
+92160:
+.45 Pistol magazine, HP
+
+92960:
+PG-7VR Tandem Rocket
+
+93760:
+PG-7 Anti-Tank Rocket
+
+104960:
+Stun Grenade
+
+105760:
+Tear Gas Grenade
+
+106560:
+Mustard Gas Grenade
+
+107360:
+Mini Hand Grenade
+
+108160:
+Reg Hand Grenade
+
+108960:
+Pipe Bomb
+
+109760:
+TNT
+
+110560:
+Satchel Charge
+
+111360:
+C4
+
+112160:
+Mortar Shell
+
+112960:
+Land Mine
+
+113760:
+Claymore
+
+114560:
+Trip Flare
+
+115360:
+Trip Klaxon
+
+116160:
+Shaped Charge
+
+116960:
+Chemical Break Light
+
+117760:
+40mm VOG-25 Grenade
+
+118560:
+Tear-/Mustard Gas Grenade 
+
+119360:
+40mm VOG-25 P Grenade
+
+120160:
+40mm Napalm Grenade
+
+120960:
+Smoke Grenade
+
+121760:
+Tank Shell
+
+122560:
+Struct Ignite
+
+123360:
+Molotov Cocktail
+
+124160:
+Structure Explosion
+
+124960:
+Great big explosion
+
+125760:
+Big Tear Gas
+
+126560:
+Small Creature Gas
+
+127360:
+Large Creature Gas
+
+128960:
+Flak Jacket
+
+129760:
+Longcoat
+
+130560:
+Police Visor Cap
+
+131360:
+Kevlar Vest
+
+132160:
+Leather Jacket
+
+132960:
+BDU
+
+133760:
+Spectra Vest
+
+134560:
+Kevlar Helmet
+
+135360:
+Striker Vest
+
+136160:
+Kevlar Leggings
+
+136960:
+Ghillie Suit Pants
+
+137760:
+EOD pants
+
+138560:
+Spectra Leggings
+
+139360:
+Commando Pants
+
+140160:
+Striker Pants
+
+140960:
+Steel Helmet
+
+141760:
+Nomex Wool Cap
+
+142560:
+Medic Helmet
+
+143360:
+Ghillie Hood
+
+144160:
+Spectra Helmet
+
+144960:
+EOD helmet
+
+145760:
+Striker Helmet
+
+146560:
+Ceramic Plates
+
+147360:
+NCO Garrison Cap
+
+148160:
+Boonie Hat
+
+148960:
+Special Forces Beret
+
+149760:
+Officer's Visor Cap
+
+150560:
+Red Army Fur Cap
+
+151360:
+Commando Vest
+
+152160:
+Commando Medic
+
+152960:
+Assistant Squad Leader - NCO/ Specialist
+
+153760:
+Squad Leader - Officer
+
+154560:
+Leather & Kevlar Jacket
+
+155360:
+Longcoat w/ medal
+
+156160:
+Uniform
+
+156960:
+Guardian Vest
+
+157760:
+Ghillie Suit Jacket
+
+158560:
+EOD vest
+
+160960:
+First Aid Kit
+
+161760:
+Medical Kit
+
+162560:
+Tool Kit
+
+163360:
+Locksmith Kit
+
+164160:
+Camouflage Kit
+
+164960:
+Monoculars
+
+165760:
+Sound Suppressor
+
+166560:
+PSO-1 Sniper Scope
+
+167360:
+Bipod
+
+168160:
+Extended Ear
+
+168960:
+Night Vision Goggles
+
+169760:
+Sun Goggles
+
+170560:
+Gas Mask
+
+171360:
+Canteen
+
+172160:
+Metal Detector
+
+172960:
+Commando Armor Upgrade
+
+173760:
+Striker Armor Upgrade
+
+174560:
+Jar of Elixir
+
+175360:
+Money
+
+176160:
+Glass Jar
+
+176960:
+Jar of Blood
+
+177760:
+Crepaboost
+
+178560:
+Detonator
+
+179360:
+Remote Detonator
+
+180160:
+Videotape
+
+180960:
+Deed
+
+181760:
+Cargo Claim Ticket
+
+182560:
+Laptop
+
+183360:
+MOC list
+
+184160:
+Bloodcat Claws
+
+184960:
+Bloodcat Teeth
+
+185760:
+Bloodcat Pelt
+
+186560:
+Switch
+
+187360:
+Useless Junk
+
+188160:
+Crepagen Healing Boost
+
+188960:
+Empty Syringe
+
+189760:
+Empty Syringe
+
+190560:
+Empty Syringe
+
+191360:
+Jar of Human Blood
+
+192160:
+Ownership
+
+192960:
+Laser Scope
+
+193760:
+Remote Bomb trigger
+
+194560:
+Wire Cutters
+
+195360:
+Duckbill
+
+196160:
+Bottle of Alcohol
+
+196960:
+UV Goggles
+
+197760:
+Discarded LAW
+
+198560:
+Head
+
+199360:
+Chris' Head
+
+200160:
+Jasmin's Head
+
+200960:
+Slay's Head
+
+201760:
+Druggist's Head
+
+202560:
+Annie's Head
+
+203360:
+Joe's Head
+
+204160:
+Bottle of Crepaton liquid
+
+204960:
+Beer
+
+205760:
+Porno Magazine
+
+206560:
+Video Camera
+
+207360:
+Robot Remote Control
+
+208160:
+Creature Claw
+
+208960:
+Creature Flesh
+
+209760:
+Unidentifiable Creature Organ
+
+210560:
+Remote Control
+
+211360:
+Wallet
+
+212160:
+Radio Parts
+
+212960:
+Gameboy
+
+213760:
+Coca-Cola
+
+214560:
+Current Balance:
+
+215360:
+Cigars
+
+216960:
+Small key
+
+217760:
+Prison key
+
+218560:
+Cheap key
+
+219360:
+Dull key
+
+220160:
+Shiny key
+
+220960:
+Padlock key
+
+221760:
+Electronic Key
+
+222560:
+Key card
+
+223360:
+Private (Rank level 1-3)
+
+224160:
+Corporal (4)
+
+224960:
+Junior Sergeant (5)
+
+225760:
+Sergeant (6)
+
+226560:
+Senior Sergeant (8)
+
+227360:
+Master Sergeant (10)
+
+228160:
+Kursant (1)
+
+228960:
+Kursant Corporal (2)
+
+229760:
+Kursant Junior Sergeant (3)
+
+230560:
+Kursant Sergeant (4)
+
+231360:
+Kursant Senior Sergeant (5)
+
+232160:
+Kursant Master Sergeant (6)
+
+232960:
+Junior Lieutenant (7)
+
+233760:
+Lieutenant (8)
+
+234560:
+Senior Lieutenant (9)
+
+235360:
+Captain (10)
+
+236160:
+Key
+
+236960:
+Key
+
+237760:
+Key
+
+238560:
+Key
+
+239360:
+Key
+
+240160:
+Key
+
+240960:
+Key
+
+241760:
+Key
+
+242560:
+A.L.I.C.E. backpack
+
+243360:
+Empty inhalator
+
+244160:
+Aluminum Rod
+
+244960:
+Spring
+
+245760:
+Rod & Spring
+
+246560:
+Talon adapter
+
+247360:
+PSO-1 adapter
+
+248160:
+Elcan Riflescope
+
+248960:
+14.5 inch 1:7 twist barrel
+
+249760:
+Medic Patch Armor Upgrade
+
+250560:
+Laptop+GDI decoder
+
+251360:
+Motor grease
+
+252160:
+Colt Triggergroup
+
+252960:
+Platinum Watch
+
+253760:
+GDI Decoder
+
+254560:
+Broken Radio
+
+255360:
+Colt M203 Underbarrel grenade launcher
+
+256160:
+Rag
+
+256960:
+Diskette
+
+257760:
+Battery
+
+258560:
+Medal
+
+259360:
+AN/PRC-104A Radio
+
+260160:
+Silver Nugget
+
+260960:
+Gold Nugget
+
+261760:
+Tank of Gas
+
+320:
+Special thanks to Terapvt and Dvornik for their help with the .exe editing!
+
+1120:
+Shotgun. Draw: 1. Laser, Duckbill.
+
+1920:
+Pistol. Draw: 0. Attachments: Suppressor, Laser, Rod & Spring.
+
+2720:
+Pistol. Draw: 0. Attachments: Suppressor, Laser, Rod & Spring.
+
+3520:
+Pistol. Draw: 0. Attachments: Suppressor, Laser, Rod & Spring.
+
+4320:
+Pistol. Draw: 0. Attachments: Suppressor, Rod & Spring, Laser.
+
+5120:
+Pistol. Draw: 0. Attachments: Suppressor, Laser, Rod & Spring.
+
+5920:
+Machine Pistol. Draw: 0. Burstpen: 15. Attachments: Suppressor, Laserscope, Rod & Spring.
+
+6720:
+Submachine Gun. Draw: 1. Burstpen: 8. Attachments: Suppressor, Laser, Rod & Spring.
+
+7520:
+Submachine Gun. Draw: 1. Burstpen: 7. Attachments: Suppressor, Laser, Rod & Spring.
+
+8320:
+Submachine Gun. Draw: 1. Burstpen: 5. Attachments: Suppressor, Laser, Rod & Spring.
+
+9120:
+Submachine Gun. Draw: 1. Burstpen: 5. Attachments: Suppressor, Laser, Rod & Spring.
+
+9920:
+Submachine Gun. Draw: 1. Burstpen: 4. Attachments: Suppressor, Laser, Rod & Spring, Elcan Riflescope.
+
+10720:
+Submachine Gun. Draw: 1. Burstpen: 8. Attachments: Laser, Rod & Spring.
+
+11520:
+Submachine Gun. Draw: 1. Burstpen: 11. Attachments: Laser, Rod & Spring, Elcan Riflescope.
+
+12320:
+High-powered Snipersystem. Draw: 3. Attachments: Bipod, Rod & Spring.
+
+13120:
+Assault Rifle. Draw: 2. Burstpen: 11. Attachments: Laser, Bipod, GP-30, Rod & Spring, Elcan Riflescope.
+
+13920:
+Hunting Rifle. Draw: 2. Attachments: Laser, Bipod, Rod & Spring, Elcan Riflescope.
+
+14720:
+Designated Marksman Rifle (DMR).    Draw: 3. Attachments: Bipod, Rod & Spring.
+
+15520:
+Bolt-action Snipersystem. Draw: 3. Attachments: Bipod.
+
+16320:
+Carbine. Draw: 1. Burstpen: 6. Attachments: Suppressor, Laser, Rod & Spring.
+
+17120:
+Bolt-action Snipersystem. Draw: 3. Attachments: Bipod.
+
+17920:
+Submachine Gun. Draw: 1. Burstpen: 4. Attachments: Suppressor, Laser, Rod & Spring.
+
+18720:
+Designated Marksman Rifle (DMR).    Draw: 3. Attachments: Bipod, Rod & Spring.
+
+19520:
+Carbine. Draw: 1. Burstpen: 8. Attachments: Laser, GP-30, Rod & Spring, Elcan Riflescope.
+
+20320:
+Assault Rifle. Draw: 3. Burstpen: 8. Attachments: Laser, Bipod, GP-30, Rod & Spring, Elcan Riflescope.
+
+21120:
+Assault Rifle. Draw: 3. Burstpen: 8. Attachments: Laser, Bipod, GP-30, Rod & Spring, Elcan Riflescope.
+
+21920:
+Assault Rifle. Draw: 3. Burstpen: 3. Attachments: Laser, Bipod, GP-30, Rod & Spring, Elcan Riflescope.
+
+22720:
+Assault Rifle. Draw: 3. Burstpen: 6. Attachments: Laser, Bipod, GP-30, Rod & Spring, Elcan Riflescope.
+
+23520:
+Assault Rifle. Draw: 2. Burstpen: 13. Attachments: Laser, Bipod, Rod & Spring.
+
+24320:
+Assault Rifle. Draw: 2. Burstpen: 1. Attachments: Laser, Bipod, GP-30, Elcan Riflescope.
+
+25120:
+Shotgun. Draw: 2. Attachments: Laser, Duckbill, Rod & Spring, Elcan Riflescope.
+
+25920:
+Shotgun. Draw: 2. Attachments: Laser, GP-30, Duckbill, Rod & Spring, Elcan Riflescope.
+
+26720:
+Anti-material Snipersystem. Draw: 3. Attachments: Bipod.
+
+27520:
+Light Machine Gun. Draw: 3. Burstpen: 5. Attachments: Laser, Bipod, Rod & Spring, Elcan Riflescope.
+
+28320:
+Light Machine Gun. Draw: 3. Burstpen: 7. Attachments: Laser, Bipod, Rod & Spring, Elcan Riflescope.
+
+29120:
+General-Purpose Machine Gun. Draw: 3. Burstpen: 5. Attachments: Laser, Bipod, Rod & Spring.
+
+29920:
+This full-tang bowie-styled combat knife will convert you into a whirling, twirling machine of silent, subtle death.
+
+30720:
+This finely balanced steel throwing knife brings new meaning to the expression killing them softly. Or, in this case, silently.
+
+31520:
+Infamous for its use in a certain high-profile aircraft hijacking, slicing away with a boxcutter won't win you any points for style, but it will certainly do in a pinch.
+
+32320:
+When your special-delivery package absolutely, positively has to make it there on time, every time, the dependable RGM-40 grenade launcher is the one you're going to want to pack.
+
+33120:
+The M224 is a 60mm caliber lightweight mortar with a finned barrel, sight, M7 base plate, and a bipod. It was built to handle HE bombs.
+
+33920:
+Many forget that a sturdy shovel can also be a very effective weapon. Use this to bash someones brains in.
+
+34720:
+Carbine. Draw: 1. Burstpen: 7. Attachments: Suppressor, Laser, Rod & Spring.
+
+35520:
+Carbine. Draw: 1. Burstpen: 7. Attachments: Suppressor, Laser, GP-30, Rod & Spring.
+
+36320:
+Carbine. Draw: 1. Burstpen: 8. Attachments: Suppressor, Laser, GP-30, Rod & Spring.
+
+37120:
+Carbine. Draw: 1. Burstpen: 8. Attachments: Suppressor, Laser, PSO-1 Sniperscope, Rod & Spring.
+
+37920:
+Carbine. Draw: 1. Burstpen: 8. Attachments: Suppressor, Laser, PSO-1 Sniperscope, GP-30, Rod & Spring.
+
+38720:
+The RPO-A is a rocket-propelled incendiary projectile launcher.  After blowing its wad, the launcher tube cannot be reloaded and should be junked.
+
+39520:
+This sturdy set of brass knuckles fits most hands. They will add some power to your punch.
+
+40320:
+This underslung grenade launcher can be mounted underneath the barrel of almost all Warsaw Pact assault rifles.
+
+41120:
+One hit from this Light Anti-armor Weapon is better than a one way ticket to Judgement Day. No judge, no jury, and all executioner.
+
+41920:
+NO DESCRIPTION NECESSARY!
+
+42720:
+NO DESCRIPTION NECESSARY!
+
+43520:
+Slice 'em, dice 'em, cook 'em 'n' clean 'em. Whether it be man, plant, or beast, this all purpose machete will chop any main course into the finest of cuts.
+
+44320:
+Assault Rifle. Draw: 2. Burstpen: 6. Attachments: Laser, Bipod, Rod & Spring.
+
+45120:
+Light Machine Gun. Draw: 3. Burstpen: 3. Attachments: Laser, Bipod, Rod & Spring.
+
+45920:
+NO DESCRIPTION NECESSARY!
+
+46720:
+NO DESCRIPTION NECESSARY!
+
+47520:
+Rocket-Propelled Grenade Launcher. Draw: 0. Attachments: Elcan Riflescope.
+
+48320:
+NO DESCRIPTION NECESSARY!
+
+49120:
+Pistol. Draw: 0. Attachments: Suppressor, Laser, Rod & Spring.
+
+49920:
+A small, lightweight throwing knife with a double-edged, chrome-plated, high carbon steel blade that is incidentally covered in blood.
+
+50720:
+Designated Marksman Rifle (DMR).    Draw: 3. Attachments: Bipod, Rod & Spring.
+
+51520:
+This durable lever tool is a one-piece bar of titanium. While harder and stronger than steel, it weighs less, and won't rust.
+
+52320:
+Light Support Weapon with integral 4x SUSAT scope. Draw: 3. Burstpen: 5. Attachments: Laser, Bipod, Rod & Spring.
+
+53120:
+Pistol. Draw: 0. Attachments: Suppressor, Laser, Rod & Spring.
+
+53920:
+Assault Rifle. Draw: 3. Burstpen: 6. Attachments: Laser, Rod & Spring.
+
+54720:
+Assault Rifle with integral 4x SUSAT scope. Draw: 2. Burstpen: 8. Attachments: Laser, Rod & Spring.
+
+55520:
+Carbine. Draw: 1. Burstpen: 8. Attachments: Suppressor, Laser, Rod & Spring.
+
+56320:
+NO DESCRIPTION NECESSARY!
+
+57120:
+The low-power Makarov 9mm bullets are cheap and widely used in older, Russian made firearms.  This pistol magazine holds 8.
+
+57920:
+While not exactly the most high-powered caliber, the 9mm PM round contained in this 20-round SMG magazine is widely available.
+
+58720:
+This 8-round pistol magazine holds the 9mm PM round, which can defeat most forms of body armor, but with reduced wound capabilities.
+
+59520:
+The 9mm PM Armor Piercing rounds contained in this 20-round SMG magazine will guarantee that body armor isn't something you should be overly concerned with.
+
+60320:
+This 12-round pistol clip features the newer 9mm PMM round with its increased muzzle velocity and armor piercing power. Not compatible with older PM guns, unfortunately.
+
+61120:
+This helical magazine for the Bizon contains 66 rounds of the newer 9mm PMM Armor Piercing cartridge. Alas, the bullet is not compatible with older PM firearms.
+
+61920:
+The new 9mm PMM hollow point round carried in this 12-round pistol clip has greater stopping power against unarmored opponents than its counterparts.  This round is incompatible with older PM chambering firearms.
+
+62720:
+While probably not your first choice against armored opponents, this Bizon 66-round helical magazine is filled with the 9mm PMM hollow point round.  (Warning!  This cartridge is not suitable for older PM chambering firearms!)
+
+63520:
+This magazine contains 15 hardened steel rounds of 9mm ammunition. Even though this round easily cuts through light body armor, it doesn't cause as much damage as jacketed and regular hollow point versions.
+
+64320:
+These 30 hardened steel rounds are the best sub-machine gun armor-defeating ammunition.
+
+65120:
+This magazine contains 15 rounds of 9mm federal-135-grain hollow point ammo. While its armor piercing capabilities are questionable, its tendency to expand in tissue more than makes up for its weaknesses.
+
+65920:
+This magazine holds 30 rounds of federal jacketed hollow point ammunition. It combines the wound characteristics of hollow point with the penetration abilities of standard ball ammunition.
+
+66720:
+This 15-round pistol magazine contains the powerful 7.62mm Tokarev Armor Piercing round, which was the standard ammunition used by the Russians in WW2.
+
+67520:
+This 71-round drum of heavy 7.62mm Tokarev Armor Piercing ammunition will keep you spraying and your targets praying for a good long while.
+
+68320:
+Containing a hollow point variant of the already powerful 7.62mm Tokarev round, this 15-round magazine takes personal defence to the next level.
+
+69120:
+With 71 rounds of a JHP variant of the 7.62mm Tokarev cartridge, this drum gives the phrase 'crowd control' a whole new meaning.
+
+69920:
+The 5.45mm round has superior muzzle velocity over the old 7.62mm cartridge, and was adopted by the Russian army together with the AK-74.
+
+70720:
+This high capacity magazine holds 45 rounds of 5.45mm light armor piercing anti-personnel ammo. Its metal jacketing not only improves its ability to punch through walls, but it can tear through multiple bodies as well.
+
+71520:
+This jacketed hollow point bullet has superior muzzle velocity over the old 7.62mm cartridge, mushrooming on impact and tumbling within the target.  
+
+72320:
+This 45-round high capacity magazine contains 5.45 jacketed hollow point ammunition. It features the combined effect of mushrooming on impact, and tumbling within its target to create enormous wound cavities.
+
+73120:
+These 5 rounds of 12.7mm ammo allow the KSVK anti-material sniper rifle to virtually ignore any armor and/or hard cover protecting the target.
+
+73920:
+Heavier than regular 9mm ammo, the 9x39mm SP-6 is a subsonic round specially designed to retain armor piercing characteristics.  
+
+74720:
+This 30-round magazine of 7.62mm Warsaw Pact issued AP ammunition is noted for its ability to defeat almost all forms of body armor and cause significant damage to unwilling recipients.
+
+75520:
+This drum contains 75 rounds of Warsaw Pact issued 7.62mm anti-personnel AP ammo, which tends to maintain is shape on impact. Shape retention may increase its ability to defeat light body armor but it also reduces injury severity.
+
+76320:
+These 30 rounds of 7.62mm Warsaw Pact jacketed hollow point ammunition won't penetrate body armor as well as its armor piercing counterpart, but it makes up for it by making larger wound cavities.
+
+77120:
+This drum contains 75 rounds of 7.62mm Warsaw Pact hollow point ammunition, making is ideal for engaging large groups of lightly armored opponents.
+
+77920:
+Primarily chambered by the Dragunov SVD, the 7.62x54mm Rimmed round is roughly equivalent to the .30-06, offering plenty of energy with good ballistics.
+
+78720:
+This beltbox contains 100 rounds of 7.62x54mm Rimmed ammo on a nondisintegrating belt for your PK.
+
+79520:
+This 10-round clip of 7.62mm NATO armor piercing ammunition has the ability to defeat body armor at long ranges, making it the ideal sniping round.
+
+80320:
+This mag contains 20 rounds of NATO standard 7.62mm AP ammo. This round has gained favorable attention from armed forces worldwide due to its ability to penetrate a steel helmet at extreme ranges.
+
+81120:
+What these 10 rounds of civilian .308 Winchester hunting ammunition lack in armor piercing abilities, is compensated for with their ability to cause severe injuries in unarmored opponents.
+
+81920:
+This high capacity magazine holds 20 rounds of .308 Winchester ammunition, the civilian variant of the 7.62 NATO round. It is best suited for hunting unarmored targets.
+
+82720:
+This 20 round magazine holds 5.56 mm M193 ammunition, an older 5.56 mm round that fits the old non heavy 1:12 twist barrel like the one the Car-15 uses.
+
+83520:
+These 30 rounds of NATO standard light armor piercing ammunition have the ability to tumble within its target to create a much larger wound than what is normally expected from a such small bullet.
+
+84320:
+This box contains 120 rounds of NATO standard light armor piercing ammunition, which has the ability to tumble within its target to create a much larger wound than what is normally expected from a such small bullet.
+
+85120:
+This 30-round magazine of 5.56 Remington hollow point ammo is a variation of the civilian .223 hunting round. Like the .223, it is designed to maximize nerve shock and blood loss.
+
+85920:
+This 120-round box contains 5.56 Remington hollow point ammo, which is a variation of the civilian .223 hunting round. Like the .223, it is designed to maximize nerve shock and blood loss.
+
+86720:
+Two rounds of 12 gauge '00' SSG ammunition. Favored by law enforcement personnel, it is very effective in urban firefights against unarmored opponents. 
+
+87520:
+This 12 gauge magazine holds 7 rounds of '00' SSG ammunition. Favored by law enforcement personnel, it is very effective in urban firefights against unarmored opponents. 
+
+88320:
+Two rounds of 12 gauge PolyCore slugs. Each round tears through body armor as though it were tissue paper.
+
+89120:
+This magazine contains 7 rounds of 12 gauge PolyCore slugs. Each round tears through body armor as though it were tissue paper.
+
+89920:
+The first caliber designed specifically with sniping in mind, the .338 Lapua Magnum round will arrive at 1000 meters with enough energy to penetrate 5 layers of military body armor and still disable its target.
+
+90720:
+For military extreme long-range anti-personnel engagements, the .338 Lapua Magnum hollow point round is king, plain and simple.
+
+91520:
+These 7 rounds hold .45 automatic armor piercing ammunition. Although this high velocity steel ammo may defeat most light body armor, it causes less tissue damage than lead-based rounds.
+
+92320:
+A 7-round mag of .45 ACP hollow point ammo. Its hollow point forces the round to mushroom on impact, creating a large wound channel that is wider than wounds from both standard and armor piercing variants.
+
+93120:
+This RPG-7 tandem rocket provides a degree of lethality comparable to a 120mm artillery projectile or mortar shell.  It is perfect for taking out pill boxes or otherwise entrenched targets.
+
+93920:
+This RPG-7 Anti-Tank rocket carries a shaped charge warhead that is capable of defeating all known armored vehicles.
+
+94720:
+NO DESCRIPTION NECESSARY!
+
+95520:
+NO DESCRIPTION NECESSARY!
+
+96320:
+NO DESCRIPTION NECESSARY!
+
+97120:
+NO DESCRIPTION NECESSARY!
+
+97920:
+NO DESCRIPTION NECESSARY!
+
+98720:
+NO DESCRIPTION NECESSARY!
+
+99520:
+NO DESCRIPTION NECESSARY!
+
+100320:
+NO DESCRIPTION NECESSARY!
+
+101120:
+NO DESCRIPTION NECESSARY!
+
+101920:
+NO DESCRIPTION NECESSARY!
+
+102720:
+NO DESCRIPTION NECESSARY!
+
+103520:
+NO DESCRIPTION NECESSARY!
+
+104320:
+NO DESCRIPTION NECESSARY!
+
+105120:
+This grenade creates a massive vacuum which deprives the surrounding impact area of oxygen as waves of air rush back into its core.
+
+105920:
+This grenade releases tactical dispersion gas that reeks havoc on exposed eyes and skin.
+
+106720:
+This grenade releases a colorless, odorless, and tasteless gas that causes intense burning and blistering of the lungs. Sufferers can die without prompt medical attention.
+
+107520:
+This small TNT loaded grenade was designed to ensure a significant throwing range and effective fragmentation. It has been proven to provide good lethal coverage.
+
+108320:
+This standard army issued fragmentation grenade is packed with TNT and has a pull-ring, pressure-released firing trigger.
+
+109120:
+This crude homemade bomb you will have to handle with care, or it might go off when you least expect it.  But if you want to do it right, you'll need to attach a simple detonator to it.
+
+109920:
+Safety distance: 3 squares from impact. Trinitrotoluene is the second oldest and most commonly used explosive known to man - the first is dynamite. These sticks of explosives are highly stable, strawboard rolled, and contain a quarter-poundSatchel 
+
+110720:
+REMOTE DETONATION ONLY! Safety distance: 10 squares from impact. This bag of goodies delivers, in the words of the Fifth Element, a 'Big Baddaboom!' 
+
+111520:
+Safety distance: 5 squares from impact. Composition C4 is a white plastic explosive that is more powerful than TNT. This plastic-covered block has a threaded-cap-well at each end. Unlike C1, its sister composition, this one's odorless. 
+
+112320:
+This HE bomb features waterproof "horseshoe" snap-off propellant increments and the M734 multi-option fuse. This fuse can be set by hand for a delayed, impact, near-surface, or proximity burst detonation.
+
+113120:
+Safety distance: 2 squares from impact. This anti-personnel mine is a fragmentation weapon that becomes activated when stepped on. It includes an anti-disturbance device to inhibit clearance.
+
+113920:
+REMOTE DETONATION ONLY! Safety distance: 7 squares from impact. This explosive device generates a huge amount of damage within a small area.
+
+114720:
+It's an illuminating mine with a tripwire attached to it. Pull pressure or cutting the tripwire will ignite the flare, letting mercenaries know of enemy whereabouts.
+
+115520:
+This illuminating mine with an attached tripwire will alert mercs of nearby enemies. Pull pressure or cutting the tripwire will ignite the flare, which is followed by a loud wailing siren.
+
+116320:
+Place this small tungsten-backed plastique explosive against any door to blow the lock right off.
+
+117120:
+One time use chemical break lights are an extremely convenient and portable light source. Simply break 'n' throw to brighten your way.
+
+117920:
+This fragmentation grenade when fired from the 40mm grenade launcher will ignite its encased TNT after a short delay.
+
+118720:
+The truly nasty gas released by this hand grenade readily eats its way through gas masks and quickly incapacitates the wearer.
+
+119520:
+The VOG-25 P "Jumper" does less damage than the standard VOG-25, but its increased area of effect makes it the best choice for engaging multiple targets.
+
+120320:
+The 40mm Napalm grenade functions more or less as a tactical smoke grenade. It produces an small explosion that also leaves behind a slowly dissipating cloud of smoke.
+
+121120:
+When it comes to generating cover, this hand-held phosphorus-based smoke grenade is proven to be far more effective than any magazine stuffed with bullets.
+
+121920:
+NO DESCRIPTION NECESSARY
+
+122720:
+INTERNAL ITEM
+
+123520:
+So there was a use after all for that foul tasting paint thinner that locally passes for alcohol...
+
+124320:
+INTERNAL ITEM
+
+125120:
+INTERNAL ITEM
+
+125920:
+INTERNAL ITEM
+
+126720:
+INTERNAL ITEM
+
+127520:
+INTERNAL ITEM
+
+128320:
+NO DESCRIPTION NECESSARY!
+
+129120:
+The Armorshield ultra-light flak jacket is a highly protective sleeveless vest with a neck protector and pelvic plate. Its Velcro fasteners are concealed on the sides.
+
+129920:
+While it doesn't offer much in the way of protection, this officer's longcoat will definitely help turn the eye of anyone appreciating a man or woman in uniform.
+
+130720:
+Worn by officers of the local constabulary, this visor cap will help keep the sun off your face.
+
+131520:
+The ballistic panels on this vest are made from 28 piles of Kevlar. It wraps around your shoulders, neck and sides, and includes a stowable groin protector. The waist and chest straps are fully adjustable.
+
+132320:
+A bomber-style leather aviation jacket.
+
+133120:
+The Battle Dress Uniform is a set of ordinary fatigues that soldiers wear into combat. It offers minimal protection.
+
+133920:
+This vest is made of Spectra Shield, an ultra high-performance ballistic sheet that dramatically reduces blunt trauma from multiple hits and angled shots. Its carrier pocket can hold an additional trauma plate.
+
+134720:
+The Personal Armor System Ground Troops Helmet is made from Kevlar, with a comfortable suspension system, sweatband and chin strap. It also extends further over the ear and neck than standard helmets.
+
+135520:
+Attachments: Ceramic plate, Crepagen, Remote Bomb trigger
+
+136320:
+The ballistic panels on these leggings are made from 28 piles of protective Kevlar. Fully adjustable waist and ankle straps were designed to maintain a snug fit.
+
+137120:
+This set of ghillie suit pants won't give you any extra camouflage points or anything, it's just for show.
+
+137920:
+Explosive Ordnance Disposal pants. Demolition experts needs as much protection as possible.
+
+138720:
+These Spectra Shield leggings reduces blunt trauma from multiple hits and angled shots. Fully adjustable waist and ankle straps won't restrain mobility.
+
+139520:
+Attachments: Crepagen, Canteen and Camo Kit
+
+140320:
+Attachments: Canteen, Crepagen and first aid.
+
+141120:
+This steel helmet provides protection from small firearms, shrapnel and other projectiles. It has a padded leather and nylon suspension, with an adjustable chin strap.
+
+141920:
+Most often used by snipers due to its light weight, it can be pulled down in front of the face to offer some protection.
+
+142720:
+This shows, as you may have guessed, that the helmet's wearer is a battlefield medic.
+
+143520:
+This ghillie suit hood won't give you any extra camouflage points or anything, it's just for show.
+
+144320:
+This light Spectra composite helmet, known for its anti-ballistic qualities, has an IR-absorbing black finish, cushioning foam, and an adjustable harness system with a leather head band and rubber chin strap.
+
+145120:
+Explosive Ordnance Disposal helmet. Demolition experts needs as much protection as possible.
+
+145920:
+The Striker Helmet is the epitome of brain-bucket anti-ballistic protection.  The patents on its construction have been classified, but it is lined with impact-absorbing foam and its harness system can be easily adjusted on the fly.
+
+146720:
+These hard ceramic plates can be inserted into the front and back of most vests to provide extra protection by dispersing the impact from most standard ammunition loads.
+
+147520:
+The markings on this cap indicate that the wearer is a Non Commissioned Officer.
+
+148320:
+Not just any old floppy hat, the Boonie Hat is the preferred hat of commandos everywhere!
+
+149120:
+This Special Forces red beret is lined with kevlar to help protect the skull, but unfortunately it leaves the face unprotected.
+
+149920:
+This police officer visor cap sports a fashionable red trim, indicating that the wearer is of Officer's rank. 
+
+150720:
+Not only will it keep your head warm and cozy all winter long, this furry cap also offers the wearer some marginal protection.
+
+151520:
+Attachments: Ceramic plate.
+
+152320:
+Attachments: Crepagen, Crepaboost and Med Kit
+
+153120:
+Attachments: Ceramic plate and First Aid.
+
+153920:
+Attachments: Crepagen, Remote Bomb trigger, First Aid and Ceramic plate.
+
+154720:
+This bomber-style leather aviation jacket has been lined with Kevlar to provide a minimal amount of protection.
+
+155520:
+This officer's longcoat comes with a Danubian service medal: DISTINGUISHED MILITARY SERVICE - 1st CLASS.
+
+156320:
+This uniform has been lined with Kevlar to provide a minimal amount of protection, and a classy look!
+
+157120:
+This high quality ballistic vest is manufactured from 36 piles of Kevlar by Guardian Armories, Inc.  It is fully adjustable and has a pocket for a ceramic armor insert.
+
+157920:
+This ghillie suit jacket won't give you any extra camouflage points or anything, it's just for show.
+
+158720:
+Explosive Ordnance Disposal suit vest. Demolition experts needs as much protection as possible.
+
+159520:
+NO DESCRIPTION NECESSARY!
+
+160320:
+NO DESCRIPTION NECESSARY!
+
+161120:
+This kit contains: antiseptic, cotton rolls, a thermometer, iodine and merthiolate vials, arm slings, safety pins, scissors, forceps, various bandages and a mini first aid manual.
+
+161920:
+Aside from standard first aid supplies, this kit includes: a suture set and scissors, prep pads, a scalpel, Kelly forceps, tweezers, pain killers, anesthetic, antibiotics, a pen light, and a surgical manual.
+
+162720:
+This kit includes: a wide range of screwdrivers, ratchets, pliers, clamps, clasps, a hammer and a sewing kit.
+
+163520:
+This top-grain cowhide leather zipped case offers expert lockpicking tools including: picks, shims, tension wrenches, warded master keys, a broken key extractor, and a palm-key press.
+
+164320:
+The Military Camo Compact includes: olive drab, olive green, tan and white cream-based facial paint, a mirror, and a manual on the proper use and care of your camo compact.
+
+165120:
+This monocular makes it possible for your team's spotter to pick out targets further away than normal during daytime ops. Equip in your primary hand to use
+
+165920:
+Usually called a 'silencer' in pulpy fiction and the movies, the light, compact design of this sound suppressor can be fitted quite easily to most handguns and submachine guns.
+
+166720:
+This scope is used by Danubia's military as part of their snipersystems. It significantly improves targeting with its accurate windage adjustment, range-finder precision scale, and its coated optics.
+
+167520:
+The universal bipod fits most sniper and assault rifles, as well as light machine guns. Made from a die-cast aluminum, it has a coated matte finish. Its legs fold up when not in use for easy storage.
+
+168320:
+The Bionic Ear Scout is a high fidelity stereo amplifier headset with dual wind-resistant microphones that amplify small sounds and filter out the very loud. Its fully adjustable head strap ensures a snug fit.
+
+169120:
+These night vision goggles amplify existing light to allow the user to see in all but the darkest places.  Comes equipped with two "AA" batteries, carrying case, and nylon head strap.
+
+169920:
+These paramilitary eye protectors have triple-lenses: an anti-fog interior acetate lens, a tinted middle lens for reduced glare, and a scratch and shatter resistant exterior lens.
+
+170720:
+This Russian replication of the M-17A1 has cheek filters, scratch-proof lenses, adjustable head straps, and a drinking attachment.  A vinyl shoulder bag and plastic poncho are also included.
+
+171520:
+This polyethylene canteen can now be reused, refilled, and recycled, and it is extremely practical. Once its five shots of reviving water are used up, however, this canteen is fit for the garbage pit.
+
+172320:
+This is an extremely light and powerful transistorized metal detector with aural signalization. All the user has to do is have it on his person and an alarm sounds when metal is detected.
+
+173120:
+Use this to upgrade your Spectra Pants to Commando Pants, Spectra Vest to a Commando Vest, Commando Vest to a NCO Vest or your NCO Vest to an Officer's Vest.
+
+173920:
+This can be used to upgrade a Spectra Vest to a Striker Vest, or Spectra Pants to Striker Pants.
+
+174720:
+A glass jar containing an elixir made from creature blood and Gabby's secret blend of eleven herbs and spices.
+
+175520:
+Cash, coin, moolah, dough. Whatever you call it, it'll buy you stuff.
+
+176320:
+An empty glass jar is great for storing preserves, grandma's teeth, or anything else for that matter.
+
+177120:
+A glass jar containing what appears to be creature blood.
+
+177920:
+This inhalator is filled with a Crepaton stimulant that will temporarily boost your energy level. Caution: Repeated use has been known to cause cardiac arrest in some users.
+
+178720:
+This firing device features a timer that can be set anywhere between five seconds and ten minutes to allow you to move to a position of safety before its attached explosive goes off.
+
+179520:
+Place this time-delayed firing device onto any explosive to allow you to blow up a target from a position of safety. The detonator won't ignite until you use a separate remote trigger device.
+
+180320:
+This videotape contains various location shoots around Danubia, all with buxom reporter Miranda's chest lovingly centered in front of the camera.
+
+181120:
+This is the deed to Angel's leather shop.
+
+181920:
+This ticket allows its bearer to claim cargo item #456557 at the Shipping counter of the Atremo Airport in Danubia
+
+182720:
+Pentium III 500 MHz with 14.1" TFT screen 128MB of RAM, 12GB hard drive space (5GB currently occupied by someone's porn collection), a CD-ROM drive, floppy drive, and an integrated 56K modem.  
+
+183520:
+This diskette contains some really juicy stuff, and it could cause some real damage to A.I.M. if it falls into the wrong hands. 
+
+184320:
+Taken right out from under them, these razor-sharp bloodcat claws could bring you a pretty penny in the right market.
+
+185120:
+It takes a real man to rip these babies off. Bloodcat teeth are a rare and treasured commodity in some parts of the world.
+
+185920:
+Skinning a cat is no small feat. The price on this exotic fur won't be cheap.
+
+186720:
+NO DESCRIPTION NECESSARY!
+
+187520:
+What the heck is this crud?!?
+
+188320:
+This hypodermic syringe is filled with 10cc's of a fast-acting healing drug. The warning label reads: Not to exceed more than 4 doses per day.'
+
+189120:
+This syringe sure is empty!
+
+189920:
+Guess what!? Empty!
+
+190720:
+Whatever was in this syringe is long gone...
+
+191520:
+A glass jar containing what appears to be human blood. What kind of sicko stores human blood anyway???
+
+192320:
+If you can read this, JA2 programmers messed up! NO DESCRIPTION NECESSARY!
+
+193120:
+The Universal Daylight Laser projects a highly visible red spot at a rather significant range. In a stainless steel housing, it fits onto the trigger guard of most pistols and submachine guns.
+
+193920:
+Once the remote detonator has been placed onto an explosive, it won't ignite until you use this remote trigger device.
+
+194720:
+Your average everyday handyman's wire cutters.
+
+195520:
+This metal object, when attached to the end of a shotgun barrel, causes buckshot fired from the shotgun to spread out along a horizontal line instead of its standard circular pattern.
+
+196320:
+This local alcohol smells and tastes an awful lot like petrol...
+
+197120:
+These UltraVision goggles provide superior night vision by using ultra-violet light. A warning label mentions they are not suitable for spelunking.
+
+197920:
+Having already delivered the hammer of justice upon its target, this empty LAW rocket launcher will live out the rest of its Dredd-ful existence as a glorified paper weight.
+
+198720:
+One unidentified, slightly decaying, human head.
+
+199520:
+Chris had a bit of a crisis you might say. 
+
+200320:
+Jasmin did say that he had a lot on his mind. Do you mind checking if he was telling the truth?
+
+201120:
+Charlie always boasted about his ability to keep his head cool in any given situation. Do you mind doing that for him?
+
+201920:
+Did he ask you to try it out for size? Better return it when you're done with it, or he might miss it...
+
+202720:
+Talk about a doll face, it might need some make-up though...
+
+203520:
+Joe may not have profited from using his head but you will, now that he's dead.
+
+204320:
+This little bottle contains pure Creapton in liquid form - the main ingredient for Crepagen and Crepaboost.
+
+205120:
+At 6.9 per cent alcohol, who the hell cares where this stuff came from? This ice beer will even put even a Russian under the table.
+
+205920:
+Bustler magazine, July issue. Features an interesting pictorial by Demi Moon and various articles no one will ever read.
+
+206720:
+This VHS camera will record and play back all your favorite memories, including embarrassing wedding moments or local magistrates in compromising positions.
+
+207520:
+Send your robot out to do your dirty work with this trusty remote control. Let him do your bidding as you sit pretty from a point of safety.
+
+208320:
+A razor-sharp claw from one of those repugnant creatures that is thankfully dead.
+
+209120:
+A rotting chunk of putrified creature flesh. At least this one's dead now.
+
+209920:
+Dead creature innards, just in time for lunch!
+
+210720:
+This is device to control something from a distance. It only has one button on it, though.
+
+211520:
+Empty! Darn it!
+
+212320:
+Spare parts for military radios.
+
+213120:
+Once you're hooked, you're hooked for life, no matter what goes on around you!  In addition to a set of headphones, this Gameboy comes with number of seriously 'old-skool' classics: Missile Command, Defender, R-Type and, of course, Tetris.
+
+213920:
+It seems that this beverage is everywhere! At least you can fill your canteen with it; it certainly tastes a hundred times better than the local water!
+
+214720:
+This is how you access your main 'bank account' where you can get your hands on cash by clicking on the different amounts followed by 'Done'. Having cash in hand is sometimes very useful.
+
+215520:
+A solid box of robustos. Suitable to be clenched between your teeth in the heat of battle or for hanging around a cigar lounge with a fine glass of port.
+
+216320:
+NO DESCRIPTION NECESSARY!
+
+217120:
+A small gold-coloured key which might fit a cabinet lock.
+
+217920:
+A prison key made of stainless steel.
+
+218720:
+A simple key.  Looks like it would fit a pretty crummy lock.
+
+219520:
+A dull-coloured key.
+
+220320:
+A shiny key which probably fits a more than ordinary lock.
+
+221120:
+A padlock key.
+
+221920:
+An electronic key with a magnetic strip in place of metal teeth.
+
+222720:
+An electronic key card.
+
+223520:
+Enlisted men. (next lvl +3). Activate the Ctrl+GABBI cheat. Place this item in the first hand. Press Alt+W while watching this text to cycle to the next rank patch.
+
+224320:
+Rank: 4  (next: Rank 5)
+
+225120:
+Rank: 5  (next: Rank 6)
+
+225920:
+Rank: 6  (next: Rank 8)
+
+226720:
+Rank: 8  (next: Rank 10)
+
+227520:
+Rank: 10. Highest possible rank for a enlisted man.
+
+228320:
+Officer trainee. Minimum Leadership 10. Rank: 1 (Next: Rank 2) 
+
+229120:
+Officer trainee. Minimum Leadership 20. Rank: 2  (next: Rank 3)
+
+229920:
+Officer trainee. Minimum Leadership 30. Rank: 3  (next: Rank 4)
+
+230720:
+Officer trainee. Minimum Leadership 40. Rank: 4  (next: Rank 5)
+
+231520:
+Officer trainee. Minimum Leadership 50. Rank: 5  (next: Rank 6)
+
+232320:
+Officer trainee. Minimum Leadership 60. Rank: 6  (next: Rank 7)
+
+233120:
+Must go through Kursant training first (Minimum of 60 in Leadership). Rank: 7  (next: Rank 8)
+
+233920:
+Rank: 8  (next: Rank 9)
+
+234720:
+Rank: 9  (next: Rank 10)
+
+235520:
+Rank: 10. Highest possible rank for a field officer in Danubia.
+
+242720:
+All-purpose Lightweight Individual Carrying Equipment backpack.
+
+243520:
+This inhalator seems to be empty.
+
+244320:
+This aluminum curtain rod is broken at both ends. Wonder what happened to the curtains.
+
+245120:
+This small, heavy-duty, metal coil spring is common to many household appliances.
+
+245920:
+Install this smart, well-crafted spring and bolt replacement in a firearm to boost its rate of fire!
+
+246720:
+This homemade adapter makes it possible to mount a GP-30 grenade launcher on Colt M4 and Colt M4A1 assault rifles.
+
+247520:
+This nifty little doodad makes it possible to attach a PSO-1 Sniper Scope to a Colt M4A1 with flattop rails.
+
+248320:
+Equipped with the Russian Small Arms Universal Mounting System, the Elcan Riflescope can be fitted to all types of side rails found on Russian automatic and semi-automatic rifles.
+
+249120:
+This is a heavy 5.56 mm barrel with stepcut.
+
+249920:
+The Medic Patch armor upgrade can be used to upgrade the Spectra Helmet to a Medic Helmet, and the Commando Vest to Commando Medic Vest.
+
+250720:
+Ah, now you're all set to crack the encryption on any computer diskette that you might happen to find.
+
+251520:
+It sure is sticky! Actually, it's tan color is very similar to the one in the camo kit...
+
+252320:
+An extra full-auto triggergroup, this fits most Colt assault rifles.
+
+253120:
+Tell time in style with this designer watch featuring a quartz crystal, swiss movement and 4 microns of beautiful platinum plating.
+
+253920:
+Some kind of military decoder. You'll probably want to let your local computer guru take a look at it.
+
+254720:
+This radio needs some repairs before it can be made to work...
+
+255520:
+This Colt M203 grenade launcher has been slightly modified to accept Russian 40mm grenades. The M203 fits under the barrel of a M16A2.
+
+256320:
+What may have once been a shirt, this piece of clothing is torn into strips, which conveniently just might fit into the neck of a bottle.
+
+257120:
+This unlabeled diskette seems to contain some kind of important information, but it's all in some kind of code.  Your Crackerjack decoder probably won't cut it.
+
+257920:
+A Nickel Cadmium sealed battery for use in most transistor state electronic devices, such as a radio.
+
+258720:
+DISTINGUISHED MILITARY SERVICE - 1st CLASS.
+
+259520:
+This radio allows you to receive information about the immediate surrounding area, including enemy positions. NiCad batteries not included.
+
+260320:
+A nugget of pure silver, probably right out of Danubia's silver mines.
+
+261120:
+Just like cash, only heavier. This is a shiny, impressive nugget of pure gold, compliments of Danubia's rather meager mineral mines.
+
+261920:
+Fillerup!  Use this tank of gas wisely, as it is extremely hard to come by here in Danubia.
+
+262720:
+NO DESCRIPTION NECESSARY!
+
+263520:
+NO DESCRIPTION NECESSARY!
+
+264320:
+NO DESCRIPTION NECESSARY!
+
+265120:
+NO DESCRIPTION NECESSARY!
+
+265920:
+NO DESCRIPTION NECESSARY!
+
+266720:
+NO DESCRIPTION NECESSARY!
+
+267520:
+NO DESCRIPTION NECESSARY!
+
+268320:
+NO DESCRIPTION NECESSARY!
+
+269120:
+NO DESCRIPTION NECESSARY!
+
+269920:
+NO DESCRIPTION NECESSARY!
+
+270720:
+NO DESCRIPTION NECESSARY!
+
+271520:
+NO DESCRIPTION NECESSARY!
+
+272320:
+NO DESCRIPTION NECESSARY!
+
+273120:
+NO DESCRIPTION NECESSARY!
+
+273920:
+NO DESCRIPTION NECESSARY!
+
+274720:
+NO DESCRIPTION NECESSARY!
+
+275520:
+NO DESCRIPTION NECESSARY!
+
+276320:
+NO DESCRIPTION NECESSARY!
+
+277120:
+NO DESCRIPTION NECESSARY!
+
+277920:
+NO DESCRIPTION NECESSARY!
+
+278720:
+NO DESCRIPTION NECESSARY!
+
+279520:
+NO DESCRIPTION NECESSARY!
+
+280320:
+NO DESCRIPTION NECESSARY!
+

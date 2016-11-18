@@ -1,0 +1,63 @@
+0:
+Nice palace! You should see where I parked the Batmobile. Not quite Gotham City, but full of Jokers anyway.
+
+480:
+The pleasure is mine... You've met Deidranna? What's she doing here? Political sanctuary. You were careless last time, and shot the crap out of her body double.
+
+960:
+Deidranna has reformed since her Arulco days, well... a bit anyway. Concentrates on being part of the Crepaton Corporation board of directors.
+
+1440:
+What am I doing here? Keeping an eye on things. Just ensuring freedom and justice prevail after your mission is concluded.
+
+1920:
+Oh, no thanks. I have a better one on my utility belt.
+
+2400:
+You will be thought of highly by the fine citizens of Danubia.
+
+2880:
+Hey, loosen up. Check the pointy ears on the hat, fella. I'm the Caped Crusader.
+
+3360:
+I am indeed honored, but what would Robin and Commissioner Gordon do without me? Sorry.
+
+3840:
+I... I need the Batnurse.
+
+4320:
+You still have outstanding business... Queen Brenda... She can't be far.
+
+4800:
+Your kindness astounds me.
+
+5280:
+I... I don't understand? Me? Why shoot the Caped Crusader? It's the Penguin who did it.
+
+5760:
+Wait until the fighting stops...
+
+6240:
+That's true, Danubia is free of Brenda and her regime! So do you guys want Deidranna on the throne or are there better options?
+
+6720:
+Never stops trying does she? Hoho, incorrigible woman, Robin, there will be more work for us. But first, Congratulations! You have dealt evil another blow. On behalf of the MOD Squad, thank you to all who contributed!
+
+7200:
+No, thank you. Alfred takes care of that sort of thing, and he isn't here right now.
+
+7680:
+I am vengeance. I am the Dark Knight. I am Batman.
+
+8160:
+ 
+
+8640:
+ 
+
+9120:
+ 
+
+9600:
+Empty Record # 20
+

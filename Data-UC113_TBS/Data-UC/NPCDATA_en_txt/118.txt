@@ -1,0 +1,96 @@
+0:
+Oh! Thank God you've arrived! I'm Ambassador John Blair.  Certainly you must be here to rescue me?
+
+480:
+Well, I see you've finally come to your senses.  A little help would be appreciated.
+
+960:
+Yes, yes, I know.  Danubia and all its problems.
+
+1440:
+Yes, I know I shouldn't be here.
+
+1920:
+I really can't use that.
+
+2400:
+Really, I wouldn't mind at all if Elizabeth became, hmmmm... let's say, misplaced?
+
+2880:
+Really, I'm apalled! You certainly can't be a soldier of the Queen's Army.
+
+3360:
+I am a politician, not a barbarian.
+
+3840:
+Oh! Please! You must get me to a physician immediately! I'm much too important to die here...
+
+4320:
+Your primitive conversational habits are amusing.
+
+4800:
+I really can't use that.
+
+5280:
+Are you certain we're in the right location?
+
+5760:
+I say, ol' chap, our plane was shot down.  What sort of barbarian country would shoot down a civilian airliner?  I can only thank God I wasn't killed!
+
+6240:
+Oh, of course Elizabeth dear, I certainly did not mean to imply that my prayers were not with you as well.   
+
+6720:
+Please, tell me you can't find the key for her cell?  Just joking, Elizabeth dear.
+
+7200:
+Well, it was absolutely terrible.  We were separated from the pilot after he crash landed over by Calisto.  We were immediately arrested as spies, and brought here to this revolting prison.
+
+7680:
+Please, you must get us out of the country as quickly as possible. I'm certain your government understands the importance of my survival.
+
+8160:
+I simply cannot wait to get on that plane.
+
+8640:
+You're just a barbarian like the others.
+
+9120:
+It is absolutely wonderful being here, and ready to finally go back to civilization. Certainly, losing Elizabeth was a tragic mishap.  But then again...
+
+9600:
+Finally, we're here. I must inform you, when we were arrested, the MOC list I was instructed to deliver was confiscated. You must retrieve that disk at all costs!
+
+10080:
+Elizabeth dear, do we have anything you could possibly give to these fine soldiers?
+
+10560:
+Remember, the MOC list must be retrieved. Without it, you and all of your companions are in grave danger of being discovered.
+
+11040:
+I will put in a very good word for you when I get back to my superiors. Certainly you will be honored, even knighted by the Queen herself.
+
+11520:
+I'll be sure to put in a good word for you, ol' Chap.
+
+12000:
+I don't know if there are enough bandages to help Elizabeth, but, could you give it a try?
+
+12480:
+I'll be sure to put in a good word for you, ol' Chap.
+
+12960:
+Is Elizabeth all right?  It would be such a shame to have to bury her in this God forsaken country.
+
+13440:
+Don't you think it would be best for the gunplay to cease first?
+
+13920:
+Well, I must say, I was just a bit concerned about your methods of travel.
+
+14400:
+  
+
+14880:
+Empty Record # 31
+

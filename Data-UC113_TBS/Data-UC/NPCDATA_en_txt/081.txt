@@ -1,0 +1,81 @@
+0:
+Cargo Claim, got a claim ticket?
+
+480:
+You got some more cargo to claim?
+
+960:
+That's right, I'm the cargo claims manager.
+
+1440:
+Yeah, the pay ain't great... but it's a living.
+
+1920:
+Thanks but no thanks. I got all I need.
+
+2400:
+Well if it were up to me I'd nuke the site and call it a day.
+
+2880:
+Look pal, I just handle the shippments around here. I don't want any trouble.
+
+3360:
+I've got plenty on my plate right now but.
+
+3840:
+I... I could use a medic over here.
+
+4320:
+I got work to do, if you don't mind.
+
+4800:
+I'll be right with you as soon as the gun fire stops.
+
+5280:
+What's this?
+
+5760:
+Here to pick up some cargo? All I need is your claim ticket please.
+
+6240:
+Claim Ticket?
+
+6720:
+Let's see, box #05623, hmmm... I think that one's in the back room here.  Follow me please.
+
+7200:
+Yep, here it is... box #05623, this one's yours. I hope you find everything you need.
+
+7680:
+Actually, I'm kinda suprised that you made it into Danubia. The Prime Minister closed the borders a few days back and no one's been comin' in or going out.
+
+8160:
+Not into Danubian News are ya?  Well, it seems some private jet crashed here a few days ago, guess they must 'a thought it was some kinda spy plane or something.
+
+8640:
+Rumor has it, there were some survivors, but then again, that's only rumor.  
+
+9120:
+Well, I suggest you keep your nose clean there sport.  They got the whole army and police force on Alert. I even heard they got some CIA folks here investigating this stuff.  What a mess.
+
+9600:
+If your lookin' for transportation, I suggest you take the Bullet Train, Danubia's Subway System.  You can get to it by takin' those stairs right back there.  
+
+10080:
+ 
+
+10560:
+ 
+
+11040:
+ 
+
+11520:
+ 
+
+12000:
+ 
+
+12480:
+Empty Record # 26
+

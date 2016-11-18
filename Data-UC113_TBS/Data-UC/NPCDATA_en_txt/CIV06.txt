@@ -1,0 +1,45 @@
+0:
+You will bring us opportunities for a better life.
+
+320:
+Crepaton will make us all pay dearly for your foolishness.
+
+640:
+We'll be safe with you in our town.
+
+960:
+Don't make yourself too comfortable till the enemy are gone.
+
+1280:
+Why don't you visit the cafe.
+
+1600:
+The army will be back. I'm scared.
+
+1920:
+You are welcome here. Come to my house for tea and cakes.
+
+2240:
+We want your help. 
+
+2560:
+Leave quickly. The army is returning soon.
+
+2880:
+You have turned our town into a safer place.
+
+3200:
+You are welcome in our town.
+
+3520:
+I trust you. Please train a militia to protect us.
+
+3840:
+You will get us all killed if you leave.
+
+4160:
+Welcome friends. Danubia needs a new regime. Defeat the Queen.
+
+4480:
+The Queen will get her revenge unless you get her first.
+

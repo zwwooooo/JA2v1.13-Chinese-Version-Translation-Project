@@ -1,0 +1,99 @@
+0:
+Officer Plodski at your disposal. What's your business?
+
+480:
+Do you have a crime to report, or are you here to surrender? You look familiar.
+
+960:
+I've been having a very hectic day helping Detective Bronski with his interrogations.
+
+1440:
+You wouldn't believe the number of arrests we've made recently. Crime is on the increase.
+
+1920:
+I need more payoffs and hot blondes, not that.
+
+2400:
+I'm a busy man, so what's this all about? You got a complaint to make or something?
+
+2880:
+How would you like to try our accomodation facilities? Like for about the next 20 years...
+
+3360:
+Ah, no thanks, I like this job too much.
+
+3840:
+I'm bleeding! I've been hit! Officer down! Code red! Get a doctor, quick!
+
+4320:
+Gotta get back to business with that nosy reporter Miranda. Wonder if hanging her upside down from the bars will do the trick...
+
+4800:
+Holy shit, boys, hit the floor! Some scumbags are using the police station for target practice!
+
+5280:
+If I get Miranda talking, Bronski says I might make detective! Wow!
+
+5760:
+I'm gonna rip your arms off any time now!
+
+6240:
+ 
+
+6720:
+ 
+
+7200:
+ 
+
+7680:
+ 
+
+8160:
+ 
+
+8640:
+ 
+
+9120:
+ 
+
+9600:
+ 
+
+10080:
+ 
+
+10560:
+ 
+
+11040:
+ 
+
+11520:
+ 
+
+12000:
+ 
+
+12480:
+ 
+
+12960:
+ 
+
+13440:
+ 
+
+13920:
+ 
+
+14400:
+ 
+
+14880:
+ 
+
+15360:
+ 
+

@@ -1,0 +1,51 @@
+0:
+Welcome to my bar. My name is Alberto.
+
+480:
+I understand you need information about the police.
+
+960:
+My life is exciting enough here. Evicting drunks is about the most action I'm interested in. Thank you, but no, thank you.
+
+1440:
+Danubia's police are led by Commissioner Dragomir Woltz, a corrupt stooge of the Queen. You are in luck, amigos. A spy at police headquarters has hacked into his computer.
+
+1920:
+Thank you. Your generosity is welcome, but I have that already.
+
+2400:
+You may be lucky and find Dragomir on the roads. He often visits various police stations, travelling about in an armored limousine with an escort.
+
+2880:
+Hey don't say stuff like that to me, I'm giving you valuable information.
+
+3360:
+My life is exciting enough here. Evicting drunks is about the most action I'm interested in. Thank you, but no, thank you.
+
+3840:
+Help me stop this bleeding, then take me to the hospital! I feel faint at seeing blood, especially my own!
+
+4320:
+Goodbye, amigos. We need a decent police force to restore order. Hopefully, after Woltz is gone, someone honest will take over.
+
+4800:
+Your generosity is welcome, but no!!
+
+5280:
+Find stuff you are interested in!
+
+6240:
+Quickly!
+
+11520:
+Goodbye, amigos. Thank you!
+
+12480:
+Take that!
+
+14400:
+Quickly, get behind the bar! Someone's shooting up the place; can't talk now!
+
+14880:
+Police headquarters is in Adrian. Dragomir spends a lot of time there.
+

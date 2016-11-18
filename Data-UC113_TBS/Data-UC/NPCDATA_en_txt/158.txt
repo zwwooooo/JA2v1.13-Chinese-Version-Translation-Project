@@ -1,0 +1,84 @@
+0:
+Name's Carl. I'm the plant manager.
+
+480:
+Back again, huh?
+
+960:
+Way back, I mean before all this shooting and crap started, Danubia was a magnet for tourists. Pulled in a lot of money for the country, too.
+
+1440:
+You know, every once in a while when it's quiet, I just close my eyes and pretend everything's peaceful again. Yeah.
+
+1920:
+No, I'd rather you keep it.
+
+2400:
+I've been around here long enough to know that this thing'll blow over. Think you might have something to do with that, too. You got my backing.
+
+2880:
+Hey, hey, hey... Hold it down. My nerves are already frazzled. I don't need you adding to it.
+
+3360:
+I can't. Not that I don't support you, understand? Just that I got a family at home.
+
+3840:
+Aw... you got anything that will help me with the pain?
+
+4320:
+Well, you're busy people, so don't let me hold you up.
+
+4800:
+Was a close one, wasn't it, eh?
+
+5280:
+And I believed in you!
+
+5760:
+Looks like you're in control of this area now. I'll see how much support you've got amongst the men and put them to work immediately if they're happy with the situation.
+
+6240:
+I want you to know we're staying on for you to help speed things up. The sooner you get rid of Brenda's regime and bring peace to Danubia, the better.
+
+6720:
+I have some disturbing news. I'm afraid our stocks of vital raw materials supply situation is critical.  We'll get what we can still produce, then we have to shut the plant down.
+
+7200:
+I have no choice but to close it down.
+
+7680:
+I hope you're here to stay this time. Workers went through hell. Crepaton wasn't too happy with us. Promise me you'll do a better job protecting the town from here on in.
+
+8160:
+It's not safe to talk now. Come back and see me when the fighting's over.
+
+8640:
+I'm glad to see our hard work is paying off. For a small group of guys, you sure know how to run circles around the army.
+
+9120:
+Pleased to report the plant is back in operation turning out Crepaboost at full speed.
+
+9600:
+I'm having a hard time motivating the workers. Some of them are wondering aloud whether you've bitten off more than you can chew.
+
+10080:
+Don't know if you're aware of this or not. We closed our plant down due to material shortages. Finito, no more production.
+
+10560:
+Thanks. I'll make sure it goes to good use.
+
+11040:
+I had to close the plant again.
+
+11520:
+We're back in business.
+
+12000:
+ 
+
+12480:
+ 
+
+12960:
+ 
+

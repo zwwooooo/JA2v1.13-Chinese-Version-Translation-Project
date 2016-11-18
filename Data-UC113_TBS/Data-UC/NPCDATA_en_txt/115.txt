@@ -1,0 +1,90 @@
+0:
+Well, hi there! Welcome. Name's Dave Gerard. Gerard Automotives.
+
+480:
+Well, hey there, friend!
+
+960:
+Yeah, I come here, oh, about 15 years ago, to scope out the local market. People were driving back then! Anyway, I guess I just decided to stay.
+
+1440:
+Personally, I like the 66 GTO. My dream car. You got a 389 with a tri-power carburetor. She is a beaut!
+
+1920:
+Naw, I ain't got no use for it.
+
+2400:
+Now, I gotta say that the finest engine ever built was the Chrysler 426 Hemi. Oh sure, you can say it's the 454 Chevy, but it don't hold a candle!
+
+2880:
+Listen buddy, either you need a lube job or your nuts tightened, and if you don't relax, I'll be choosing which.
+
+3360:
+Naw. I'll stick to firing spark plugs if ya don't mind.
+
+3840:
+I need... help.
+
+4320:
+You know where to find me if you need me.
+
+4800:
+I don't accept handouts. Maybe there's something you're interested in?
+
+5280:
+I used to have a nice little service station in downtown. Moved up to this place on the outskirts when the fuel rations kicked in. Couldn't afford the square footage in town.
+
+5760:
+Place is rundown, but there just ain't too many people in need of a service station these days. Queen keeps all the fuel for her mining and military operations.
+
+6240:
+'Course, I'm hoping you're gonna change all that. Make a country for everybody again.
+
+6720:
+Got a slightly used vehicle for sale if you're interested. Low mileage. Only problem with it is it hasn't been used often enough, if you can call that a problem. I can let it go for... uh, $10,000.
+
+7200:
+Now, just to close the deal, I'll give ya free gas for the lifetime of the vehicle. Only catch is I don't always have gas. Kinda hard to come by on a regular basis. But when I do, I'll fill'er up.
+
+7680:
+Hope you didn't come here looking for fuel, 'cause, uh, I can't help you.
+
+8160:
+Go get her, pal. Do it for all of us.
+
+8640:
+Well... if you ever change your mind, it'll probably still be here.
+
+9120:
+Bet you're here to pick up your new purchase. Well... The keys are in her, and she's ready to go. Couldn't find the owner's manual though. Turned this place upside down looking for it.
+
+9600:
+You're back kinda soon. Haven't had the chance to get her ready for you, yet.
+
+10080:
+Time to shut her down for the day! I'm heading for the punch clock.
+
+10560:
+Gonna run you down, pal!
+
+11040:
+Ah, much better.
+
+11520:
+Go away! I don't wanna get hit!
+
+12000:
+Great... 'course uhm... I only take cash.
+
+12480:
+OK, you're now the proud owner of a used vehicle!
+
+12960:
+You're gonna have to give me a day to get the vehicle ready for you. Have some dealer prep work to do on her. Won't charge you for that, of course. You come back tomorrow, and she'll be ready to go.
+
+13440:
+Thanks, but that's not enough.
+
+13920:
+Guess what? I got gas, and you're gonna get one of those free fill ups I told you about.
+

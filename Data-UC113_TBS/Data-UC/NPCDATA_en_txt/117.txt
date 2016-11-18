@@ -1,0 +1,72 @@
+0:
+Hey, watch out guys! Don't stand in front of the camera, we're about to go on air!
+
+480:
+Hans Krapchuk, famous reporter and television celebrity from Danubia News Network. Pleased to make your acquaintence.
+
+960:
+This is an important assignment. Investigating a mass grave site just up the hill.
+
+1440:
+What I really need is exclusive headline material, not that.
+
+1920:
+Hey, don't interrupt, I'm doing a live segment for Danubia News Network!
+
+2400:
+Saying stuff like that won't make you many friends.
+
+2880:
+You kidding, I hate seeing dead people! Why would I want to become a mercenary? No thank you, I like to report the news, not make it.
+
+3360:
+I've been hit, can you guys patch me up? AAARRRGGHHHH!
+
+3840:
+What a day! Excuse me, I have funerals to arrange. Come on, boys, lets collect the pieces, and watch your step up there!
+
+4320:
+What's going on? These soldiers were clearing mines. Then the shooting started! Lets talk after everything settles down.
+
+4800:
+Hans Krapchuck, live on location west of Rudesa, south of Prax. We are here investigating a mass grave. That means lots of dead people in the ground.
+
+5280:
+There are local rumors circulating that these bodies were victims of medical research carried out by Dr. Lecter at Prax hospital, though he has denied this.
+
+5760:
+Additionally, police investigations reveal a possible, less sinister explanation. It appears this area is popular with tourists and nature lovers.
+
+6240:
+A reliable witness states he observed a busload of foreigners stop here several days ago, then begin to wander about on the hills.
+
+6720:
+Perhaps they were picking mushrooms, watching birdies, having a picnic... Nobody knows for sure.
+
+7200:
+I'm gonna throw my microphone at you for that!
+
+7680:
+*BOOM* Hoopla, oh shit! I think one of my camera crew just stepped on a mine! Careful, everyone! I was just getting to that part!
+
+8160:
+A police investigation has found that two sappers from the local military base got drunk last week, stole a van filled with explosives, then laid mines all over this hill as a prank.
+
+8640:
+*BOOOM* Not another one... Be careful you guys! That explains the bodies, but not how they came to end up all in one grave.
+
+9120:
+To continue, it appears local workmen from the road repair depot across the street buried the corpses, then dismantled the bus, selling it for spares at the Rudesa junkyard, where staff became suspicious and alerted police.
+
+9600:
+Looks like Dr. Lecter is innocent. I wish to thank Captain Buccinski from the Rudesa police for his help in solving this sad episode. This is Hans Krapchuk, signing off.
+
+10080:
+ 
+
+10560:
+ 
+
+11040:
+Empty Record # 23
+

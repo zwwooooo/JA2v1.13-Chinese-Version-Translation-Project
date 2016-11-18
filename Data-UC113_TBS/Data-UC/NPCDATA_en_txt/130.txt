@@ -1,0 +1,39 @@
+0:
+Greetings! Dr. Mortimer, at your service. I am director of Restwell Gardens, in addition to being Danubia's official coroner and mortician.
+
+480:
+Are you here to enquire about a corpse, or make a booking?
+
+960:
+It's a pleasure to meet living people... My work, you know... Haha... That's a funeral parlor joke.
+
+1440:
+All these dreadful motor accidents lately. Well, I suppose Danubia's notoriously poor drivers are contributing to my growing wealth, so why complain?
+
+1920:
+More corpses are what I need. What could I possibly do with that? No thank you.
+
+2400:
+Dr. Mortimer, at your service. I bet in your line of business, death is an eventuality that may arrive sooner than in other occupations. Can I interest you in our all-inclusive package deal?
+
+2880:
+How would you like to try a spin on our conveyer belt beyond the grey curtains?
+
+3360:
+Well, thanks, but no thanks. I like dissecting, cremating and burying people, not actively participating in having them become corpses.
+
+3840:
+Morticia! Morticia find a first aid kit, I'm hit!
+
+4320:
+Please feel free to tour the memorial gardens and facilities. Are you sure you don't want to book a niche? Well, call back anytime. Send me our Queen's corpse when you're through.
+
+4800:
+Praise be, bodies being created virtually on my doorstep! Talk to me after the fighting's over.
+
+5280:
+Please excuse me, there is a cremation in progress. My presence is required to console the grieving family.
+
+5760:
+  
+

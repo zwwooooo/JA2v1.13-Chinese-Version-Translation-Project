@@ -1,0 +1,99 @@
+0:
+Hey, how ya doing? Name's Sam. Feel free to have a look around.
+
+480:
+A familiar face...
+
+960:
+Hardware. Tools. Really the soul of man, enh?
+
+1440:
+Been waitin' on a shipment of power screwdrivers with about a thousand different attachments. You can do anythin' with the damn things!
+
+1920:
+I'm supposed to be interested in this? Nah.
+
+2400:
+Lots of people ask about the accent. Moved here after the wife died. Opened the shop 'cause I love tools. Used to wholesale 'em before I retired.
+
+2880:
+I come from the Bronx. The South Bronx. You got more luck hollerin' at yer grandmother.
+
+3360:
+Na. I'm gettin' a little too old fer that.
+
+3840:
+Doctor... Doctor!
+
+4320:
+Well, if there's anything else, just give a holler.
+
+4800:
+I won't take your money fer nothing. You got something in mind, maybe?
+
+5280:
+Take a look. Let me know what you want, enh?
+
+5760:
+You ever get the feeling you could just spend all day in a hardware store? You go right ahead there, pal.
+
+6240:
+It's all high-end, craftsman goods. My clientele would settle for nothing less.
+
+6720:
+We got a regular swap meet in progress.
+
+7200:
+Looking to sell some of that, ehn?
+
+7680:
+Let me have a closer look. Hard to tell sometimes, you know?
+
+8160:
+Let's get this straight, enh? I run a hardware store, and that's all I'm willing to consider.
+
+8640:
+To be honest with you pal, ain't worth a cent to me. Sorry.
+
+9120:
+It's bad, I won't lie to ya. Stuff's damaged, and I'm gonna have to fix it up before I can sell it.
+
+9600:
+Buy American. Good resale on the stuff. Make you a nice offer.
+
+10080:
+Gotta say, though, you ain't got quite enough on the table to make it fair and square for me.
+
+10560:
+Now that's what I like. Another satisfied customer.
+
+11040:
+You get the goods and some change, too.
+
+11520:
+You need anything? Come see Sam.
+
+12000:
+Ah well. Come back later, enh?
+
+12480:
+You want this stuff, don't ya?
+
+13440:
+I don't believe it!
+
+13920:
+It's safe, enh? 'Cause... I ain't movin' until it is.
+
+14400:
+You won't find too many people left 'round here. People up and took off when they heard you was comin'. Town was pretty loyal to the Queen.  Most of 'em were personal friends.
+
+14880:
+Just us store keepers left. Need to keep an eye on our goods, enh? We're kinda hoping, no matter what, things'll pick up again and business will return to normal.
+
+15360:
+Thanks, ehn? Getting a little worried there for a minute.
+
+15840:
+All right, all right. Enough of the browsing, enh? I'm calling it a day  here. Get your stuff so's I can close up.
+

@@ -1,0 +1,93 @@
+0:
+Well, hello there. Fred Morris, plant manager. Pleasure to meet you.
+
+480:
+Nice to see a friendly face.
+
+960:
+This weather, the political situation, I'm telling you. Making people kinda crazy. Danubia's just too chaotic for my liking.
+
+1440:
+I think outsiders are getting the wrong impression of our country. Been here all my life, and it wasn't always like this.
+
+1920:
+You probably need it more than I do.
+
+2400:
+Word's gotten around about you. Helping the rebels topple Brenda, eh? Might restore stability if you succeed.
+
+2880:
+I understand you're under a lot of stress, but that's really no way to talk to somebody.
+
+3360:
+Oh, no thanks. I got all I can handle right here.
+
+3840:
+Get me a doctor?
+
+4320:
+Well, I expect you have a lot on your plate, so I'll be getting on with my part.
+
+4800:
+Yeah, that did the trick.
+
+5280:
+I don't understand!
+
+5760:
+I was hoping I'd get to meet you. I knew when I did, that me and the workers would be finally able to work in peace.
+
+6240:
+To show my appreciation, I'm prepared to continue placing the plants revenue into your account, so all the income from making those little green pills is yours.
+
+6720:
+They're scared Crepatons goonie standover squads will return to punish them... I won't be able to convince all of them that you're here to stay.
+
+7200:
+If the army does take back this town, the people will work for Crepaton like nothing happened. You mustn't hold it against any one of us.
+
+7680:
+I'm sure you'll find a similar attitude amongst the other plant managers and their workers. You've created a favorable impression so far though. If you need extra help, try the mercenary outfit in Galileo. Run by some guy from a basement.
+
+8160:
+I have some alarming news. Supplies of a vital chemical have stopped arriving. Could be a matter of days before production slows down, then a couple more days before the plant is closed altogether.
+
+8640:
+Unfortunately, I had to close the plant.
+
+9120:
+Thanks.
+
+9600:
+I'll make time for you once you restore peace in this area.
+
+10080:
+You're turning out to be the answer to all our prayers.
+
+10560:
+Thought you might want to be brought up to speed. The plant is currently running at full capacity. My men are behind you one hundred per cent.
+
+11040:
+Things could be going better. I'm still having problems recruiting workers. Hate to say it, but the people in town lack confidence in your ability to win this thing.
+
+11520:
+Kind of quiet around here since the plant's been closed. Sure hope the plant can be used for something else. Those guys need to find alternate work, got families to support.
+
+12000:
+There are probably others who need it more.
+
+12480:
+I had to shut down the plant again.
+
+12960:
+Looks like everything's okay.
+
+13440:
+ 
+
+13920:
+ 
+
+14400:
+ 
+

@@ -1,0 +1,51 @@
+0:
+Hey, what's going on out there? Crepaton arranged for extra security after Postie escaped and you just shot them all. You're helping the rebels. Oh dear, does that mean Crepaton Corporation has fallen from favour?
+
+480:
+Life is full of unpleasant eventualities, isn't it? Dr. Lecter, director of Prax Gardens at your disposal. Please take a seat. We have had more than our share of excitement lately.
+
+960:
+We have an assortment of crazies and fruitcakes in our care, don't we nurse Starling? Pssst... Watch what you say around her, I think she's a cop.
+
+1440:
+Would you care to tour the menagerie? Lets walk. Gordon is a paranoid schizophrenic, claims to be persecuted. He went sorta funny after we started treating him with Crepaboost.
+
+1920:
+Oh no, you keep that.
+
+2400:
+Dr. Lecter, hospital director. Please take a seat.
+
+2880:
+This is a hospital. Please, no violence.
+
+3360:
+I'm sure you could find others more suited to the task
+
+3840:
+Nurse, nurse! I need patching up quick!
+
+4320:
+It has been a pleasure. Clarice, please take our guests to the staff cafeteria for coffee and fruitcake. Goodbye, and call again anytime. Perhaps we can swap recipes.
+
+4800:
+Holy shit! This is supposed to be a hospital, not a battlefield. Introductions after the action subsides.
+
+5280:
+Ahem, Reuban is our head gardener. Wields a mean hedge trimmer. Too bad he wielded it on 6 members of his former family a few years ago.
+
+5760:
+Skitz is just your garden variety nutjob, totally off-the-wall but harmless. They are in ward C.
+
+6240:
+Bob is hallucinating. Says he sees monsters. No monsters here though... Haha! Bob volunteered to test Crepagen a while back and went downhill after that.
+
+6720:
+Looks like the Crepaton research guys sorted the problems out though. It's about to hit the market.
+
+7200:
+A dangerous psychopath named Postie recently escaped. We found the mailman tied up in a closet, his clothes and his van missing.
+
+7680:
+  
+

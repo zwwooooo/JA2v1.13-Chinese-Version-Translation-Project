@@ -1,0 +1,69 @@
+0:
+You guys with the rebels? Alright! I'm Smithy, Tony's partner. He makes the deals, I fix the guns. Most times you can find me at the Calisto airport or our Bobby Rays stores in Port Kip and Rudesa. They're our front end.
+
+480:
+A pleasure to meet again. Been to see Tony yet? He's in Port Kip most days, operates from an office near the river docks. 
+
+960:
+Lets get to the important stuff. Recently the Danubian army distributed some Colt CAR15 carbines to reserve units which you might, err, find. These are crap in standard form but with mods you can create M4A1 special forces models.
+
+1440:
+If you come across any SA 80 assualt rifles then it's your lucky day! Drop in to see Tony anytime, it's a very sought after item. Tony will gladly trade most weapons and accessories you might happen to find or otherwise acquire.
+
+1920:
+Thank you kindly, but no need for gifts.
+
+2400:
+I like chatting with friendly people.
+
+2880:
+Hey, come on man! I'm on your side! Lets talk business.
+
+3360:
+Tony would be heartbroken! Naah... I like repairing guns more than fighting, sorry.
+
+3840:
+Oooohh, need a medic.
+
+4320:
+Hope to see you again, guys. Lots to do here.
+
+4800:
+Not now, wait 'till the action's over.
+
+5280:
+Lets talk business!
+
+6240:
+Drop in to see Tony anytime
+
+8160:
+Lets get to the important stuff.
+
+8640:
+ 
+
+11520:
+Hope you are going to be a regular customer!
+
+12480:
+Hey! Your stuff.
+
+14880:
+About these CAR15's. You'll need a Twist Barrel to convert them to an M4, then a M4 triggergroup to turn 'em into an M4A1. If you want to mount a scope, add a PSO-1 adaptor. For grenades add a GP-30.
+
+15360:
+If your looking to find the four parts check our Bobby Rays shops. Walter Smirnoff's boys may have some of them at their hideouts, plus they smuggle weapons and parts using light planes from a grass strip south east of Rudesa.
+
+15840:
+So you need a Twist Barrel, M4 triggergroup, then a PSO-1 or GP-30 adaptor, but these last two items add AP or draw penalties so keep that in mind. Tony keeps good stock on 5.56 ammo, plus you can order online from Bobby Rays.
+
+16320:
+Seeing as you're going to be a regular customer, check the coastal ports and airfield freight terminals. Good places to find parts. Walter's gunrunners pay off the customs officials to turn a blind eye to what's going on.
+
+16800:
+Hehe, there's a rumor that Tony is a front for Walter Smirnoff, don't you believe it!  We operate a legit business, shame the country's political situation became so chaotic. Oh well, back to work. See you guys around.
+
+17280:
+You rat fink, I was on your side!
+

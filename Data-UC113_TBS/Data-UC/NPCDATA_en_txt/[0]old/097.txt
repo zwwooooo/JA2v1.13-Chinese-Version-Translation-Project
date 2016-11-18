@@ -1,0 +1,429 @@
+0:
+What do you want?
+
+480:
+Back again?
+
+960:
+Danubia isn't the nice country it appears to be.
+
+1440:
+Too many hostile places in this country.
+
+1920:
+I don't need that.
+
+2400:
+You've found a chopper pilot here.
+
+2880:
+Keep cool!
+
+3360:
+I'm too old for that fightin' stuff.
+
+3840:
+I need some medical treatment!
+
+4320:
+I'm sure you have more important things to do.
+
+4800:
+Too much shootin' around...
+
+5280:
+No money, no flight!
+
+5760:
+You can call me Goose. I've been in the chopper business for more years than it is good for me.
+
+6240:
+I'm looking for a ride home. Danubia isn't the right country for me. When we're done here, I'll book my flight home as soon as I can.
+
+6720:
+Bring me to Callisto Airport, and we might be able to find something to fly with.
+
+7200:
+This one looks great for our business!
+
+7680:
+Here's the deal: I charge by distance and risk. I'll get you where you want to go. All I need is fuel.
+
+8160:
+I don't fly to unfriendly zones. I'll drop you off or pick you up as close as possible.
+
+8640:
+I get paid after the job is done. Again, no money, no flying.
+
+9120:
+Just contact me me when you need me.
+
+9600:
+And now the problem: there are SAM sites spread all over Danubia. Flying near them means the risk of being down...
+
+10080:
+There's a SAM site east of Callisto. Take it out and life becomes much easier.
+
+10560:
+Well done. Now we have free space to fly.
+
+11040:
+Yes?
+
+11520:
+I found some informations for you. Managed to get the locations for the rest of the SAM sites.
+
+12000:
+There's one slightly south of Sheraton, another south of Galileo, and the last one is in Adrian. Hope that helps.
+
+12480:
+Another great job! Clearing Gothom gives us another source of fuel, and another airport to use.
+
+12960:
+Okay.
+
+13440:
+I'll never make it there and back on one tank of fuel.
+
+13920:
+The destination's got unfriendlies. I'll wait for new orders.
+
+14400:
+I don't fly to unfriendly zones.
+
+14880:
+I'm here.
+
+15360:
+Hurry up!
+
+15840:
+I can't wait any longer. I must fly back to base before I run out of fuel.
+
+16320:
+Enemy troops down there.
+
+16800:
+Unfriendly activity below.
+
+17280:
+I'm too old for active fighting.
+
+17760:
+Show me where to go.
+
+18240:
+Forget it! You tried to kill me.
+
+18720:
+Stay cool, or you have to fly by yourself.
+
+19200:
+I'm a pilot. I fly. That's all.
+
+19680:
+What's going on? I thought we were looking for a chopper...
+
+20160:
+I can't wait 'til we get there. Haven't flown in a long while.
+
+20640:
+Asshole!
+
+21120:
+Thanks for the medical treatment.
+
+21600:
+There's a hospital in Galileo. Take out the crap, and I could bring your wounded there.
+
+22080:
+Stay cool. Another day, another chance.
+
+22560:
+The way things are going, it won't be long before I can go home.
+
+23040:
+There's no chopper. I can do nothing for you.
+
+23520:
+Not the right conditions to fly today.
+
+24000:
+Get things under control, then we take another look.
+
+24480:
+Thought you forgot about me.
+
+24960:
+We were hit. I have to check the chopper when we're back at the base.
+
+25440:
+I have to go back. The chopper was hit!
+
+25920:
+Aargh, we're going down...
+
+26400:
+
+
+26880:
+
+
+27360:
+
+
+27840:
+
+
+28320:
+
+
+28800:
+
+
+29280:
+
+
+29760:
+
+
+30240:
+
+
+30720:
+
+
+31200:
+
+
+31680:
+
+
+32160:
+
+
+32640:
+
+
+33120:
+
+
+33600:
+
+
+34080:
+
+
+34560:
+
+
+35040:
+
+
+35520:
+
+
+36000:
+
+
+36480:
+
+
+36960:
+
+
+37440:
+
+
+37920:
+
+
+38400:
+
+
+38880:
+
+
+39360:
+
+
+39840:
+
+
+40320:
+
+
+40800:
+
+
+41280:
+
+
+41760:
+
+
+42240:
+
+
+42720:
+
+
+43200:
+
+
+43680:
+
+
+44160:
+
+
+44640:
+
+
+45120:
+
+
+45600:
+
+
+46080:
+
+
+46560:
+
+
+47040:
+
+
+47520:
+
+
+48000:
+
+
+48480:
+
+
+48960:
+
+
+49440:
+
+
+49920:
+
+
+50400:
+
+
+50880:
+
+
+51360:
+
+
+51840:
+
+
+52320:
+
+
+52800:
+
+
+53280:
+
+
+53760:
+
+
+54240:
+
+
+54720:
+
+
+55200:
+
+
+55680:
+
+
+56160:
+
+
+56640:
+
+
+57120:
+
+
+57600:
+
+
+58080:
+
+
+58560:
+
+
+59040:
+
+
+59520:
+
+
+60000:
+
+
+60480:
+
+
+60960:
+
+
+61440:
+
+
+61920:
+
+
+62400:
+
+
+62880:
+
+
+63360:
+
+
+63840:
+
+
+64320:
+
+
+64800:
+
+
+65280:
+
+
+65760:
+
+
+66240:
+
+
+66720:
+
+
+67200:
+
+
+67680:
+
+
+68160:
+
+

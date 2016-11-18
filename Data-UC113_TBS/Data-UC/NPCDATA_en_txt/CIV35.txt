@@ -1,0 +1,45 @@
+0:
+Don't think you're gonna find anyone hidin' out down here.
+
+320:
+Feel free to look around. Ain't nobody gonna bother you.
+
+640:
+Only us miners down here.
+
+960:
+It's dark and cold, but at least there's no fighting.
+
+1280:
+We don't get too many visitors in the hole.
+
+1600:
+About all you'll find here is a couple of pieces of ore lying around.
+
+1920:
+Don't be touchin' a shovel. This here's union work.
+
+2240:
+Don't think there's anything down here that you're looking for.
+
+2560:
+Ain't no soldiers down here. Just us miners.
+
+2880:
+You can relax. There's nobody in the mine looking for any trouble.
+
+3200:
+You should probably talk to the head miner up top. Maybe you can convince him to help you..
+
+3520:
+Why don't you go see the head miner on the surface? I'm sure we'd all be willing to help you out, but he's the guy to decide.
+
+3840:
+Maybe we can be working for YOU. Speak with the head miner back on the surface and see if you can convince him.
+
+4160:
+Have you spoken to Matt, the head miner yet? He's up top running things. Maybe you can convince him to help you.
+
+4480:
+There is so much gold in here - maybe we can help you. Talk to the head miner on the surface and see what happens.
+

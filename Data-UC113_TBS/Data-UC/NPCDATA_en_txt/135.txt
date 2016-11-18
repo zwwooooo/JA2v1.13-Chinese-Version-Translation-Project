@@ -1,0 +1,186 @@
+0:
+You will be punished for your intrusion.
+
+480:
+I am surprised to see you alive.
+
+960:
+Brenda is a good woman. She is just under a tremendous amount of pressure.
+
+1440:
+It is too bad you do not know Brenda like I do.
+
+1920:
+I cannot take it.
+
+2400:
+I have no intention of telling you anything.
+
+2880:
+You are speaking with Brenda's most trusted advisor. You will show respect.
+
+3360:
+It is not even an option.
+
+3840:
+I have been wounded. As Brenda's advisor, you are compelled to offer me aid.
+
+4320:
+That is all I have to say to you.
+
+4800:
+Yes, i have information about some foreigners, that landed in Atremo today.
+
+5280:
+Vince is on his way down here to report about what happened. He'll arrive any moment.
+
+5760:
+It's done.
+
+6240:
+We have serious problems. I collected some information 'bout those bastards that attacked one of our patrols.
+
+6720:
+They are hired guns, some top-notch mercenaries, well trained and probably well equipped. You must know them: That organisation helped your father in Metavira.
+
+7200:
+I... I don't know. But maybe it's because of our special guest.
+
+7680:
+Hm... wait a minute. There is another thing.
+
+8160:
+I really regret to inform you, but you must know this.
+
+8640:
+We have lost contact to our governor in Calisto.
+
+9120:
+Dont' worry. We will kill them.
+
+9600:
+Well, it's about those commandos again...
+
+10080:
+Mmh, how can i say... They have taken over Galileo.
+
+10560:
+Yes, i'm on my way.
+
+11040:
+What has happened?
+
+11520:
+Damn it. Sometimes i hate my job. Brenda won't like that news. I am not gonna tell her.
+
+12000:
+It's nothing of importance... Only a temporary problem. No need to worry...
+
+12480:
+We have lost Troy, but we have already taken action to deal with the new situation.
+
+12960:
+What... What was that for?
+
+13440:
+I wanted to send some reinforcements to Drake first. Some of our best men are already on their way and will attempt to conquer the town soon.
+
+13920:
+Our troops are on their way to Drake. I'm sure, that the situation will be under control again soon...
+
+14400:
+You're right. He's useless for us.
+
+14880:
+May i take care of him?
+
+15360:
+Ahem... I regret to inform you, that I do indeed have a troubling report. Our north west SAM site is now in the hands of the commandos.
+
+15840:
+Perfectly clear.
+
+16320:
+Ahem, I have an urgent report. The commandos attacked us at our north east SAM.
+
+16800:
+No, i'm sorry, um, rather, we were. Apparently, the guards were taken quite by surprise.
+
+17280:
+As you command.
+
+17760:
+Ahem, I am sorry to hear that. I only wish to keep you informed on the progress of our troops.
+
+18240:
+The Central SAM has been overrun by the mercenaries. Our troops did not anticipate...
+
+18720:
+Ahem... Not exactly. From theirs.
+
+19200:
+Ahem... Yes, it seems the flowers are a gift from the mercenaries. Perhaps they have taken a fondness toward you?
+
+19680:
+They are rather pretty.
+
+20160:
+Ahem... I am an idiot.
+
+20640:
+I'm sorry... but this ain't our helicopter.
+
+21120:
+Uhm... Those mercenaries must have managed to get a helicopter under their control and to hire a pilot.
+
+21600:
+Ahem, what do you mean?
+
+22080:
+Ah... you are talking about that little incident. I just wanted to tell you that...
+
+22560:
+You are right. It was under attack and... well, those commandos have captured the town.
+
+23040:
+Yes, i'll do my best.
+
+23520:
+Brenda, you must leave this place at once! You are not safe here any more!
+
+24000:
+Those mercenaries... They have reached the outskirts of Adrian. They could be here any moment.
+
+24480:
+Ahem, and what about me?
+
+24960:
+Ahem... you know, i did some research on those commandos and the A.I.M.
+
+25440:
+I just wonder what happened in Metavira some years ago. What i want to say is: Those A.I.M. guys worked for your father and now they are after you... 
+
+25920:
+Yes! It is just as you requested, and, while I regret that your troops were not able to capture all of them, this is certainly a start.
+
+26400:
+Yes, of course!
+
+26880:
+As you command. Should I release them, then? It has been a most cooperative and informative interrogation.
+
+27360:
+As you command. Should I summon the doctor to treat the injuries here?
+
+27840:
+he-heh, heh, heh, heh. You idiot!
+
+30720:
+Very good.
+
+31200:
+You cannot buy me.
+
+31680:
+Brenda will make you pay!
+
