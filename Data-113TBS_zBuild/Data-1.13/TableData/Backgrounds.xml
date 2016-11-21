@@ -1,0 +1,3744 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BACKGROUNDS>
+	<BACKGROUND>
+		<uiIndex>0</uiIndex>
+		<szName>Background name (128 letters)</szName>
+		<szShortName>short name (20)</szShortName>
+		<szDescription>Enter a description here. This will show up in the laptop and can be up to 256 letters long.</szDescription>
+
+		<!-- sector dependent AP modifiers, values from -8 to 8-->
+		<ap_polar>0</ap_polar>
+		<ap_desert>0</ap_desert>
+		<ap_swamp>0</ap_swamp>
+		<ap_urban>0</ap_urban>
+		<ap_river>0</ap_river>
+		<ap_coastal>0</ap_coastal>
+		<ap_tropical>0</ap_tropical>
+		<ap_mountain>0</ap_mountain>
+
+		<!-- stat effectiveness modifiers, values from -10 to 10 -->
+		<agility>0</agility>
+		<strength>0</strength>
+		<dexterity>0</dexterity>
+		<mechanical>0</mechanical>
+		<medical>0</medical>
+		<wisdom>0</wisdom>
+		<explosives>0</explosives>
+		<leadership>0</leadership>
+		<marksmanship>0</marksmanship>
+
+		<!-- +- AP for other tasks-->
+		<ap_height>0</ap_height>                          <!-- +- AP if on a roof, -8 to 8 -->
+		<ap_swimming>0</ap_swimming>                      <!-- +- % APs needed for task, -40 to 40 -->
+		<ap_fortify>0</ap_fortify>                        <!-- +- % APs needed for task, -40 to 40 -->
+		<ap_artillery>0</ap_artillery>                    <!-- +- % APs needed for task, -40 to 40 -->
+		<ap_inventory>0</ap_inventory>                    <!-- +- % APs needed for task, -40 to 40 -->
+		<ap_airdrop>0</ap_airdrop>                        <!-- look into other direction after airdrop + +-AP in first turn after airdrop, -10 to 10 -->
+		<ap_assault>0</ap_assault>                        <!-- +- AP in first turn if attacking, -10 to 10 -->
+
+		<!-- +-% travel speed modifiers, -20 to 20-->
+		<travel_foot>0</travel_foot>
+		<travel_car>0</travel_car>
+		<travel_air>0</travel_air>
+		<travel_boat>0</travel_boat>                      <!-- no boats exist in the trunk -->
+
+		<!-- +-% resistances, -20 to 20-->
+		<resistance_poison>0</resistance_poison>
+		<resistance_fear>0</resistance_fear>
+		<resistance_suppression>0</resistance_suppression>
+		<resistance_physical>0</resistance_physical>
+		<resistance_alcohol>0</resistance_alcohol>
+
+		<!--various boni-->
+		<interrogation>0</interrogation>                  <!-- +- prisoner interrogation strength, -50 to 300 -->
+		<prisonguard>0</prisonguard>                      <!-- +- prison guard strength, -50 to 300 -->
+		<betterprices_guns>0</betterprices_guns>          <!-- +- % prices when trading guns and ammo, -10 to 10 -->
+		<betterprices>0</betterprices>                    <!-- +- % prices when trading armour, lbe, blades, kits etc., -20 to 20 -->
+		<capitulation>0</capitulation>                    <!-- +- % total team strength when asking enemy for surrender, -50 to 100 -->
+		<speed_run>0</speed_run>                          <!-- +- running speed, -50 to 50 -->
+		<speed_bandaging>0</speed_bandaging>              <!-- +- bandaging speed, -50 to 50 -->
+		<drink_energyregen>0</drink_energyregen>          <!-- +- % breath restored by drinking, -80 to 300 -->
+		<carrystrength>0</carrystrength>                  <!-- +- % strength for weight calculations, -20 to 20 -->
+		<food>0</food>                                    <!-- +- % need for food, -50 to 100 -->
+		<water>0</water>                                  <!-- +- % need for water, -50 to 100 -->
+		<sleep>0</sleep>                                  <!-- +- need for sleep, -1 to 1 -->
+		<meleedamage>0</meleedamage>                      <!-- +- damage with melee attacks, -10 to 10 -->
+		<cth_blades>0</cth_blades>                        <!-- +- cth with blade weapons, -10 to 10 -->
+		<camo>0</camo>                                    <!-- +- effectiveness, -20 to 20 -->
+		<stealth>0</stealth>                              <!-- +- effectiveness, -20 to 20 -->
+		<increased_maxcth>0</increased_maxcth>            <!-- +- max possible cth, -5 to 5 -->
+		<hearing_night>0</hearing_night>                  <!-- +- hearing range, -5 to 2 -->
+    <hearing_day>0</hearing_day>                      <!-- +- hearing range, -5 to 2 -->
+    <disarm_trap>0</disarm_trap>                      <!-- +- trap disarm ability (10 equals 1 LVL/5 DEX/10 MEC/1.6 EXP), -50 to 50 -->
+
+		<!-- +- % approach effectiveness, -50 to 20 -->
+		<approach_friendly>0</approach_friendly>
+		<approach_direct>0</approach_direct>
+		<approach_threaten>0</approach_threaten>
+		<approach_recruit>0</approach_recruit>
+
+		<breachingcharge>0</breachingcharge>              <!-- +- success chance with door braching charges, -100 to 100 -->
+    <cth_vs_creatures>0</cth_vs_creatures>            <!-- +- cth with firearms when aiming at creatures, -10 to 10 -->
+    <insurance>0</insurance>                          <!-- +- % insurance cost, -50 to 200 -->
+    <spotter>0</spotter>                              <!-- +- % spotter skill effectiveness, -30 to 30 -->
+
+		<!-- on/off properties: 1 for on, 0 for off -->      
+		<druguse>0</druguse>                              <!-- might use drugs from inventory (the 'Larry'-behaviour) -->
+		<xenophobic>0</xenophobic>                        <!-- lower opinion of everybody without this background -->
+		<level_underground>0</level_underground>          <!-- +1 effective level if underground -->
+		<scrounging>0</scrounging>                        <!-- might steal items (and put them in personal inventory) -->
+		<traplevel>0</traplevel>                          <!-- +1 level on bombs planted -->
+		<corruptionspread>0</corruptionspread>            <!-- unused in the trunk -->
+		<no_male>0</no_male>                              <!-- IMP creation: cannot be selected by males -->
+		<no_female>0</no_female>                          <!-- IMP creation: cannot be selected by females -->
+	</BACKGROUND>
+	<!-- Note that Barry's background had to be moved to slot 255 due to index number 0 already being taken -->
+	<!-- Blood -->
+	<BACKGROUND>
+		<uiIndex>1</uiIndex>
+		<szName>非洲老兵</szName>
+		<szShortName>非洲老兵</szShortName>
+		<szDescription>来自非洲民族阵线的老兵Blood不仅仅擅长丛林战争，玩政治也照样拿手。</szDescription>
+		<ap_swamp>2</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<leadership>5</leadership>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Lynx -->
+	<BACKGROUND>
+		<uiIndex>2</uiIndex>
+		<szName>王牌猎手</szName>
+		<szShortName>王牌猎手</szShortName>
+		<szDescription>Lynx擅长于猎杀各种珍奇异兽，包括女王的手下。</szDescription>
+		<ap_desert>1</ap_desert>
+    <ap_swamp>2</ap_swamp>
+    <ap_urban>-3</ap_urban>
+    <ap_tropical>3</ap_tropical>
+    <travel_foot>3</travel_foot>
+    <carrystrength>4</carrystrength>
+    <stealth>6</stealth>
+    <cth_vs_creatures>10</cth_vs_creatures>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Grizzly -->
+	<BACKGROUND>
+		<uiIndex>3</uiIndex>
+		<szName>夜魔侠</szName>
+		<szShortName>夜魔侠</szShortName>
+		<szDescription>目光冷漠地看着战场，Grizzly总是以爆头为乐。</szDescription>
+		<ap_assault>2</ap_assault>
+		<resistance_fear>5</resistance_fear>
+    <resistance_suppression>5</resistance_suppression>
+    <approach_direct>8</approach_direct>
+    <approach_threaten>4</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Vicky -->
+	<BACKGROUND>
+		<uiIndex>4</uiIndex>
+		<szName>修车工</szName>
+		<szShortName>修车工</szShortName>
+		<szDescription>资深修车工Vicky不旅游的时候总是呆在车间日夜忙碌，从未克服恐高症。</szDescription>
+		<mechanical>6</mechanical>
+		<ap_height>-8</ap_height>
+		<ap_airdrop>-10</ap_airdrop>
+		<travel_car>10</travel_car>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Trevor -->
+	<BACKGROUND>
+		<uiIndex>5</uiIndex>
+		<szName>技术宅</szName>
+		<szShortName>技术宅</szShortName>
+		<szDescription>和马盖先的区别就是，Trevor是玩枪高手。</szDescription>
+		<mechanical>5</mechanical>
+		<ap_inventory>-10</ap_inventory> 
+		<breachingcharge>20</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Grunty -->
+	<BACKGROUND>
+		<uiIndex>6</uiIndex>
+		<szName>保镖</szName>
+		<szShortName>保镖</szShortName>
+		<szDescription>精良训练，无比忠诚，不惧牺牲，Grunty不愧为雇主的最佳选择。</szDescription>
+		<ap_inventory>-10</ap_inventory>
+		<strength>1</strength>
+		<resistance_physical>3</resistance_physical>
+		<meleedamage>2</meleedamage>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Ivan -->
+	<BACKGROUND>
+		<uiIndex>7</uiIndex>
+		<szName>红军</szName>
+		<szShortName>红军</szShortName>
+		<szDescription>经过地狱般训练的Ivan老兄，他的收获也是惊人的。</szDescription>
+		<ap_polar>5</ap_polar>
+		<ap_swimming>-10</ap_swimming>
+		<resistance_physical>3</resistance_physical>
+		<speed_run>5</speed_run>
+		<drink_energyregen>15</drink_energyregen>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Steroid -->
+	<BACKGROUND>
+		<uiIndex>8</uiIndex>
+		<szName>消防队员</szName>
+		<szShortName>消防队员</szShortName>
+		<szDescription>虽然不用开枪射击，但Steroid也把这活干得激情四溢。</szDescription>
+		<ap_height>2</ap_height>
+		<mechanical>3</mechanical>
+		<explosives>2</explosives>
+		<travel_car>5</travel_car>
+		<resistance_fear>6</resistance_fear>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Igor -->
+	<BACKGROUND>
+		<uiIndex>9</uiIndex>
+		<szName>车臣老兵</szName>
+		<szShortName>车臣老兵</szShortName>
+		<szDescription>经历过车臣战事的洗礼后，Igor发现自己不惧任何挑战了！</szDescription>
+		<ap_mountain>8</ap_mountain>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<resistance_physical>5</resistance_physical>
+		<resistance_alcohol>20</resistance_alcohol>
+		<drink_energyregen>15</drink_energyregen>
+		<food>-20</food>
+		<water>-5</water>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Shadow -->
+	<BACKGROUND>
+		<uiIndex>10</uiIndex>
+		<szName>游骑兵</szName>
+		<szShortName>游骑兵</szShortName>
+		<szDescription>来自美国陆军精英部队，Shadow沉默寡言、冷酷暴力。</szDescription>
+		<ap_assault>3</ap_assault>
+		<marksmanship>2</marksmanship>
+		<travel_foot>5</travel_foot>
+		<speed_run>5</speed_run>
+		<food>-10</food>
+		<water>-10</water>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Red -->
+	<BACKGROUND>
+		<uiIndex>11</uiIndex>
+		<szName>工兵</szName>
+		<szShortName>工兵</szShortName>
+		<szDescription>Red一生只允许犯两个错误：第一个错误是选了这职业。</szDescription>
+		<explosives>8</explosives>
+		<breachingcharge>20</breachingcharge>
+		<insurance>30</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Reaper -->
+	<BACKGROUND>
+		<uiIndex>12</uiIndex>
+		<szName>杀手</szName>
+		<szShortName>杀手</szShortName>
+		<szDescription>杀手是危险而又高度专业的职业，这个Reaper不太冷。</szDescription>
+		<ap_urban>5</ap_urban>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Fidel -->
+	<BACKGROUND>
+		<uiIndex>13</uiIndex>
+		<szName>极端分子</szName>
+		<szShortName>极端分子</szShortName>
+		<szDescription>恐怖分子还是自由斗士？有时取决于你和他们杀死的人是什么关系。</szDescription>
+		<explosives>6</explosives>
+		<breachingcharge>30</breachingcharge>
+		<traplevel>1</traplevel>
+		<insurance>40</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Fox -->
+	<BACKGROUND>
+		<uiIndex>14</uiIndex>
+		<szName>护士</szName>
+		<szShortName>护士</szShortName>
+		<szDescription>护士在战区是很吃香的，因为太危险了，专业医生往往不愿意前往。</szDescription>
+		<speed_bandaging>20</speed_bandaging>
+		<medical>7</medical>
+		<approach_friendly>25</approach_friendly>
+		<approach_threaten>-25</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Sidney -->
+	<BACKGROUND>
+		<uiIndex>15</uiIndex>
+		<szName>富二代</szName>
+		<szShortName>富二代</szShortName>
+		<szDescription>比起那些玩豪车美女的娘娘腔败家子，有些富二代确实接受过顶级的特工训练。</szDescription>
+		<xenophobic>1</xenophobic>
+		<marksmanship>1</marksmanship>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Gus -->
+	<BACKGROUND>
+		<uiIndex>16</uiIndex>
+		<szName>DFK清道夫</szName>
+		<szShortName>DFK清道夫</szShortName>
+		<szDescription>在铁血联盟一代对抗DFK恐怖组织的过程中，Gus表现出惊人的潜能，广受赞誉。</szDescription>
+		<resistance_fear>15</resistance_fear>
+		<resistance_suppression>15</resistance_suppression>
+		<leadership>5</leadership>
+		<approach_recruit>15</approach_recruit>
+		<speed_run>-20</speed_run> 
+		<agility>-8</agility>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Buns -->
+	<BACKGROUND>
+		<uiIndex>17</uiIndex>
+		<szName>护士/狙击手</szName>
+		<szShortName>护士/狙击手</szShortName>
+		<szDescription>至少这个组合能让你的简历瞬间吸人眼球。</szDescription>
+		<marksmanship>2</marksmanship>
+		<medical>4</medical>
+		<speed_bandaging>10</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Ice -->
+	<BACKGROUND>
+		<uiIndex>18</uiIndex>
+		<szName>军事辅助员</szName>
+    <szShortName>军事辅助员</szShortName>
+    <szDescription>像童子军一样，只不过使用了暴力。所以...这还是是童子军呀。</szDescription>
+    <leadership>8</leadership>
+    <approach_recruit>10</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Spider -->
+	<BACKGROUND>
+		<uiIndex>19</uiIndex>
+		<szName>军医</szName>
+		<szShortName>军医</szShortName>
+		<szDescription>如果战场上你的蛋碎了，找Spider吧！哦，是胆。</szDescription>
+		<medical>10</medical>
+		<dexterity>5</dexterity>
+		<cth_blades>5</cth_blades> 
+		<speed_bandaging>5</speed_bandaging> 
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Cliff -->
+	<BACKGROUND>
+		<uiIndex>20</uiIndex>
+		<szName>全科医生</szName>
+		<szShortName>全科医生</szShortName>
+		<szDescription>拥有诸多证书的Cliff外表光鲜，其实也有一段阴暗的过去。</szDescription>
+		<resistance_alcohol>10</resistance_alcohol>
+		<medical>5</medical>
+		<speed_bandaging>8</speed_bandaging>
+		<druguse>1</druguse>
+		<traplevel>1</traplevel>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Bull -->
+	<BACKGROUND>
+		<uiIndex>21</uiIndex>
+		<szName>监狱看守</szName>
+		<szShortName>监狱看守</szShortName>
+		<szDescription>担心监狱的暴徒们举兵反攻么？监狱看守是你最好的选择。</szDescription>
+		<prisonguard>300</prisonguard>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Hitman -->
+	<BACKGROUND>
+		<uiIndex>22</uiIndex>
+		<szName>战斗教官</szName>
+		<szShortName>战斗教官</szShortName>
+		<szDescription>这可能是Hitman最后一次露面了，很多财团都要雇佣他去训练私人武装。</szDescription>
+		<agility>-5</agility>
+		<leadership>5</leadership>
+		<interrogation>15</interrogation>
+    <approach_friendly>10</approach_friendly>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Buzz -->
+	<BACKGROUND>
+		<uiIndex>23</uiIndex>
+		<szName>伤情人</szName>
+		<szShortName>伤情人</szShortName>
+		<szDescription>情伤之后的Buzz内心充满仇恨，这时做佣兵正好。</szDescription>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<approach_friendly>-25</approach_friendly>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Raider -->
+	<BACKGROUND>
+		<uiIndex>24</uiIndex>
+		<szName>SWAT特工</szName>
+		<szShortName>SWAT特工</szShortName>
+		<szDescription>设身于最危险的都市角落，SWAT特工擅长处理高度专业的军事和政治行动。</szDescription>
+		<ap_urban>2</ap_urban>
+		<ap_assault>5</ap_assault>
+		<interrogation>75</interrogation>
+		<prisonguard>50</prisonguard>
+		<breachingcharge>70</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Raven -->
+	<BACKGROUND>
+		<uiIndex>25</uiIndex>
+		<szName>SWAT狙击手</szName>
+		<szShortName>SWAT狙击手</szShortName>
+		<szDescription>设身于最危险的都市角落，SWAT特工擅长处理高度专业的军事和政治行动。</szDescription>
+		<ap_urban>2</ap_urban>
+		<ap_height>2</ap_height>
+		<ap_assault>2</ap_assault>
+		<marksmanship>2</marksmanship>
+		<breachingcharge>60</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Static -->
+	<BACKGROUND>
+		<uiIndex>26</uiIndex>
+		<szName>后台员工</szName>
+		<szShortName>后台员工</szShortName>
+		<szDescription>灯光、音效和尖叫的观众，其实和战场也没什么区别不是吗？</szDescription>
+		<mechanical>3</mechanical>
+		<resistance_suppression>10</resistance_suppression>
+		<hearing_night>-3</hearing_night>
+		<hearing_day>-3</hearing_day>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Len -->
+	<BACKGROUND>
+		<uiIndex>27</uiIndex>
+		<szName>绿色贝雷帽</szName>
+		<szShortName>绿色贝雷帽</szShortName>
+		<szDescription>作为绿色贝雷帽一员，Len很善于处理非常规战事。</szDescription>
+		<marksmanship>4</marksmanship>
+		<ap_airdrop>5</ap_airdrop>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<meleedamage>3</meleedamage>
+		<cth_blades>5</cth_blades>
+		<approach_threaten>10</approach_threaten>
+		<approach_recruit>-6</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Danny -->
+	<BACKGROUND>
+		<uiIndex>28</uiIndex>
+		<szName>极限爱好者</szName>
+		<szShortName>极限爱好者</szShortName>
+		<szDescription>惊险刺激还有钱赚，极限爱好者Danny太喜欢佣兵这行了！</szDescription>
+		<ap_polar>3</ap_polar>
+		<ap_desert>3</ap_desert>
+		<ap_swamp>3</ap_swamp>
+		<ap_urban>-8</ap_urban>
+		<ap_river>3</ap_river>
+		<ap_coastal>3</ap_coastal>
+		<ap_tropical>3</ap_tropical>
+		<ap_mountain>5</ap_mountain>
+		<ap_airdrop>10</ap_airdrop>
+		<resistance_physical>5</resistance_physical>
+		<resistance_alcohol>-20</resistance_alcohol>
+		<food>-10</food>
+		<water>-10</water>
+		<insurance>40</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Magic -->
+	<BACKGROUND>
+		<uiIndex>29</uiIndex>
+		<szName>资深盗贼</szName>
+		<szShortName>资深盗贼</szShortName>
+		<szDescription>习惯性会顺手拿走一切看得顺眼的东西，其实是下意识的本能。</szDescription>
+		<agility>3</agility>
+		<ap_inventory>-15</ap_inventory>
+		<carrystrength>7</carrystrength>
+		<stealth>5</stealth>
+		<hearing_night>1</hearing_night>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Stephen -->
+	<BACKGROUND>
+		<uiIndex>30</uiIndex>
+		<szName>军事顾问</szName>
+		<szShortName>军事顾问</szShortName>
+		<szDescription>瞄准射击很容易，难得是教会别人瞄准谁射击。</szDescription>
+		<leadership>5</leadership>
+		<approach_direct>10</approach_direct>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Scully -->
+	<BACKGROUND>
+		<uiIndex>31</uiIndex>
+		<szName>雇佣兵</szName>
+		<szShortName>雇佣兵</szShortName>
+		<szDescription>不满足于平庸而无聊的过去，你选择了枪炮主宰的世界，这才是真正的你。</szDescription>
+		<ap_coastal>5</ap_coastal>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Malice -->
+	<BACKGROUND>
+		<uiIndex>32</uiIndex>
+		<szName>保安</szName>
+		<szShortName>保安</szShortName>
+		<szDescription>保安有打架的经验，不过杀人这一块可能略有生疏。</szDescription>
+		<meleedamage>4</meleedamage>
+		<dexterity>2</dexterity>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Dr. Q -->
+	<BACKGROUND>
+		<uiIndex>33</uiIndex>
+		<szName>中医大夫</szName>
+		<szShortName>中医大夫</szShortName>
+		<szDescription>中医大夫Dr.Q使用古老的中国传统医术进行治疗，虽然慢了点，但的确有效。</szDescription>
+		<medical>8</medical>
+		<speed_bandaging>-25</speed_bandaging>
+		<resistance_alcohol>-20</resistance_alcohol>
+		<meleedamage>6</meleedamage>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Nails -->
+	<BACKGROUND>
+		<uiIndex>34</uiIndex>
+		<szName>黑帮成员</szName>
+		<szShortName>黑帮成员</szShortName>
+		<szDescription>成为佣兵是很多黑帮成员的自然选择：工作差不多，武器和薪水好多了！</szDescription>
+		<ap_polar>-5</ap_polar>
+		<ap_desert>-5</ap_desert>
+		<ap_swamp>-5</ap_swamp>
+		<ap_urban>8</ap_urban>
+		<ap_tropical>-5</ap_tropical>
+		<approach_threaten>10</approach_threaten>
+		<meleedamage>3</meleedamage>
+		<cth_blades>2</cth_blades>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Thor -->
+	<BACKGROUND>
+		<uiIndex>35</uiIndex>
+		<szName>新时代巫师</szName>
+		<szShortName>新时代巫师</szShortName>
+		<szDescription>这玩意现在不需要考什么从业执照！</szDescription>
+		<speed_bandaging>10</speed_bandaging>              
+		<approach_friendly>10</approach_friendly>
+		<resistance_alcohol>10</resistance_alcohol>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Scope -->
+	<BACKGROUND>
+		<uiIndex>36</uiIndex>
+		<szName>SAS特工</szName>
+		<szShortName>SAS特工</szShortName>
+		<szDescription>英国特种空勤团SAS是世界著名的反恐部队之一，Scope没给SAS丢脸。</szDescription>
+		<ap_polar>3</ap_polar>
+		<ap_desert>3</ap_desert>
+		<ap_swamp>3</ap_swamp>
+		<ap_urban>3</ap_urban>
+		<ap_river>3</ap_river>
+		<ap_coastal>3</ap_coastal>
+		<ap_tropical>3</ap_tropical>
+		<ap_mountain>3</ap_mountain>
+		<ap_airdrop>20</ap_airdrop>
+		<food>-10</food>
+		<water>-10</water>
+		<sleep>-1</sleep>
+		<marksmanship>3</marksmanship>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Wolf -->
+	<BACKGROUND>
+		<uiIndex>37</uiIndex>
+		<szName>军事辅导员</szName>
+		<szShortName>军事辅导员</szShortName>
+		<szDescription>像童子军一样，只不过使用了暴力。所以...这还是是童子军呀。</szDescription>
+		<leadership>8</leadership>
+		<approach_recruit>10</approach_recruit>
+		<xenophobic>1</xenophobic> 
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- MD -->
+	<BACKGROUND>
+		<uiIndex>38</uiIndex>
+		<szName>毕业生</szName>
+		<szShortName>毕业生</szShortName>
+		<szDescription>毕业工作不好找？不想读大学？来当杀手吧！</szDescription>
+		<ap_polar>5</ap_polar>
+		<ap_desert>-5</ap_desert>
+		<ap_river>5</ap_river>
+		<ap_tropical>-5</ap_tropical>
+		<ap_mountain>5</ap_mountain>
+		<wisdom>3</wisdom>
+		<resistance_suppression>-10</resistance_suppression>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Meltdown -->
+	<BACKGROUND>
+		<uiIndex>39</uiIndex>
+		<szName>雇佣兵</szName>
+		<szShortName>雇佣兵</szShortName>
+		<szDescription>不满足于平庸而无聊的过去，你选择了枪炮主宰的世界，这才是真正的你。</szDescription>
+		<resistance_fear>15</resistance_fear>
+		<resistance_suppression>15</resistance_suppression>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Biff -->
+	<BACKGROUND>
+		<uiIndex>40</uiIndex>
+		<szName>乖宝宝</szName>
+		<szShortName>乖宝宝</szShortName>
+		<szDescription>童年时代留下的人格印记，至今尚未完全消除。</szDescription>
+		<leadership>-10</leadership>
+		<approach_recruit>-20</approach_recruit>
+		<resistance_fear>-20</resistance_fear>
+		<resistance_suppression>-20</resistance_suppression>
+		<spotter>10</spotter>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Haywire -->
+	<BACKGROUND>
+		<uiIndex>41</uiIndex>
+		<szName>雇佣兵粉丝</szName>
+		<szShortName>雇佣兵粉丝</szShortName>
+		<szDescription>雇佣兵总是能够见到新的人，然后干掉他们！这简直太帅了！</szDescription>
+		<cth_blades>5</cth_blades>    
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<approach_threaten>15</approach_threaten>
+		<insurance>15</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Gasket -->
+	<BACKGROUND>
+		<uiIndex>42</uiIndex>
+		<szName>乡巴佬</szName>
+		<szShortName>乡巴佬</szShortName>
+		<szDescription>头发插着枯稻草，张嘴一笑缺颗牙，好吧，农场的生活也不是那么容易。</szDescription>
+		<mechanical>3</mechanical>
+		<medical>3</medical>
+		<wisdom>-7</wisdom>
+		<ap_urban>-5</ap_urban>
+		<approach_recruit>-5</approach_recruit>
+		<carrystrength>10</carrystrength>
+		<resistance_alcohol>10</resistance_alcohol>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>  
+	<!-- Razor -->
+	<BACKGROUND>
+		<uiIndex>43</uiIndex>
+		<szName>精神病人</szName>
+		<szShortName>精神病人</szShortName>
+		<szDescription>没有人知道你是怎么逃出来的，不过大家一致认为，你应该回去。</szDescription>
+		<wisdom>-5</wisdom>
+		<leadership>-5</leadership>
+		<resistance_suppression>20</resistance_suppression>
+		<capitulation>-13</capitulation> 
+		<approach_direct>-50</approach_direct>
+		<approach_threaten>50</approach_threaten>
+		<approach_recruit>-50</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Flo -->
+	<BACKGROUND>
+		<uiIndex>44</uiIndex>
+		<szName>军火商</szName>
+		<szShortName>军火商</szShortName>
+		<szDescription>多年的武器倒卖经验使得此人在买卖枪支弹药时，更善于抬价砍价。</szDescription>
+		<betterprices_guns>10</betterprices_guns>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Gumpy -->
+	<BACKGROUND>
+		<uiIndex>45</uiIndex>
+		<szName>学院派</szName>
+		<szShortName>学院派</szShortName>
+		<szDescription>绝大部分知识都是纸上谈兵，或许几场战斗就要了老命了。</szDescription>
+		<wisdom>5</wisdom>
+		<resistance_fear>-5</resistance_fear>
+		<resistance_suppression>-15</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Larry -->
+	<BACKGROUND>
+		<uiIndex>46</uiIndex>
+		<szName>瘾君子</szName>
+		<szShortName>瘾君子</szShortName>
+		<szDescription>深受毒品影响，瘾君子可以变成恐怖的、不稳定的对手。</szDescription>
+		<druguse>1</druguse>
+		<scrounging>1</scrounging>
+		<insurance>30</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- stoned Larry -->
+	<BACKGROUND>
+		<uiIndex>47</uiIndex>
+		<szName>瘾君子</szName>
+		<szShortName>瘾君子</szShortName>
+		<szDescription>就是这个！没错，就是它！我搞到了！哇哈哈哈哈！</szDescription>
+		<meleedamage>10</meleedamage>
+		<cth_blades>10</cth_blades>
+		<approach_threaten>20</approach_threaten>
+    <approach_recruit>-50</approach_recruit>
+		<druguse>1</druguse>
+		<scrounging>1</scrounging>
+		<insurance>30</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Cougar -->
+	<BACKGROUND>
+		<uiIndex>48</uiIndex>
+		<szName>军校辍学生</szName>
+		<szShortName>军校辍学生</szShortName>
+		<szDescription>被军校劝退之后，至今尚未完成学业。</szDescription>
+		<prisonguard>20</prisonguard>
+		<sleep>-1</sleep>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Numb -->
+	<BACKGROUND>
+		<uiIndex>49</uiIndex>
+		<szName>朋克</szName>
+		<szShortName>朋克</szShortName>
+		<szDescription>在热带丛林摸爬滚打多年之后，他意外的迷上了朋克。</szDescription>
+		<ap_urban>5</ap_urban>
+		<resistance_poison>15</resistance_poison>
+		<speed_run>10</speed_run>
+		<meleedamage>2</meleedamage>
+		<cth_blades>2</cth_blades>
+		<approach_recruit>-15</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>				
+	</BACKGROUND>
+	<!-- Bubba -->
+	<BACKGROUND>
+		<uiIndex>50</uiIndex>
+		<szName>狱警</szName>
+		<szShortName>狱警</szShortName>
+		<szDescription>看看那个人，再看看你自己，你确定你还想越狱？</szDescription>
+		<prisonguard>300</prisonguard>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- PGmale 1 -->
+	<BACKGROUND>
+		<uiIndex>51</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- PGmale 2 -->
+	<BACKGROUND>
+		<uiIndex>52</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- PGmale 3 -->
+	<BACKGROUND>
+		<uiIndex>53</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- PGLady 1 -->
+	<BACKGROUND>
+		<uiIndex>54</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- PGLady 2 -->
+	<BACKGROUND>
+		<uiIndex>55</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- PGLady 3 -->
+	<BACKGROUND>
+		<uiIndex>56</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Miguel -->
+	<BACKGROUND>
+		<uiIndex>57</uiIndex>
+		<szName>反抗军</szName>
+		<szShortName>反抗军</szShortName>
+		<szDescription>对于那些被压迫的人民来说，Miguel这个名字就代表革命。</szDescription>
+		<ap_urban>2</ap_urban>
+		<leadership>10</leadership>
+		<capitulation>12</capitulation>
+		<travel_foot>5</travel_foot>
+		<approach_recruit>15</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Carlos -->
+	<BACKGROUND>
+		<uiIndex>58</uiIndex>
+		<szName>反抗军</szName>
+		<szShortName>反抗军</szShortName>
+		<szDescription>Miguel的左膀右臂，Carlos总是把事情处理的井井有条。</szDescription>
+		<ap_urban>2</ap_urban>
+		<leadership>4</leadership>
+		<resistance_alcohol>6</resistance_alcohol>
+		<travel_foot>5</travel_foot>
+		<approach_threaten>10</approach_threaten>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Ira -->
+	<BACKGROUND>
+		<uiIndex>59</uiIndex>
+		<szName>反抗军</szName>
+		<szShortName>反抗军</szShortName>
+		<szDescription>小护士变身反抗军，Ira的出现给反抗军总部增加了许多乐趣。</szDescription>
+		<ap_urban>2</ap_urban>
+		<medical>4</medical>
+		<travel_foot>5</travel_foot>
+		<speed_bandaging>9</speed_bandaging>
+		<food>-10</food>
+		<approach_friendly>5</approach_friendly>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Dimitri -->   
+	<BACKGROUND>
+		<uiIndex>60</uiIndex>
+		<szName>反抗军</szName>
+		<szShortName>反抗军</szShortName>
+		<szDescription>有人觉得他头脑简单，但能在枪林弹雨中生存这么多年说明他还是有一套的。</szDescription>
+		<ap_urban>2</ap_urban>
+		<dexterity>4</dexterity>
+		<travel_foot>5</travel_foot>
+		<speed_bandaging>7</speed_bandaging>
+		<cth_blades>3</cth_blades>
+		<food>-10</food>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Devin -->
+	<BACKGROUND>
+		<uiIndex>61</uiIndex>
+		<szName>IRA爆破专家</szName>
+		<szShortName>IRA爆破专家</szShortName>
+		<szDescription>给爱尔兰共和军制造炸弹之后，Devin觉得应该扩大他的生意了。</szDescription>
+		<resistance_alcohol>5</resistance_alcohol>
+		<stealth>4</stealth>
+		<traplevel>1</traplevel>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Robot -->
+	<BACKGROUND>
+		<uiIndex>62</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Hamous -->
+	<BACKGROUND>
+		<uiIndex>63</uiIndex>
+		<szName>密达威亚岛土著</szName>
+		<szShortName>密达威亚岛土著</szShortName>
+		<szDescription>铁血联盟一代密达威亚岛的土著居民，革命后参加了雇佣兵组织。</szDescription>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<ap_swimming>-10</ap_swimming>
+		<travel_boat>5</travel_boat>
+		<resistance_poison>17</resistance_poison>
+		<drink_energyregen>15</drink_energyregen>
+		<camo>5</camo>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Slay -->
+	<BACKGROUND>
+		<uiIndex>64</uiIndex>
+		<szName>杀手</szName>
+		<szShortName>杀手</szShortName>
+		<szDescription>原本通缉他的政府后来还是选择雇佣了他，当然没有官方会承认。</szDescription>
+		<ap_height>3</ap_height>
+		<increased_maxcth>2</increased_maxcth>
+		<approach_friendly>-15</approach_friendly>
+		<approach_recruit>-10</approach_recruit>
+		<insurance>40</insurance>
+		<spotter>15</spotter>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Eskimo -->
+	<BACKGROUND>
+		<uiIndex>65</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Dynamo -->
+	<BACKGROUND>
+		<uiIndex>66</uiIndex>
+		<szName>囚犯</szName>
+		<szShortName>囚犯</szShortName>
+		<szDescription>在监狱里深受刑讯折磨多年之后，虽然不再怕死，但生活中总有东西让人难以割舍。</szDescription>
+		<resistance_fear>20</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<resistance_physical>10</resistance_physical>
+		<carrystrength>-10</carrystrength>
+		<food>-10</food>
+		<water>-10</water>
+		<sleep>-1</sleep> 
+		<hearing_night>3</hearing_night>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Shank -->
+	<BACKGROUND>
+		<uiIndex>67</uiIndex>
+		<szName>囚犯</szName>
+		<szShortName>囚犯</szShortName>
+		<szDescription>在监狱里深受刑讯折磨多年之后，虽然不再怕死，但生活中总有东西让人难以割舍。</szDescription>
+		<resistance_fear>20</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<resistance_physical>10</resistance_physical>
+		<food>-10</food>
+		<water>-10</water>
+		<sleep>-1</sleep> 
+		<hearing_night>3</hearing_night>
+		<druguse>1</druguse>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Iggy -->
+	<BACKGROUND>
+		<uiIndex>68</uiIndex>
+		<szName>红军</szName>
+		<szShortName>红军</szShortName>
+		<szDescription>作为久经战场的老兵，Iggy直到加入反抗军才发现以前走错了路。</szDescription>
+		<ap_polar>2</ap_polar>
+		<ap_mountain>3</ap_mountain>
+		<ap_artillery>-8</ap_artillery>
+		<resistance_suppression>7</resistance_suppression>
+		<resistance_alcohol>10</resistance_alcohol>
+		<carrystrength>4</carrystrength>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Vince -->
+	<BACKGROUND>
+		<uiIndex>69</uiIndex>
+		<szName>全科医生</szName>
+		<szShortName>全科医生</szShortName>
+		<szDescription>被触目可见的苦难所震惊，Vince决定走上了对抗女王的道路。</szDescription>
+		<medical>5</medical>
+		<marksmanship>2</marksmanship>
+		<betterprices>3</betterprices>
+		<speed_bandaging>12</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Conrad -->
+	<BACKGROUND>
+		<uiIndex>70</uiIndex>
+		<szName>军事顾问</szName>
+    <szShortName>军事顾问</szShortName>
+    <szDescription>瞄准射击很容易，难得是教会别人瞄准谁射击。</szDescription>
+    <leadership>5</leadership>
+    <approach_direct>10</approach_direct>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- RPC 71 -->
+	<BACKGROUND>
+		<uiIndex>71</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Maddog -->
+	<BACKGROUND>
+		<uiIndex>72</uiIndex>
+		<szName>精神病人</szName>
+		<szShortName>精神病人</szShortName>
+		<szDescription>半清醒，半疯狂，Maddog的性格和思维方式总是混乱无序的。</szDescription>
+		<ap_inventory>-5</ap_inventory>
+		<travel_car>4</travel_car>
+		<resistance_alcohol>5</resistance_alcohol>
+		<betterprices>2</betterprices>
+		<speed_run>3</speed_run>
+    <carrystrength>3</carrystrength> 
+    <scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Darrel jr. -->
+	<BACKGROUND>
+		<uiIndex>73</uiIndex>
+		<szName>乡巴佬</szName>
+		<szShortName>乡巴佬</szShortName>
+		<szDescription>头发插着枯稻草，张嘴一笑缺颗牙，好吧，农场的生活也不是那么容易。</szDescription>
+		<mechanical>3</mechanical>
+		<medical>3</medical>
+		<wisdom>-7</wisdom>
+		<ap_urban>-5</ap_urban>
+		<approach_recruit>-5</approach_recruit>
+		<carrystrength>10</carrystrength>
+		<resistance_alcohol>10</resistance_alcohol>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>  
+	<!-- Perko -->
+	<BACKGROUND>
+		<uiIndex>74</uiIndex>
+		<szName>机械师</szName>
+		<szShortName>机械师</szShortName>
+		<szDescription>在物资缺乏的战场上，能维修装备太重要了！</szDescription>
+		<mechanical>8</mechanical>
+		<betterprices>2</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Deidranna -->
+	<BACKGROUND>
+		<uiIndex>75</uiIndex>
+		<szName>邪恶女王</szName>
+		<szShortName>邪恶女王</szShortName>
+		<szDescription>冷酷无情统治这个国家多年之后，女王精擅控制与生存之道。</szDescription>
+		<resistance_physical>10</resistance_physical>
+		<approach_threaten>30</approach_threaten>
+		<insurance>200</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Auntie -->
+	<BACKGROUND>
+		<uiIndex>76</uiIndex>
+		<szName>老祖母</szName>
+		<szShortName>老祖母</szShortName>
+		<szDescription>人老了，好像总也不需要睡觉似的。</szDescription>
+		<sleep>-1</sleep>
+		<hearing_day>-3</hearing_day>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Enrico -->
+	<BACKGROUND>
+		<uiIndex>77</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Carmen -->
+	<BACKGROUND>
+		<uiIndex>78</uiIndex>
+		<szName>赏金猎人</szName>
+		<szShortName>赏金猎人</szShortName>
+		<szDescription>既能合法杀人，又能以此赚钱，好有前途的工作啊！</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND> 
+	<!-- Joe -->
+	<BACKGROUND>
+		<uiIndex>79</uiIndex>
+		<szName>保镖</szName>
+		<szShortName>保镖</szShortName>
+		<szDescription>精良训练，无比忠诚，不惧牺牲，不愧为雇主的最佳选择。</szDescription>
+		<ap_inventory>-10</ap_inventory>
+		<strength>5</strength>
+		<resistance_physical>10</resistance_physical>
+		<interrogation>20</interrogation>
+		<meleedamage>4</meleedamage>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Steve -->
+	<BACKGROUND>
+		<uiIndex>80</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Rat -->
+	<BACKGROUND>
+		<uiIndex>81</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- MoM -->
+	<BACKGROUND>
+		<uiIndex>82</uiIndex>
+		<szName>恐怖分子</szName>
+		<szShortName>恐怖分子</szShortName>
+		<szDescription>声名狼藉的杀人犯？冷血无情的虐杀狂？他们只是羡慕我而已。</szDescription>
+		<marksmanship>5</marksmanship>
+		<ap_assault>6</ap_assault>
+		<resistance_suppression>15</resistance_suppression>
+    <resistance_physical>5</resistance_physical>
+    <approach_threaten>10</approach_threaten>
+    <xenophobic>1</xenophobic>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Imposter -->
+	<BACKGROUND>
+		<uiIndex>83</uiIndex>
+		<szName>恐怖分子</szName>
+		<szShortName>恐怖分子</szShortName>
+		<szDescription>哪怕被国际刑警通缉，他也知道怎么低调杀人、低调走人。</szDescription>
+		<ap_assault>6</ap_assault>
+		<resistance_physical>10</resistance_physical>
+		<speed_run>10</speed_run>
+		<cth_blades>10</cth_blades>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND> 
+	<!-- Bob -->
+	<BACKGROUND>
+		<uiIndex>84</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Brenda -->
+	<BACKGROUND>
+		<uiIndex>85</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Kingpin -->
+	<BACKGROUND>
+		<uiIndex>86</uiIndex>
+		<szName>匪帮</szName>
+		<szShortName>匪帮</szShortName>
+		<szDescription>有组织的犯罪网络随处可见，没有例外。</szDescription>
+		<betterprices_guns>3</betterprices_guns>
+		<capitulation>4</capitulation>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Darren -->
+	<BACKGROUND>
+		<uiIndex>87</uiIndex>
+		<szName>匪帮</szName>
+		<szShortName>匪帮</szShortName>
+		<szDescription>有组织的犯罪网络随处可见，没有例外。</szDescription>
+		<betterprices_guns>3</betterprices_guns>
+		<capitulation>4</capitulation>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging> 
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Maria -->
+	<BACKGROUND>
+		<uiIndex>88</uiIndex>
+		<szName>性奴</szName>
+		<szShortName>性奴</szShortName>
+		<szDescription>你不会想知道她身上发生了什么，你想？那你就用力想吧！</szDescription>
+		<resistance_physical>5</resistance_physical>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Angel -->
+	<BACKGROUND>
+		<uiIndex>89</uiIndex>
+		<szName>店主</szName>
+		<szShortName>店主</szShortName>
+		<szDescription>对很多来说，店主？就是一直流着口水数钱的那个？</szDescription>
+		<betterprices>10</betterprices>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Joey -->
+	<BACKGROUND>
+		<uiIndex>90</uiIndex>
+		<szName>青少年</szName>
+		<szShortName>青少年</szShortName>
+		<szDescription>少年维特之烦恼，居然会这么多！</szDescription>
+		<resistance_poison>-10</resistance_poison>
+		<resistance_alcohol>-10</resistance_alcohol>
+		<carrystrength>-20</carrystrength>
+		<capitulation>-20</capitulation>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND> 
+	<!-- Tony -->
+	<BACKGROUND>
+		<uiIndex>91</uiIndex>
+		<szName>军火商</szName>
+		<szShortName>军火商</szShortName>
+		<szDescription>向交战双方同时出售军火风险巨大，收益同样巨大。</szDescription>
+		<betterprices_guns>10</betterprices_guns>
+		<betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Frank -->
+	<BACKGROUND>
+		<uiIndex>92</uiIndex>
+		<szName>酒吧老板</szName>
+		<szShortName>酒吧老板</szShortName>
+		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
+		<resistance_alcohol>10</resistance_alcohol>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Spike -->
+	<BACKGROUND>
+		<uiIndex>93</uiIndex>
+		<szName>保安</szName>
+		<szShortName>保安</szShortName>
+		<szDescription>保安有打架的经验，不过杀人这一块可能略有生疏。</szDescription>
+		<meleedamage>4</meleedamage>
+		<dexterity>2</dexterity>
+		<resistance_fear>10</resistance_fear>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Damon -->
+	<BACKGROUND>
+		<uiIndex>94</uiIndex>
+		<szName>保镖</szName>
+		<szShortName>保镖</szShortName>
+		<szDescription>精良训练，无比忠诚，不惧牺牲，不愧为雇主的最佳选择。</szDescription>
+		<ap_inventory>-10</ap_inventory>
+		<strength>1</strength>
+		<resistance_physical>3</resistance_physical>
+		<meleedamage>2</meleedamage>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Kyle -->
+	<BACKGROUND>
+		<uiIndex>95</uiIndex>
+		<szName>店主</szName>
+		<szShortName>店主</szShortName>
+		<szDescription>对很多来说，店主？就是一直流着口水数钱的那个？</szDescription>
+		<betterprices>10</betterprices>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Micky -->
+	<BACKGROUND>
+		<uiIndex>96</uiIndex>
+		<szName>王牌猎手</szName>
+		<szShortName>王牌猎手</szShortName>
+		<szDescription>擅长于猎杀各种珍奇异兽，包括女王的手下。</szDescription>
+		<ap_desert>1</ap_desert>
+		<ap_swamp>2</ap_swamp>
+		<ap_urban>-3</ap_urban>
+		<ap_tropical>3</ap_tropical>
+		<travel_foot>3</travel_foot>
+		<resistance_poison>15</resistance_poison>
+		<resistance_alcohol>20</resistance_alcohol>
+		<carrystrength>4</carrystrength>
+		<stealth>6</stealth>
+		<cth_vs_creatures>15</cth_vs_creatures>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Skyrider -->
+	<BACKGROUND>
+		<uiIndex>97</uiIndex>
+		<szName>飞行员</szName>
+		<szShortName>飞行员</szShortName>
+		<szDescription>接受过严格的军事训练，地面作战对他们而言可能不是很难。</szDescription>
+		<mechanical>3</mechanical>
+		<travel_air>10</travel_air>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Pablo -->
+	<BACKGROUND>
+		<uiIndex>98</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Sal -->
+	<BACKGROUND>
+		<uiIndex>99</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Father -->
+	<BACKGROUND>
+		<uiIndex>100</uiIndex>
+		<szName>神父</szName>
+		<szShortName>神父</szShortName>
+		<szDescription>宗教的力量是恐怖而巨大的，用好它可以改写历史。</szDescription>
+		<resistance_alcohol>20</resistance_alcohol>
+		<approach_recruit>20</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Fatima -->
+	<BACKGROUND>
+		<uiIndex>101</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Warden -->
+	<BACKGROUND>
+		<uiIndex>102</uiIndex>
+		<szName>执法队</szName>
+		<szShortName>执法队</szShortName>
+		<szDescription>城管出身的佼佼者们更乐意在杀手的世界谋求一职，他们当然最擅长审讯犯人。</szDescription>
+		<interrogation>150</interrogation>
+		<prisonguard>50</prisonguard>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Gordon -->
+	<BACKGROUND>
+		<uiIndex>103</uiIndex>
+		<szName>囚犯</szName>
+		<szShortName>囚犯</szShortName>
+		<szDescription>在监狱里深受刑讯折磨多年之后，虽然不再怕死，但生活中总有东西让人难以割舍。</szDescription>
+		<resistance_fear>-20</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<resistance_physical>10</resistance_physical>
+		<food>-10</food>
+		<water>-10</water>
+		<sleep>-1</sleep> 
+		<hearing_night>3</hearing_night>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Gabby -->
+	<BACKGROUND>
+		<uiIndex>104</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Ernest -->
+	<BACKGROUND>
+		<uiIndex>105</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Fred -->
+	<BACKGROUND>
+		<uiIndex>106</uiIndex>
+		<szName>矿工</szName>
+		<szShortName>矿工</szShortName>
+		<szDescription>黑煤窑的工作既辛苦又危险，难怪有些人宁愿选择死在战场上。</szDescription>
+		<ap_fortify>-20</ap_fortify>
+		<strength>5</strength>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Madame -->
+	<BACKGROUND>
+		<uiIndex>107</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND> 
+	<!-- Yanni -->
+	<BACKGROUND>
+		<uiIndex>108</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Martha -->
+	<BACKGROUND>
+		<uiIndex>109</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Tiffany -->
+	<BACKGROUND>
+		<uiIndex>110</uiIndex>
+		<szName>匪帮</szName>
+		<szShortName>匪帮</szShortName>
+		<szDescription>得罪了他，你就得罪了他背后的整个家族。</szDescription>
+		<betterprices_guns>4</betterprices_guns>
+		<capitulation>4</capitulation>
+		<cth_blades>3</cth_blades>
+		<approach_threaten>10</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging> 
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- T_Rex -->
+	<BACKGROUND>
+		<uiIndex>111</uiIndex>
+		<szName>准军事人员</szName>
+		<szShortName>准军事人员</szShortName>
+		<szDescription>偏执狂、无知愚昧、法西斯主义，呵呵，这就是你。</szDescription>
+		<leadership>6</leadership>
+		<betterprices_guns>3</betterprices_guns>
+		<capitulation>4</capitulation>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging> 
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Druggist -->
+	<BACKGROUND>
+		<uiIndex>112</uiIndex>
+		<szName>恐怖分子</szName>
+		<szShortName>恐怖分子</szShortName>
+		<szDescription>哪怕被国际刑警通缉，他也知道怎么低调杀人、低调走人。</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Jake -->
+	<BACKGROUND>
+		<uiIndex>113</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Pacos -->
+	<BACKGROUND>
+		<uiIndex>114</uiIndex>
+		<szName>孩童</szName>
+		<szShortName>孩童</szShortName>
+		<szDescription>别向他射击，你忘了日内瓦公约？</szDescription>
+		<resistance_poison>-20</resistance_poison>
+		<resistance_fear>-20</resistance_fear>
+		<resistance_suppression>-20</resistance_suppression>
+		<resistance_physical>-20</resistance_physical>
+		<resistance_alcohol>-20</resistance_alcohol>
+		<speed_run>-20</speed_run>
+		<carrystrength>-50</carrystrength>
+		<capitulation>-50</capitulation>
+		<sleep>1</sleep>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Dave -->
+	<BACKGROUND>
+		<uiIndex>115</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Skipper -->
+	<BACKGROUND>
+		<uiIndex>116</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Hans -->
+	<BACKGROUND>
+		<uiIndex>117</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- John -->
+	<BACKGROUND>
+		<uiIndex>118</uiIndex>
+		<szName>游客</szName>
+		<szShortName>游客</szShortName>
+		<szDescription>帮我拍个照吧，可以么？</szDescription>
+		<resistance_fear>-20</resistance_fear>
+		<resistance_suppression>-20</resistance_suppression>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Mary -->
+	<BACKGROUND>
+		<uiIndex>119</uiIndex>
+		<szName>游客</szName>
+		<szShortName>游客</szShortName>
+		<szDescription>帮我拍个照吧，可以么？</szDescription>
+		<resistance_fear>-20</resistance_fear>
+		<resistance_suppression>-20</resistance_suppression>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- General -->
+	<BACKGROUND>
+		<uiIndex>120</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Sergeant -->
+	<BACKGROUND>
+		<uiIndex>121</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Armand -->
+	<BACKGROUND>
+		<uiIndex>122</uiIndex>
+		<szName>Upperclass twit</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Lora -->
+	<BACKGROUND>
+		<uiIndex>123</uiIndex>
+		<szName>二流演员</szName>
+		<szShortName>二流演员</szShortName>
+		<szDescription>中老年妇女的偶像，大木老师和毕姥爷毕生追求的目标，你的名声已享誉世界。</szDescription>
+		<approach_friendly>20</approach_friendly>
+		<capitulation>5</capitulation>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Franz -->
+	<BACKGROUND>
+		<uiIndex>124</uiIndex>
+		<szName>Shopkeeper</szName>
+    <szShortName>Shopkeeper</szShortName>
+    <szDescription>For many people, their trade IS trade.</szDescription>
+    <betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Howard -->
+	<BACKGROUND>
+		<uiIndex>125</uiIndex>
+		<szName>店主</szName>
+    <szShortName>店主</szShortName>
+    <szDescription>对很多来说，店主？就是一直流着口水数钱的那个？</szDescription>
+    <medical>10</medical>
+    <betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Sam -->
+	<BACKGROUND>
+		<uiIndex>126</uiIndex>
+		<szName>店主</szName>
+    <szShortName>店主</szShortName>
+    <szDescription>对很多来说，店主？就是一直流着口水数钱的那个？</szDescription>
+    <mechanical>7</mechanical>
+    <betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Eldin -->
+	<BACKGROUND>
+		<uiIndex>127</uiIndex>
+		<szName>二战老兵</szName>
+		<szShortName>二战老兵</szShortName>
+		<szDescription>胸前好几排荣誉勋章却只能沿街乞讨，所以他选择去做雇佣兵。</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Arnie -->
+	<BACKGROUND>
+		<uiIndex>128</uiIndex>
+		<szName>机械师</szName>
+		<szShortName>机械师</szShortName>
+		<szDescription>在物资缺乏的战场上，能维修装备太重要了！</szDescription>
+		<mechanical>8</mechanical>
+		<betterprices>2</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Tina -->
+	<BACKGROUND>
+		<uiIndex>129</uiIndex>
+		<szName>店主</szName>
+    <szShortName>店主</szShortName>
+    <szDescription>对很多来说，店主？就是一直流着口水数钱的那个？</szDescription>
+    <resistance_suppression>-20</resistance_suppression>
+    <betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Fredo -->
+	<BACKGROUND>
+		<uiIndex>130</uiIndex>
+		<szName>店主</szName>
+    <szShortName>店主</szShortName>
+    <szDescription>对很多来说，店主？就是一直流着口水数钱的那个？</szDescription>
+    <betterprices>10</betterprices>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Walter -->
+	<BACKGROUND>
+		<uiIndex>131</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Jenny -->
+	<BACKGROUND>
+		<uiIndex>132</uiIndex>
+		<szName>护士</szName>
+    <szShortName>护士</szShortName>
+    <szDescription>护士在战区是很吃香的，因为太危险了，专业医生往往不愿意前往。</szDescription>
+    <medical>7</medical>
+    <speed_bandaging>20</speed_bandaging>
+    <approach_friendly>10</approach_friendly>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Billy -->
+	<BACKGROUND>
+		<uiIndex>133</uiIndex>
+		<szName>保安</szName>
+		<szShortName>保安</szShortName>
+		<szDescription>保安有打架的经验，不过杀人这一块可能略有生疏。</szDescription>
+		<meleedamage>4</meleedamage>
+		<dexterity>2</dexterity>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Brewster -->
+	<BACKGROUND>
+		<uiIndex>134</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Elliot -->
+	<BACKGROUND>
+		<uiIndex>135</uiIndex>
+		<szName>受虐狂</szName>
+		<szShortName>受虐狂</szShortName>
+		<szDescription>经过了长期不间断的折辱和嘲笑谩骂之后，你慢慢开始怀疑当初的选择。</szDescription>
+		<resistance_physical>20</resistance_physical>
+		<resistance_fear>10</resistance_fear>
+		<leadership>-10</leadership>
+		<approach_threaten>-50</approach_threaten>
+		<approach_recruit>-50</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Endgame Crowd -->
+	<BACKGROUND>
+		<uiIndex>136</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Endgame Crowd -->
+	<BACKGROUND>
+		<uiIndex>137</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Waldo -->
+	<BACKGROUND>
+		<uiIndex>138</uiIndex>
+		<szName>直升飞机机械师</szName>
+    <szShortName>直升飞机机械师</szShortName>
+    <szDescription>应该是这里最好的直升飞机机械师了，也是仅存的，囧。</szDescription>
+    <mechanical>8</mechanical>
+    <travel_air>5</travel_air>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Doreen -->
+	<BACKGROUND>
+		<uiIndex>139</uiIndex>
+		<szName>厂主</szName>
+		<szShortName>厂主</szShortName>
+		<szDescription>邪恶女王的闺中密友，残酷无情的剥削者，你居然想雇佣她？</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Jim -->
+	<BACKGROUND>
+		<uiIndex>140</uiIndex>
+		<szName>杀手</szName>
+		<szShortName>杀手</szShortName>
+		<szDescription>杀手总是经常杀人的，不然还叫什么杀手？</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Jack -->
+	<BACKGROUND>
+		<uiIndex>141</uiIndex>
+		<szName>杀手</szName>
+		<szShortName>杀手</szShortName>
+		<szDescription>杀手总是经常杀人的，不然还叫什么杀手？</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Olaf  -->
+	<BACKGROUND>
+		<uiIndex>142</uiIndex>
+		<szName>杀手</szName>
+		<szShortName>杀手</szShortName>
+		<szDescription>杀手总是经常杀人的，不然还叫什么杀手？</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Ray -->
+	<BACKGROUND>
+		<uiIndex>143</uiIndex>
+		<szName>杀手</szName>
+		<szShortName>杀手</szShortName>
+		<szDescription>杀手总是经常杀人的，不然还叫什么杀手？</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Olga -->
+	<BACKGROUND>
+		<uiIndex>144</uiIndex>
+		<szName>杀手</szName>
+		<szShortName>杀手</szShortName>
+		<szDescription>杀手总是经常杀人的，不然还叫什么杀手？</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Tyrone -->
+	<BACKGROUND>
+		<uiIndex>145</uiIndex>
+		<szName>杀手</szName>
+		<szShortName>杀手</szShortName>
+		<szDescription>杀手总是经常杀人的，不然还叫什么杀手？</szDescription>
+		<stealth>4</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Madlab -->
+	<BACKGROUND>
+		<uiIndex>146</uiIndex>
+		<szName>学院派</szName>
+    <szShortName>学院派</szShortName>
+    <szDescription>绝大部分知识都是纸上谈兵，或许几场战斗就要了老命了。</szDescription>
+    <wisdom>5</wisdom>
+    <resistance_fear>-5</resistance_fear>
+    <resistance_suppression>-15</resistance_suppression>
+    <speed_run>-5</speed_run>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Keith -->
+	<BACKGROUND>
+		<uiIndex>147</uiIndex>
+		<szName>店主</szName>
+		<szShortName>店主</szShortName>
+		<szDescription>对很多来说，店主？就是一直流着口水数钱的那个？</szDescription>
+		<betterprices_guns>5</betterprices_guns>
+		<betterprices>10</betterprices>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Matt -->
+	<BACKGROUND>
+		<uiIndex>148</uiIndex>
+		<szName>矿工</szName>
+		<szShortName>矿工</szShortName>
+		<szDescription>黑煤窑的工作既辛苦又危险，难怪有些人宁愿选择死在战场上。</szDescription>
+		<ap_fortify>-20</ap_fortify>
+		<strength>5</strength>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Mike -->
+	<BACKGROUND>
+		<uiIndex>149</uiIndex>
+		<szName>雇佣兵</szName>
+		<szShortName>雇佣兵</szShortName>
+		<szDescription>不满足于平庸而无聊的过去，你选择了枪炮主宰的世界，这才是真正的你。</szDescription>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<resistance_physical>7</resistance_physical>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Daryl -->
+	<BACKGROUND>
+		<uiIndex>150</uiIndex>
+		<szName>乡巴佬</szName>
+		<szShortName>乡巴佬</szShortName>
+		<szDescription>头发插着枯稻草，张嘴一笑缺颗牙，好吧，农场的生活也不是那么容易。</szDescription>
+		<mechanical>3</mechanical>
+		<medical>3</medical>
+		<wisdom>-7</wisdom>
+		<ap_urban>-5</ap_urban>
+		<approach_recruit>-5</approach_recruit>
+		<carrystrength>10</carrystrength>
+		<resistance_alcohol>10</resistance_alcohol>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>  
+	<!-- Herve -->
+	<BACKGROUND>
+		<uiIndex>151</uiIndex>
+		<szName>酒吧老板</szName>
+		<szShortName>酒吧老板</szShortName>
+		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Peter -->
+	<BACKGROUND>
+		<uiIndex>152</uiIndex>
+		<szName>酒吧老板</szName>
+		<szShortName>酒吧老板</szShortName>
+		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Alberto -->
+	<BACKGROUND>
+		<uiIndex>153</uiIndex>
+		<szName>酒吧老板</szName>
+		<szShortName>酒吧老板</szShortName>
+		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Carlo -->   
+	<BACKGROUND>
+		<uiIndex>154</uiIndex>
+		<szName>酒吧老板</szName>
+		<szShortName>酒吧老板</szShortName>
+		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND> 
+	<!-- Manny -->
+	<BACKGROUND>
+		<uiIndex>155</uiIndex>
+		<szName>酒吧老板</szName>
+		<szShortName>酒吧老板</szShortName>
+		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
+		<betterprices>4</betterprices>
+		<approach_friendly>15</approach_friendly>
+		<approach_recruit>5</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Oswald -->
+	<BACKGROUND>
+		<uiIndex>156</uiIndex>
+		<szName>矿工</szName>
+		<szShortName>矿工</szShortName>
+		<szDescription>黑煤窑的工作既辛苦又危险，难怪有些人宁愿选择死在战场上。</szDescription>
+		<ap_fortify>-20</ap_fortify>
+		<strength>5</strength>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Calvin -->
+	<BACKGROUND>
+		<uiIndex>157</uiIndex>
+		<szName>矿工</szName>
+		<szShortName>矿工</szShortName>
+		<szDescription>黑煤窑的工作既辛苦又危险，难怪有些人宁愿选择死在战场上。</szDescription>
+		<ap_fortify>-20</ap_fortify>
+		<strength>5</strength>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Carl -->
+	<BACKGROUND>
+		<uiIndex>158</uiIndex>
+		<szName>矿工</szName>
+		<szShortName>矿工</szShortName>
+		<szDescription>黑煤窑的工作既辛苦又危险，难怪有些人宁愿选择死在战场上。</szDescription>
+		<ap_fortify>-20</ap_fortify>
+		<strength>5</strength>
+		<level_underground>1</level_underground>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Speck.. -->
+	<BACKGROUND>
+		<uiIndex>159</uiIndex>
+		<szName>技术宅</szName>
+		<szShortName>技术宅</szShortName>
+		<szDescription>技术宅拯救世界。就算闭着一只眼睛，技术宅也能在一分钟内摆好魔方。</szDescription>
+		<mechanical>5</mechanical>
+		<ap_inventory>-10</ap_inventory> 
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Hummer -->
+	<BACKGROUND>
+		<uiIndex>160</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- El Dorado -->
+	<BACKGROUND>
+		<uiIndex>161</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Ice Cream Truck -->
+	<BACKGROUND>
+		<uiIndex>162</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Heli -->
+	<BACKGROUND>
+		<uiIndex>163</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Army Jeep -->
+	<BACKGROUND>
+		<uiIndex>164</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Gaston -->
+	<BACKGROUND>
+		<uiIndex>165</uiIndex>
+		<szName>UN维和部队</szName>
+		<szShortName>UN维和部队</szShortName>
+		<szDescription>各国合作提供部队，采用非暴力方式解决区域冲突。可悲的是，这个定义是错的。</szDescription>
+		<capitulation>14</capitulation>
+		<speed_bandaging>10</speed_bandaging>
+		<approach_friendly>4</approach_friendly>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Stogie -->
+	<BACKGROUND>
+		<uiIndex>166</uiIndex>
+		<szName>雇佣兵</szName>
+		<szShortName>雇佣兵</szShortName>
+		<szDescription>不满足于平庸而无聊的过去，你选择了枪炮主宰的世界，这才是真正的你。</szDescription>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Tex -->
+	<BACKGROUND>
+		<uiIndex>167</uiIndex>
+		<szName>二流演员</szName>
+		<szShortName>二流演员</szShortName>
+		<szDescription>中老年妇女的偶像，大木老师和毕姥爷毕生追求的目标，你的名声已享誉世界。</szDescription>
+		<approach_friendly>20</approach_friendly>
+		<camo>10</camo>
+		<capitulation>5</capitulation>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Biggins -->
+	<BACKGROUND>
+		<uiIndex>168</uiIndex>
+		<szName>资深雇佣兵</szName>
+		<szShortName>资深雇佣兵</szShortName>
+		<szDescription>新人还在包尿布时你已经威名远扬，没有什么任务能难住你。</szDescription>
+		<leadership>5</leadership>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- PGmale 4 -->
+	<BACKGROUND>
+		<uiIndex>169</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Monk  -->
+	<BACKGROUND>
+		<uiIndex>170</uiIndex>
+		<szName>红军</szName>
+		<szShortName>红军</szShortName>
+		<szDescription>苏联红军克服了严寒天气和物资缺乏， 最终弄死了希特勒。</szDescription>
+		<ap_polar>8</ap_polar>
+		<mechanical>4</mechanical>
+		<resistance_fear>10</resistance_fear>
+		<resistance_alcohol>20</resistance_alcohol>
+		<drink_energyregen>15</drink_energyregen>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Brain -->
+	<BACKGROUND>
+		<uiIndex>171</uiIndex>
+		<szName>红军</szName>
+		<szShortName>红军</szShortName>
+		<szDescription>苏联红军克服了严寒天气和物资缺乏， 最终弄死了希特勒。</szDescription>
+		<ap_polar>8</ap_polar>
+		<mechanical>4</mechanical>
+		<resistance_fear>10</resistance_fear>
+		<resistance_alcohol>20</resistance_alcohol>
+		<drink_energyregen>15</drink_energyregen>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Lennart -->
+	<BACKGROUND>
+		<uiIndex>172</uiIndex>
+		<szName>红军</szName>
+		<szShortName>红军</szShortName>
+		<szDescription>苏联红军克服了严寒天气和物资缺乏， 最终弄死了希特勒。</szDescription>
+		<ap_polar>8</ap_polar>
+		<mechanical>4</mechanical>
+		<resistance_fear>10</resistance_fear>
+		<resistance_alcohol>20</resistance_alcohol>
+		<drink_energyregen>15</drink_energyregen>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Henning -->
+	<BACKGROUND>
+		<uiIndex>173</uiIndex>
+		<szName>军事顾问</szName>
+		<szShortName>军事顾问</szShortName>
+		<szDescription>瞄准射击很容易，难得是教会别人瞄准谁射击。</szDescription>
+		<leadership>5</leadership>
+		<approach_direct>10</approach_direct>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Luc -->
+	<BACKGROUND>
+		<uiIndex>174</uiIndex>
+		<szName>保安</szName>
+		<szShortName>保安</szShortName>
+		<szDescription>保安有打架的经验，不过杀人这一块可能略有生疏。</szDescription>
+		<meleedamage>4</meleedamage>
+		<dexterity>2</dexterity>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Laura -->
+	<BACKGROUND>
+		<uiIndex>175</uiIndex>
+		<szName>外科军医</szName>
+		<szShortName>外科军医</szShortName>
+		<szDescription>谁都能把人切成两半，但能不能缝上去就是另一回事。</szDescription>
+		<medical>10</medical>
+		<dexterity>5</dexterity>
+		<cth_blades>5</cth_blades> 
+		<speed_bandaging>5</speed_bandaging> 
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Grace -->
+	<BACKGROUND>
+		<uiIndex>176</uiIndex>
+		<szName>马戏团演员</szName>
+		<szShortName>马戏团演员</szShortName>
+		<szDescription>听说哪怕把你绑起来你也能躲飞刀？那现在试试看躲子弹吧！</szDescription>
+		<agility>3</agility>
+		<dexterity>3</dexterity>
+		<cth_blades>4</cth_blades>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Rudolf -->
+	<BACKGROUND>
+		<uiIndex>177</uiIndex>
+		<szName>GSG9特工</szName>
+		<szShortName>GSG9特工</szShortName>
+		<szDescription>成立于1972年慕尼黑惨案后的GSG9是德国著名反恐部队。</szDescription>
+		<ap_urban>2</ap_urban>
+		<interrogation>50</interrogation>
+		<prisonguard>37</prisonguard>
+		<capitulation>8</capitulation>
+		<breachingcharge>80</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Spooky -->
+	<BACKGROUND>
+		<uiIndex>178</uiIndex>
+		<szName>SOG成员</szName>
+		<szShortName>SOG成员</szShortName>
+		<szDescription>这个SOG组织策划和组织了多起越南战场上的非常规军事行动。</szDescription>
+		<ap_swamp>2</ap_swamp>
+		<ap_tropical>4</ap_tropical>
+		<cth_blades>3</cth_blades>   
+		<camo>5</camo>
+		<traplevel>1</traplevel>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Skitz -->
+	<BACKGROUND>
+		<uiIndex>179</uiIndex>
+		<szName>精神病人</szName>
+		<szShortName>精神病人</szShortName>
+		<szDescription>没有人知道你是怎么逃出来的，不过大家一致认为，你应该回去。</szDescription>
+		<wisdom>-5</wisdom>
+		<leadership>-5</leadership>
+		<resistance_suppression>20</resistance_suppression>
+		<approach_direct>-50</approach_direct>
+		<approach_threaten>50</approach_threaten>
+		<approach_recruit>-50</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Weasel -->
+	<BACKGROUND>
+		<uiIndex>180</uiIndex>
+		<szName>告密者</szName>
+		<szShortName>告密者</szShortName>
+		<szDescription>你知道队友的一切事情，哪怕鸡毛蒜皮的小事。</szDescription>
+		<ap_inventory>-5</ap_inventory>
+		<hearing_night>1</hearing_night>
+    <hearing_day>1</hearing_day>
+    <spotter>10</spotter>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- It  -->
+	<BACKGROUND>
+		<uiIndex>181</uiIndex>
+		<szName>摔跤手</szName>
+		<szShortName>摔跤手</szShortName>
+		<szDescription>与其说是搏斗不如说是表演，不过被丢来丢去而没摔断脖子也需要一定的技术。</szDescription>
+		<resistance_physical>10</resistance_physical>
+		<carrystrength>25</carrystrength> 
+		<speed_run>5</speed_run>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Bernie -->
+	<BACKGROUND>
+		<uiIndex>182</uiIndex>
+		<szName>资深医生</szName>
+		<szShortName>资深医生</szShortName>
+		<szDescription>治人多年，自己却被廉价香烟和浓咖啡弄坏了身体，这真讽刺。</szDescription>
+		<agility>-7</agility>
+		<medical>10</medical>
+		<speed_bandaging>10</speed_bandaging>
+		<speed_run>-10</speed_run>
+		<approach_friendly>-5</approach_friendly>
+		<approach_threaten>10</approach_threaten>
+		<resistance_poison>20</resistance_poison>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Pops -->
+	<BACKGROUND>
+		<uiIndex>183</uiIndex>
+		<szName>殡仪员</szName>
+		<szShortName>殡仪员</szShortName>
+		<szDescription>每天都和死亡与尸体打交道，最终发现自己什么都不怕了！</szDescription>
+		<ap_fortify>-5</ap_fortify>
+		<resistance_fear>15</resistance_fear>
+		<approach_friendly>7</approach_friendly>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Wally -->
+	<BACKGROUND>
+		<uiIndex>184</uiIndex>
+		<szName>平庸射手</szName>
+		<szShortName>平庸射手</szShortName>
+		<szDescription>由于高度近视，Wally看来是无法提升其射击水平了。</szDescription>
+		<marksmanship>-10</marksmanship>
+		<increased_maxcth>-5</increased_maxcth>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Eli -->
+	<BACKGROUND>
+		<uiIndex>185</uiIndex>
+		<szName>外科军医</szName>
+		<szShortName>外科军医</szShortName>
+		<szDescription>谁都能把人切成两半，但能不能缝上去就是另一回事。</szDescription>
+		<medical>10</medical>
+		<dexterity>5</dexterity>
+		<cth_blades>5</cth_blades> 
+		<speed_bandaging>5</speed_bandaging> 
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Mitch -->
+	<BACKGROUND>
+		<uiIndex>186</uiIndex>
+		<szName>全科医生</szName>
+		<szShortName>全科医生</szShortName>
+		<szDescription>感染了病菌？脑子挨了一枪？全科医生能救你一命。</szDescription>
+		<medical>10</medical>
+		<speed_bandaging>8</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Carp -->
+	<BACKGROUND>
+		<uiIndex>187</uiIndex>
+		<szName>白领</szName>
+		<szShortName>白领</szShortName>
+		<szDescription>嗡嗡的空调、打翻的杯子和乱七八糟的资料，这就是办公室的生活。</szDescription>
+		<approach_direct>5</approach_direct>
+		<resistance_suppression>-10</resistance_suppression>
+		<ap_urban>2</ap_urban>
+		<ap_desert>-5</ap_desert>
+		<ap_swamp>-5</ap_swamp>
+		<ap_tropical>-5</ap_tropical>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Lance  -->
+	<BACKGROUND>
+		<uiIndex>188</uiIndex>
+		<szName>毕业生</szName>
+		<szShortName>毕业生</szShortName>
+		<szDescription>毕业工作不好找？不想读大学？来当杀手吧！</szDescription>
+		<wisdom>3</wisdom>
+		<resistance_suppression>-10</resistance_suppression>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Raffi -->
+	<BACKGROUND>
+		<uiIndex>189</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Wink -->
+	<BACKGROUND>
+		<uiIndex>190</uiIndex>
+		<szName>棒球选手</szName>
+		<szShortName>棒球选手</szShortName>
+		<szDescription>如果你的队伍需要一个能把手雷扔得又远又准的人，那就是他了！</szDescription>
+		<agility>2</agility>
+    <strength>2</strength>
+    <dexterity>3</dexterity>
+    <meleedamage>4</meleedamage>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Speck -->
+	<BACKGROUND>
+		<uiIndex>191</uiIndex>
+		<szName>技术宅</szName>
+		<szShortName>技术宅</szShortName>
+		<szDescription>技术宅拯救世界。就算闭着一只眼睛，技术宅也能在一分钟内摆好魔方。</szDescription>
+		<mechanical>5</mechanical>
+		<ap_inventory>-10</ap_inventory> 
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- PGmale 5 -->
+	<BACKGROUND>
+		<uiIndex>192</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- PGmale 6 -->
+	<BACKGROUND>
+		<uiIndex>193</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- PGmale 7 -->
+	<BACKGROUND>
+		<uiIndex>194</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- John -->
+	<BACKGROUND>
+		<uiIndex>195</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Elio -->
+	<BACKGROUND>
+		<uiIndex>196</uiIndex>
+		<szName>密达威亚岛土著</szName>
+		<szShortName>密达威亚岛土著</szShortName>
+		<szDescription>铁血联盟一代密达威亚岛的土著居民，革命后参加了雇佣兵组织。</szDescription>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<ap_swimming>-10</ap_swimming>
+		<travel_boat>5</travel_boat>
+		<resistance_poison>17</resistance_poison>
+		<drink_energyregen>15</drink_energyregen>
+		<camo>5</camo>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Juan -->
+	<BACKGROUND>
+		<uiIndex>197</uiIndex>
+		<szName>密达威亚岛土著</szName>
+		<szShortName>密达威亚岛土著</szShortName>
+		<szDescription>铁血联盟一代密达威亚岛的土著居民，革命后参加了雇佣兵组织。</szDescription>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<ap_swimming>-10</ap_swimming>
+		<travel_boat>5</travel_boat>
+		<resistance_poison>17</resistance_poison>
+		<drink_energyregen>15</drink_energyregen>
+		<camo>5</camo>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Wahan -->
+	<BACKGROUND>
+		<uiIndex>198</uiIndex>
+		<szName>密达威亚萨满</szName>
+		<szShortName>密达威亚萨满</szShortName>
+		<szDescription>从遥远的古代就领导着部落，萨满对西方来说一直是个谜。</szDescription>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<medical>10</medical>
+		<resistance_poison>17</resistance_poison>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>199</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>200</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Jeep 1 -->
+	<BACKGROUND>
+		<uiIndex>201</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Jeep 2 -->
+	<BACKGROUND>
+		<uiIndex>202</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Jeep 3 -->
+	<BACKGROUND>
+		<uiIndex>203</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>204</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>205</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>206</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>207</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>208</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>209</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>210</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>211</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>212</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>213</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>214</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>215</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>216</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>217</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>218</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Jorge -->
+	<BACKGROUND>
+		<uiIndex>219</uiIndex>
+		<szName>匪帮</szName>
+		<szShortName>匪帮</szShortName>
+		<szDescription>有组织的犯罪网络随处可见，没有例外。</szDescription>
+		<betterprices_guns>3</betterprices_guns>
+		<capitulation>4</capitulation>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>	
+	</BACKGROUND>
+	<!-- Postie -->
+	<BACKGROUND>
+		<uiIndex>220</uiIndex>
+		<szName>白领</szName>
+		<szShortName>白领</szShortName>
+		<szDescription>嗡嗡的空调、打翻的杯子和乱七八糟的资料，这就是办公室的生活。</szDescription>
+		<approach_direct>5</approach_direct>
+		<resistance_suppression>-10</resistance_suppression>
+		<ap_urban>2</ap_urban>
+		<ap_desert>-5</ap_desert>
+		<ap_swamp>-5</ap_swamp>
+		<ap_tropical>-5</ap_tropical>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>	
+	</BACKGROUND>
+	<!-- Reuban -->
+	<BACKGROUND>
+		<uiIndex>221</uiIndex>
+		<szName>精神病人</szName>
+		<szShortName>精神病人</szShortName>
+		<szDescription>没有人知道你是怎么逃出来的，不过大家一致认为，你应该回去。</szDescription>
+		<wisdom>-5</wisdom>
+		<leadership>-5</leadership>
+		<resistance_suppression>20</resistance_suppression>
+		<approach_direct>-50</approach_direct>
+		<approach_threaten>50</approach_threaten>
+		<approach_recruit>-50</approach_recruit>
+		<no_male>1</no_male>
+		<no_female>1</no_female>	
+	</BACKGROUND>
+	<!-- Leon -->
+	<BACKGROUND>
+		<uiIndex>222</uiIndex>
+		<szName>资深雇佣兵</szName>
+		<szShortName>资深雇佣兵</szShortName>
+		<szDescription>新人还在包尿布时你已经威名远扬，没有什么任务能难住你。</szDescription>
+		<leadership>5</leadership>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Gary -->
+	<BACKGROUND>
+		<uiIndex>223</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Sparky -->
+	<BACKGROUND>
+		<uiIndex>224</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Beth -->
+	<BACKGROUND>
+		<uiIndex>225</uiIndex>
+		<szName>护士</szName>
+		<szShortName>护士</szShortName>
+		<szDescription>护士在战区是很吃香的，因为太危险了，专业医生往往不愿意前往。</szDescription>
+		<speed_bandaging>20</speed_bandaging>
+		<medical>7</medical>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Sam -->
+	<BACKGROUND>
+		<uiIndex>226</uiIndex>
+		<szName>资深雇佣兵</szName>
+		<szShortName>资深雇佣兵</szShortName>
+		<szDescription>新人还在包尿布时你已经威名远扬，没有什么任务能难住你。</szDescription>
+		<leadership>5</leadership>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Hurl -->
+	<BACKGROUND>
+		<uiIndex>227</uiIndex>
+		<szName>疑病症患者</szName>
+		<szShortName>疑病症患者</szShortName>
+		<szDescription>哪怕走进医院或学校，也会觉得他们会偷偷暗害你！</szDescription>
+		<medical>3</medical>
+		<resistance_poison>10</resistance_poison>
+		<resistance_fear>-10</resistance_fear>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Doc -->
+	<BACKGROUND>
+		<uiIndex>228</uiIndex>
+		<szName>战地医师</szName>
+		<szShortName>战地医师</szShortName>
+		<szDescription>谁都能把人切成两半，但能不能缝上去就是另一回事。</szDescription>
+		<medical>5</medical>
+		<dexterity>5</dexterity>
+		<resistance_suppression>10</resistance_suppression>
+		<speed_bandaging>10</speed_bandaging> 
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Manuel -->
+	<BACKGROUND>
+		<uiIndex>229</uiIndex>
+		<szName>反抗军</szName>
+		<szShortName>反抗军</szShortName>
+		<szDescription>失联了很久，Manuel能够幸存下来实属不易。</szDescription>
+		<ap_swamp>4</ap_swamp>
+		<ap_river>4</ap_river>
+		<travel_foot>7</travel_foot>
+		<speed_bandaging>7</speed_bandaging>
+		<food>-10</food>
+		<water>-10</water>
+		<approach_direct>5</approach_direct>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Boss -->
+	<BACKGROUND>
+		<uiIndex>230</uiIndex>
+		<szName>修车工</szName>
+		<szShortName>修车工</szShortName>
+		<szDescription>非常有用，当然如果你有车的话。</szDescription>
+		<mechanical>6</mechanical>
+		<travel_car>10</travel_car>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Snake -->
+	<BACKGROUND>
+		<uiIndex>231</uiIndex>
+		<szName>杀手</szName>
+		<szShortName>杀手</szShortName>
+		<szDescription>杀手是危险而又高度专业的职业，其实他们有些并不太冷。</szDescription>
+		<camo>10</camo>
+		<stealth>5</stealth>
+		<marksmanship>2</marksmanship>
+		<approach_friendly>-10</approach_friendly>
+		<insurance>10</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Spam -->
+	<BACKGROUND>
+		<uiIndex>232</uiIndex>
+		<szName>UN维和部队</szName>
+		<szShortName>UN维和部队</szShortName>
+		<szDescription>各国合作提供部队，采用非暴力方式解决区域冲突。可悲的是，这个定义是错的。</szDescription>
+		<resistance_suppression>16</resistance_suppression>
+		<capitulation>10</capitulation>
+		<speed_bandaging>5</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Spike -->
+	<BACKGROUND>
+		<uiIndex>233</uiIndex>
+		<szName>游骑兵</szName>
+		<szShortName>游骑兵</szShortName>
+		<szDescription>来自美国陆军精英部队，沉默寡言、冷酷暴力。</szDescription>
+		<ap_assault>4</ap_assault>
+		<marksmanship>2</marksmanship>
+		<resistance_suppression>8</resistance_suppression>
+		<travel_foot>5</travel_foot>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Jimmy -->
+	<BACKGROUND>
+		<uiIndex>234</uiIndex>
+		<szName>囚犯</szName>
+		<szShortName>囚犯</szShortName>
+		<szDescription>任何熬到刑满释放的囚犯都容易变得非常暴力：如果能熬到那一天的话。</szDescription>
+		<resistance_poison>5</resistance_poison>
+		<resistance_physical>2</resistance_physical>
+		<meleedamage>2</meleedamage>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Leech -->
+	<BACKGROUND>
+		<uiIndex>235</uiIndex>
+		<szName>射击比赛枪手</szName>
+		<szShortName>射击比赛枪手</szShortName>
+		<szDescription>有些人一拿起枪就热血沸腾，恨不得把地球打穿。</szDescription>
+		<marksmanship>3</marksmanship>
+		<increased_maxcth>1</increased_maxcth>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Bob -->
+	<BACKGROUND>
+		<uiIndex>236</uiIndex>
+		<szName>空军飞行员</szName>
+		<szShortName>空军飞行员</szShortName>
+		<szDescription>处理各种复杂紧张局势得心应手，Bob的高手风范也影响到了其他人。</szDescription>
+		<mechanical>3</mechanical>
+		<travel_air>10</travel_air>
+		<resistance_fear>10</resistance_fear>
+		<xenophobic>1</xenophobic>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Kelly -->
+	<BACKGROUND>
+		<uiIndex>237</uiIndex>
+		<szName>雇佣兵</szName>
+		<szShortName>雇佣兵</szShortName>
+		<szDescription>不满足于平庸而无聊的过去，你选择了枪炮主宰的世界，这才是真正的你。</szDescription>
+		<ap_desert>3</ap_desert>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<ap_mountain>3</ap_mountain>
+		<resistance_fear>5</resistance_fear>
+		<resistance_suppression>5</resistance_suppression>
+		<approach_threaten>10</approach_threaten>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Vinny -->
+	<BACKGROUND>
+		<uiIndex>238</uiIndex>
+		<szName>匪徒</szName>
+		<szShortName>匪徒</szShortName>
+		<szDescription>有组织的犯罪网络随处可见，没有例外。</szDescription>
+		<ap_polar>-5</ap_polar>
+		<ap_desert>-5</ap_desert>
+		<ap_swamp>-5</ap_swamp>
+		<ap_urban>8</ap_urban>
+		<ap_river>-5</ap_river>
+		<ap_coastal>-5</ap_coastal>
+		<ap_tropical>-5</ap_tropical>
+		<ap_mountain>-5</ap_mountain>
+		<betterprices_guns>3</betterprices_guns>
+		<capitulation>4</capitulation>
+		<approach_threaten>5</approach_threaten>
+		<approach_recruit>8</approach_recruit>
+		<scrounging>1</scrounging> 
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Kaboom -->
+	<BACKGROUND>
+		<uiIndex>239</uiIndex>
+		<szName>资深造弹者</szName>
+		<szShortName>资深造弹者</szShortName>
+		<szDescription>有些东西造出来就是为了爆炸的，Kaboom以此为乐！</szDescription>
+		<wisdom>-10</wisdom>
+		<ap_urban>-5</ap_urban>
+		<approach_recruit>-5</approach_recruit>
+		<carrystrength>10</carrystrength>
+		<resistance_alcohol>10</resistance_alcohol>
+		<druguse>1</druguse>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Bud -->
+	<BACKGROUND>
+		<uiIndex>240</uiIndex>
+		<szName>律师</szName>
+		<szShortName>律师</szShortName>
+		<szDescription>虽然让他们做佣兵可能强人所难，不过在紧急关头他们也能派上用场。</szDescription>
+		<capitulation>20</capitulation>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Rusty -->
+	<BACKGROUND>
+		<uiIndex>241</uiIndex>
+		<szName>烟火商</szName>
+		<szShortName>烟火商</szShortName>
+		<szDescription>如果你想用节日礼炮把敌人的茅房炸开花，你最好找一个专业的烟火商。</szDescription>
+		<explosives>5</explosives>
+		<breachingcharge>50</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Needle -->
+	<BACKGROUND>
+		<uiIndex>242</uiIndex>
+		<szName>外科军医</szName>
+		<szShortName>外科军医</szShortName>
+		<szDescription>谁都能把人切成两半，但能不能缝上去就是另一回事。</szDescription>
+		<medical>10</medical>
+		<dexterity>5</dexterity>
+		<cth_blades>5</cth_blades> 
+		<speed_bandaging>5</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>		
+	</BACKGROUND>
+	<!-- Screw -->
+	<BACKGROUND>
+		<uiIndex>243</uiIndex>
+		<szName>军械师</szName>
+		<szShortName>军械师</szShortName>
+		<szDescription>对武器有近乎偏执的热爱，参军之后他发现梦想实现了！</szDescription>
+		<mechanical>10</mechanical>
+		<betterprices_guns>5</betterprices_guns>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Elroy -->
+	<BACKGROUND>
+		<uiIndex>244</uiIndex>
+		<szName>水门特工</szName>
+		<szShortName>水门特工</szShortName>
+		<szDescription>嗯？好像这不是我们事先的计划？</szDescription>
+		<approach_recruit>-10</approach_recruit>
+		<hearing_night>1</hearing_night>
+		<stealth>5</stealth>
+		<resistance_poison>5</resistance_poison>
+		<resistance_physical>2</resistance_physical>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Mouse -->
+	<BACKGROUND>
+		<uiIndex>245</uiIndex>
+		<szName>Mime</szName>
+		<szShortName>Mime</szShortName>
+		<szDescription>...</szDescription>
+		<approach_direct>-15</approach_direct>
+		<approach_recruit>-15</approach_recruit>
+		<interrogation>-15</interrogation>
+		<camo>10</camo>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Hector -->
+	<BACKGROUND>
+		<uiIndex>246</uiIndex>
+		<szName>South American</szName>
+		<szShortName>South American</szShortName>
+		<szDescription>...</szDescription>
+		<ap_swamp>3</ap_swamp>
+		<ap_tropical>3</ap_tropical>
+		<drink_energyregen>15</drink_energyregen>
+		<camo>5</camo>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Rev -->
+	<BACKGROUND>
+		<uiIndex>247</uiIndex>
+		<szName>神父</szName>
+		<szShortName>神父</szShortName>
+		<szDescription>宗教的力量是恐怖而巨大的，用好它可以改写历史。</szDescription>
+		<approach_recruit>10</approach_recruit>
+		<scrounging>1</scrounging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Stella -->
+	<BACKGROUND>
+		<uiIndex>248</uiIndex>
+		<szName>全科医生</szName>
+		<szShortName>全科医生</szShortName>
+		<szDescription>感染了病菌？脑子挨了一枪？全科医生能救你一命。</szDescription>
+		<medical>10</medical>
+		<speed_bandaging>8</speed_bandaging>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Ears -->
+	<BACKGROUND>
+		<uiIndex>249</uiIndex>
+		<szName>资深监控特工</szName>
+		<szShortName>资深监控特工</szShortName>
+		<szDescription>不管是合法的还是非法的监控活动都很在行，奇怪的是没人知道他从哪里学来的。</szDescription>
+		<stealth>3</stealth>
+		<hearing_night>2</hearing_night>   
+		<hearing_day>2</hearing_day>
+		<spotter>20</spotter>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Moses -->
+	<BACKGROUND>
+		<uiIndex>250</uiIndex>
+		<szName>资深雇佣兵</szName>
+		<szShortName>资深雇佣兵</szShortName>
+		<szDescription>新人还在包尿布时你已经威名远扬，没有什么任务能难住你。</szDescription>
+		<leadership>5</leadership>
+		<resistance_fear>10</resistance_fear>
+		<resistance_suppression>10</resistance_suppression>
+		<speed_run>-5</speed_run>
+		<insurance>-20</insurance>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Smoke -->
+	<BACKGROUND>
+		<uiIndex>251</uiIndex>
+		<szName>烟火商</szName>
+		<szShortName>烟火商</szShortName>
+		<szDescription>如果你想用节日礼炮把敌人的茅房炸开花，你最好找一个专业的烟火商。</szDescription>
+		<explosives>5</explosives>
+		<breachingcharge>50</breachingcharge>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Dyno -->
+	<BACKGROUND>
+		<uiIndex>252</uiIndex>
+		<szName>吉祥物</szName>
+		<szShortName>吉祥物</szShortName>
+		<szDescription>虽然不被重视，但孩子的笑容就让他觉得值得。</szDescription>
+		<approach_friendly>15</approach_friendly>
+		<approach_threaten>-10</approach_threaten>
+		<interrogation>-20</interrogation>
+		<water>10</water>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Turtle -->
+	<BACKGROUND>
+		<uiIndex>253</uiIndex>
+		<szName>执法队</szName>
+		<szShortName>执法队</szShortName>
+		<szDescription>嗨侦探，你解决掉那个失踪的油炸圈案件了么？</szDescription>
+		<interrogation>150</interrogation>
+		<prisonguard>50</prisonguard>
+		<food>50</food>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Empty -->
+	<BACKGROUND>
+		<uiIndex>254</uiIndex>
+		<szName>Placeholder</szName>
+		<szShortName>Placeholder</szShortName>
+		<szDescription>Not needed!</szDescription>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Barry -->
+	<BACKGROUND>
+		<uiIndex>255</uiIndex>
+		<szName>毕业生</szName>
+		<szShortName>毕业生</szShortName>
+		<szDescription>毕业工作不好找？不想读大学？来当杀手吧！</szDescription>
+		<wisdom>3</wisdom>
+		<resistance_suppression>-10</resistance_suppression>
+		<no_male>1</no_male>
+		<no_female>1</no_female>
+	</BACKGROUND>
+	<!-- Imp Backgrounds -->
+	<BACKGROUND>
+    <uiIndex>256</uiIndex>
+    <szName>军火商</szName>
+    <szShortName>军火商</szShortName>
+    <szDescription>多年的武器倒卖经验使得此人在买卖枪支弹药时，更善于抬价砍价。</szDescription>
+    <betterprices_guns>10</betterprices_guns>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>257</uiIndex>
+    <szName>执法队</szName>
+    <szShortName>执法队</szShortName>
+    <szDescription>城管出身的佼佼者们更乐意在杀手的世界谋求一职，他们当然最擅长审讯犯人。</szDescription>
+    <interrogation>150</interrogation>
+    <prisonguard>50</prisonguard>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>258</uiIndex>
+    <szName>监狱看守</szName>
+    <szShortName>监狱看守</szShortName>
+    <szDescription>担心监狱的暴徒们举兵反攻么？监狱看守是你最好的选择。</szDescription>
+    <prisonguard>300</prisonguard>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>259</uiIndex>
+    <szName>黑帮成员</szName>
+    <szShortName>黑帮成员</szShortName>
+    <szDescription>成为佣兵是很多黑帮成员的自然选择：工作差不多，武器和薪水好多了！</szDescription>
+    <approach_threaten>10</approach_threaten>
+    <meleedamage>3</meleedamage>
+    <cth_blades>2</cth_blades>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>260</uiIndex>
+    <szName>囚犯</szName>
+    <szShortName>囚犯</szShortName>
+    <szDescription>任何熬到刑满释放的囚犯都容易变得非常暴力：如果能熬到那一天的话。</szDescription>
+    <resistance_poison>5</resistance_poison>
+    <resistance_physical>2</resistance_physical>
+    <meleedamage>2</meleedamage>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>261</uiIndex>
+    <szName>瘾君子</szName>
+    <szShortName>瘾君子</szShortName>
+    <szDescription>深受毒品影响，瘾君子可以变成恐怖的、不稳定的对手。</szDescription>
+    <approach_threaten>10</approach_threaten>
+    <druguse>1</druguse>
+    <scrounging>1</scrounging>
+    <insurance>30</insurance>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>262</uiIndex>
+    <szName>富二代</szName>
+    <szShortName>富二代</szShortName>
+    <szDescription>比起那些玩豪车美女的娘娘腔败家子，有些富二代确实接受过顶级的特工训练。</szDescription>
+    <xenophobic>1</xenophobic>
+    <marksmanship>1</marksmanship>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>263</uiIndex>
+    <szName>律师</szName>
+    <szShortName>律师</szShortName>
+    <szDescription>虽然让他们做佣兵可能强人所难，不过在紧急关头他们也能派上用场。</szDescription>
+    <capitulation>20</capitulation>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>264</uiIndex>
+    <szName>飞行员</szName>
+    <szShortName>飞行员</szShortName>
+    <szDescription>接受过严格的军事训练，地面作战对他们而言可能不是很难。</szDescription>
+    <mechanical>3</mechanical>
+    <travel_air>10</travel_air>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>265</uiIndex>
+    <szName>神父</szName>
+    <szShortName>神父</szShortName>
+    <szDescription>宗教的力量是恐怖而巨大的，用好它可以改写历史。</szDescription>
+    <approach_recruit>10</approach_recruit>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>266</uiIndex>
+    <szName>护士</szName>
+    <szShortName>护士</szShortName>
+    <szDescription>护士在战区是很吃香的，因为太危险了，专业医生往往不愿意前往。</szDescription>
+    <speed_bandaging>20</speed_bandaging>
+    <medical>7</medical>
+    <no_male>1</no_male>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>267</uiIndex>
+    <szName>建筑工</szName>
+    <szShortName>建筑工</szShortName>
+    <szDescription>建筑工人都是卖苦力的，他们体格壮实，擅长建造碉堡和搬砖。</szDescription>
+    <strength>6</strength>
+    <ap_fortify>-10</ap_fortify>
+    <carrystrength>8</carrystrength>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>268</uiIndex>
+    <szName>跳伞员</szName>
+    <szShortName>跳伞员</szShortName>
+    <szDescription>喜欢冒险吗，喜欢生死不卜的感觉？试试跳伞吧。</szDescription>
+    <ap_airdrop>25</ap_airdrop>
+    <insurance>40</insurance>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>269</uiIndex>
+    <szName>教官</szName>
+    <szShortName>教官</szShortName>
+    <szDescription>教官的工作就是训练新兵蛋子：让那些年轻男女留下心灵创伤。</szDescription>
+    <leadership>6</leadership>
+    <marksmanship>4</marksmanship>
+    <approach_threaten>10</approach_threaten>
+    <approach_recruit>-6</approach_recruit>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>270</uiIndex>
+    <szName>保安</szName>
+    <szShortName>保安</szShortName>
+    <szDescription>保安有打架的经验，不过杀人这一块可能略有生疏。</szDescription>
+    <meleedamage>4</meleedamage>
+    <dexterity>2</dexterity>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>271</uiIndex>
+    <szName>杀手</szName>
+    <szShortName>杀手</szShortName>
+    <szDescription>杀手是危险而又高度专业的职业，其实他们有些并不太冷。</szDescription>
+    <stealth>4</stealth>
+    <marksmanship>2</marksmanship>
+    <approach_friendly>-10</approach_friendly>
+    <insurance>10</insurance>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>272</uiIndex>
+    <szName>极端分子</szName>
+    <szShortName>极端分子</szShortName>
+    <szDescription>恐怖分子还是自由斗士？有时取决于你和他们杀死的人是什么关系。</szDescription>
+    <explosives>6</explosives>
+    <breachingcharge>30</breachingcharge>
+    <traplevel>1</traplevel>
+    <insurance>40</insurance>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>273</uiIndex>
+    <szName>保镖</szName>
+    <szShortName>保镖</szShortName>
+    <szDescription>精良训练，无比忠诚，不惧牺牲，不愧为雇主的最佳选择。</szDescription>
+    <ap_inventory>-10</ap_inventory>
+    <strength>1</strength>
+    <resistance_physical>3</resistance_physical>
+    <meleedamage>2</meleedamage>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>274</uiIndex>
+    <szName>SWAT特工</szName>
+    <szShortName>SWAT特工</szShortName>
+    <szDescription>设身于最危险的都市角落，SWAT特工擅长处理高度专业的军事和政治行动。</szDescription>
+    <ap_urban>2</ap_urban>
+    <ap_assault>2</ap_assault>
+    <interrogation>75</interrogation>
+    <prisonguard>50</prisonguard>
+    <breachingcharge>70</breachingcharge>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>275</uiIndex>
+    <szName>酒吧老板</szName>
+    <szShortName>酒吧老板</szShortName>
+    <szDescription>友好点，很多暴力就泯灭于无形：和气生财嘛！</szDescription>
+    <betterprices>4</betterprices>
+    <approach_friendly>15</approach_friendly>
+    <approach_recruit>5</approach_recruit>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>276</uiIndex>
+    <szName>矿工</szName>
+    <szShortName>矿工</szShortName>
+    <szDescription>黑煤窑的工作既辛苦又危险，难怪有些人宁愿选择死在战场上。</szDescription>
+    <ap_fortify>-20</ap_fortify>
+    <strength>5</strength>
+    <level_underground>1</level_underground>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>277</uiIndex>
+    <szName>匪帮</szName>
+    <szShortName>匪帮</szShortName>
+    <szDescription>有组织的犯罪网络随处可见，没有例外。</szDescription>
+    <betterprices_guns>3</betterprices_guns>
+    <capitulation>4</capitulation>
+    <approach_threaten>5</approach_threaten>
+    <approach_recruit>8</approach_recruit>
+    <scrounging>1</scrounging> 
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>278</uiIndex>
+    <szName>UN维和部队</szName>
+    <szShortName>UN维和部队</szShortName>
+    <szDescription>各国合作提供部队，采用非暴力方式解决区域冲突。可悲的是，这个定义是错的。</szDescription>
+    <capitulation>14</capitulation>
+    <speed_bandaging>10</speed_bandaging>
+    <approach_friendly>4</approach_friendly>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>279</uiIndex>
+    <szName>空降兵</szName>
+    <szShortName>空降兵</szShortName>
+    <szDescription>与其面对上级那张抽脸，索性跳下去算了！</szDescription>
+    <ap_airdrop>20</ap_airdrop>
+    <ap_assault>2</ap_assault>
+    <resistance_fear>10</resistance_fear>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>280</uiIndex>
+    <szName>游击队</szName>
+    <szShortName>游击队</szShortName>
+    <szDescription>我们都是神枪手，每一颗子弹消灭一个敌人。</szDescription>
+    <ap_swamp>3</ap_swamp>
+    <ap_tropical>4</ap_tropical>
+    <camo>5</camo>
+    <traplevel>1</traplevel>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>281</uiIndex>
+    <szName>新兵蛋子</szName>
+    <szShortName>新兵蛋子</szShortName>
+    <szDescription>尚未经过战火洗礼，但至少通过了基本训练。</szDescription>
+    <travel_foot>4</travel_foot>
+    <resistance_alcohol>5</resistance_alcohol>
+    <prisonguard>10</prisonguard>
+    <spotter>5</spotter>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>282</uiIndex>
+    <szName>军事顾问</szName>
+    <szShortName>军事顾问</szShortName>
+    <szDescription>瞄准射击很容易，难得是教会别人瞄准谁射击。</szDescription>
+    <leadership>5</leadership>
+    <approach_direct>10</approach_direct>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>283</uiIndex>
+    <szName>军事辅导员</szName>
+    <szShortName>军事辅导员</szShortName>
+    <szDescription>像童子军一样，只不过使用了暴力。所以...这还是是童子军呀。</szDescription>
+    <leadership>8</leadership>
+    <approach_recruit>10</approach_recruit>
+    <xenophobic>1</xenophobic> 
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>284</uiIndex>
+    <szName>红军</szName>
+    <szShortName>红军</szShortName>
+    <szDescription>苏联红军克服了严寒天气和物资缺乏， 最终弄死了希特勒。</szDescription>
+    <ap_polar>8</ap_polar>
+    <mechanical>4</mechanical>
+    <resistance_fear>10</resistance_fear>
+    <resistance_alcohol>10</resistance_alcohol>
+    <drink_energyregen>7</drink_energyregen>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>285</uiIndex>
+    <szName>殡仪员</szName>
+    <szShortName>殡仪员</szShortName>
+    <szDescription>每天都和死亡与尸体打交道，最终发现自己什么都不怕了！</szDescription>
+    <ap_fortify>-5</ap_fortify>
+    <resistance_fear>15</resistance_fear>
+    <approach_friendly>7</approach_friendly>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>286</uiIndex>
+    <szName>退役军人</szName>
+    <szShortName>退役军人</szShortName>
+    <szDescription>经过了几场战役血与火的洗礼，第一时间发现危险已成为本能。</szDescription>
+    <ap_assault>2</ap_assault>
+    <marksmanship>2</marksmanship>
+    <resistance_suppression>4</resistance_suppression>
+    <travel_foot>5</travel_foot>
+    <speed_run>5</speed_run>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>287</uiIndex>
+    <szName>图阿雷格人</szName>
+    <szShortName>图阿雷格人</szShortName>
+    <szDescription>图阿雷格人生活在撒哈拉沙漠，过着游牧生活。</szDescription>
+    <ap_desert>8</ap_desert>
+    <ap_swimming>20</ap_swimming>
+    <travel_foot>5</travel_foot>
+    <food>-5</food>
+    <water>-20</water>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>288</uiIndex>
+    <szName>消防员</szName>
+    <szShortName>消防员</szShortName>
+    <szDescription>有些工作即使不需要持枪射击，也会十分危险。</szDescription>
+    <ap_height>2</ap_height>
+    <mechanical>3</mechanical>
+    <explosives>2</explosives>
+    <travel_car>5</travel_car>
+    <resistance_fear>6</resistance_fear>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>289</uiIndex>
+    <szName>射击比赛枪手</szName>
+    <szShortName>射击比赛枪手</szShortName>
+    <szDescription>有些人一拿起枪就热血沸腾，恨不得把地球打穿。</szDescription>
+    <marksmanship>3</marksmanship>
+    <increased_maxcth>1</increased_maxcth>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>290</uiIndex>
+    <szName>店员</szName>
+    <szShortName>店员</szShortName>
+    <szDescription>对于某些人而言，他们的工作就是点钞票。</szDescription>
+    <betterprices_guns>5</betterprices_guns>
+    <betterprices>10</betterprices>
+    <approach_recruit>5</approach_recruit>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>291</uiIndex>
+    <szName>修车工</szName>
+    <szShortName>修车工</szShortName>
+    <szDescription>非常有用，当然如果你有车的话。</szDescription>
+    <mechanical>6</mechanical>
+    <travel_car>10</travel_car>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>292</uiIndex>
+    <szName>机械师</szName>
+    <szShortName>机械师</szShortName>
+    <szDescription>在物资缺乏的战场上，能维修装备太重要了！</szDescription>
+    <mechanical>8</mechanical>
+    <betterprices>2</betterprices>
+  </BACKGROUND>
+  <BACKGROUND>
+    <uiIndex>293</uiIndex>
+    <szName>反恐精英</szName>
+    <szShortName>反恐精英</szShortName>
+    <szDescription>反恐精英一般处理国际事务，国内？有城管和武警呢。</szDescription>
+    <ap_urban>2</ap_urban>
+    <interrogation>40</interrogation>
+    <prisonguard>40</prisonguard>
+    <capitulation>8</capitulation>
+    <breachingcharge>80</breachingcharge>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>294</uiIndex>
+   <szName>白领</szName>
+   <szShortName>白领</szShortName>
+   <szDescription>嗡嗡的空调、打翻的杯子和乱七八糟的资料，这就是办公室的生活。</szDescription>
+   <approach_direct>5</approach_direct>
+   <resistance_suppression>-10</resistance_suppression>
+   <ap_urban>2</ap_urban>
+   <ap_desert>-5</ap_desert>
+   <ap_swamp>-5</ap_swamp>
+   <ap_tropical>-5</ap_tropical>
+   <insurance>-20</insurance>
+ </BACKGROUND>
+ <BACKGROUND>
+   <uiIndex>295</uiIndex>
+   <szName>后台员工</szName>
+   <szShortName>后台员工</szShortName>
+   <szDescription>灯光、音效和尖叫的观众，其实和战场也没什么区别不是吗？</szDescription>
+   <mechanical>3</mechanical>
+   <resistance_suppression>10</resistance_suppression>
+   <hearing_night>-3</hearing_night>
+   <hearing_day>-3</hearing_day>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>296</uiIndex>
+   <szName>技术宅</szName>
+   <szShortName>技术宅</szShortName>
+   <szDescription>技术宅拯救世界。就算闭着一只眼睛，技术宅也能在一分钟内摆好魔方。</szDescription>
+   <mechanical>5</mechanical>
+   <ap_inventory>-10</ap_inventory> 
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>297</uiIndex>
+   <szName>毕业生</szName>
+   <szShortName>毕业生</szShortName>
+   <szDescription>毕业工作不好找？不想读大学？来当杀手吧！</szDescription>
+   <wisdom>3</wisdom>
+   <resistance_suppression>-10</resistance_suppression>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>298</uiIndex>
+   <szName>资深盗贼</szName>
+   <szShortName>资深盗贼</szShortName>
+   <szDescription>习惯性会顺手拿走一切看得顺眼的东西，其实是下意识的本能。</szDescription>
+   <agility>3</agility>
+   <ap_inventory>-15</ap_inventory>
+   <carrystrength>7</carrystrength>
+   <stealth>5</stealth>
+   <hearing_night>1</hearing_night>
+   <breachingcharge>20</breachingcharge>
+   <scrounging>1</scrounging>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>299</uiIndex>
+   <szName>喜剧演员</szName>
+   <szShortName>喜剧演员</szShortName>
+   <szDescription>看到你的贱笑，敌人就忍不住放下手里的枪捂肚子了。</szDescription>
+   <approach_direct>-15</approach_direct>
+   <approach_recruit>-15</approach_recruit>
+   <interrogation>-15</interrogation>
+   <camo>5</camo><!-- only urban camo? -->
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>300</uiIndex>
+   <szName>二流演员</szName>
+   <szShortName>二流演员</szShortName>
+   <szDescription>中老年妇女的偶像，大木老师和毕姥爷毕生追求的目标，你的名声已享誉世界。</szDescription>
+   <approach_friendly>20</approach_friendly>
+   <camo>10</camo>
+   <capitulation>5</capitulation>
+   <!-- easier to recognise in disguise? -->
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>301</uiIndex>
+   <szName>烟火商</szName>
+   <szShortName>烟火商</szShortName>
+   <szDescription>如果你想用节日礼炮把敌人的茅房炸开花，你最好找一个专业的烟火商。</szDescription>
+   <explosives>5</explosives>
+   <breachingcharge>50</breachingcharge>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>302</uiIndex>
+   <szName>拆弹专家</szName>
+   <szShortName>拆弹专家</szShortName>
+   <szDescription>拆弹专家一生只允许犯两个错误：第一个错误是选了这职业。</szDescription>
+   <explosives>8</explosives>
+   <breachingcharge>20</breachingcharge>
+   <insurance>30</insurance>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>303</uiIndex>
+   <szName>疑病症患者</szName>
+   <szShortName>疑病症患者</szShortName>
+   <szDescription>哪怕走进医院或学校，也会觉得他们会偷偷暗害你！</szDescription>
+   <medical>3</medical>
+   <resistance_poison>10</resistance_poison>
+   <resistance_fear>-10</resistance_fear>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>304</uiIndex>
+   <szName>乡巴佬</szName>
+   <szShortName>乡巴佬</szShortName>
+   <szDescription>头发插着枯稻草，张嘴一笑缺颗牙，好吧，农场的生活也不是那么容易。</szDescription>
+   <mechanical>3</mechanical>
+   <medical>3</medical>
+   <wisdom>-7</wisdom>
+   <ap_urban>-5</ap_urban>
+   <approach_recruit>-5</approach_recruit>
+   <carrystrength>10</carrystrength>
+   <resistance_alcohol>10</resistance_alcohol>
+   <druguse>1</druguse>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>305</uiIndex>
+   <szName>偷窥狂</szName>
+   <szShortName>偷窥狂</szShortName>
+   <szDescription>其实不必那么费力气，兄弟，上网吧！</szDescription>
+   <stealth>4</stealth>
+   <spotter>15</spotter>
+   <no_female>1</no_female>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>306</uiIndex>
+   <szName>专家</szName>
+   <szShortName>专家</szShortName>
+   <szDescription>绝大部分知识都是纸上谈兵却偏偏喜欢大放厥词，你们还是赶快去战场死掉吧！</szDescription>
+   <wisdom>5</wisdom>
+   <resistance_fear>-5</resistance_fear>
+   <resistance_suppression>-15</resistance_suppression>
+   <speed_run>-5</speed_run>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>307</uiIndex>
+   <szName>精神病人</szName>
+   <szShortName>精神病人</szShortName>
+   <szDescription>没有人知道你是怎么逃出来的，不过大家一致认为，你应该回去。</szDescription>
+   <wisdom>-5</wisdom>
+   <leadership>-5</leadership>
+   <resistance_suppression>20</resistance_suppression>
+   <approach_direct>-50</approach_direct>
+   <approach_threaten>50</approach_threaten>
+   <approach_recruit>-50</approach_recruit>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>308</uiIndex>
+   <szName>摔跤手</szName>
+   <szShortName>摔跤手</szShortName>
+   <szDescription>与其说是搏斗不如说是表演，不过被丢来丢去而没摔断脖子也需要一定的技术。</szDescription>
+   <resistance_physical>10</resistance_physical>
+   <carrystrength>25</carrystrength> 
+   <speed_run>5</speed_run>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>309</uiIndex>
+   <szName>全科医生</szName>
+   <szShortName>全科医生</szShortName>
+   <szDescription>从感冒到绝症无所不能，取出你大脑里的子弹更是不在话下。</szDescription>
+   <medical>10</medical>
+   <speed_bandaging>8</speed_bandaging>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>310</uiIndex>
+   <szName>外科军医</szName>
+   <szShortName>外科军医</szShortName>
+   <szDescription>谁都能把人切成两半，但能不能缝上去就是另一回事。</szDescription>
+   <medical>10</medical>
+   <dexterity>5</dexterity>
+   <cth_blades>5</cth_blades> 
+   <speed_bandaging>5</speed_bandaging> 
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>311</uiIndex>
+   <szName>雇佣兵</szName>
+   <szShortName>雇佣兵</szShortName>
+   <szDescription>不满足于平庸而无聊的过去，你选择了枪炮主宰的世界，这才是真正的你。</szDescription>
+   <resistance_fear>5</resistance_fear>
+   <resistance_suppression>5</resistance_suppression>
+   <approach_threaten>10</approach_threaten>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>312</uiIndex>
+   <szName>资深雇佣兵</szName>
+   <szShortName>资深雇佣兵</szShortName>
+   <szDescription>新人还在包尿布时你已经威名远扬，没有什么任务能难住你。</szDescription>
+   <leadership>5</leadership>
+   <resistance_fear>10</resistance_fear>
+   <resistance_suppression>10</resistance_suppression>
+   <speed_run>-5</speed_run>
+   <insurance>-20</insurance>
+  </BACKGROUND>
+  <BACKGROUND>
+   <uiIndex>313</uiIndex>
+   <szName>王牌猎手</szName>
+   <szShortName>王牌猎手</szShortName>
+   <szDescription>擅长于猎杀各种珍奇异兽，包括女王的手下。</szDescription>
+   <ap_desert>1</ap_desert>
+   <ap_swamp>2</ap_swamp>
+   <ap_urban>-3</ap_urban>
+   <ap_tropical>3</ap_tropical>
+   <travel_foot>3</travel_foot>
+   <carrystrength>4</carrystrength>
+   <stealth>6</stealth>
+   <cth_vs_creatures>15</cth_vs_creatures>
+  </BACKGROUND> 
+  <BACKGROUND>
+   <uiIndex>314</uiIndex>
+   <szName>狙击观察手</szName>
+   <szShortName>狙击观察手</szShortName>
+   <szDescription>经过周密计算后你标记了目标：几秒后一颗子弹就会飞向他。</szDescription>
+   <spotter>30</spotter>
+  </BACKGROUND>
+  <BACKGROUND>
+		<uiIndex>315</uiIndex>
+		<szName>工兵</szName>
+		<szShortName>工兵</szShortName>
+		<szDescription>微小的失误就会导致失误，幸好你还没犯过错。</szDescription>
+		<dexterity>5</dexterity>
+		<resistance_fear>8</resistance_fear>
+		<breachingcharge>15</breachingcharge>
+		<insurance>50</insurance>
+		<disarm_trap>40</disarm_trap>
+	</BACKGROUND>
+</BACKGROUNDS>
