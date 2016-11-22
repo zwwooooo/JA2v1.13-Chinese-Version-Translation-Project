@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Ammo" xml:space="preserve">
+    <value>Ammo</value>
+  </data>
+  <data name="AmmoCalibers" xml:space="preserve">
+    <value>Ammo Calibers</value>
+  </data>
+  <data name="AmmoTypes" xml:space="preserve">
+    <value>Ammo Types</value>
+  </data>
+  <data name="ArmourClasses" xml:space="preserve">
+    <value>Armour Classes</value>
+  </data>
+  <data name="Armours" xml:space="preserve">
+    <value>Armours</value>
+  </data>
+  <data name="AttachmentClasses" xml:space="preserve">
+    <value>Attachment Classes</value>
+  </data>
+  <data name="AttachmentInfo" xml:space="preserve">
+    <value>Attachment Info</value>
+  </data>
+  <data name="AttachmentList" xml:space="preserve">
+    <value>Attachment Listing</value>
+  </data>
+  <data name="AttachmentMerges" xml:space="preserve">
+    <value>Attachment Merges</value>
+  </data>
+  <data name="Attachments" xml:space="preserve">
+    <value>Attachments</value>
+  </data>
+  <data name="AttachmentSlots" xml:space="preserve">
+    <value>Attachment Slots</value>
+  </data>
+  <data name="AttachmentSystem" xml:space="preserve">
+    <value>Attachment System</value>
+  </data>
+  <data name="BurstSounds" xml:space="preserve">
+    <value>Burst Sounds</value>
+  </data>
+  <data name="CompatibleFaceItems" xml:space="preserve">
+    <value>Compatible Facial Gear</value>
+  </data>
+  <data name="Cursors" xml:space="preserve">
+    <value>Cursors</value>
+  </data>
+  <data name="Data" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="Explosions" xml:space="preserve">
+    <value>Explosions</value>
+  </data>
+  <data name="ExplosionTypes" xml:space="preserve">
+    <value>Explosion Types</value>
+  </data>
+  <data name="Explosives" xml:space="preserve">
+    <value>Explosives</value>
+  </data>
+  <data name="FaceGear" xml:space="preserve">
+    <value>Facial Gear</value>
+  </data>
+  <data name="Grenades" xml:space="preserve">
+    <value>Grenades</value>
+  </data>
+  <data name="Guns" xml:space="preserve">
+    <value>Guns</value>
+  </data>
+  <data name="IncompatibleAttachments" xml:space="preserve">
+    <value>Incompatible Attachments</value>
+  </data>
+  <data name="ItemClasses" xml:space="preserve">
+    <value>Item Classes</value>
+  </data>
+  <data name="Items" xml:space="preserve">
+    <value>Items</value>
+  </data>
+  <data name="Keys" xml:space="preserve">
+    <value>Keys</value>
+  </data>
+  <data name="Kits" xml:space="preserve">
+    <value>Kits</value>
+  </data>
+  <data name="Knives" xml:space="preserve">
+    <value>Knives</value>
+  </data>
+  <data name="Launchables" xml:space="preserve">
+    <value>Launchables</value>
+  </data>
+  <data name="Launchers" xml:space="preserve">
+    <value>Launchers</value>
+  </data>
+  <data name="LbeClasses" xml:space="preserve">
+    <value>Load Bearing Equipment Classes</value>
+  </data>
+  <data name="LoadBearing" xml:space="preserve">
+    <value>LoadBearing</value>
+  </data>
+  <data name="MergeTypes" xml:space="preserve">
+    <value>Merge Types</value>
+  </data>
+  <data name="Misc" xml:space="preserve">
+    <value>Miscellaneous</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="NormalGunsMode" xml:space="preserve">
+    <value>Normal Guns Mode</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="OtherWeapons" xml:space="preserve">
+    <value>Other Weapons</value>
+  </data>
+  <data name="PocketTypes" xml:space="preserve">
+    <value>Pocket Types</value>
+  </data>
+  <data name="RealisticMode" xml:space="preserve">
+    <value>Realistic Mode</value>
+  </data>
+  <data name="SciFiMode" xml:space="preserve">
+    <value>Sci-Fi Mode</value>
+  </data>
+  <data name="SkillChecks" xml:space="preserve">
+    <value>Skill Checks</value>
+  </data>
+  <data name="Sounds" xml:space="preserve">
+    <value>Sounds</value>
+  </data>
+  <data name="StandardMerges" xml:space="preserve">
+    <value>Standard Merges</value>
+  </data>
+  <data name="TonsOfGunsMode" xml:space="preserve">
+    <value>Tons of Guns Mode</value>
+  </data>
+  <data name="WeaponClasses" xml:space="preserve">
+    <value>Weapon Classes</value>
+  </data>
+  <data name="WeaponTypes" xml:space="preserve">
+    <value>Weapon Types</value>
+  </data>
+  <data name="Alberto" xml:space="preserve">
+    <value>Alberto</value>
+  </data>
+  <data name="AmmoDropRates" xml:space="preserve">
+    <value>Ammo Drop Rates</value>
+  </data>
+  <data name="ArmourDropRates" xml:space="preserve">
+    <value>Armour Drop Rates</value>
+  </data>
+  <data name="Arnie" xml:space="preserve">
+    <value>Arnie</value>
+  </data>
+  <data name="Carlo" xml:space="preserve">
+    <value>Carlo</value>
+  </data>
+  <data name="CustomFilter" xml:space="preserve">
+    <value>Custom Filter</value>
+  </data>
+  <data name="Devin" xml:space="preserve">
+    <value>Devin</value>
+  </data>
+  <data name="Elgin" xml:space="preserve">
+    <value>Elgin</value>
+  </data>
+  <data name="EnemyAmmo" xml:space="preserve">
+    <value>Enemy Ammo Choices</value>
+  </data>
+  <data name="EnemyGuns" xml:space="preserve">
+    <value>Enemy Gun Choices</value>
+  </data>
+  <data name="EnemyItems" xml:space="preserve">
+    <value>Enemy Item Choices</value>
+  </data>
+  <data name="ExplosiveDropRates" xml:space="preserve">
+    <value>Explosive Drop Rates</value>
+  </data>
+  <data name="Frank" xml:space="preserve">
+    <value>Frank</value>
+  </data>
+  <data name="Franz" xml:space="preserve">
+    <value>Franz</value>
+  </data>
+  <data name="Fredo" xml:space="preserve">
+    <value>Fredo</value>
+  </data>
+  <data name="Gabby" xml:space="preserve">
+    <value>Gabby</value>
+  </data>
+  <data name="Herve" xml:space="preserve">
+    <value>Herve</value>
+  </data>
+  <data name="Howard" xml:space="preserve">
+    <value>Howard</value>
+  </data>
+  <data name="ImpItems" xml:space="preserve">
+    <value>IMP Item Choices</value>
+  </data>
+  <data name="Inventory" xml:space="preserve">
+    <value>Inventory</value>
+  </data>
+  <data name="Jake" xml:space="preserve">
+    <value>Jake</value>
+  </data>
+  <data name="Keith" xml:space="preserve">
+    <value>Keith</value>
+  </data>
+  <data name="Manny" xml:space="preserve">
+    <value>Manny</value>
+  </data>
+  <data name="MercStartingGear" xml:space="preserve">
+    <value>Merc Starting Gear</value>
+  </data>
+  <data name="Mickey" xml:space="preserve">
+    <value>Mickey</value>
+  </data>
+  <data name="MiscItemDropRates" xml:space="preserve">
+    <value>Misc. Item Drop Rates</value>
+  </data>
+  <data name="Perko" xml:space="preserve">
+    <value>Perko</value>
+  </data>
+  <data name="Peter" xml:space="preserve">
+    <value>Peter</value>
+  </data>
+  <data name="Sam" xml:space="preserve">
+    <value>Sam</value>
+  </data>
+  <data name="Tony" xml:space="preserve">
+    <value>Tony</value>
+  </data>
+  <data name="WeaponDropRates" xml:space="preserve">
+    <value>Weapon Drop Rates</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Welcome to the JA2 v1.13 XML Editor</value>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>About {0}</value>
+  </data>
+  <data name="Version" xml:space="preserve">
+    <value>Version {0}</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="InventorySilhouettes" xml:space="preserve">
+    <value>Inventory Silhouettes</value>
+  </data>
+  <data name="ReloadingData" xml:space="preserve">
+    <value>Reloading Data...</value>
+  </data>
+  <data name="ApplicationStarting" xml:space="preserve">
+    <value>Application Starting...</value>
+  </data>
+  <data name="BuildingItemTable" xml:space="preserve">
+    <value>Building Item Table...</value>
+  </data>
+  <data name="CreatingDatabase" xml:space="preserve">
+    <value>Creating database...</value>
+  </data>
+  <data name="Initializing" xml:space="preserve">
+    <value>Initializing...</value>
+  </data>
+  <data name="LoadingImages" xml:space="preserve">
+    <value>Loading Images...</value>
+  </data>
+  <data name="LoadingSettings" xml:space="preserve">
+    <value>Loading Saved Settings...</value>
+  </data>
+  <data name="LoadingTables" xml:space="preserve">
+    <value>Loading XML Files... {1}</value>
+  </data>
+  <data name="UnhandledError" xml:space="preserve">
+    <value>Unhandled error.  Please report this error to the JA2 1.13 Development Team on the 'Bears Pit Forum'.</value>
+  </data>
+  <data name="LoadingXmlFiles" xml:space="preserve">
+    <value>Loading XML Files...</value>
+  </data>
+  <data name="CurrentDirectorySplash" xml:space="preserve">
+    <value>Current Dir: {0}</value>
+  </data>
+  <data name="MainFormTitle" xml:space="preserve">
+    <value>JA2 v1.13 - XML Editor (Current Directory: {0})</value>
+  </data>
+  <data name="SearchingForOtherDirectories" xml:space="preserve">
+    <value>Searching for other directories...</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="Saving" xml:space="preserve">
+    <value>Saving...</value>
+  </data>
+  <data name="ItemDataFormText" xml:space="preserve">
+    <value>{0}: Item - {1} - {2}</value>
+  </data>
+  <data name="MercGearDataFormText" xml:space="preserve">
+    <value>{0}: Starting Gear - {1}</value>
+  </data>
+  <data name="ItemTransformations" xml:space="preserve">
+    <value>Item Transformations</value>
+  </data>
+  <data name="NasAttachmentClasses" xml:space="preserve">
+    <value>NAS Attachment Classes</value>
+  </data>
+  <data name="AttachmentPoints" xml:space="preserve">
+    <value>Attachment Points</value>
+  </data>
+  <data name="Drugs" xml:space="preserve">
+    <value>Drugs</value>
+  </data>
+  <data name="DrugTypes" xml:space="preserve">
+    <value>Drug Types</value>
+  </data>
+  <data name="Separability" xml:space="preserve">
+    <value>Separability States</value>
+  </data>
+  <data name="ItemFlags" xml:space="preserve">
+    <value>Item Flags</value>
+  </data>
+  <data name="Clothes" xml:space="preserve">
+    <value>Clothes</value>
+  </data>
+  <data name="Food" xml:space="preserve">
+    <value>Food</value>
+  </data>
+  <data name="RandomItems" xml:space="preserve">
+    <value>Random Items</value>
+  </data>
+  <data name="AmmoFlags" xml:space="preserve">
+    <value>Ammo Flags</value>
+  </data>
+</root>
