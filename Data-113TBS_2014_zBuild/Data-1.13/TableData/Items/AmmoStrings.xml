@@ -82,8 +82,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>16</uiIndex>
-		<AmmoCaliber>flame</AmmoCaliber>
-		<BRCaliber>flame</BRCaliber>
+		<AmmoCaliber>Flame</AmmoCaliber>
+		<BRCaliber>Flame</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>17</uiIndex>
@@ -142,8 +142,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>28</uiIndex>
-		<AmmoCaliber>12.5x35mm</AmmoCaliber>
-		<BRCaliber>12.5x35mm</BRCaliber>
+		<AmmoCaliber>12.3x50mm</AmmoCaliber>
+		<BRCaliber>12.3x50mm</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>29</uiIndex>

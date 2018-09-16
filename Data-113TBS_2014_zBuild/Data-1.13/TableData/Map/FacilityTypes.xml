@@ -189,7 +189,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
-			<szTooltipText>当地人可能会愿意帮你侦察周边地区的动向。你可以通过他们收集更多更细的有关这附近区域敌方的情报。</szTooltipText>
+			<szTooltipText>当地人可能会愿意帮你侦察周边地区的动向。你可以通过他们收集更多更详细的有关这附近区域敌方的情报。</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<fDetectEnemiesDynamic>1</fDetectEnemiesDynamic>
 			<ubDetectEnemiesImmediate>2</ubDetectEnemiesImmediate>
@@ -346,7 +346,7 @@
 
 	<FACILITYTYPE>
 		<ubIndex>18</ubIndex>
-		<szFacilityName>军用训练场地遗迹</szFacilityName>
+		<szFacilityName>军用训练场遗迹</szFacilityName>
 		<szFacilityShortName>遗迹</szFacilityShortName>
 		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
 		<ubMobileMilitiaTrainersAllowed>2</ubMobileMilitiaTrainersAllowed>

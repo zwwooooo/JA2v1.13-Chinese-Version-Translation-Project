@@ -434,7 +434,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>24</pIndex>
-		<pName>霰弹</pName>
+		<pName>12发霰弹带</pName>
 		<pSilhouette>27</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
@@ -629,7 +629,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>42</pIndex>
-		<pName>7发霰弹</pName>
+		<pName>7发霰弹带</pName>
 		<pSilhouette>27</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
@@ -681,7 +681,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>47</pIndex>
-		<pName>闪光弹</pName>
+		<pName>烟雾手雷x3</pName>
 		<pSilhouette>36</pSilhouette>
 		<pType>2</pType>
 		<pRestriction>256</pRestriction>
@@ -751,9 +751,9 @@
 		<ItemCapacityPerSize9>1</ItemCapacityPerSize9>
 		<ItemCapacityPerSize8>1</ItemCapacityPerSize8>
 	</POCKET>
-		<POCKET>
+	<POCKET>
 		<pIndex>54</pIndex>
-		<pName>闪光弹</pName>
+		<pName>烟雾手雷x1</pName>
 		<pSilhouette>36</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>256</pRestriction>

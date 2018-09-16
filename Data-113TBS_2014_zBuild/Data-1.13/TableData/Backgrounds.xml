@@ -3044,8 +3044,8 @@
 	<!-- Mouse -->
 	<BACKGROUND>
 		<uiIndex>245</uiIndex>
-		<szName>Mime</szName>
-		<szShortName>Mime</szShortName>
+		<szName>哑巴</szName>
+		<szShortName>哑巴</szShortName>
 		<szDescription>...</szDescription>
 		<approach_direct>-15</approach_direct>
 		<approach_recruit>-15</approach_recruit>
@@ -3057,8 +3057,8 @@
 	<!-- Hector -->
 	<BACKGROUND>
 		<uiIndex>246</uiIndex>
-		<szName>South American</szName>
-		<szShortName>South American</szShortName>
+		<szName>南美洲人</szName>
+		<szShortName>南美洲人</szShortName>
 		<szDescription>...</szDescription>
 		<ap_swamp>3</ap_swamp>
 		<ap_tropical>3</ap_tropical>
