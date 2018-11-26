@@ -287,7 +287,6 @@
 		<szFacilityName>老旧的士兵训练设施。</szFacilityName>
 		<szFacilityShortName>训练场</szFacilityShortName>
 		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
-		<ubMobileMilitiaTrainersAllowed>2</ubMobileMilitiaTrainersAllowed>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>

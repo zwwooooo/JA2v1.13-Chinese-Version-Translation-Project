@@ -31,7 +31,7 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_MERC_KILLED -->
 	<uiIndex>3</uiIndex>
-    <sHistory>%s死了。",	//"%s died.</sHistory>
+    <sHistory>%s死了。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_SETTLED_ACCOUNTS_AT_MERC -->
@@ -41,12 +41,12 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_ACCEPTED_ASSIGNMENT_FROM_ENRICO -->
 	<uiIndex>5</uiIndex>
-    <sHistory>接受Enrico Chivaldori的委托</sHistory>
+    <sHistory>接受Enrico Chivaldori的委托。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_CHARACTER_GENERATED -->
 	<uiIndex>6</uiIndex>
-    <sHistory>IMP已生成</sHistory>
+    <sHistory>IMP已生成。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_PURCHASED_INSURANCE -->
@@ -101,27 +101,27 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_TALKED_TO_MINER -->
 	<uiIndex>17</uiIndex>
-    <sHistory>和%s的矿主交谈</sHistory>
+    <sHistory>和%s的矿主交谈。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_LIBERATED_TOWN -->
 	<uiIndex>18</uiIndex>
-    <sHistory>解放了%s</sHistory>
+    <sHistory>解放了%s。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_CHEAT_ENABLED -->
 	<uiIndex>19</uiIndex>
-    <sHistory>启用作弊</sHistory>
+    <sHistory>启用作弊。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_TALKED_TO_FATHER_WALKER -->
 	<uiIndex>20</uiIndex>
-    <sHistory>食物会在明天送达Omerta</sHistory>
+    <sHistory>食物会在明天送达Omerta。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_MERC_MARRIED_OFF -->
 	<uiIndex>21</uiIndex>
-    <sHistory>%s离队并成为了Daryl Hick的妻子</sHistory>
+    <sHistory>%s离队并成为了Daryl Hick的妻子。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_MERC_CONTRACT_EXPIRED -->
@@ -136,32 +136,32 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_ENRICO_COMPLAINED -->
 	<uiIndex>24</uiIndex>
-    <sHistory>Enrico抱怨进展缓慢</sHistory>
+    <sHistory>Enrico抱怨进展缓慢。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_WONBATTLE -->
 	<uiIndex>25</uiIndex>
-    <sHistory>战斗胜利</sHistory>
+    <sHistory>战斗胜利。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_MINE_RUNNING_OUT -->
 	<uiIndex>26</uiIndex>
-    <sHistory>%s的矿井开始缺乏矿石</sHistory>
+    <sHistory>%s的矿井开始缺乏矿石。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_MINE_RAN_OUT -->
 	<uiIndex>27</uiIndex>
-    <sHistory>%s的矿井采完了矿石</sHistory>
+    <sHistory>%s的矿井采完了矿石。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_MINE_SHUTDOWN -->
 	<uiIndex>28</uiIndex>
-    <sHistory>%s的矿井关闭了</sHistory>
+    <sHistory>%s的矿井关闭了。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_MINE_REOPENED -->
 	<uiIndex>29</uiIndex>
-    <sHistory>%s的矿井复工了</sHistory>
+    <sHistory>%s的矿井复工了。</sHistory>
   </TEXT>
   <TEXT>
 	<!-- HISTORY_DISCOVERED_TIXA -->
@@ -311,17 +311,17 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_WON_BOXING -->
 	<uiIndex>59</uiIndex>
-    <sHistory>s赢了拳击赛</sHistory>
+    <sHistory>%s赢了拳击赛。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_LOST_BOXING -->
 	<uiIndex>60</uiIndex>
-    <sHistory>%s输了拳击赛</sHistory>
+    <sHistory>%s输了拳击赛。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_DISQUALIFIED_BOXING -->
 	<uiIndex>61</uiIndex>
-    <sHistory>%s丧失了拳击赛的参赛资格</sHistory>
+    <sHistory>%s丧失了拳击赛的参赛资格。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_FOUND_MONEY -->
@@ -336,32 +336,32 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_LOSTTOWNSECTOR -->
 	<uiIndex>64</uiIndex>
-    <sHistory>该分区失守</sHistory>
+    <sHistory>该分区失守。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_DEFENDEDTOWNSECTOR -->
 	<uiIndex>65</uiIndex>
-    <sHistory>成功防御该分区</sHistory>
+    <sHistory>成功防御该分区。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_LOSTBATTLE -->
 	<uiIndex>66</uiIndex>
-    <sHistory>作战失败</sHistory>
+    <sHistory>作战失败。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_FATALAMBUSH -->
 	<uiIndex>67</uiIndex>
-    <sHistory>致命的伏击</sHistory>
+    <sHistory>致命的伏击。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_WIPEDOUTENEMYAMBUSH -->
 	<uiIndex>68</uiIndex>
-    <sHistory>杀光了敌军的伏兵</sHistory>
+    <sHistory>杀光了敌军的伏兵。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_UNSUCCESSFULATTACK -->
 	<uiIndex>69</uiIndex>
-    <sHistory>攻击失败</sHistory>
+    <sHistory>攻击失败。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_SUCCESSFULATTACK -->
@@ -371,22 +371,22 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_CREATURESATTACKED -->
 	<uiIndex>71</uiIndex>
-    <sHistory>异形攻击</sHistory>
+    <sHistory>异形攻击。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_KILLEDBYBLOODCATS -->
 	<uiIndex>72</uiIndex>
-    <sHistory>被血猫吃掉了</sHistory>
+    <sHistory>被血猫吃掉了。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_SLAUGHTEREDBLOODCATS -->
 	<uiIndex>73</uiIndex>
-    <sHistory>宰掉了血猫</sHistory>
+    <sHistory>宰掉了血猫。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_NPC_KILLED -->
 	<uiIndex>74</uiIndex>
-    <sHistory>%s被干掉了</sHistory>
+    <sHistory>%s被干掉了。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_GAVE_CARMEN_HEAD -->
@@ -396,21 +396,21 @@ Strings containing combinations of % characters are special format characters to
   <TEXT>
 	<!-- HISTORY_SLAY_MYSTERIOUSLY_LEFT -->
 	<uiIndex>76</uiIndex>
-    <sHistory>Slay走了</sHistory>
+    <sHistory>Slay走了。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_MERC_KILLED_CHARACTER -->
 	<uiIndex>77</uiIndex>
-    <sHistory>干掉了%s</sHistory>
+    <sHistory>干掉了%s。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_WALDO -->
 	<uiIndex>78</uiIndex>
-    <sHistory>碰到了 Waldo - 飞机机械师。</sHistory>
+    <sHistory>碰到了Waldo飞机机械师。</sHistory>
   </TEXT> 
   <TEXT>
 	<!-- HISTORY_HELICOPTER_REPAIR_STARTED -->
 	<uiIndex>79</uiIndex>
-    <sHistory>直升机维修开始. 预计时间: %d 小时(s)。</sHistory>
+    <sHistory>直升机维修开始。预计时间: %d小时(s)。</sHistory>
   </TEXT> 
 </STRINGS>

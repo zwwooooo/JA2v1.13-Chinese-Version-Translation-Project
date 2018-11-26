@@ -54,6 +54,11 @@
 	
 	<maxworkers>
 	Maximum number of workers that can be employed in this sector.
+	
+	<bloodcatraidpossible>0</bloodcatraidpossible>
+	<zombieraidpossible>0</zombieraidpossible>
+	<banditraidpossible>0</banditraidpossible>
+	Bloodcats/zombies/bandits can attack this sector.
 -->
 <SECTOR_NAMES>
   <SECTOR>
@@ -70,6 +75,9 @@
 	<snowchance>0</snowchance>
 	<snakechance>0</snakechance>
 	<numsnakes>0</numsnakes>
+	<bloodcatraidpossible>0</bloodcatraidpossible>
+	<zombieraidpossible>0</zombieraidpossible>
+	<banditraidpossible>0</banditraidpossible>
   </SECTOR>
   <SECTOR>
     <SectorGrid>A2</SectorGrid>
@@ -82,6 +90,9 @@
     <usCivilianPopulation>70</usCivilianPopulation>
 	<rainchance>70</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
   <SECTOR>
     <SectorGrid>A3</SectorGrid>
@@ -160,7 +171,6 @@
     <szDetailedExploredName>Omerta</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>150</usNaturalDirt>
-    <usCurfewValue>2</usCurfewValue>
     <usCivilianPopulation>4</usCivilianPopulation>
 	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
@@ -173,7 +183,6 @@
     <szDetailedExploredName>Omerta</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>150</usNaturalDirt>
-    <usCurfewValue>2</usCurfewValue>
     <usCivilianPopulation>30</usCivilianPopulation>
 	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
@@ -270,6 +279,9 @@
 	<rainchance>70</rainchance>
 	<sandstormchance>0</sandstormchance>
 	<maxworkers>50</maxworkers>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B3</SectorGrid>
@@ -397,6 +409,9 @@
     <usCivilianPopulation>50</usCivilianPopulation>
 	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B14</SectorGrid>
@@ -579,6 +594,9 @@
     <usCivilianPopulation>200</usCivilianPopulation>
  	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>C14</SectorGrid>
@@ -640,6 +658,9 @@
     <sRadioScanModifier>2</sRadioScanModifier>
  	<rainchance>70</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>D3</SectorGrid>
@@ -770,6 +791,9 @@
  	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
 	<maxworkers>100</maxworkers>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>D14</SectorGrid>
@@ -794,6 +818,9 @@
     <sRadioScanModifier>2</sRadioScanModifier>
  	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>  
    <SECTOR>
     <SectorGrid>D16</SectorGrid>
@@ -1080,6 +1107,9 @@
     <usCivilianPopulation>200</usCivilianPopulation>
  	<rainchance>45</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>F9</SectorGrid>
@@ -1089,10 +1119,12 @@
     <szDetailedExploredName>Cambria</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
-    <usCurfewValue>1</usCurfewValue>
     <usCivilianPopulation>100</usCivilianPopulation>
  	<rainchance>40</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>0</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>F10</SectorGrid>
@@ -1192,7 +1224,7 @@
     <szDetailedExploredName>Grumm</szDetailedExploredName>
     <sWaterType>3</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
-    <usCurfewValue>2</usCurfewValue>
+    <usCurfewValue>1</usCurfewValue>
     <usCivilianPopulation>150</usCivilianPopulation>
  	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
@@ -1266,6 +1298,9 @@
     <usCivilianPopulation>200</usCivilianPopulation>
  	<rainchance>40</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>G9</SectorGrid>
@@ -1282,6 +1317,9 @@
     <usCivilianPopulation>200</usCivilianPopulation>
  	<rainchance>40</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>G10</SectorGrid>
@@ -1382,7 +1420,6 @@
     <szDetailedExploredName>Grumm</szDetailedExploredName>
     <sWaterType>3</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
-    <usCurfewValue>1</usCurfewValue>
     <usCivilianPopulation>200</usCivilianPopulation>
  	<rainchance>55</rainchance>
 	<sandstormchance>0</sandstormchance>
@@ -1395,11 +1432,13 @@
     <szDetailedExploredName>Grumm矿区</szDetailedExploredName>
     <sWaterType>3</sWaterType>
     <usNaturalDirt>150</usNaturalDirt>
-    <usCurfewValue>1</usCurfewValue>
     <usCivilianPopulation>200</usCivilianPopulation>
  	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
 	<maxworkers>200</maxworkers>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>H4</SectorGrid>
@@ -1456,11 +1495,13 @@
     <szDetailedExploredName>Cambria矿区</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>130</usNaturalDirt>
-    <usCurfewValue>1</usCurfewValue>
     <usCivilianPopulation>200</usCivilianPopulation>
  	<rainchance>35</rainchance>
 	<sandstormchance>2</sandstormchance>
 	<maxworkers>160</maxworkers>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>H9</SectorGrid>
@@ -1519,6 +1560,9 @@
     <usCivilianPopulation>200</usCivilianPopulation>
  	<rainchance>40</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>0</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>H14</SectorGrid>
@@ -1532,6 +1576,9 @@
     <usCivilianPopulation>100</usCivilianPopulation>
  	<rainchance>45</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>H15</SectorGrid>
@@ -1647,6 +1694,9 @@
     <sRadioScanModifier>2</sRadioScanModifier>
  	<rainchance>5</rainchance>
 	<sandstormchance>80</sandstormchance>
+	<bloodcatraidpossible>0</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>I9</SectorGrid>
@@ -1718,6 +1768,9 @@
     <usCivilianPopulation>200</usCivilianPopulation>
  	<rainchance>40</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>0</bloodcatraidpossible>
+	<zombieraidpossible>0</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
     <SECTOR>
     <SectorGrid>I14</SectorGrid>
@@ -1731,6 +1784,9 @@
  	<rainchance>45</rainchance>
 	<sandstormchance>0</sandstormchance>
 	<maxworkers>150</maxworkers>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>I15</SectorGrid>
@@ -2263,6 +2319,9 @@
     <usCivilianPopulation>150</usCivilianPopulation>
  	<rainchance>70</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>L12</SectorGrid>
@@ -2275,6 +2334,9 @@
     <usCivilianPopulation>150</usCivilianPopulation>
  	<rainchance>70</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>1</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>L13</SectorGrid>
@@ -2341,7 +2403,7 @@
     <szDetailedExploredName>海岸, 道路</szDetailedExploredName>
     <sWaterType>2</sWaterType>
     <usNaturalDirt>140</usNaturalDirt>
-    <usCurfewValue>2</usCurfewValue>
+    <usCurfewValue>1</usCurfewValue>
  	<rainchance>80</rainchance>
 	<sandstormchance>0</sandstormchance>
   </SECTOR> 
@@ -2353,7 +2415,7 @@
     <szDetailedExploredName>沼泽, 道路</szDetailedExploredName>
     <sWaterType>3</sWaterType>
     <usNaturalDirt>450</usNaturalDirt>
-    <usCurfewValue>2</usCurfewValue>
+    <usCurfewValue>1</usCurfewValue>
  	<rainchance>90</rainchance>
 	<sandstormchance>0</sandstormchance>
 	<snakechance>50</snakechance>
@@ -2380,7 +2442,7 @@
     <szDetailedExploredName>森林, 道路</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
-    <usCurfewValue>2</usCurfewValue>
+    <usCurfewValue>1</usCurfewValue>
  	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
   </SECTOR>
@@ -2392,7 +2454,7 @@
     <szDetailedExploredName>森林, 道路</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
-    <usCurfewValue>2</usCurfewValue>
+    <usCurfewValue>1</usCurfewValue>
  	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
   </SECTOR>
@@ -2538,11 +2600,13 @@
     <szDetailedExploredName>Meduna机场</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
-    <usCurfewValue>1</usCurfewValue>
     <sRadioScanModifier>2</sRadioScanModifier>
     <usCivilianPopulation>100</usCivilianPopulation>
  	<rainchance>60</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>0</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>N4</SectorGrid>
@@ -2552,11 +2616,14 @@
     <szDetailedExploredName>Meduna, SAM基地</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
-    <usCurfewValue>2</usCurfewValue>
+    <usCurfewValue>1</usCurfewValue>
     <sRadioScanModifier>2</sRadioScanModifier>
     <usCivilianPopulation>50</usCivilianPopulation>
  	<rainchance>60</rainchance>
 	<sandstormchance>0</sandstormchance>
+	<bloodcatraidpossible>0</bloodcatraidpossible>
+	<zombieraidpossible>1</zombieraidpossible>
+	<banditraidpossible>1</banditraidpossible>
   </SECTOR>
    <SECTOR>
     <SectorGrid>N5</SectorGrid>
@@ -2566,7 +2633,7 @@
     <szDetailedExploredName>Meduna</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
-    <usCurfewValue>2</usCurfewValue>
+    <usCurfewValue>1</usCurfewValue>
     <usCivilianPopulation>100</usCivilianPopulation>
  	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
@@ -2579,7 +2646,7 @@
     <szDetailedExploredName>热带, 道路</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>250</usNaturalDirt>
-    <usCurfewValue>2</usCurfewValue>
+    <usCurfewValue>1</usCurfewValue>
  	<rainchance>70</rainchance>
 	<sandstormchance>0</sandstormchance>
   </SECTOR>
@@ -2738,7 +2805,6 @@
     <szDetailedExploredName>Meduna</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
-    <usCurfewValue>1</usCurfewValue>
     <usCivilianPopulation>300</usCivilianPopulation>
  	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>

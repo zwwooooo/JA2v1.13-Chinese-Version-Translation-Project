@@ -18,6 +18,7 @@
 									100 = All "default" troops are placed.
 									200 = Twice as many troops are placed.
 		MinEnemyGroupSize : Minimum enemy group size. Enemy groups will never be smaller than this!
+		CounterAttackGroupSize : Counter attacks on cities consist of 4 groups of this size.
 		PercentElitesBonus : Percent of troops converted to extra elites in enemy groups
 		UnlimitedPoolOfTroops : 0 - false, 1 - true. Determines whether or not the queen has unlimited troops. If she does, most of the settings below are completely ignored.
 		QueensInitialPoolOfTroops : Amount of troops available to the queen at game start
@@ -70,7 +71,7 @@
 		
 		StrategicAiActionWakeQueen : When first fight finished, wake up queen ? 0- false 1 - true
 		UpdateLastDayOfPlayerActivity : How many days ago does the player check he was active in the captured sector ?
-		ChanceOfEnemyAmbushes : 0- false 1 - true
+		ChanceOfEnemyAmbushes : modifies the percentage chance of our mercs to be ambushed
 		AllowReinforcements : The enemy can send reinforcement to the sector. 0- false 1 - true
 		AllowReinforcementsOmerta : Can the enemy send reinforcement to Omerta. 0- false 1 - true
 		PopulationLevel2 : Additional troops 2 sectors away from Meduna? 0 - false, 1 - true
@@ -113,8 +114,17 @@
 		
 		{CTHConstants Settings} 
 		
-		CthConstantsAimDifficulty : min -1000.0, max 1000.0
-		CthConstantsBaseDifficulty : These modifiers are applied based on game difficulty, and only affect the base CTH of ENEMY COMBATANTS. min -1000.0, max 1000.0
+		These modifiers affect the CTH of ENEMY combatants. They only have an effect in NCTH!
+		CthConstantsAimDifficulty : affects aim CTH that a shooter gets by spending aim clicks. min -100, max 100
+		CthConstantsBaseDifficulty : affects base CTH that a shooter gets from his attributes, condition and weapon handling. min -100, max 100
+		
+		These modfiers affect the CTH of MILITIA. They only have an effect in NCTH!
+		CthConstantsAimDifficultyMilitia : affects aim CTH that a shooter gets by spending aim clicks. min -100, max 100
+		CthConstantsBaseDifficultyMilitia : affects base CTH that a shooter gets from his attributes, condition and weapon handling. min -100, max 100
+		
+		These modifiers affect the CTH of PLAYER mercs. They only have an effect in NCTH and up to game progress 30 and go down linearly from progress 0 to 30.
+		CthConstantsAimDifficultyPlayer : affects aim CTH that a shooter gets by spending aim clicks. min -100, max 100
+		CthConstantsBaseDifficultyPlayer : affects base CTH that a shooter gets from his attributes, condition and weapon handling. min -100, max 100
 		
 -->
 <DIFFICULTY_SETTINGS>
@@ -127,6 +137,7 @@
 		<NumKillsPerProgressPoint>0</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>0</InitialGarrisonPercentages>
 		<MinEnemyGroupSize>0</MinEnemyGroupSize>
+		<CounterAttackGroupSize>0</CounterAttackGroupSize>
 		<PercentElitesBonus>0</PercentElitesBonus>
 		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
 		<QueensInitialPoolOfTroops>0</QueensInitialPoolOfTroops>
@@ -188,6 +199,10 @@
 		<!-- CTHConstants Settings -->
 		<CthConstantsAimDifficulty>-100.0</CthConstantsAimDifficulty>
 		<CthConstantsBaseDifficulty>-100.0</CthConstantsBaseDifficulty>
+		<CthConstantsAimDifficultyMilitia>-100.0</CthConstantsAimDifficultyMilitia>
+		<CthConstantsBaseDifficultyMilitia>-100.0</CthConstantsBaseDifficultyMilitia>
+		<CthConstantsAimDifficultyPlayer>-100.0</CthConstantsAimDifficultyPlayer>
+		<CthConstantsBaseDifficultyPlayer>-100.0</CthConstantsBaseDifficultyPlayer>
 	</DIFFICULTY>
 	<DIFFICULTY>
 		<uiIndex>1</uiIndex>
@@ -199,6 +214,7 @@
 		<NumKillsPerProgressPoint>7</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>70</InitialGarrisonPercentages>
 		<MinEnemyGroupSize>3</MinEnemyGroupSize>
+		<CounterAttackGroupSize>6</CounterAttackGroupSize>
 		<PercentElitesBonus>0</PercentElitesBonus>
 		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
 		<QueensInitialPoolOfTroops>150</QueensInitialPoolOfTroops>
@@ -260,6 +276,10 @@
 		<!-- CTHConstants Settings -->
 		<CthConstantsAimDifficulty>-30.0</CthConstantsAimDifficulty>
 		<CthConstantsBaseDifficulty>-30.0</CthConstantsBaseDifficulty>
+		<CthConstantsAimDifficultyMilitia>20.0</CthConstantsAimDifficultyMilitia>
+		<CthConstantsBaseDifficultyMilitia>20.0</CthConstantsBaseDifficultyMilitia>
+		<CthConstantsAimDifficultyPlayer>20.0</CthConstantsAimDifficultyPlayer>
+		<CthConstantsBaseDifficultyPlayer>20.0</CthConstantsBaseDifficultyPlayer>
 	</DIFFICULTY>
 	<DIFFICULTY>
 		<uiIndex>2</uiIndex>
@@ -270,6 +290,7 @@
 		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>100</InitialGarrisonPercentages>
 		<MinEnemyGroupSize>4</MinEnemyGroupSize>
+		<CounterAttackGroupSize>10</CounterAttackGroupSize>
 		<PercentElitesBonus>0</PercentElitesBonus>
 		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
 		<QueensInitialPoolOfTroops>200</QueensInitialPoolOfTroops>
@@ -331,6 +352,10 @@
 		<!-- CTHConstants Settings -->
 		<CthConstantsAimDifficulty>0.0</CthConstantsAimDifficulty>
 		<CthConstantsBaseDifficulty>0.0</CthConstantsBaseDifficulty>
+		<CthConstantsAimDifficultyMilitia>10.0</CthConstantsAimDifficultyMilitia>
+		<CthConstantsBaseDifficultyMilitia>10.0</CthConstantsBaseDifficultyMilitia>
+		<CthConstantsAimDifficultyPlayer>10.0</CthConstantsAimDifficultyPlayer>
+		<CthConstantsBaseDifficultyPlayer>10.0</CthConstantsBaseDifficultyPlayer>
 	</DIFFICULTY>
 	<DIFFICULTY>
 		<uiIndex>3</uiIndex>
@@ -341,6 +366,7 @@
 		<NumKillsPerProgressPoint>15</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>150</InitialGarrisonPercentages>
 		<MinEnemyGroupSize>6</MinEnemyGroupSize>
+		<CounterAttackGroupSize>15</CounterAttackGroupSize>
 		<PercentElitesBonus>25</PercentElitesBonus>
 		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
 		<QueensInitialPoolOfTroops>400</QueensInitialPoolOfTroops>
@@ -402,6 +428,10 @@
 		<!-- CTHConstants Settings -->
 		<CthConstantsAimDifficulty>20.0</CthConstantsAimDifficulty>
 		<CthConstantsBaseDifficulty>20.0</CthConstantsBaseDifficulty>
+		<CthConstantsAimDifficultyMilitia>0.0</CthConstantsAimDifficultyMilitia>
+		<CthConstantsBaseDifficultyMilitia>0.0</CthConstantsBaseDifficultyMilitia>
+		<CthConstantsAimDifficultyPlayer>0.0</CthConstantsAimDifficultyPlayer>
+		<CthConstantsBaseDifficultyPlayer>0.0</CthConstantsBaseDifficultyPlayer>
 	</DIFFICULTY>
 	<DIFFICULTY>
 		<uiIndex>4</uiIndex>
@@ -412,6 +442,7 @@
 		<NumKillsPerProgressPoint>60</NumKillsPerProgressPoint>
 		<InitialGarrisonPercentages>200</InitialGarrisonPercentages>
 		<MinEnemyGroupSize>12</MinEnemyGroupSize>
+		<CounterAttackGroupSize>24</CounterAttackGroupSize>
 		<PercentElitesBonus>50</PercentElitesBonus>
 		<UnlimitedPoolOfTroops>1</UnlimitedPoolOfTroops>
 		<QueensInitialPoolOfTroops>8000</QueensInitialPoolOfTroops>
@@ -473,5 +504,9 @@
 		<!-- CTHConstants Settings -->
 		<CthConstantsAimDifficulty>50.0</CthConstantsAimDifficulty>
 		<CthConstantsBaseDifficulty>50.0</CthConstantsBaseDifficulty>
+		<CthConstantsAimDifficultyMilitia>0.0</CthConstantsAimDifficultyMilitia>
+		<CthConstantsBaseDifficultyMilitia>0.0</CthConstantsBaseDifficultyMilitia>
+		<CthConstantsAimDifficultyPlayer>0.0</CthConstantsAimDifficultyPlayer>
+		<CthConstantsBaseDifficultyPlayer>0.0</CthConstantsBaseDifficultyPlayer>
 	</DIFFICULTY>
 </DIFFICULTY_SETTINGS>
