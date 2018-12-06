@@ -2,8 +2,8 @@
 <FACILITYTYPES>
 	<FACILITYTYPE>
 		<ubIndex>1</ubIndex>
-		<szFacilityName>Legacy Militia Training Facility</szFacilityName>
-		<szFacilityShortName>Legacy</szFacilityShortName>
+		<szFacilityName>军用训练场遗迹</szFacilityName>
+		<szFacilityShortName>遗迹</szFacilityShortName>
 		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
 		<ubMobileMilitiaTrainersAllowed>2</ubMobileMilitiaTrainersAllowed>

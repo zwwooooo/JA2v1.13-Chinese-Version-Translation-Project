@@ -184,7 +184,7 @@
 
 	<FACILITYTYPE>
 		<ubIndex>9</ubIndex>
-		<szFacilityName>A.C.A 派出所</szFacilityName>
+		<szFacilityName>A.C.A派出所</szFacilityName>
 		<szFacilityShortName>A.C.A</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
@@ -214,8 +214,8 @@
 
 	<FACILITYTYPE>
 		<ubIndex>10</ubIndex>
-		<szFacilityName>SAM 导弹基地</szFacilityName>
-		<szFacilityShortName>SAM 基地</szFacilityShortName>
+		<szFacilityName>SAM导弹基地</szFacilityName>
+		<szFacilityShortName>SAM基地</szFacilityShortName>
 		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
 	</FACILITYTYPE>
 

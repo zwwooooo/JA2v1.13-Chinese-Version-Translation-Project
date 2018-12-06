@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <AMMOLIST>
 	<AMMO>
 		<uiIndex>0</uiIndex>
@@ -82,8 +82,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>16</uiIndex>
-		<AmmoCaliber>Flame</AmmoCaliber>
-		<BRCaliber>Flame</BRCaliber>
+		<AmmoCaliber>flame</AmmoCaliber>
+		<BRCaliber>flame</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>17</uiIndex>

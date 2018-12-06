@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--
 
 uiIndex:			The profile index from BinaryData\prof.dat or from TableData\MercProfiles.xml
@@ -23,10 +23,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>0</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -38,10 +38,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>1</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -53,10 +53,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>2</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -68,10 +68,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>3</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -83,10 +83,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>4</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -98,10 +98,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>5</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -113,10 +113,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>6</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -128,10 +128,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>7</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -143,10 +143,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>8</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -158,10 +158,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>9</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -173,10 +173,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>10</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -188,10 +188,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>11</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -203,10 +203,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>12</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -218,10 +218,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>13</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -233,10 +233,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>14</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -248,10 +248,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>15</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -263,10 +263,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>16</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -278,10 +278,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>17</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -293,10 +293,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>18</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -308,10 +308,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>19</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -323,10 +323,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>20</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -338,10 +338,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>21</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -353,10 +353,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>22</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -368,10 +368,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>23</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -383,10 +383,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>24</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -398,10 +398,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>25</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -413,10 +413,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>26</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -428,10 +428,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>27</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -443,10 +443,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>28</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -458,10 +458,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>29</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -473,10 +473,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>30</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -488,10 +488,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>31</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -503,10 +503,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>32</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -518,10 +518,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>33</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -533,10 +533,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>34</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -548,10 +548,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>35</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -563,10 +563,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>36</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -578,10 +578,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>37</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -593,10 +593,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>38</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -608,10 +608,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>39</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -623,10 +623,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>40</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -638,10 +638,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>41</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -653,10 +653,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>42</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -668,10 +668,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>43</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -683,10 +683,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>44</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -698,10 +698,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>45</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -713,10 +713,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>46</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -728,10 +728,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>47</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -743,10 +743,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>48</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -758,10 +758,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>49</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -773,10 +773,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>50</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -788,10 +788,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>51</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -803,10 +803,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>52</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -818,10 +818,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>53</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -833,10 +833,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>54</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -848,10 +848,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>55</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -863,10 +863,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>56</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -878,10 +878,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>57</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -893,10 +893,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>58</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -908,10 +908,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>59</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -923,10 +923,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>60</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -938,10 +938,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>61</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -953,10 +953,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>62</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -968,10 +968,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>63</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -983,10 +983,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>64</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -998,10 +998,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>65</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1013,10 +1013,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>66</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1028,10 +1028,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>67</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1043,10 +1043,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>68</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1058,10 +1058,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>69</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1073,10 +1073,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>70</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1088,10 +1088,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>71</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1103,10 +1103,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>72</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1118,10 +1118,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>73</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1133,10 +1133,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>74</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1148,10 +1148,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>75</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1163,10 +1163,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>76</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1178,10 +1178,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>77</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1193,10 +1193,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>78</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1208,10 +1208,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>79</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1223,10 +1223,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>80</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1238,10 +1238,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>81</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -1253,10 +1253,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>82</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1268,10 +1268,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>83</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1283,10 +1283,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>84</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1298,10 +1298,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>85</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1313,10 +1313,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>86</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1328,10 +1328,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>87</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1343,10 +1343,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>88</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1358,10 +1358,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>89</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1373,10 +1373,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>90</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1388,10 +1388,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>91</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1403,10 +1403,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>92</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1418,10 +1418,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>93</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1433,10 +1433,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>94</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1448,10 +1448,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>95</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1463,10 +1463,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>96</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1478,10 +1478,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>97</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1493,10 +1493,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>98</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -1508,10 +1508,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>99</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1523,10 +1523,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>100</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -1538,10 +1538,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>101</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1553,10 +1553,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>102</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1568,10 +1568,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>103</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1583,10 +1583,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>104</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1598,10 +1598,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>105</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1613,10 +1613,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>106</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1628,10 +1628,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>107</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1643,10 +1643,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>108</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1658,10 +1658,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>109</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1673,10 +1673,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>110</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1688,10 +1688,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>111</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1703,10 +1703,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>112</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1718,10 +1718,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>113</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1733,10 +1733,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>114</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1748,10 +1748,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>115</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1763,10 +1763,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>116</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1778,10 +1778,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>117</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1793,10 +1793,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>118</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1808,10 +1808,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>119</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1823,10 +1823,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>120</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1838,10 +1838,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>121</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1853,10 +1853,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>122</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1868,10 +1868,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>123</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1883,10 +1883,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>124</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1898,10 +1898,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>125</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1913,10 +1913,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>126</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1928,10 +1928,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>127</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1943,10 +1943,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>128</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1958,10 +1958,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>129</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1973,10 +1973,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>130</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -1988,10 +1988,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>131</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2003,10 +2003,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>132</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2018,10 +2018,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>133</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2033,10 +2033,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>134</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2048,10 +2048,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>135</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2063,10 +2063,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>136</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2078,10 +2078,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>137</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2093,10 +2093,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>138</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2108,10 +2108,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>139</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2123,10 +2123,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>140</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2138,10 +2138,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>141</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2153,10 +2153,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>142</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2168,10 +2168,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>143</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2183,10 +2183,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>144</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2198,10 +2198,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>145</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2213,10 +2213,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>146</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2228,10 +2228,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>147</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2243,10 +2243,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>148</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2258,10 +2258,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>149</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2273,10 +2273,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>150</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2288,10 +2288,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>151</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2303,10 +2303,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>152</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2318,10 +2318,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>153</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2333,10 +2333,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>154</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2348,10 +2348,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>155</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2363,10 +2363,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>156</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2378,10 +2378,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>157</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2393,10 +2393,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>158</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2408,10 +2408,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>159</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2424,8 +2424,8 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>160</uiIndex>
 		<Name>Hummer</Name>
-		<LongName>悍马</LongName>
-		<ShortName>悍马</ShortName>
+		<LongName>Hummer</LongName>
+		<ShortName>Hummer</ShortName>
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\Hummer.sti</StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
@@ -2440,8 +2440,8 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>161</uiIndex>
 		<Name>Eldorado</Name>
-		<LongName>凯迪拉克</LongName>
-		<ShortName>凯迪拉克</ShortName>
+		<LongName>Eldorado</LongName>
+		<ShortName>Eldor.</ShortName>
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\eldorado.sti</StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
@@ -2456,8 +2456,8 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>162</uiIndex>
 		<Name>Truck</Name>	
-		<LongName>冰激凌卡车</LongName>
-		<ShortName>卡车</ShortName>		
+		<LongName>Ice cream truck</LongName>
+		<ShortName>Truck</ShortName>		
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\ice Cream Truck.sti</StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
@@ -2473,10 +2473,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>163</uiIndex>
 		<Name>Heli</Name>	
-		<LongName>直升机</LongName>
-		<ShortName>直升机</ShortName>	
+		<LongName>Helicopter</LongName>
+		<ShortName>Heli</ShortName>	
 		<MvtTypes>4</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2490,10 +2490,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>164</uiIndex>
 		<Name>Tank</Name>	
-		<LongName>坦克</LongName>
-		<ShortName>坦克</ShortName>	
+		<LongName>Tank</LongName>
+		<ShortName>Tank</ShortName>	
 		<MvtTypes>1</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2505,10 +2505,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>165</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>		
+		<StiFaceIcon></StiFaceIcon>		
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2520,10 +2520,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>166</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2535,10 +2535,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>167</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2550,10 +2550,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>168</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2565,10 +2565,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>169</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2580,10 +2580,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>170</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2595,10 +2595,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>171</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2610,10 +2610,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>172</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2625,10 +2625,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>173</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2640,10 +2640,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>174</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2655,10 +2655,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>175</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2670,10 +2670,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>176</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>	
@@ -2685,10 +2685,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>177</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2700,10 +2700,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>178</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2715,10 +2715,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>179</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2730,10 +2730,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>180</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2745,10 +2745,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>181</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2760,10 +2760,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>182</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2775,10 +2775,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>183</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2790,10 +2790,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>184</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2805,10 +2805,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>185</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2820,10 +2820,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>186</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2835,10 +2835,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>187</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2850,10 +2850,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>188</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2865,10 +2865,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>189</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2880,10 +2880,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>190</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2895,10 +2895,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>191</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2910,10 +2910,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>192</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2925,10 +2925,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>193</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2940,10 +2940,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>194</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2955,10 +2955,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>195</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2970,10 +2970,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>196</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -2985,10 +2985,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>197</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3000,10 +3000,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>198</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -3015,8 +3015,8 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>199</uiIndex>
 		<Name>Jeep</Name>
-		<LongName>吉普车</LongName>
-		<ShortName>吉普车</ShortName>
+		<LongName>Jeep</LongName>
+		<ShortName>Jeep</ShortName>
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\Jeep.sti</StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
@@ -3030,10 +3030,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>200</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -3045,10 +3045,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>201</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -3060,10 +3060,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>202</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -3075,10 +3075,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>203</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -3090,10 +3090,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>204</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3105,10 +3105,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>205</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3120,10 +3120,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>206</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3135,10 +3135,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>207</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3150,10 +3150,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>208</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3165,10 +3165,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>209</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3180,10 +3180,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>210</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3195,10 +3195,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>211</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3210,10 +3210,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>212</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3225,10 +3225,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>213</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3240,10 +3240,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>214</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3255,10 +3255,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>215</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3270,10 +3270,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>216</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3285,10 +3285,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>217</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3300,10 +3300,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>218</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3315,10 +3315,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>219</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3330,10 +3330,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>220</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3345,10 +3345,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>221</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3360,10 +3360,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>222</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3375,10 +3375,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>223</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3390,10 +3390,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>224</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3405,10 +3405,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>225</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3420,10 +3420,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>226</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3435,10 +3435,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>227</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3450,10 +3450,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>228</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3465,10 +3465,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>229</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3480,10 +3480,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>230</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3495,10 +3495,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>231</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3510,10 +3510,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>232</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3525,10 +3525,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>233</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3540,10 +3540,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>234</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3555,10 +3555,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>235</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3570,10 +3570,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>236</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -3585,10 +3585,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>237</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3600,10 +3600,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>238</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3615,10 +3615,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>239</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3630,10 +3630,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>240</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3645,10 +3645,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>241</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3660,10 +3660,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>242</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3675,10 +3675,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>243</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3690,10 +3690,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>244</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3705,10 +3705,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>245</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3720,10 +3720,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>246</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3735,10 +3735,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>247</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3750,10 +3750,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>248</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3765,10 +3765,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>249</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3780,10 +3780,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>250</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3795,10 +3795,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>251</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3810,10 +3810,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>252</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3825,10 +3825,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>253</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		
@@ -3840,10 +3840,10 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 	<VEHICLE>
 		<uiIndex>254</uiIndex>
 		<Name>None</Name>
-		<LongName/>
-		<ShortName/>
+		<LongName></LongName>
+		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
-		<StiFaceIcon/>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>		

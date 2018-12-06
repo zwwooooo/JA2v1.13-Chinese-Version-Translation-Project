@@ -601,12 +601,12 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>115</uiIndex>
-    <szName>在游戏安装目录下的 "Docs"文件夹内可以发现很多有用的文档。 </szName>
+    <szName>在游戏安装目录下的 "Docs" 文件夹内可以发现很多有用的文档。 </szName>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>116</uiIndex>
-    <szName>在游戏安装目录下的 "Docs"文件夹内可以发现很多有用的文档。</szName>
+    <szName>在游戏安装目录下的 "Docs" 文件夹内可以发现很多有用的文档。</szName>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>

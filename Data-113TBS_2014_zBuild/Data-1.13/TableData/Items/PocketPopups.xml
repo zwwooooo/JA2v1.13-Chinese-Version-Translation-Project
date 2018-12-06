@@ -55,7 +55,7 @@
 		<pName>AR弹匣包</pName>
 		<popup>
 			<subMenu>
-				<name>手雷或榴弹</name>
+				<name>grenades</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
@@ -137,22 +137,22 @@
 		<pName>大通用包</pName>
 		<popup>
 			<subMenu>
-				<name>武器</name>
+				<name>weapons</name>
 				<generator>
 					<id>addWeaponGroups</id>
 				</generator>
 			</subMenu>
 
 			<subMenu>
-				<name>弹药</name>
+				<name>ammo</name>
 				<subMenu>
-					<name>火箭筒弹药</name>
+					<name>RPG rockets</name>
 					<generator>
 						<id>addRocketAmmo</id>
 					</generator>
 				</subMenu>
 				<subMenu>
-					<name>枪榴弹</name>
+					<name>Rifle grenades</name>
 					<generator>
 						<id>addRifleGrenades</id>
 					</generator>
@@ -164,7 +164,7 @@
 			</subMenu>
 
 			<subMenu>
-				<name>手雷或榴弹</name>
+				<name>grenades</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
@@ -177,22 +177,22 @@
 		<pName>杂物包</pName>
 		<popup>
 			<subMenu>
-				<name>武器</name>
+				<name>weapons</name>
 				<generator>
 					<id>addWeaponGroups</id>
 				</generator>
 			</subMenu>
 
 			<subMenu>
-				<name>弹药</name>
+				<name>ammo</name>
 				<subMenu>
-					<name>火箭筒弹药</name>
+					<name>RPG rockets</name>
 					<generator>
 						<id>addRocketAmmo</id>
 					</generator>
 				</subMenu>
 				<subMenu>
-					<name>枪榴弹</name>
+					<name>Rifle grenades</name>
 					<generator>
 						<id>addRifleGrenades</id>
 					</generator>
@@ -204,7 +204,7 @@
 			</subMenu>
 
 			<subMenu>
-				<name>手雷或榴弹</name>
+				<name>grenades</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
@@ -217,28 +217,28 @@
 		<pName>中型杂物包</pName>
 		<popup>
 			<subMenu>
-				<name>弹药</name>
+				<name>ammo</name>
 				<generator>
 					<id>addAmmo</id>
 				</generator>
 			</subMenu>
 
 			<subMenu>
-				<name>手雷或榴弹</name>
+				<name>grenades</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
 			</subMenu>
 
 			<subMenu>
-				<name>工具</name>
+				<name>kits</name>
 				<generator>
 					<id>addKits</id>
 				</generator>
 			</subMenu>
 			
 			<subMenu>
-				<name>面部物品</name>
+				<name>face gear</name>
 				<generator>
 					<id>addFaceGear</id>
 				</generator>
@@ -251,19 +251,19 @@
 		<pName>小口袋</pName>
 		<popup>
 			<subMenu>
-				<name>手雷或榴弹</name>
+				<name>grenades</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
 			</subMenu>
 			<subMenu>
-				<name>其它物品</name>
+				<name>misc</name>
 				<generator>
 					<id>addMisc</id>
 				</generator>
 			</subMenu>
 			<subMenu>
-				<name>工具</name>
+				<name>kits</name>
 				<generator>
 					<id>addKits</id>
 				</generator>
@@ -279,19 +279,19 @@
 		<pName>大口袋</pName>
 		<popup>
 			<subMenu>
-				<name>手雷或榴弹</name>
+				<name>grenades</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
 			</subMenu>
 			<subMenu>
-				<name>其它物品</name>
+				<name>misc</name>
 				<generator>
 					<id>addMisc</id>
 				</generator>
 			</subMenu>
 			<subMenu>
-				<name>工具</name>
+				<name>kits</name>
 				<generator>
 					<id>addKits</id>
 				</generator>

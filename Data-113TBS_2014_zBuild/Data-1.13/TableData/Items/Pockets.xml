@@ -366,7 +366,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>19</pIndex>
-		<pName>快速上弹器袋</pName>
+		<pName>快装器弹袋</pName>
 		<pSilhouette>23</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
@@ -375,7 +375,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>20</pIndex>
-		<pName>医疗包</pName>
+		<pName>急救包</pName>
 		<pSilhouette>24</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>4096</pRestriction>
@@ -393,7 +393,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>22</pIndex>
-		<pName>大形弹链包</pName>
+		<pName>大型弹链包</pName>
 		<pSilhouette>22</pSilhouette>
 		<pType>2</pType>
 		<pRestriction>1024</pRestriction>
@@ -494,7 +494,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>29</pIndex>
-		<pName>短步枪弹夹x2</pName>
+		<pName>步枪弹匣x1</pName>
 		<pSilhouette>50</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
@@ -515,7 +515,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>31</pIndex>
-		<pName>战斗包步枪背带</pName>
+		<pName>战斗包枪背带</pName>
 		<pSilhouette>32</pSilhouette>
 		<pType>3</pType>
 		<pRestriction>2</pRestriction>
@@ -526,7 +526,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>32</pIndex>
-		<pName>小战斗包</pName>
+		<pName>大型左轮枪套</pName>
 		<pSilhouette>30</pSilhouette>
 		<pType>3</pType>
 		<pRestriction>2</pRestriction>
@@ -537,7 +537,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>33</pIndex>
-		<pName>炸药</pName>
+		<pName>炸药x2</pName>
 		<pSilhouette>31</pSilhouette>
 		<pType>2</pType>
 		<pRestriction>512</pRestriction>
@@ -547,7 +547,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>34</pIndex>
-		<pName>狙击枪弹夹</pName>
+		<pName>狙击枪弹匣x2</pName>
 		<pSilhouette>35</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
@@ -578,7 +578,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>37</pIndex>
-		<pName>竖钩面</pName>
+		<pName>急救口袋x2</pName>
 		<pSilhouette>34</pSilhouette>
 		<pType>2</pType>
         <pVolume>20</pVolume>
@@ -588,7 +588,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>38</pIndex>
-		<pName>竖钩环</pName>
+		<pName>钩环</pName>
 		<pSilhouette>37</pSilhouette>
 		<pType>1</pType>
         <pRestriction>268601344</pRestriction>
@@ -611,7 +611,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>40</pIndex>
-		<pName>手枪弹夹x2</pName>
+		<pName>手枪弹匣x2</pName>
 		<pSilhouette>40</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
@@ -640,7 +640,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>43</pIndex>
-		<pName>冲锋枪弹夹x2</pName>
+		<pName>冲锋枪弹匣x2</pName>
 		<pSilhouette>41</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
@@ -659,7 +659,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>45</pIndex>
-		<pName>突击步枪弹夹x2</pName>
+		<pName>AR弹匣x2</pName>
 		<pSilhouette>39</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
@@ -670,7 +670,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>46</pIndex>
-		<pName>突击步枪弹夹x1</pName>
+		<pName>AR弹匣x1</pName>
 		<pSilhouette>18</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>1024</pRestriction>
@@ -692,7 +692,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>48</pIndex>
-		<pName>手枪弹夹x3</pName>
+		<pName>手枪弹匣x3</pName>
 		<pSilhouette>43</pSilhouette>
 		<pType>2</pType>
 		<pRestriction>1024</pRestriction>
@@ -701,7 +701,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>49</pIndex>
-		<pName>突击步枪弹夹x3</pName>
+		<pName>AR弹匣x3</pName>
 		<pSilhouette>42</pSilhouette>
 		<pType>2</pType>
 		<pRestriction>1024</pRestriction>
@@ -721,7 +721,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>51</pIndex>
-		<pName>冲锋枪弹夹x3</pName>
+		<pName>冲锋枪弹匣x3</pName>
 		<pSilhouette>45</pSilhouette>
 		<pType>2</pType>
 		<pRestriction>1024</pRestriction>
@@ -731,7 +731,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>52</pIndex>
-		<pName>小刀</pName>
+		<pName>格斗刀套</pName>
 		<pSilhouette>11</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>4</pRestriction>
@@ -743,7 +743,7 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>53</pIndex>
-		<pName>狙击步枪背带</pName>
+		<pName>狙击枪背带</pName>
 		<pSilhouette>47</pSilhouette>
 		<pType>3</pType>
 		<pRestriction>2</pRestriction>
@@ -751,7 +751,7 @@
 		<ItemCapacityPerSize9>1</ItemCapacityPerSize9>
 		<ItemCapacityPerSize8>1</ItemCapacityPerSize8>
 	</POCKET>
-	<POCKET>
+		<POCKET>
 		<pIndex>54</pIndex>
 		<pName>烟雾手雷x1</pName>
 		<pSilhouette>36</pSilhouette>
@@ -774,7 +774,7 @@
 	</POCKET>
 		<POCKET>
 		<pIndex>56</pIndex>
-		<pName>左轮手枪皮套</pName>
+		<pName>小型左轮枪套</pName>
 		<pSilhouette>49</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>2</pRestriction>
