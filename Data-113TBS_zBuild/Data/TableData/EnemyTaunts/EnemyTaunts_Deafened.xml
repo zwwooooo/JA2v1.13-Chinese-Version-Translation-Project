@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TAUNTS>
+  <TAUNT>
+    <uiIndex>0</uiIndex>
+    <szText>什么？谁？我听不到！</szText>
+    <got_deafened>1</got_deafened>
+  </TAUNT>
+  <TAUNT>
+    <uiIndex>1</uiIndex>
+    <szText>呃！我的耳朵出血了！</szText>
+    <got_deafened>1</got_deafened>
+  </TAUNT>
+  <TAUNT>
+    <uiIndex>2</uiIndex>
+    <szText>什么在嗡嗡响？</szText>
+    <got_deafened>1</got_deafened>
+  </TAUNT>
+  <TAUNT>
+    <uiIndex>3</uiIndex>
+    <szText>嗯？怎么这么安静...</szText>
+    <got_deafened>1</got_deafened>
+  </TAUNT>
+  <TAUNT>
+    <uiIndex>4</uiIndex>
+    <szText>突然这么安静。怎么回事？</szText>
+    <got_deafened>1</got_deafened>
+  </TAUNT>
+</TAUNTS>

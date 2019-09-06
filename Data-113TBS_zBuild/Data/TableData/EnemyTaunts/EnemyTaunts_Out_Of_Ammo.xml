@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TAUNTS>
+  <TAUNT>
+    <uiIndex>0</uiIndex>
+    <szText>我现在该怎么办？</szText>
+    <out_of_ammo>1</out_of_ammo>
+    <morale_lt>40</morale_lt>
+  </TAUNT>
+  <TAUNT>
+    <uiIndex>1</uiIndex>
+    <szText>子弹打完了！</szText>
+    <out_of_ammo>1</out_of_ammo>
+  </TAUNT>
+  <TAUNT>
+    <uiIndex>2</uiIndex>
+    <szText>我这边快没子弹了！</szText>
+    <out_of_ammo>1</out_of_ammo>
+  </TAUNT>
+  <TAUNT>
+    <uiIndex>3</uiIndex>
+    <szText>需要弹药！</szText>
+    <out_of_ammo>1</out_of_ammo>
+  </TAUNT>
+  <TAUNT>
+    <uiIndex>4</uiIndex>
+    <szText>我没子弹了！</szText>
+    <out_of_ammo>1</out_of_ammo>
+  </TAUNT>
+  <TAUNT>
+    <uiIndex>5</uiIndex>
+    <szText>需要补充弹药！</szText>
+    <out_of_ammo>1</out_of_ammo>
+  </TAUNT>
+</TAUNTS>
