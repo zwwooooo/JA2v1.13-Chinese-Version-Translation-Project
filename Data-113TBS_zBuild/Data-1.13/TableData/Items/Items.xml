@@ -195,6 +195,9 @@
 		<diseaseprotectionhand>0</diseaseprotectionhand>
 		<usRiotShieldStrength>0</usRiotShieldStrength>
 		<usRiotShieldGraphic>0</usRiotShieldGraphic>
+		<bloodbag>0</bloodbag>
+		<emptybloodbag>0</emptybloodbag>
+		<sFireResistance>0</sFireResistance>
 		<STAND_MODIFIERS>
 			<FlatBase>0</FlatBase>
 			<PercentBase>0</PercentBase>
@@ -833,7 +836,7 @@
 		<ubGraphicNum>17</ubGraphicNum>
 		<ubWeight>39</ubWeight>
 		<ItemSize>8</ItemSize>
-		<usPrice>870</usPrice>
+		<usPrice>1870</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-1</bRepairEase>
@@ -1006,7 +1009,7 @@
 		<ubGraphicNum>22</ubGraphicNum>
 		<ubWeight>30</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>718</usPrice>
+		<usPrice>1718</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
@@ -24430,6 +24433,7 @@
 		<FlakJacket>1</FlakJacket>
 		<PercentTunnelVision>7</PercentTunnelVision>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<sFireResistance>10</sFireResistance>
 		<STAND_MODIFIERS>
 			<PercentCap>-5</PercentCap>
 			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
@@ -24473,6 +24477,7 @@
 		<APBonus>-10</APBonus>
 		<StealthBonus>-30</StealthBonus>
 		<FlakJacket>1</FlakJacket>
+		<sFireResistance>15</sFireResistance>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentHandling>-4</PercentHandling>
@@ -24514,6 +24519,7 @@
 		<APBonus>-8</APBonus>
 		<StealthBonus>-25</StealthBonus>
 		<FlakJacket>1</FlakJacket>
+		<sFireResistance>25</sFireResistance>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS>
 			<PercentBase>-40</PercentBase>
@@ -24917,6 +24923,7 @@
 		<StealthBonus>-23</StealthBonus>
 		<PercentTunnelVision>7</PercentTunnelVision>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<sFireResistance>10</sFireResistance>
 		<STAND_MODIFIERS>
 			<PercentCap>-6</PercentCap>
 			<PercentCounterForceAccuracy>-12</PercentCounterForceAccuracy>
@@ -24957,6 +24964,7 @@
 		<APBonus>-11</APBonus>
 		<StealthBonus>-33</StealthBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<sFireResistance>15</sFireResistance>
 		<STAND_MODIFIERS>
 			<PercentHandling>-5</PercentHandling>
 		</STAND_MODIFIERS>
@@ -24994,6 +25002,7 @@
 		<APBonus>-9</APBonus>
 		<StealthBonus>-28</StealthBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<sFireResistance>25</sFireResistance>
 		<STAND_MODIFIERS>
 			<PercentBase>-46</PercentBase>
 			<PercentCap>-17</PercentCap>
@@ -25396,6 +25405,7 @@
 		<StealthBonus>-17</StealthBonus>
 		<PercentTunnelVision>7</PercentTunnelVision>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<sFireResistance>10</sFireResistance>
 		<STAND_MODIFIERS>
 			<PercentCap>-4</PercentCap>
 			<PercentCounterForceAccuracy>-8</PercentCounterForceAccuracy>
@@ -25437,6 +25447,7 @@
 		<APBonus>-10</APBonus>
 		<StealthBonus>-27</StealthBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<sFireResistance>15</sFireResistance>
 		<STAND_MODIFIERS>
 			<PercentHandling>-3</PercentHandling>
 		</STAND_MODIFIERS>
@@ -25475,6 +25486,7 @@
 		<APBonus>-8</APBonus>
 		<StealthBonus>-22</StealthBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<sFireResistance>25</sFireResistance>
 		<STAND_MODIFIERS>
 			<PercentBase>-36</PercentBase>
 			<PercentCap>-14</PercentCap>
@@ -30349,6 +30361,7 @@
 		<Damageable>1</Damageable>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<buddyitem>1755</buddyitem>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -52058,6 +52071,136 @@
 		<DrugType>19</DrugType>
 		<usPortionSize>5</usPortionSize>
 		<BR_NewInventory>3</BR_NewInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1753</uiIndex>
+		<szItemName>脏绷带</szItemName>
+		<szLongItemName>脏绷带</szLongItemName>
+		<szItemDesc>这些简单的绷带是用破布做的。还止不住血，也不符合卫生标准。。。</szItemDesc>
+		<szBRName>脏绷带</szBRName>
+		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
+		<usItemClass>4096</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubCursor>5</ubCursor>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>905</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>18</ItemSize>
+		<usPrice>3</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<Medical>1</Medical>
+		<FirstAidKit>1</FirstAidKit>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<PercentStatusDrainReduction>-300</PercentStatusDrainReduction>
+		<DrugType>20</DrugType>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1754</uiIndex>
+		<szItemName>绷带</szItemName>
+		<szLongItemName>绷带</szLongItemName>
+		<szItemDesc>这些简单的绷带是用破布做的。它们很干净，可还是止不住血，这就是问题所在。</szItemDesc>
+		<szBRName>绷带</szBRName>
+		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
+		<usItemClass>4096</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubCursor>5</ubCursor>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>906</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>18</ItemSize>
+		<usPrice>5</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<Medical>1</Medical>
+		<FirstAidKit>1</FirstAidKit>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<PercentStatusDrainReduction>-300</PercentStatusDrainReduction>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>	
+	<ITEM>
+		<uiIndex>1755</uiIndex>
+		<szItemName>Molotov light Internal</szItemName>
+		<szLongItemName>Molotov light Internal</szLongItemName>
+		<szItemDesc>INTERNAL ITEM, DO NOT USE!!!</szItemDesc>
+		<szBRName>Flare Internal</szBRName>
+		<usItemClass>256</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>104</ubClassIndex>
+		<ubCursor>6</ubCursor>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>71</ubGraphicNum>
+		<ubWeight>2</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>20</ItemSize>
+		<usPrice>50</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<NotBuyable>1</NotBuyable>
+		<Flare>1</Flare>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1756</uiIndex>
+		<szItemName>E. Blood bag</szItemName>
+		<szLongItemName>Empty blood bag</szLongItemName>
+		<szItemDesc>This blood bag can be filled with the blood of a (hopefully willing) donor.</szItemDesc>
+		<szBRName>Blood bag</szBRName>
+		<szBRDesc>A simple blood bag, used to store blood for medical purposes.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>908</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>4</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<BR_NewInventory>6</BR_NewInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<emptybloodbag>1</emptybloodbag>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1757</uiIndex>
+		<szItemName>Blood bag</szItemName>
+		<szLongItemName>Blood bag</szLongItemName>
+		<szItemDesc>This package of fresh blood can be used up to boost a surgery.</szItemDesc>
+		<szBRName>Blood bag</szBRName>
+		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubCursor>5</ubCursor>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>907</ubGraphicNum>
+		<ubWeight>6</ubWeight>
+		<ubPerPocket>2</ubPerPocket>
+		<ItemSize>18</ItemSize>
+		<usPrice>25</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<Medical>1</Medical>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<bloodbag>1</bloodbag>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>

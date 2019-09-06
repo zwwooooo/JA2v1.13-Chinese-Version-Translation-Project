@@ -97,6 +97,7 @@
 		<snake_defense>0</snake_defense>				  <!-- +- % chance to evade snake attacks, -100 to 100 -->
 		<hackerskill>0</hackerskill>					  <!-- hacker skill, 0 to 100. Value > 0 means we can hack computers -->
 		<burial_assignment>0</burial_assignment>		  <!-- effectiveness at burying corpses, -50 to 1000. Value > 0 means we bury corpses faster -->
+		<administration_assignment>0</administration_assignment>	<!-- +- % effectiveness at administration assignment, -50 to 1000. Value > 0 means we work better -->
 
 		<dislikebackground>0</dislikebackground>          <!-- dislike everybody with a background that has the negative of this value -->
 
@@ -182,6 +183,7 @@
 		<disarm_trap>5</disarm_trap>
 		<capitulation>10</capitulation>
 		<sleep>-1</sleep>
+		<administration_assignment>25</administration_assignment>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -569,16 +571,14 @@
 		<szName>SWAT特工</szName>
 		<szShortName>SWAT特工</szShortName>
 		<szDescription>设身于最危险的都市角落，SWAT特工擅长处理高度专业的军事和政治行动。</szDescription>
-		<leadership>2</leadership>
 		<ap_urban>2</ap_urban>
 		<ap_assault>2</ap_assault>
-		<resistance_physical>3</resistance_physical>
-		<resistance_fear>3</resistance_fear>
 		<resistance_suppression>3</resistance_suppression>
 		<interrogation>100</interrogation>
 		<prisonguard>100</prisonguard>
 		<breachingcharge>70</breachingcharge>
-		<spotter>5</spotter>
+		<spotter>10</spotter>
+		<administration_assignment>30</administration_assignment>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 		<dislikebackground>-2</dislikebackground>
@@ -589,13 +589,9 @@
 		<szName>SWAT狙击手</szName>
 		<szShortName>SWAT狙击手</szShortName>
 		<szDescription>设身于最危险的都市角落，SWAT特工擅长处理高度专业的军事和政治行动。</szDescription>
-		<marksmanship>3</marksmanship>
-		<leadership>1</leadership>
 		<ap_urban>2</ap_urban>
 		<ap_height>2</ap_height>
 		<ap_assault>2</ap_assault>
-		<resistance_physical>2</resistance_physical>
-		<resistance_fear>2</resistance_fear>
 		<resistance_suppression>2</resistance_suppression>
 		<increased_maxcth>3</increased_maxcth>
 		<interrogation>75</interrogation>
@@ -613,8 +609,6 @@
 		<szName>后台员工</szName>
 		<szShortName>后台员工</szShortName>
 		<szDescription>灯光、音效和尖叫的观众，其实和战场也没什么区别不是吗？</szDescription>
-		<mechanical>3</mechanical>
-		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-8</ap_fortify>
 		<ap_artillery>-3</ap_artillery>
@@ -641,8 +635,6 @@
 		<szName>绿色贝雷帽</szName>
 		<szShortName>绿色贝雷帽</szShortName>
 		<szDescription>作为绿色贝雷帽特种部队的一员，Len很善于处理非常规战事。</szDescription>
-		<marksmanship>4</marksmanship>
-		<leadership>5</leadership>
 		<ap_airdrop>5</ap_airdrop>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-5</ap_fortify>
@@ -652,8 +644,6 @@
 		<resistance_suppression>10</resistance_suppression>
 		<meleedamage>3</meleedamage>
 		<cth_blades>5</cth_blades>
-		<approach_threaten>10</approach_threaten>
-		<approach_recruit>-6</approach_recruit>
 		<spotter>5</spotter>
 		<drink_energyregen>10</drink_energyregen>
 		<food>-10</food>
@@ -949,25 +939,12 @@
 		<szName>乖宝宝</szName>
 		<szShortName>乖宝宝</szShortName>
 		<szDescription>童年时代留下的人格印记，至今还影响着你。</szDescription>
-		<leadership>-10</leadership>
-		<ap_polar>-3</ap_polar>
-		<ap_desert>-3</ap_desert>
-		<ap_swamp>-3</ap_swamp>
-		<ap_urban>-3</ap_urban>
-		<ap_river>-3</ap_river>
-		<ap_coastal>-3</ap_coastal>
-		<ap_tropical>-3</ap_tropical>
-		<ap_mountain>-3</ap_mountain>
-		<ap_fortify>10</ap_fortify>
-		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-10</ap_airdrop>
 		<ap_assault>-10</ap_assault>
-		<leadership>-10</leadership>
-		<approach_recruit>-20</approach_recruit>
-		<resistance_physical>-10</resistance_physical>
 		<resistance_fear>-20</resistance_fear>
 		<resistance_suppression>-20</resistance_suppression>
 		<spotter>-10</spotter>
+		<administration_assignment>25</administration_assignment>
 		<smoker>2</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -985,7 +962,6 @@
 		<resistance_physical>5</resistance_physical>
 		<resistance_fear>5</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
-		<approach_threaten>15</approach_threaten>
 		<capitulation>5</capitulation>
 		<spotter>2</spotter>
 		<druguse>1</druguse>
@@ -1000,19 +976,12 @@
 		<szName>乡巴佬</szName>
 		<szShortName>乡巴佬</szShortName>
 		<szDescription>头发插着枯稻草，张嘴一笑缺颗牙，好吧，农场的生活也不是那么容易。</szDescription>
-		<strength>3</strength>
-		<dexterity>5</dexterity>
-		<agility>3</agility>
-		<mechanical>8</mechanical>
-		<medical>3</medical>
-		<wisdom>-7</wisdom>
 		<stealth>3</stealth>
 		<ap_height>-4</ap_height>
 		<ap_urban>-5</ap_urban>
 		<ap_mountain>5</ap_mountain>
 		<ap_fortify>-8</ap_fortify>
 		<travel_foot>4</travel_foot>
-		<approach_recruit>-5</approach_recruit>
 		<carrystrength>10</carrystrength>
 		<resistance_fear>10</resistance_fear>
 		<resistance_physical>10</resistance_physical>
@@ -1060,17 +1029,14 @@
 		<szName>军火商</szName>
 		<szShortName>军火商</szShortName>
 		<szDescription>多年的武器倒卖经验使得此人在买卖枪支弹药时，更善于抬价砍价。</szDescription>
-		<leadership>-3</leadership>
 		<ap_fortify>10</ap_fortify>
-		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-10</ap_airdrop>
 		<ap_assault>-5</ap_assault>
-		<approach_friendly>10</approach_friendly>
-		<approach_threaten>-10</approach_threaten>
 		<betterprices_guns>10</betterprices_guns>
 		<betterprices>10</betterprices>
-		<resistance_alcohol>5</resistance_alcohol>
+		<resistance_alcohol>10</resistance_alcohol>
 		<smoker>1</smoker>
+		<administration_assignment>100</administration_assignment>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -3200,6 +3166,7 @@
 		<disarm_trap>25</disarm_trap>
 		<traplevel>1</traplevel>
 		<hackerskill>80</hackerskill>
+		<administration_assignment>50</administration_assignment>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -3718,25 +3685,17 @@
 		<szName>白领</szName>
 		<szShortName>白领</szShortName>
 		<szDescription>嗡嗡的空调、打翻的杯子和乱七八糟的资料，这就是办公室的生活。</szDescription>
-		<leadership>-3</leadership>
-		<stealth>3</stealth>
-		<hearing_night>1</hearing_night>
 		<hearing_day>1</hearing_day>
-		<approach_direct>5</approach_direct>
 		<resistance_suppression>-10</resistance_suppression>
 		<ap_urban>2</ap_urban>
-		<ap_desert>-5</ap_desert>
 		<ap_swamp>-5</ap_swamp>
 		<ap_tropical>-5</ap_tropical>
-		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-5</ap_airdrop>
-		<ap_assault>-5</ap_assault>
-		<meleedamage>-3</meleedamage>
 		<interrogation>50</interrogation>
+		<administration_assignment>80</administration_assignment>
 		<spotter>-10</spotter>
 		<capitulation>-30</capitulation>
-		<insurance>20</insurance>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -3820,11 +3779,11 @@
 		<szName>技术宅</szName>
 		<szShortName>技术宅</szShortName>
 		<szDescription>技术宅拯救世界。就算闭着一只眼睛，技术宅也能在一分钟内摆好魔方。</szDescription>
-		<dexterity>8</dexterity>
-		<mechanical>8</mechanical>
 		<disarm_trap>25</disarm_trap>
 		<traplevel>1</traplevel>
 		<ap_inventory>-10</ap_inventory> 
+		<hackerskill>80</hackerskill>
+		<administration_assignment>50</administration_assignment>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -4143,8 +4102,6 @@
 		<betterprices_guns>3</betterprices_guns>
 		<betterprices>5</betterprices>
 		<capitulation>5</capitulation>
-		<approach_threaten>5</approach_threaten>
-		<approach_recruit>8</approach_recruit>
 		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>	
@@ -4155,25 +4112,12 @@
 		<szName>白领</szName>
 		<szShortName>白领</szShortName>
 		<szDescription>嗡嗡的空调、打翻的杯子和乱七八糟的资料，这就是办公室的生活。</szDescription>
-		<dexterity>2</dexterity>
-		<agility>2</agility>
 		<stealth>2</stealth>
-		<ap_polar>1</ap_polar>
-		<ap_desert>2</ap_desert>
-		<ap_swamp>2</ap_swamp>
 		<ap_urban>4</ap_urban>
-		<ap_river>2</ap_river>
-		<ap_coastal>2</ap_coastal>
-		<ap_tropical>2</ap_tropical>
-		<ap_mountain>2</ap_mountain>
-		<ap_artillery>10</ap_artillery>
-		<approach_direct>5</approach_direct>
-		<resistance_fear>2</resistance_fear>
-		<carrystrength>3</carrystrength>
+		<carrystrength>10</carrystrength>
 		<drink_energyregen>10</drink_energyregen>
-		<speed_run>2</speed_run>
-		<spotter>2</spotter>
 		<insurance>-20</insurance>
+		<administration_assignment>-20</administration_assignment>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>	
@@ -4184,10 +4128,6 @@
 		<szName>精神病人</szName>
 		<szShortName>精神病人</szShortName>
 		<szDescription>没有人知道你是怎么逃出来的，不过大家一致认为，你应该回去。</szDescription>
-		<agility>6</agility>
-		<wisdom>-6</wisdom>
-		<strength>6</strength>
-		<leadership>-9</leadership>
 		<stealth>9</stealth>
 		<meleedamage>6</meleedamage>
 		<ap_polar>1</ap_polar>
@@ -4206,9 +4146,6 @@
 		<resistance_suppression>20</resistance_suppression>
 		<interrogation>100</interrogation>
 		<capitulation>-50</capitulation>
-		<approach_direct>-50</approach_direct>
-		<approach_threaten>50</approach_threaten>
-		<approach_recruit>-50</approach_recruit>
 		<hearing_night>1</hearing_night>
 		<speed_run>3</speed_run>
 		<no_male>1</no_male>
@@ -4654,7 +4591,6 @@
 		<szName>律师</szName>
 		<szShortName>律师</szShortName>
 		<szDescription>虽然让他们做佣兵可能强人所难，不过在紧急关头他们也能派上用场。</szDescription>
-		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-5</ap_airdrop>
 		<ap_assault>-5</ap_assault>
@@ -4662,13 +4598,11 @@
 		<ap_desert>-3</ap_desert>
 		<ap_urban>3</ap_urban>
 		<ap_swamp>-3</ap_swamp>
-		<stealth>3</stealth>
 		<interrogation>100</interrogation>
-		<approach_threaten>10</approach_threaten>
 		<hearing_night>1</hearing_night>
-		<hearing_day>1</hearing_day>
 		<spotter>3</spotter>
 		<capitulation>20</capitulation>
+		<administration_assignment>40</administration_assignment>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
