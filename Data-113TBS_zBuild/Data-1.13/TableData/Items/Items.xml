@@ -7893,8 +7893,9 @@
 		<szItemDesc>这袋木杆和铁杆已有些残缺，但高手一样能打出小鸟球。</szItemDesc>
 		<szBRName>高尔夫球棒</szBRName>
 		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
-		<usItemClass>268435456</usItemClass>
+		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>107</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>136</ubGraphicNum>
 		<ubWeight>100</ubWeight>
@@ -7905,6 +7906,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<ItemFlag>16384</ItemFlag>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -48516,7 +48518,7 @@
 		<szItemDesc>如果你看到这个信息，说明Flugente还没有做好这个道具，是他的错！</szItemDesc>
 		<szBRName>random NATO AR 1</szBRName>
 		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
-		<usItemClass>268435456</usItemClass>
+		<usItemClass>1073741824</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>1</ubGraphicNum>
@@ -48539,7 +48541,7 @@
 		<szItemDesc>如果你看到这个信息，说明Flugente还没有做好这个道具，是他的错！</szItemDesc>
 		<szBRName>random WP AR 1</szBRName>
 		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
-		<usItemClass>268435456</usItemClass>
+		<usItemClass>1073741824</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>1</ubGraphicNum>
