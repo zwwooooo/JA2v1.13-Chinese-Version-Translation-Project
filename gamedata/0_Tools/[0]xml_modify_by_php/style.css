@@ -1,0 +1,255 @@
+/*! normalize.css v4.0.0 | MIT License | github.com/necolas/normalize.css */
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block}audio:not([controls]){display:none;height:0}progress{vertical-align:baseline}template,[hidden]{display:none}a{background-color:transparent}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit}b,strong{font-weight:bolder}dfn{font-style:italic}h1{font-size:2em;margin:0.67em 0}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-0.25em}sup{top:-0.5em}img{border-style:none}svg:not(:root){overflow:hidden}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}button,input,select,textarea{font:inherit}optgroup{font-weight:bold}button,input,select{overflow:visible}button,input,select,textarea{margin:0}button,select{text-transform:none}button,[type="button"],[type="reset"],[type="submit"]{cursor:pointer}[disabled]{cursor:default}button,html [type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}button:-moz-focusring,input:-moz-focusring{outline:1px dotted ButtonText}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}textarea{overflow:auto}[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0}[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto}[type="search"]{-webkit-appearance:textfield}[type="search"]::-webkit-search-cancel-button,[type="search"]::-webkit-search-decoration{-webkit-appearance:none}
+*,
+*:before,
+*:after{
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+pre{
+	padding: 10px;
+	background: #333;
+	color: #ccc;
+	border-left: 10px solid #555;
+	font-size: 12px;
+	font-family: 'Courier New', clearSys;
+}
+hr{
+	clear: both;
+	margin: 25px 0;
+	padding: 0;
+	height: 1px;
+	background: #ccc;
+	border: none;
+}
+p{
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+}
+a{
+	text-decoration: none;
+	color: #0073aa;
+}
+p.red{
+	color: #c7491f;
+}
+p.red span{
+	color: #0073aa;
+}
+.top{
+	margin-bottom: 20px;
+	padding: 5px 15px;
+	line-height: 30px;
+	font-size: 14px;
+	border-bottom: 1px solid #ddd;
+}
+.site-main{
+	position: relative;
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+	padding-bottom: 50px;
+	font-family: 'Microsoft Yahei';
+	font-size: 13px;
+}
+.h1{
+	font-size: 24px;
+	text-align: center;
+}
+.desc{
+	margin-bottom: 30px;
+	text-align: center;
+}
+.form{
+	position: relative;
+	background: #fafafa;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	padding: 25px ;
+}
+.form hr{
+	clear: both;
+	margin: 25px 0;
+	padding: 0;
+	height: 1px;
+	background: #eee;
+	border: none;
+}
+.tags-wrapper{
+	overflow: hidden;
+}
+.yuding{
+	font-size: 12px;
+	float: left;
+	width: 50%;
+	padding: 10px;
+}
+.yuding ol{
+	overflow-y: auto;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	height: 260px;
+	margin: 10px 0 0 0;
+	padding-left: 25px;
+}
+.yuding li{
+	margin: 2px 0;
+	padding: 0;
+}
+.yuding a{
+	display: inline-block;
+	text-decoration: underline;
+	font-size: 12px;
+	padding: 0 2px;
+}
+.yuding a:hover{
+	color: #c7491f;
+	background: transparent;
+}
+.yuding li.active a{
+	background: #c7491f;
+	color: #fff;
+}
+.tags-field{
+	float: right;
+	width: 50%;
+	padding: 0 0 0 30px;
+}
+.h2{
+	font-size: 14px;
+	margin: 10px 0 10px 0;
+}
+.site-main select,
+.site-main input{
+	max-width: 300px;
+	width: 100%;
+	height: 32px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	background: transparent;
+	color: #49629e;
+	margin: 0 0 5px;
+	padding: 0 5px;
+}
+.site-main input.file{
+	max-width: 640px;
+}
+.site-main select{
+	max-width: 300px;
+}
+.file-list{
+	list-style: none;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+.file-list > li{
+	position: relative;
+	line-height: 32px;
+}
+.file-list > li ul{
+	z-index: 999;
+	display: none;
+	list-style: none;
+	position: absolute;
+	left: 0;
+	top: 30px;
+	margin: 0;
+	padding: 10px;
+	background: #fff;
+	width: 700px;
+	height: 300px;
+	overflow-y: auto;
+	border: 1px solid #ccc;
+	border-radius: 0 0 4px 4px;
+	box-shadow: 1px 1px 7px rgba(0,0,0,.25);
+}
+.file-list > li:hover ul{
+	display: block;
+}
+.file-list > li ul li{
+	line-height: 1;
+	padding: 5px 0;
+	border-bottom: 1px solid #f2f2f2;
+}
+.file-list > li ul a{
+}
+.file-list > li ul a.haverun,
+.file-list > li ul a:hover{
+	color: #c7491f;
+}
+.site-main .submit{
+	clear: both;
+	text-align: center;
+}
+.site-main .submit input{
+	background: #000;
+	color: #fff;
+	font-size: 20px;
+	height: auto;
+	width: auto;
+	padding: 5px 50px;
+	border: none;
+}
+.site-main .submit input:hover{
+	background: #49629e;
+}
+
+#runing{
+	display: none;
+	position: absolute;
+	left: 0;
+	top: 0;
+	padding: 30px;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, .85);
+	color: #fff;
+	border-radius: 6px;
+	text-align: center;
+	line-height: 24px;
+	font-size: 16px;
+}
+#runing .status{
+	height: 10%;
+}
+#runing .info{
+	height: 90%;
+	overflow-y: auto;
+	padding: 10px;
+	line-height: 18px;
+	font-size: 13px;
+	border: 1px solid #666;
+	border-radius: 6px;
+	color: #999;
+}
+#runing .info p{
+	padding: 0 15px 10px;
+	margin: 0 15px 10px;
+	border-bottom: 1px solid #333;
+}
+#runing img{
+	vertical-align: top;
+}
+#runing .loading,
+#runing .done,
+#runing .error{
+	display: none;
+}
+#runing .done a{
+	margin-left: 30px;
+	font-size: 13px;
+}
+
+#file-o-dir,
+#file-r-dir,
+#dir-mode-off{
+	display: none;
+}
+.h2 #file-o-dir,
+.h2 #file-r-dir{
+	font-size: 13px;
+	font-weight: 400;
+}

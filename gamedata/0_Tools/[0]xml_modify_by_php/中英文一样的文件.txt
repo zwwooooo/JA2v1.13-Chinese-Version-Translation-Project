@@ -1,0 +1,19 @@
+----------------------------------------------------------------------
+中英文一样的文件 TBS Chinese svn7582
+----------------------------------------------------------------------
+Data-1.13\TableData\Email\EmailSenderNameList.xml
+Data-1.13\TableData\Items\AmmoStrings.xml
+Data-1.13\TableData\Map\Cities.xml
+Data-1.13\TableData\MercProfiles.xml
+Data-1.13\TableData\Vehicles.xml
+
+
+Data-UB\TableData\MercProfiles25.xml
+Data-UB\TableData\Email\EmailSenderNameList.xml
+
+Data-UB\AddOns\Data-UB-Vanilla\TableData\MercProfiles25.xml
+Data-UB\AddOns\Data-UB-Vanilla\TableData\Email\EmailSenderNameList.xml
+
+Data-UB\AddOns\Data-UB-1.13\TableData\MercProfiles25.xml
+Data-UB\AddOns\Data-UB-1.13\TableData\Email\EmailSenderNameList.xml
+
