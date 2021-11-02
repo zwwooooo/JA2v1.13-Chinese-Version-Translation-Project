@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 	In this file you can specify which old AIM veterans should be available on the AIM alumni laptop site.
 	Just remove the <MERC></MERC> block for the merc which should not show up on the AIM veterans site.
@@ -15,7 +15,7 @@
 		<uiIndex>0</uiIndex>
 		<NickName>Wink</NickName>
 		<Name>Wink Dickerson</Name>
-		<Bio>&#x56E0;&#x5F3A;&#x5065;&#x5584;&#x63B7;&#x3001;&#x51C6;&#x5EA6;&#x6B20;&#x4F73;&#x7684;&#x624B;&#x81C2;&#x51FA;&#x540D;&#x7684;Wink Dinkerson&#x7EC8;&#x4E8E;&#x7B49;&#x6765;&#x4E86;&#x4E00;&#x751F;&#x90FD;&#x5728;&#x5B88;&#x5019;&#x7684;&#x53EC;&#x5524;&#x3002;&#x7531;&#x4E8E;&#x8D44;&#x91D1;&#x5927;&#x5E45;&#x524A;&#x51CF;&#xFF0C;&#x8499;&#x7279;&#x5229;&#x5C14;&#x535A;&#x89C8;&#x4F1A;&#x961F;&#x6B63;&#x5728;&#x5404;&#x5730;&#x641C;&#x5BFB;&#x5929;&#x5206;&#x4E0A;&#x4F73;&#xFF08;&#x6216;&#x4E0D;&#x4F73;&#xFF09;&#x7684;&#x5019;&#x8865;&#x6295;&#x624B;&#x3002;&#x7B7E;&#x8BA2;&#x5468;&#x85AA;140&#x52A0;&#x5143;&#x7684;&#x5408;&#x540C;&#x4EE5;&#x540E;&#xFF0C;Wink&#x7EC8;&#x4E8E;&#x6210;&#x4E3A;&#x4E86;&#x9884;&#x5907;&#x961F;&#x5185;&#x7B2C;&#x4E94;&#x6295;&#x624B;&#x3002;</Bio>
+		<Bio>因强健善掷、准度欠佳的手臂出名的Wink Dinkerson终于等来了一生都在守候的召唤。由于资金大幅削减，蒙特利尔博览会队正在各地搜寻天分上佳（或不佳）的候补投手。签订周薪140加元的合同以后，Wink终于成为了预备队内第五投手。</Bio>
 		<FaceID>7</FaceID>
 	</MERC>
 	<MERC>
@@ -23,7 +23,7 @@
 		<uiIndex>1</uiIndex>
 		<NickName>Larry</NickName>
 		<Name>Larry Roachburn</Name>
-		<Bio>&#x516B;&#x6B21;&#x6212;&#x6BD2;&#x5747;&#x544A;&#x65E0;&#x679C;&#x540E;&#xFF0C;AIM&#x522B;&#x65E0;&#x9009;&#x62E9;&#xFF0C;&#x53EA;&#x80FD;&#x5265;&#x593A;Larry Roachburn&#x7684;&#x6210;&#x5458;&#x8EAB;&#x4EFD;&#x3002;&#x636E;&#x6211;&#x4EEC;&#x63A8;&#x65AD;&#xFF0C;Larry&#x7236;&#x4EB2;&#x7684;&#x6B7B;&#x4FC3;&#x4F7F;&#x4ED6;&#x53C8;&#x4E00;&#x6B21;&#x5C1D;&#x8BD5;&#x89C4;&#x675F;&#x81EA;&#x8EAB;&#x7684;&#x66B4;&#x529B;&#x503E;&#x5411;&#x5E76;&#x7EC8;&#x6B62;&#x957F;&#x8FBE;&#x5341;&#x6570;&#x5E74;&#x7684;&#x5438;&#x6BD2;&#x53F2;&#x3002;&#x6211;&#x4EEC;&#x8C28;&#x5E0C;&#x671B;&#x4ED6;&#x4E00;&#x5E06;&#x98CE;&#x987A;&#xFF0C;&#x6709;&#x6240;&#x5B9E;&#x7EE9;&#x3002;</Bio>
+		<Bio>八次戒毒均告无果后，AIM别无选择，只能剥夺Larry Roachburn的成员身份。据我们推断，Larry父亲的死促使他又一次尝试规束自身的暴力倾向并终止长达十数年的吸毒史。我们谨希望他一帆风顺，有所实绩。</Bio>
 		<FaceID>10</FaceID>
 	</MERC>
 	<MERC>
@@ -31,7 +31,7 @@
 		<uiIndex>2</uiIndex>
 		<NickName>Ears</NickName>
 		<Name>Edward "Ears" Stockwell</Name>
-		<Bio>Ears Stockwell&#x51E0;&#x4E4E;&#x5728;&#x5341;&#x516B;&#x4E2A;&#x6708;&#x524D;&#x5C31;&#x9012;&#x4EA4;&#x4E86;&#x8F9E;&#x5448;&#x3002;&#x4ECE;&#x90A3;&#x4EE5;&#x540E;&#xFF0C;&#x6211;&#x4EEC;&#x5C31;&#x6CA1;&#x6709;&#x6536;&#x5F97;&#x6709;&#x5173;&#x4ED6;&#x7684;&#x4EFB;&#x4F55;&#x8054;&#x7EDC;&#xFF0C;&#x56E0;&#x6B64;&#x4E5F;&#x6CA1;&#x6709;&#x503C;&#x5F97;&#x516C;&#x5E03;&#x7684;&#x4FE1;&#x606F;&#x3002;&#x800C;&#x4E8B;&#x5B9E;&#x4E0A;&#xFF0C;&#x6211;&#x4EEC;&#x4E5F;&#x61D2;&#x5F97;&#x53BB;&#x8054;&#x7CFB;&#x4ED6;&#x3002;</Bio>
+		<Bio>Ears Stockwell几乎在十八个月前就递交了辞呈。从那以后，我们就没有收得有关他的任何联络，因此也没有值得公布的信息。而事实上，我们也懒得去联系他。</Bio>
 		<FaceID>11</FaceID>
 	</MERC>
 	<MERC>
@@ -39,7 +39,7 @@
 		<uiIndex>3</uiIndex>
 		<NickName>Bernie</NickName>
 		<Name>Doctor Bernie Gloveless</Name>
-		<Bio>Bernie&#x4E0E;AIM&#x7684;&#x6E0A;&#x6E90;&#x53EF;&#x4EE5;&#x6982;&#x62EC;&#x4E3A;&#x4E00;&#x6CE2;&#x672A;&#x5E73;&#xFF0C;&#x4E00;&#x6CE2;&#x53C8;&#x8D77;&#x3002;&#x5728;&#x62D2;&#x7EDD;&#x8BA9;&#x51FA;&#x7EC4;&#x7EC7;&#x4E13;&#x5C5E;&#x5185;&#x79D1;&#x533B;&#x5E08;&#x5E76;&#x4E0E;&#x961F;&#x5458;&#x53D1;&#x751F;&#x8BF8;&#x591A;&#x9F83;&#x9F89;&#x4E4B;&#x540E;&#xFF0C;AIM&#x51B3;&#x5B9A;&#x5C06;Bernie Gloveless&#x533B;&#x751F;&#x5F3A;&#x884C;&#x89E3;&#x804C;&#x3002;&#x4ED6;&#x76EE;&#x524D;&#x53D7;&#x96C7;&#x4E8E;&#x4E00;&#x5BB6;&#x56FD;&#x9645;&#x4FDD;&#x9669;&#x516C;&#x53F8;&#xFF0C;&#x4E0B;&#x6B21;&#x516C;&#x53F8;&#x8BA9;&#x4F60;&#x53BB;&#x505A;&#x8EAB;&#x4F53;&#x5E74;&#x5EA6;&#x68C0;&#x67E5;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x4F60;&#x53EF;&#x80FD;&#x4F1A;&#x60F3;&#x8D77;&#x4ED6;&#x7684;&#x540D;&#x5B57;&#x3002;</Bio>
+		<Bio>Bernie与AIM的渊源可以概括为一波未平，一波又起。在拒绝让出组织专属内科医师并与队员发生诸多龃龉之后，AIM决定将Bernie Gloveless医生强行解职。他目前受雇于一家国际保险公司，下次公司让你去做身体年度检查的时候，你可能会想起他的名字。</Bio>
 		<FaceID>15</FaceID>
 	</MERC>
 	<MERC>
@@ -47,7 +47,7 @@
 		<uiIndex>4</uiIndex>
 		<NickName>Reuban</NickName>
 		<Name>"Unusually Ruthless" Reuban</Name>
-		<Bio>&#x6F5C;&#x9003;&#x6570;&#x5E74;&#x7684;Reuban&#x7EC8;&#x4E8E;&#x843D;&#x5165;&#x6CD5;&#x7F51;&#xFF0C;&#x5E76;&#x88AB;&#x62BC;&#x89E3;&#x56DE;&#x7F57;&#x9A6C;&#x5C3C;&#x4E9A;&#x3002;&#x4ED6;&#x56E0;&#x8C0B;&#x6740;&#x59BB;&#x513F;&#x540C;&#x65F6;&#x80CC;&#x4E0A;&#x4E86;&#x516D;&#x6761;&#x4EBA;&#x547D;&#x3002;&#x5C3D;&#x7BA1;&#x53EF;&#x80FD;&#x8981;&#x5728;&#x7262;&#x91CC;&#x8FC7;&#x5B8C;&#x4ED6;&#x7684;&#x4E0B;&#x534A;&#x8F88;&#x5B50;&#xFF0C;Reuban&#x4F3C;&#x4E4E;&#x5BF9;&#x65B0;&#x73AF;&#x5883;&#x9002;&#x5E94;&#x826F;&#x597D;&#x3002;&#x4ED6;&#x52B3;&#x6559;&#x7684;&#x5185;&#x5BB9;&#x4E3B;&#x8981;&#x662F;&#x6253;&#x626B;&#x5EAD;&#x9662;&#xFF0C;&#x800C;&#x4E14;&#x4ED6;&#x4FEE;&#x526A;&#x7684;&#x6811;&#x6728;&#x9020;&#x578B;&#x4E3A;&#x6240;&#x5728;&#x76D1;&#x72F1;&#x8D62;&#x5F97;&#x4E86;&#x597D;&#x51E0;&#x6B21;&#x201C;&#x65B0;&#x98CE;&#x8C8C;&#x201D;&#x5956;&#x3002;</Bio>
+		<Bio>潜逃数年的Reuban终于落入法网，并被押解回罗马尼亚。他因谋杀妻儿同时背上了六条人命。尽管可能要在牢里过完他的下半辈子，Reuban似乎对新环境适应良好。他劳教的内容主要是打扫庭院，而且他修剪的树木造型为所在监狱赢得了好几次“新风貌”奖。</Bio>
 		<FaceID>16</FaceID>
 	</MERC>
 	<MERC>
@@ -55,7 +55,7 @@
 		<uiIndex>5</uiIndex>
 		<NickName>Pops</NickName>
 		<Name>Pops McGillicutty</Name>
-		<Bio>AIM&#x52AA;&#x529B;&#x529D;&#x8BF4;Pops McGillicutty&#x9000;&#x4F11;&#x8FBE;&#x6570;&#x5E74;&#x4E4B;&#x4E45;&#xFF0C;&#x672A;&#x80FD;&#x6210;&#x529F;&#xFF0C;&#x7EC8;&#x4E8E;&#x4E0D;&#x5F97;&#x4E0D;&#x63A8;&#x51FA;&#x4E00;&#x6761;&#x63AA;&#x65BD;&#xFF0C;&#x8BA9;&#x5E74;&#x6EE1;85&#x5C81;&#x7684;&#x4F63;&#x5175;&#x5F3A;&#x5236;&#x79BB;&#x804C;&#x3002;Pops&#x4E3A;&#x4E86;&#x8FD8;&#x9A6C;&#x9769;&#x88F9;&#x5C38;&#x7684;&#x4F63;&#x5175;&#x4E00;&#x4E2A;&#x5B89;&#x8EAB;&#x613F;&#xFF0C;&#x5F00;&#x8BBE;&#x4E86;&#x4E3B;&#x8981;&#x7ACB;&#x8DB3;&#x7F51;&#x7EDC;&#x7684;&#x6BA1;&#x846C;&#x6C99;&#x9F99;&#xFF0C;&#x4E13;&#x95E8;&#x8D1F;&#x8D23;&#x7ED9;&#x53BB;&#x4E16;&#x7684;&#x4F63;&#x5175;&#x4E3E;&#x529E;&#x6709;&#x6392;&#x573A;&#x7684;&#x846C;&#x793C;&#x3002;</Bio>
+		<Bio>AIM努力劝说Pops McGillicutty退休达数年之久，未能成功，终于不得不推出一条措施，让年满85岁的佣兵强制离职。Pops为了还马革裹尸的佣兵一个安身愿，开设了主要立足网络的殡葬沙龙，专门负责给去世的佣兵举办有排场的葬礼。</Bio>
 		<FaceID>17</FaceID>
 	</MERC>
 	<MERC>
@@ -63,7 +63,7 @@
 		<uiIndex>6</uiIndex>
 		<NickName>Tex</NickName>
 		<Name>Tex R. Colburn</Name>
-		<Bio>&#x6211;&#x4EEC;&#x591A;&#x624D;&#x591A;&#x827A;&#x7684;&#x6210;&#x5458;&#x4E4B;&#x4E00;&#xFF0C;Tex Colburn&#xFF0C;&#x4E0A;&#x4EA4;&#x4E86;&#x81EA;&#x5DF1;&#x7684;&#x4E24;&#x628A;&#x5DE6;&#x8F6E;&#xFF0C;&#x8D70;&#x4E0A;&#x4E86;&#x5B9E;&#x73B0;&#x6F14;&#x827A;&#x4E4B;&#x68A6;&#x7684;&#x9053;&#x8DEF;&#x3002;&#x4F5C;&#x4E3A;&#x5728;&#x6B27;&#x7F8E;&#x5189;&#x5189;&#x5347;&#x8D77;&#x7684;&#x65E5;&#x88D4;&#x660E;&#x661F;&#xFF0C;&#x4ED6;&#x9886;&#x8854;&#x4E3B;&#x6F14;&#x4E86;&#x300A;&#x8BA9;&#x5F39;&#x5C18;&#x98D8;&#x300B; &#x8FD9;&#x90E8;&#x7535;&#x5F71;&#xFF0C;&#x5E76;&#x8BA9;&#x4EBA;&#x4EEC;&#x5BF9;&#x5176;&#x65E9;&#x5E74;&#x5728;&#x7ECF;&#x5178;&#x5F71;&#x7247;&#x300A;&#x5927;&#x9A8F;&#x9A6C;&#x7684;&#x7A81;&#x51FB;&#x300B;&#x548C;&#x300A;&#x5F00;&#x7740;&#x672C;&#x7530;&#x53BB;&#x65C5;&#x884C;&#x300B;&#x6240;&#x9970;&#x6F14;&#x7684;&#x89D2;&#x8272;&#x4EA7;&#x751F;&#x4E86;&#x70ED;&#x5207;&#x5173;&#x6CE8;&#x3002;</Bio>
+		<Bio>我们多才多艺的成员之一，Tex Colburn，上交了自己的两把左轮，走上了实现演艺之梦的道路。作为在欧美冉冉升起的日裔明星，他领衔主演了《让弹尘飘》 这部电影，并让人们对其早年在经典影片《大骏马的突击》和《开着本田去旅行》所饰演的角色产生了热切关注。</Bio>
 		<FaceID>19</FaceID>
 	</MERC>
 	<MERC>
@@ -71,7 +71,7 @@
 		<uiIndex>7</uiIndex>
 		<NickName>Hurl</NickName>
 		<Name>Hurl E. Cutter</Name>
-		<Bio>Hurl&#x4E0D;&#x8BBA;&#x5230;&#x54EA;&#x513F;&#x90FD;&#x662F;&#x4E2A;&#x4F9B;&#x533B;&#x751F;&#x69A8;&#x53D6;&#x533B;&#x7597;&#x8D39;&#x7684;&#x75C5;&#x79E7;&#x5B50;&#xFF0C;&#x800C;&#x4ED6;&#x5DF2;&#x7ECF;&#x6773;&#x65E0;&#x4FE1;&#x8BAF;&#x8FBE;&#x4E5D;&#x4E2A;&#x6708;&#x3002;&#x5728;&#x641C;&#x5BFB;&#x533B;&#x9662;&#x7684;&#x533B;&#x7597;&#x8BB0;&#x5F55;&#x53CA;&#x524D;&#x5F80;Havana&#x8BA4;&#x5C38;&#x672A;&#x679C;&#x4EE5;&#x540E;&#xFF0C;&#x4ED6;&#x6700;&#x540E;&#x7684;&#x884C;&#x8E2A;&#x4E5F;&#x6CA1;&#x80FD;&#x63D0;&#x4F9B;&#x4EFB;&#x4F55;&#x6709;&#x6548;&#x7EBF;&#x7D22;&#x3002;Fidel Dahana&#x5C61;&#x6B21;&#x8D28;&#x8BE2;&#x4ED6;&#x7684;&#x60C5;&#x51B5;&#xFF0C;&#x4E0D;&#x8FC7;&#x8B66;&#x65B9;&#x5E76;&#x6CA1;&#x6709;&#x7EE7;&#x7EED;&#x5BF9;&#x6B64;&#x7684;&#x8C03;&#x67E5;&#x3002;</Bio>
+		<Bio>Hurl不论到哪儿都是个供医生榨取医疗费的病秧子，而他已经杳无信讯达九个月。在搜寻医院的医疗记录及前往Havana认尸未果以后，他最后的行踪也没能提供任何有效线索。Fidel Dahana屡次质询他的情况，不过警方并没有继续对此的调查。</Bio>
 		<FaceID>20</FaceID>
 	</MERC>
 	<MERC>
@@ -79,7 +79,7 @@
 		<uiIndex>8</uiIndex>
 		<NickName>Biff</NickName>
 		<Name>Biff Apscott</Name>
-		<Bio>Biff Apscott&#x5728;&#x4F63;&#x5175;&#x4E2D;&#x4E5F;&#x662F;&#x4E2A;&#x51FA;&#x6311;&#x7684;&#x4EBA;&#x3002;&#x6211;&#x4EEC;&#x5C06;&#x4F1A;&#x6000;&#x5FF5;&#x8FD9;&#x540D;&#x5E74;&#x8F7B;&#x4EBA;&#x7684;&#x65FA;&#x76DB;&#x7CBE;&#x529B;&#xFF0C;&#x4EE5;&#x53CA;&#x4ED6;&#x8BA9;&#x6210;&#x5458;&#x4EEC;&#x94ED;&#x8BB0;&#x81EA;&#x8EAB;&#x52C7;&#x6C14;&#x7684;&#x65B9;&#x5F0F;&#x3002;&#x5C3D;&#x7BA1;&#x96BE;&#x4EE5;&#x7F6E;&#x4FE1;&#xFF0C;&#x6211;&#x4EEC;&#x8FD8;&#x662F;&#x8981;&#x58F0;&#x660E;&#xFF0C;Biff&#x4E0D;&#x660E;&#x667A;&#x5730;&#x5F00;&#x8BBE;&#x4E86;&#x4E00;&#x5BB6;&#x4F63;&#x5175;&#x4ECB;&#x7ECD;&#x6240;&#x4E0E;AIM&#x7ADE;&#x4E89;&#x3002;&#x81F3;&#x4E8E;&#x6211;&#x4EEC;&#x5BF9;&#x6B64;&#x611F;&#x5230;&#x591A;&#x4E48;&#x60CB;&#x60DC;&#xFF0C;&#x81EA;&#x7136;&#x4E0D;&#x9700;&#x8D58;&#x8A00;&#x3002;</Bio>
+		<Bio>Biff Apscott在佣兵中也是个出挑的人。我们将会怀念这名年轻人的旺盛精力，以及他让成员们铭记自身勇气的方式。尽管难以置信，我们还是要声明，Biff不明智地开设了一家佣兵介绍所与AIM竞争。至于我们对此感到多么惋惜，自然不需赘言。</Bio>
 		<FaceID>21</FaceID>
 	</MERC>
 	<MERC>
@@ -87,7 +87,7 @@
 		<uiIndex>9</uiIndex>
 		<NickName>Raffi</NickName>
 		<Name>Dr. Raffitto "Raffi" Leevon</Name>
-		<Bio>&#x5728;&#x533B;&#x5B66;&#x5B66;&#x4F4D;&#x95EE;&#x9898;&#x4E0A;&#x5F15;&#x8D77;&#x65E0;&#x6570;&#x4E89;&#x8BBA;&#x7684;Leevon&#x533B;&#x751F;&#xFF0C;&#x5728;&#x5E76;&#x672A;&#x901A;&#x77E5;&#x6211;&#x4EEC;&#x7684;&#x60C5;&#x51B5;&#x4E0B;&#x4E8E;&#x5E74;&#x521D;&#x79BB;&#x5F00;&#x3002;&#x663E;&#x7136;&#x4ED6;&#x9690;&#x59D3;&#x57CB;&#x540D;&#xFF0C;&#x5F00;&#x59CB;&#x65B0;&#x751F;&#xFF0C;&#x5E76;&#x4F19;&#x540C;&#x4ED6;&#x7684;&#x4E50;&#x961F;&#x6210;&#x5458;Rotis&#x548C;Haggis&#x4E00;&#x5934;&#x624E;&#x8FDB;&#x4E86;&#x821E;&#x52A8;&#x6C64;&#x52FA;&#x6572;&#x51FB;&#x996D;&#x7897;&#x7684;&#x6253;&#x51FB;&#x4E50;&#x4E16;&#x754C;&#x3002;</Bio>
+		<Bio>在医学学位问题上引起无数争论的Leevon医生，在并未通知我们的情况下于年初离开。显然他隐姓埋名，开始新生，并伙同他的乐队成员Rotis和Haggis一头扎进了舞动汤勺敲击饭碗的打击乐世界。</Bio>
 		<FaceID>23</FaceID>
 	</MERC>
 	<MERC>
@@ -95,7 +95,7 @@
 		<uiIndex>10</uiIndex>
 		<NickName>Mike</NickName>
 		<Name>Mike</Name>
-		<Bio>&#x65B0;&#x4E00;&#x8F6E;&#x4E2A;&#x4EBA;&#x85AA;&#x8D44;&#x589E;&#x957F;&#x4E8B;&#x5B9C;&#x8FD8;&#x5728;&#x6D3D;&#x8C08;&#x4E2D;&#x65F6;&#xFF0C;&#x542C;&#x8BF4;&#x96C7;&#x4E3B;&#x8BC4;&#x4EF7;&#x4ED6;&#x4E3A;&#x5916;&#x5F3A;&#x4E2D;&#x5E72;&#x7684;Mike&#x7A81;&#x7136;&#x9000;&#x51FA;&#x4E86;&#x8BA8;&#x8BBA;&#x3002;&#x4ED6;&#x76EE;&#x524D;&#x884C;&#x8E2A;&#x6210;&#x8C1C;&#xFF0C;&#x5176;&#x4ED6;&#x60C5;&#x51B5;&#x4E5F;&#x662F;&#x5982;&#x6B64;&#x3002;&#x529E;&#x4E8B;&#x5904;&#x6536;&#x5230;&#x4ED6;&#x7684;&#x6700;&#x540E;&#x8054;&#x7EDC;&#x6E90;&#x4E8E;&#x67D0;&#x4E2A;&#x5C0F;&#x56FD;&#xFF0C;&#x800C;&#x6B64;&#x5730;&#x5F53;&#x5C40;&#x7684;&#x80C1;&#x8FEB;&#x8BA9;&#x6211;&#x4EEC;&#x5B81;&#x613F;&#x5FD8;&#x8BB0;&#x8FD9;&#x4E2A;&#x56FD;&#x5BB6;&#x7684;&#x540D;&#x5B57;&#x3002;</Bio>
+		<Bio>新一轮个人薪资增长事宜还在洽谈中时，听说雇主评价他为外强中干的Mike突然退出了讨论。他目前行踪成谜，其他情况也是如此。办事处收到他的最后联络源于某个小国，而此地当局的胁迫让我们宁愿忘记这个国家的名字。</Bio>
 		<FaceID>24</FaceID>
 	</MERC>
 	<MERC>
@@ -103,7 +103,7 @@
 		<uiIndex>11</uiIndex>
 		<NickName>Speck</NickName>
 		<Name>Speck T. Kline</Name>
-		<Bio>While Speck&#x4ECE;&#x6765;&#x5C31;&#x6CA1;&#x80FD;&#x878D;&#x5165;&#x5230;&#x4F63;&#x5175;&#x7684;&#x751F;&#x6D3B;&#x4E2D;&#x53BB;&#xFF0C;&#x6211;&#x4EEC;&#x666E;&#x904D;&#x8BA4;&#x4E3A;&#x4ED6;&#x5BF9;&#x4FEE;&#x7406;&#x7684;&#x7231;&#x597D;&#x6839;&#x672C;&#x65E0;&#x6CD5;&#x4FEE;&#x7406;&#xFF0C;&#x8FD9;&#x8BA9;&#x4ED6;&#x6210;&#x4E86;&#x9C9C;&#x4EBA;&#x95EE;&#x6D25;&#x7684;&#x6210;&#x5458;&#x3002;&#x6216;&#x8BB8;&#xFF0C;&#x6211;&#x4EEC;&#x6B63;&#x662F;&#x56E0;&#x6B64;&#x624D;&#x5BF9;&#x4ED6;&#x5F00;&#x8BBE;&#x53E6;&#x4E00;&#x5BB6;&#x4F63;&#x5175;&#x4ECB;&#x7ECD;&#x6240;&#x7684;&#x884C;&#x4E3A;&#x611F;&#x5230;&#x5403;&#x60CA;&#x3002;AIM&#x795D;&#x4ED6;&#x597D;&#x8FD0;&#xFF0C;&#x56E0;&#x4E3A;&#x6211;&#x4EEC;&#x6E05;&#x695A;&#xFF0C;&#x4ED6;&#x592A;&#x9700;&#x8981;&#x8FD0;&#x6C14;&#x4E86;&#x3002;</Bio>
+		<Bio>While Speck从来就没能融入到佣兵的生活中去，我们普遍认为他对修理的爱好根本无法修理，这让他成了鲜人问津的成员。或许，我们正是因此才对他开设另一家佣兵介绍所的行为感到吃惊。AIM祝他好运，因为我们清楚，他太需要运气了。</Bio>
 		<FaceID>27</FaceID>
 	</MERC>
 	<MERC>
@@ -111,7 +111,7 @@
 		<uiIndex>12</uiIndex>
 		<NickName>Weasel</NickName>
 		<Name>Willy "Weasel" Augustin</Name>
-		<Bio>Wee Willy&#x53C8;&#x79F0;&#x201C;&#x9EC4;&#x9F20;&#x72FC;&#x201D;&#x6216;&#x8005;&#x201C;&#x5927;&#x5587;&#x53ED;&#x201D;&#xFF0C;&#x57FA;&#x672C;&#x4E0A;&#x90FD;&#x88AB;&#x96C7;&#x4E3B;&#x5F53;&#x6210;&#x76D1;&#x89C6;&#x961F;&#x53CB;&#x7684;&#x4FBF;&#x5B9C;&#x6DFB;&#x5934;&#x3002;&#x7ED3;&#x679C;&#xFF0C;&#x4ED6;&#x7684;&#x201C;&#x5927;&#x4E49;&#x706D;&#x4EB2;&#x201D;&#x60C5;&#x7ED3;&#x628A;&#x81EA;&#x5DF1;&#x5F15;&#x4E0A;&#x4E86;&#x4EBA;&#x4EEC;&#x9884;&#x6599;&#x4E2D;&#x7684;&#x672B;&#x8DEF;&#x3002;&#x5728;&#x5BC6;&#x544A;&#x59BB;&#x5B50;&#x6D89;&#x5ACC;&#x798F;&#x5229;&#x6B3A;&#x8BC8;&#x4E4B;&#x540E;&#xFF0C;&#x5979;&#x7ECF;&#x7531;&#x4FDD;&#x91CA;&#x56DE;&#x5230;&#x4E86;&#x5BB6;&#x91CC;&#xFF0C;&#x4E00;&#x67AA;&#x5D29;&#x4E86;Augustin&#x3002;</Bio>
+		<Bio>Wee Willy又称“黄鼠狼”或者“大喇叭”，基本上都被雇主当成监视队友的便宜添头。结果，他的“大义灭亲”情结把自己引上了人们预料中的末路。在密告妻子涉嫌福利欺诈之后，她经由保释回到了家里，一枪崩了Augustin。</Bio>
 		<FaceID>28</FaceID>
 	</MERC>
 	<MERC>
@@ -119,7 +119,7 @@
 		<uiIndex>13</uiIndex>
 		<NickName>Lance</NickName>
 		<Name>Lance Fisher</Name>
-		<Bio>&#x7531;&#x4E8E;&#x4E0E;Victoria Waters&#x6301;&#x7EED;&#x53D1;&#x751F;&#x53E3;&#x89D2;&#xFF0C;&#x6211;&#x4EEC;&#x529D;&#x8BF4;Lance&#x79BB;&#x5F00;AIM&#xFF0C;&#x4E3A;&#x6B64;&#x6211;&#x4EEC;&#x63D0;&#x4F9B;&#x7ED9;&#x4ED6;&#x897F;&#x70B9;&#x519B;&#x6821;&#x7684;&#x4E00;&#x4E2A;&#x804C;&#x52A1;&#x3002;&#x4ED6;&#x63A5;&#x53D7;&#x4E86;&#xFF0C;&#x76EE;&#x524D;&#x662F;&#x4F26;&#x7406;&#x4E0E;&#x6218;&#x672F;&#x64A4;&#x9000;&#x65B9;&#x9762;&#x7684;&#x8BB2;&#x5E08;&#xFF0C;&#x8FD8;&#x5728;&#x8FD9;&#x4E2A;&#x9886;&#x57DF;&#x51FA;&#x4E86;&#x4E00;&#x672C;&#x4E66;&#x3002;&#x300A;&#x6DE1;&#x5B9A;&#x5730;&#x593A;&#x8DEF;&#x800C;&#x751F;&#x300B;&#x76EE;&#x524D;&#x5728;&#x591A;&#x6570;&#x519B;&#x4E8B;&#x5B66;&#x9662;&#x7684;&#x4E66;&#x5E97;&#x6709;&#x552E;&#x3002;</Bio>
+		<Bio>由于与Victoria Waters持续发生口角，我们劝说Lance离开AIM，为此我们提供给他西点军校的一个职务。他接受了，目前是伦理与战术撤退方面的讲师，还在这个领域出了一本书。《淡定地夺路而生》目前在多数军事学院的书店有售。</Bio>
 		<FaceID>30</FaceID>
 	</MERC>
 	<MERC>
@@ -127,7 +127,7 @@
 		<uiIndex>14</uiIndex>
 		<NickName>Eli</NickName>
 		<Name>Doctor Eli Summers</Name>
-		<Bio>Summers&#x533B;&#x751F;&#x5728;&#x96C7;&#x4E3B;&#x95F4;&#x7684;&#x53E3;&#x7891;&#x826F;&#x597D;&#xFF0C;&#x56E0;&#x4E3A;&#x4ED6;&#x65E2;&#x63A5;&#x53D7;&#x4E0E;&#x65B0;&#x4EBA;&#x540C;&#x884C;&#x7684;&#x4EFB;&#x52A1;&#xFF0C;&#x5904;&#x7406;&#x4E2A;&#x4EBA;&#x4E8B;&#x52A1;&#x4E5F;&#x4FDD;&#x6301;&#x4F4E;&#x8C03;&#x3002;&#x5C3D;&#x7BA1;AIM&#x5BF9;&#x4ED6;&#x79BB;&#x53BB;&#x7684;&#x51B3;&#x5B9A;&#x8868;&#x793A;&#x60CB;&#x60DC;&#xFF0C;&#x4E0D;&#x8FC7;&#x6211;&#x4EEC;&#x5F88;&#x9AD8;&#x5FC3;&#x5730;&#x83B7;&#x6089;&#xFF0C;&#x8FD9;&#x4F4D;&#x5584;&#x826F;&#x7684;&#x533B;&#x5E08;&#x6B63;&#x628A;&#x4ED6;&#x7684;&#x7231;&#x597D;&#x8F6C;&#x4E3A;&#x804C;&#x4E1A;&#xFF1A;&#x53C2;&#x52A0;&#x8001;&#x5E74;&#x9AD8;&#x5C14;&#x592B;&#x5DE1;&#x56DE;&#x8D5B;&#xFF0C;&#x5E76;&#x5728;Pebble Beach&#x5149;&#x8363;&#x5730;&#x8D62;&#x5F97;&#x4E86;&#x7B2C;&#x56DB;&#x540D;&#x3002;</Bio>
+		<Bio>Summers医生在雇主间的口碑良好，因为他既接受与新人同行的任务，处理个人事务也保持低调。尽管AIM对他离去的决定表示惋惜，不过我们很高心地获悉，这位善良的医师正把他的爱好转为职业：参加老年高尔夫巡回赛，并在Pebble Beach光荣地赢得了第四名。</Bio>
 		<FaceID>32</FaceID>
 	</MERC>
 	<MERC>
@@ -135,7 +135,7 @@
 		<uiIndex>15</uiIndex>
 		<NickName>Elroy</NickName>
 		<Name>Elroy B. Tolken</Name>
-		<Bio>&#x4ED6;&#x8D70;&#x4E86;&#xFF0C;&#x6211;&#x4EEC;&#x4E0D;&#x5728;&#x4E4E;&#xFF0C;&#x4E5F;&#x4E0D;&#x5173;&#x5FC3;&#x3002;&#x6709;&#x4EBA;&#x5728;&#x4E4E;&#x5417;&#xFF1F;</Bio>
+		<Bio>他走了，我们不在乎，也不关心。有人在乎吗？</Bio>
 		<FaceID>33</FaceID>
 	</MERC>
 	<MERC>
@@ -143,7 +143,7 @@
 		<uiIndex>16</uiIndex>
 		<NickName>Skitz</NickName>
 		<Name>Bruce "Skitz" Bonner</Name>
-		<Bio>Bruce Bonner&#x8D70;&#x4E86;&#xFF0C;&#x518D;&#x4E5F;&#x56DE;&#x4E0D;&#x6765;&#x4E86;&#xFF01;&#x591A;&#x540D;&#x7206;&#x7834;&#x4E13;&#x5BB6;&#x7684;&#x52A0;&#x5165;&#x8BA9;&#x6211;&#x4EEC;&#x8F7B;&#x677E;&#x5730;&#x505A;&#x51FA;&#x4E86;&#x8FD9;&#x4E2A;&#x65E9;&#x8BE5;&#x505A;&#x51FA;&#x7684;&#x51B3;&#x5B9A;&#x3002;&#x5728;&#x8FDE;&#x7EED;&#x505C;&#x804C;&#x5BDF;&#x770B;&#x516B;&#x671F;&#x540E;&#xFF0C;Skitz&#x7EC8;&#x4E8E;&#x88AB;&#x6211;&#x4EEC;&#x9664;&#x540D;&#x3002;&#x5C3D;&#x7BA1;&#x53D7;&#x5230;&#x4E86;&#x7279;&#x522B;&#x7167;&#x987E;&#x3001;&#x63A5;&#x53D7;&#x4E86;&#x4E8C;&#x5341;&#x4E00;&#x6B21;&#x7535;&#x51FB;&#x6CBB;&#x7597;&#xFF0C;&#x88AB;&#x76D1;&#x7981;&#x5728;Saint Michael&#x533B;&#x9662;&#x7684;Skitz&#x4F9D;&#x7136;&#x5904;&#x4E8E;&#x9AD8;&#x72AF;&#x7F6A;&#x503E;&#x5411;&#x7684;&#x7CBE;&#x795E;&#x9519;&#x4E71;&#x4E4B;&#x4E2D;&#x3002;</Bio>
+		<Bio>Bruce Bonner走了，再也回不来了！多名爆破专家的加入让我们轻松地做出了这个早该做出的决定。在连续停职察看八期后，Skitz终于被我们除名。尽管受到了特别照顾、接受了二十一次电击治疗，被监禁在Saint Michael医院的Skitz依然处于高犯罪倾向的精神错乱之中。</Bio>
 		<FaceID>34</FaceID>
 	</MERC>
 	<MERC>
@@ -151,7 +151,7 @@
 		<uiIndex>17</uiIndex>
 		<NickName>Wally</NickName>
 		<Name>Walter "Wally" Yuntz</Name>
-		<Bio>&#x6709;&#x4EBA;&#x8BF4;&#x8FC7;&#xFF0C;&#x8981;&#x662F;Wally&#x4E0D;&#x8D70;&#x9709;&#x8FD0;&#xFF0C;&#x4ED6;&#x5C31;&#x538B;&#x6839;&#x6CA1;&#x8FD0;&#x53EF;&#x8D70;&#x3002;&#x5728;&#x786E;&#x8BC1;&#x4E86;&#x89C6;&#x529B;&#x5B58;&#x5728;&#x95EE;&#x9898;&#x540E;&#xFF0C;Wally&#x9884;&#x5B9A;&#x8981;&#x63A5;&#x53D7;&#x89C6;&#x529B;&#x77EB;&#x6B63;&#x624B;&#x672F;&#x3002;&#x8FD9;&#x4E00;&#x624B;&#x672F;&#x672C;&#x5E94;&#x6C38;&#x4E45;&#x63D0;&#x9AD8;&#x4ED6;&#x7684;&#x7784;&#x51C6;&#x80FD;&#x529B;&#xFF0C;&#x53EF;&#x6FC0;&#x5149;&#x4EEA;&#x7684;&#x63A7;&#x5236;&#x7A0B;&#x5E8F;&#x5374;&#x8FD0;&#x4F5C;&#x5931;&#x5E38;&#x3002;&#x73B0;&#x5728;&#xFF0C;&#x5F7B;&#x5E95;&#x5931;&#x660E;&#x7684;Wally&#x53EA;&#x597D;&#x62C4;&#x7740;&#x5BFC;&#x76F2;&#x6756;&#xFF0C;&#x7ED9;&#x6B63;&#x5728;&#x6253;&#x8001;&#x5E74;&#x9AD8;&#x5C14;&#x592B;&#x5DE1;&#x56DE;&#x8D5B;&#x7684;Eli Summers&#x533B;&#x751F;&#x80CC;&#x7403;&#x6746;&#x3002;</Bio>
+		<Bio>有人说过，要是Wally不走霉运，他就压根没运可走。在确证了视力存在问题后，Wally预定要接受视力矫正手术。这一手术本应永久提高他的瞄准能力，可激光仪的控制程序却运作失常。现在，彻底失明的Wally只好拄着导盲杖，给正在打老年高尔夫巡回赛的Eli Summers医生背球杆。</Bio>
 		<FaceID>35</FaceID>
 	</MERC>
 	<MERC>
@@ -159,7 +159,7 @@
 		<uiIndex>18</uiIndex>
 		<NickName>Turtle</NickName>
 		<Name>Herman "Turtle" Regents</Name>
-		<Bio>&#x6216;&#x8BB8;Turtle&#x7684;&#x53BB;&#x804C;&#x53EF;&#x4EE5;&#x7528;&#x4ED6;&#x8F9E;&#x5448;&#x4E2D;&#x7684;&#x4E00;&#x6BB5;&#x6587;&#x5B57;&#x8D34;&#x5207;&#x5730;&#x8BF4;&#x660E;&#xFF1A;&#x201C;&#x4F60;&#x4EEC;&#x6D3E;&#x6211;&#x53C2;&#x6218;&#xFF0C;&#x8FD8;&#x4E0D;&#x8BA9;&#x6211;&#x505C;&#x6B47;&#x3002;&#x6211;&#x5B9E;&#x5728;&#x625B;&#x4E0D;&#x4F4F;&#x4E86;&#xFF0C;&#x65E0;&#x8DEF;&#x53EF;&#x8D70;&#xFF0C;&#x53EA;&#x80FD;&#x628A;&#x8FD9;&#x89E3;&#x7EA6;&#x4E66;&#x4EA4;&#x4E0A;&#x6765;&#x3002;&#x201D; &#x540E;&#x6765;&#x6211;&#x4EEC;&#x542C;&#x8BF4;&#x4ED6;&#x5728;&#x829D;&#x52A0;&#x54E5;&#x62C5;&#x4EFB;&#x5B9E;&#x4E60;&#x8B66;&#x5458;&#x3002;</Bio>
+		<Bio>或许Turtle的去职可以用他辞呈中的一段文字贴切地说明：“你们派我参战，还不让我停歇。我实在扛不住了，无路可走，只能把这解约书交上来。” 后来我们听说他在芝加哥担任实习警员。</Bio>
 		<FaceID>36</FaceID>
 	</MERC>
 	<MERC>
@@ -167,7 +167,7 @@
 		<uiIndex>19</uiIndex>
 		<NickName>Rev</NickName>
 		<Name>Reverend Clyde Potter</Name>
-		<Bio>&#x7531;&#x4E8E;&#x7EC4;&#x7EC7;&#x5185;&#x90E8;&#x65E0;&#x4FE1;&#x4EF0;&#x6210;&#x5458;&#x7684;&#x62B1;&#x6028;&#x65E5;&#x6E10;&#x5347;&#x7EA7;&#xFF0C;AIM&#x64A4;&#x9500;&#x4E86;&#x672C;&#x5802;&#x795E;&#x7236;&#x8FD9;&#x4E00;&#x804C;&#x4F4D;&#x3002;&#x56E0;&#x6B64;&#xFF0C;&#x597D;&#x4F20;&#x9053;&#x7684;Potter&#x4F5C;&#x4E3A;&#x6211;&#x4EEC;&#x6700;&#x5E95;&#x5C42;&#x7684;&#x4F63;&#x5175;&#xFF0C;&#x4E5F;&#x88AB;&#x5F00;&#x9664;&#x51FA;&#x961F;&#x3002;&#x79BB;&#x5F00;AIM&#x540E;&#xFF0C;Reverend Clyde Potter &#x5728;&#x5DF4;&#x5C14;&#x7684;&#x6469;&#x7684;Innercity &#x57FA;&#x7763;&#x6559;&#x4F1A;&#x627E;&#x4E86;&#x4E2A;&#x5DEE;&#x4E8B;&#x3002;&#x4ED6;&#x73B0;&#x5728;&#x5F7B;&#x5E95;&#x5426;&#x8BA4;&#x548C;AIM&#x6709;&#x4EFB;&#x4F55;&#x5173;&#x7CFB;&#xFF0C;&#x5E76;&#x9000;&#x8FD8;&#x4E86;&#x517B;&#x8001;&#x91D1;&#xFF0C;&#x4E5F;&#x4E0D;&#x518D;&#x63A5;&#x6211;&#x4EEC;&#x7684;&#x7535;&#x8BDD;&#x3002;</Bio>
+		<Bio>由于组织内部无信仰成员的抱怨日渐升级，AIM撤销了本堂神父这一职位。因此，好传道的Potter作为我们最底层的佣兵，也被开除出队。离开AIM后，Reverend Clyde Potter 在巴尔的摩的Innercity 基督教会找了个差事。他现在彻底否认和AIM有任何关系，并退还了养老金，也不再接我们的电话。</Bio>
 		<FaceID>38</FaceID>
 	</MERC>
 	<MERC>
@@ -175,7 +175,7 @@
 		<uiIndex>20</uiIndex>
 		<NickName>It</NickName>
 		<Name>Carl "It" Goodman</Name>
-		<Bio>&#x4E3B;&#x8981;&#x56E0;&#x4E3A;&#x4E00;&#x8EAB;&#x86EE;&#x529B;&#x88AB;&#x770B;&#x91CD;&#x7684;Carl&#x770B;&#x5BB6;&#x6CD5;&#x5B9D;&#x5C31;&#x662F;&#x624B;&#x91CC;&#x7684;&#x64AC;&#x68CD;&#xFF0C;&#x4ED6;&#x51ED;&#x7B80;&#x5355;&#x7C97;&#x66B4;&#x7684;&#x884C;&#x52A8;&#x65B9;&#x9488;&#x957F;&#x5E74;&#x53D7;&#x5230;&#x96C7;&#x4E3B;&#x504F;&#x7231;&#x3002;&#x79BB;&#x5F00;AIM&#x4E4B;&#x540E;&#xFF0C;Goodman&#x56DE;&#x5F52;&#x4E86;&#x804C;&#x4E1A;&#x6454;&#x8DE4;&#x8FD0;&#x52A8;&#xFF0C;&#x4ED6;&#x8BF4;&#x8FD9;&#x4E2A;&#x884C;&#x5F53;&#x8981;&#x6B65;&#x6B65;&#x4E3A;&#x8425;&#xFF0C;&#x98CE;&#x9669;&#x65E0;&#x5904;&#x4E0D;&#x5728;&#x3002;&#x4ED6;&#x7684;&#x670B;&#x53CB;&#x548C;&#x7C89;&#x4E1D;&#x5E38;&#x80FD;&#x5728;&#x661F;&#x671F;&#x516D;&#x665A;&#x4E0A;&#x770B;&#x5230;&#x201C;&#x8499;&#x9762;&#x4F63;&#x5175;&#x201D;&#x5728;&#x4ED8;&#x8D39;&#x9891;&#x9053;&#x7684;&#x6BD4;&#x8D5B;&#x3002;</Bio>
+		<Bio>主要因为一身蛮力被看重的Carl看家法宝就是手里的撬棍，他凭简单粗暴的行动方针长年受到雇主偏爱。离开AIM之后，Goodman回归了职业摔跤运动，他说这个行当要步步为营，风险无处不在。他的朋友和粉丝常能在星期六晚上看到“蒙面佣兵”在付费频道的比赛。</Bio>
 		<FaceID>42</FaceID>
 	</MERC>
 	<MERC>
@@ -183,7 +183,7 @@
 		<uiIndex>21</uiIndex>
 		<NickName>Hamous</NickName>
 		<Name>Hamous</Name>
-		<Bio>Hamous&#x5728;Metavira&#x8FDB;&#x884C;&#x4E86;&#x4ED6;&#x7684;&#x5904;&#x5B50;&#x6218;&#x3002;&#x6839;&#x636E;&#x4E00;&#x540D;&#x4E3B;&#x987E;Jack Richards&#x4E0D;&#x9057;&#x4F59;&#x529B;&#x7684;&#x63A8;&#x8350;&#xFF0C; &#x6211;&#x4EEC;&#x7ED9;&#x4E86;&#x4ED6;&#x8BD5;&#x7528;&#x673A;&#x4F1A;&#xFF0C;&#x800C;&#x773C;&#x4E0B;&#x8BD5;&#x7528;&#x671F;&#x5C06;&#x6EE1;&#x3002;&#x9057;&#x61BE;&#x7684;&#x662F;&#xFF0C;&#x53EF;&#x601C;&#x7684;Hamous&#x8FD8;&#x662F;&#x6CA1;&#x80FD;&#x6512;&#x591F;&#x94B1;&#x53BB;&#x4E70;&#x4E0B;&#x90A3;&#x8F86;&#x4ED6;&#x949F;&#x7231;&#x7684;&#x5C0F;&#x8D27;&#x8F66;&#x3002;&#x56E0;&#x6B64;&#x4ED6;&#x505A;&#x4E86;&#x529B;&#x6240;&#x80FD;&#x53CA;&#x7684;&#x4E8B;&#x2014;&#x2014;&#x5728;&#x5DF4;&#x9ECE;&#x57CE;&#x5916;&#x5077;&#x4E86;&#x4E00;&#x8F86;&#x3002;&#x5B9E;&#x9645;&#x4E0A;&#xFF0C;&#x90A3;&#x4E0D;&#x8FC7;&#x662F;&#x4E00;&#x8F86;&#x51FA;&#x552E;&#x51B0;&#x6FC0;&#x51CC;&#x7684;&#x5361;&#x8F66;&#xFF0C;&#x800C;&#x4ED6;&#x4E5F;&#x5F00;&#x7740;&#x8F66;&#x6D88;&#x5931;&#x5728;&#x524D;&#x5F80;&#x4F0A;&#x65AF;&#x5766;&#x5E03;&#x5C14;&#x7684;&#x8DEF;&#x4E0A;&#x3002;</Bio>
+		<Bio>Hamous在Metavira进行了他的处子战。根据一名主顾Jack Richards不遗余力的推荐， 我们给了他试用机会，而眼下试用期将满。遗憾的是，可怜的Hamous还是没能攒够钱去买下那辆他钟爱的小货车。因此他做了力所能及的事——在巴黎城外偷了一辆。实际上，那不过是一辆出售冰激凌的卡车，而他也开着车消失在前往伊斯坦布尔的路上。</Bio>
 		<FaceID>45</FaceID>
 	</MERC>
 	<MERC>
@@ -191,7 +191,7 @@
 		<uiIndex>22</uiIndex>
 		<NickName>Dyno</NickName>
 		<Name>Roger "Dyno" Wittman</Name>
-		<Bio>Roger&#x5C3D;&#x8FC7;&#x529B;&#xFF0C;&#x8FDE;&#x5403;&#x5976;&#x7684;&#x52B2;&#x90FD;&#x7528;&#x4E0A;&#x4E86;&#xFF0C;&#x4F46;&#x662F;&#x4ED6;&#x4F3C;&#x4E4E;&#x5C31;&#x662F;&#x7F3A;&#x5C11;&#x5929;&#x5206;&#x3002;&#x53EF;&#x4EE5;&#x7406;&#x89E3;&#xFF0C;&#x7EF4;&#x62A4;&#x67AA;&#x68B0;&#x65F6;&#xFF0C;&#x603B;&#x6709;&#x4E9B;&#x4EBA;&#x613F;&#x610F;&#x5E26;&#x7740;&#x4ED6;&#xFF0C;&#x62FF;&#x4ED6;&#x53D6;&#x4E50;&#x3002;&#x4E0D;&#x8FC7;&#x6700;&#x7EC8;&#xFF0C;&#x4ED6;&#x610F;&#x8BC6;&#x5230;&#x81EA;&#x5DF1;&#x4E0D;&#x9002;&#x5408;&#x8FD9;&#x4E00;&#x884C;&#x3002;&#x6211;&#x4EEC;&#x6700;&#x540E;&#x542C;&#x8BF4;&#x4ED6;&#x6210;&#x4E3A;&#x4E86;&#x7EFF;&#x6CB3;&#x9A6C;&#x5267;&#x56E2;Animals on Ice&#x5267;&#x76EE;&#x7684;&#x4E00;&#x540D;&#x5019;&#x8865;&#x6F14;&#x5458;&#x3002;</Bio>
+		<Bio>Roger尽过力，连吃奶的劲都用上了，但是他似乎就是缺少天分。可以理解，维护枪械时，总有些人愿意带着他，拿他取乐。不过最终，他意识到自己不适合这一行。我们最后听说他成为了绿河马剧团Animals on Ice剧目的一名候补演员。</Bio>
 		<FaceID>49</FaceID>
 	</MERC>
 </OLD_MERC>

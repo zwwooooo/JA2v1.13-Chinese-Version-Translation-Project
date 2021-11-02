@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 	The diseases described here only affect your mercs if DISEASE in JA2_Options.ini is TRUE.
 
@@ -10,10 +10,10 @@
 <DISEASESLIST>
 	<DISEASE>
 		<uiIndex>0</uiIndex>
-		<szName>&#x963F;&#x5362;&#x79D1;&#x9F20;&#x75AB;</szName>
-		<szFatName>|&#x963F;|&#x5362;|&#x79D1;|&#x9F20;|&#x75AB;</szFatName>
-		<szDescription>&#x8FD9;&#x79CD;&#x76F8;&#x5F53;&#x7F55;&#x89C1;&#x7684;&#x9F20;&#x75AB;&#x4E9A;&#x79CD;&#x7CFB;&#x963F;&#x5362;&#x79D1;&#x72EC;&#x6709;&#x3002;&#x53EF;&#x901A;&#x8FC7;&#x6606;&#x866B;&#x3001;&#x76F4;&#x63A5;&#x63A5;&#x89E6;&#x3001;
-&#x6216;&#x88AB;&#x6C61;&#x67D3;&#x7684;&#x98DF;&#x7269;&#x4F20;&#x64AD;&#x3002;&#x8FC7;&#x53BB;&#x5341;&#x5E74;&#x91CC;&#x591A;&#x6B21;&#x7206;&#x53D1;&#x4E25;&#x91CD;&#x75AB;&#x60C5;&#x3002;</szDescription>
+		<szName>阿卢科鼠疫</szName>
+		<szFatName>|阿|卢|科|鼠|疫</szFatName>
+		<szDescription>这种相当罕见的鼠疫亚种系阿卢科独有。可通过昆虫、直接接触、
+或被污染的食物传播。过去十年里多次爆发严重疫情。</szDescription>
 		<sInfectionPtsInitial>40</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>100</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>400</sInfectionPtsFull>
@@ -60,10 +60,10 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>1</uiIndex>
-		<szName>&#x4F24;&#x5BD2;</szName>
-		<szFatName>|&#x4F24;|&#x5BD2;</szFatName>
-		<szDescription>&#x4F24;&#x5BD2;&#x75C7;&#x662F;&#x5168;&#x7403;&#x5E38;&#x89C1;&#x7684;&#x7EC6;&#x83CC;&#x6027;&#x75BE;&#x75C5;&#xFF0C;&#x901A;&#x8FC7;&#x98DF;&#x7269;&#x548C;&#x6C34;&#xFF0C;&#x6216;&#x63A5;&#x89E6;&#x60A3;&#x8005;&#x6392;&#x6CC4;&#x7269;&#x4F20;&#x64AD;&#x3002;
-&#x4E34;&#x5E8A;&#x75C7;&#x72B6;&#x5305;&#x62EC;&#x5185;&#x51FA;&#x8840;&#xFF0C;&#x8131;&#x6C34;&#x548C;&#x610F;&#x8BC6;&#x6A21;&#x7CCA;&#x3002;</szDescription>
+		<szName>伤寒</szName>
+		<szFatName>|伤|寒</szFatName>
+		<szDescription>伤寒症是全球常见的细菌性疾病，通过食物和水，或接触患者排泄物传播。
+临床症状包括内出血，脱水和意识模糊。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>200</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>1000</sInfectionPtsFull>
@@ -110,10 +110,10 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>2</uiIndex>
-		<szName>&#x7532;&#x578B;&#x809D;&#x708E;</szName>
-		<szFatName>|&#x7532;|&#x578B;|&#x809D;|&#x708E;</szFatName>
-		<szDescription>&#x7532;&#x578B;&#x809D;&#x708E;&#x4E00;&#x822C;&#x901A;&#x8FC7;&#x6444;&#x53D6;&#x53D7;&#x6C61;&#x67D3;&#x7684;&#x98DF;&#x7269;&#x548C;&#x6C34;&#xFF0C;&#x4EE5;&#x53CA;&#x8FD1;&#x8DDD;&#x79BB;&#x63A5;&#x89E6;
-&#x4F20;&#x67D3;&#x6027;&#x60A3;&#x8005;&#x4F20;&#x64AD;&#x3002;&#x4E34;&#x5E8A;&#x75C7;&#x72B6;&#x5305;&#x62EC;&#x6076;&#x5FC3;&#xFF0C;&#x5455;&#x5410;&#xFF0C;&#x8179;&#x6CFB;&#xFF0C;&#x76AE;&#x80A4;&#x53D1;&#x9EC4;&#xFF0C;&#x53D1;&#x70E7;&#x548C;&#x8179;&#x75DB;&#x3002;</szDescription>
+		<szName>甲型肝炎</szName>
+		<szFatName>|甲|型|肝|炎</szFatName>
+		<szDescription>甲型肝炎一般通过摄取受污染的食物和水，以及近距离接触
+传染性患者传播。临床症状包括恶心，呕吐，腹泻，皮肤发黄，发烧和腹痛。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>400</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>800</sInfectionPtsFull>
@@ -160,10 +160,10 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>3</uiIndex>
-		<szName>&#x7834;&#x4F24;&#x98CE;</szName>
-		<szFatName>|&#x7834;|&#x4F24;|&#x98CE;</szFatName>
-		<szDescription>&#x7834;&#x4F24;&#x98CE;&#x611F;&#x67D3;&#x4E00;&#x822C;&#x7531;&#x780D;&#x4F24;&#x6216;&#x6DF1;&#x5EA6;&#x523A;&#x4F24;&#x4F24;&#x53E3;&#x6C61;&#x67D3;&#x5F15;&#x8D77;&#x3002;
-&#x968F;&#x7740;&#x75C5;&#x5F81;&#x52A0;&#x91CD;&#xFF0C;&#x60A3;&#x8005;&#x4F1A;&#x51FA;&#x73B0;&#x7259;&#x5173;&#x7D27;&#x95ED;&#x4EE5;&#x53CA;&#x8EAB;&#x4F53;&#x5176;&#x4ED6;&#x5730;&#x65B9;&#x7684;&#x808C;&#x8089;&#x75C9;&#x631B;&#x3002;</szDescription>
+		<szName>破伤风</szName>
+		<szFatName>|破|伤|风</szFatName>
+		<szDescription>破伤风感染一般由砍伤或深度刺伤伤口污染引起。
+随着病征加重，患者会出现牙关紧闭以及身体其他地方的肌肉痉挛。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>200</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>700</sInfectionPtsFull>
@@ -210,10 +210,10 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>4</uiIndex>
-		<szName>&#x80BA;&#x7ED3;&#x6838;</szName>
-		<szFatName>|&#x80BA;|&#x7ED3;|&#x6838;</szFatName>
-		<szDescription>&#x80BA;&#x7ED3;&#x6838;&#x662F;&#x4E00;&#x79CD;&#x5E38;&#x89C1;&#x7684;&#x3001;&#x9AD8;&#x81F4;&#x6B7B;&#x7387;&#x7684;&#x4F20;&#x67D3;&#x75C5;&#x3002;&#x80BA;&#x7ED3;&#x6838;&#x901A;&#x8FC7;&#x7A7A;&#x6C14;&#x4F20;&#x64AD;&#xFF0C;&#x5927;&#x7EA6;&#x6BCF;&#x5341;&#x4E2A;&#x611F;&#x67D3;&#x8005;&#x4E2D;
-&#x5C31;&#x6709;&#x4E00;&#x4E2A;&#x6700;&#x7EC8;&#x75C5;&#x53D1;&#xFF0C;&#x5982;&#x679C;&#x6CA1;&#x6709;&#x6551;&#x6CBB;&#xFF0C;&#x81F4;&#x6B7B;&#x7387;&#x5728;&#x767E;&#x5206;&#x4E4B;&#x4E94;&#x5341;&#x4EE5;&#x4E0A;&#x3002;</szDescription>
+		<szName>肺结核</szName>
+		<szFatName>|肺|结|核</szFatName>
+		<szDescription>肺结核是一种常见的、高致死率的传染病。肺结核通过空气传播，大约每十个感染者中
+就有一个最终病发，如果没有救治，致死率在百分之五十以上。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>200</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>800</sInfectionPtsFull>
@@ -260,10 +260,10 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>5</uiIndex>
-		<szName>&#x970D;&#x4E71;</szName>
-		<szFatName>|&#x970D;|&#x4E71;</szFatName>
-		<szDescription>&#x970D;&#x4E71;&#x7684;&#x4E3B;&#x8981;&#x4E34;&#x5E8A;&#x75C7;&#x72B6;&#x662F;&#x6C34;&#x6027;&#x8179;&#x6CFB;&#x548C;&#x5455;&#x5410;&#xFF0C;&#x5F15;&#x8D77;&#x8131;&#x6C34;&#xFF0C;&#x91CD;&#x75C7;&#x60A3;&#x8005;&#x76AE;&#x80A4;&#x5448;&#x9752;&#x7070;&#x8272;&#x3002;
-&#x970D;&#x4E71;&#x4E3B;&#x8981;&#x901A;&#x8FC7;&#x53D7;&#x6C61;&#x67D3;&#x7684;&#x6C34;&#x6216;&#x98DF;&#x7269;&#x4F20;&#x64AD;&#xFF0C;&#x75C5;&#x60C5;&#x4E25;&#x91CD;&#x65F6;&#x4F1A;&#x81F4;&#x6B7B;&#x3002;</szDescription>
+		<szName>霍乱</szName>
+		<szFatName>|霍|乱</szFatName>
+		<szDescription>霍乱的主要临床症状是水性腹泻和呕吐，引起脱水，重症患者皮肤呈青灰色。
+霍乱主要通过受污染的水或食物传播，病情严重时会致死。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>200</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>800</sInfectionPtsFull>
@@ -311,10 +311,10 @@
 	<DISEASE>
 		<!-- due to the deadliness of Ebola (it cannot be cured) this disabled by default (all chances set to 0) -->
 		<uiIndex>6</uiIndex>
-		<szName>&#x57C3;&#x535A;&#x62C9;</szName>
-		<szFatName>|&#x57C3;|&#x535A;|&#x62C9;</szFatName>
-		<szDescription>&#x57C3;&#x535A;&#x62C9;&#x662F;&#x4E00;&#x79CD;&#x81F4;&#x547D;&#x75C5;&#x6BD2;&#xFF0C;&#x5C1A;&#x65E0;&#x6709;&#x6548;&#x6CBB;&#x7597;&#x65B9;&#x6CD5;&#x3002;&#x57C3;&#x535A;&#x62C9;&#x7684;&#x81F4;&#x6B7B;&#x7387;&#x5728;&#x767E;&#x5206;&#x4E4B;&#x4E94;&#x5341;&#x4EE5;&#x4E0A;&#x3002;&#x4E34;&#x5E8A;&#x75C7;&#x72B6;&#x5305;&#x62EC;&#x6076;&#x5FC3;&#xFF0C;&#x5455;&#x5410;&#xFF0C;
-&#x8179;&#x6CFB;&#x548C;&#x5185;&#x51FA;&#x8840;&#x3002;</szDescription>
+		<szName>埃博拉</szName>
+		<szFatName>|埃|博|拉</szFatName>
+		<szDescription>埃博拉是一种致命病毒，尚无有效治疗方法。埃博拉的致死率在百分之五十以上。临床症状包括恶心，呕吐，
+腹泻和内出血。</szDescription>
 		<sInfectionPtsInitial>150</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>300</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>360</sInfectionPtsFull>
@@ -361,10 +361,10 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>7</uiIndex>
-		<szName>&#x759F;&#x75BE;</szName>
-		<szFatName>|&#x759F;|&#x75BE;</szFatName>
-		<szDescription>&#x759F;&#x75BE;&#x662F;&#x4E00;&#x79CD;&#x868A;&#x5A92;&#x4F20;&#x67D3;&#x75C5;&#xFF0C;&#x901A;&#x5E38;&#x901A;&#x8FC7;&#x643A;&#x5E26;&#x759F;&#x539F;&#x866B;&#x7684;&#x868A;&#x5B50;&#x53EE;&#x54AC;&#x4F20;&#x64AD;&#x3002;
-&#x4EE3;&#x8868;&#x6027;&#x4E34;&#x5E8A;&#x75C7;&#x72B6;&#x5305;&#x62EC;&#x53D1;&#x70E7;&#x548C;&#x5934;&#x75DB;&#xFF0C;&#x4E25;&#x91CD;&#x65F6;&#x4F1A;&#x5BFC;&#x81F4;&#x660F;&#x8FF7;&#x548C;&#x6B7B;&#x4EA1;&#x3002;</szDescription>
+		<szName>疟疾</szName>
+		<szFatName>|疟|疾</szFatName>
+		<szDescription>疟疾是一种蚊媒传染病，通常通过携带疟原虫的蚊子叮咬传播。
+代表性临床症状包括发烧和头痛，严重时会导致昏迷和死亡。</szDescription>
 		<sInfectionPtsInitial>150</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>200</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>1000</sInfectionPtsFull>
@@ -411,9 +411,9 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>8</uiIndex>
-		<szName>&#x8461;&#x8404;&#x7403;&#x83CC;</szName>
-		<szFatName>|&#x8461;|&#x8404;|&#x7403;|&#x83CC;</szFatName>
-		<szDescription>&#x8461;&#x8404;&#x7403;&#x83CC;&#x611F;&#x67D3;&#x4E3B;&#x8981;&#x7531;&#x98DF;&#x7269;&#x4E2D;&#x6BD2;&#x5F15;&#x8D77;&#xFF0C;&#x4E34;&#x5E8A;&#x75C7;&#x72B6;&#x6709;&#x5455;&#x5410;&#x4E0D;&#x6B62;&#x548C;&#x8179;&#x6CFB;&#x4E0D;&#x6B62;&#x3002;</szDescription>
+		<szName>葡萄球菌</szName>
+		<szFatName>|葡|萄|球|菌</szFatName>
+		<szDescription>葡萄球菌感染主要由食物中毒引起，临床症状有呕吐不止和腹泻不止。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>120</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>120</sInfectionPtsFull>
@@ -460,10 +460,10 @@
 	</DISEASE>	
 	<DISEASE>
 		<uiIndex>9</uiIndex>
-		<szName>&#x8863;&#x539F;&#x4F53;</szName>
-		<szFatName>|&#x8863;|&#x539F;|&#x4F53;</szFatName>
-		<szDescription>&#x8863;&#x539F;&#x4F53;&#x611F;&#x67D3;&#x4EE5;&#x6027;&#x4F20;&#x64AD;&#x6700;&#x5E38;&#x89C1;&#x3002;&#x5982;&#x679C;&#x4E0D;&#x7ECF;&#x6CBB;&#x7597;&#xFF0C;&#x8863;&#x539F;&#x4F53;&#x611F;&#x67D3;
-&#x4F1A;&#x5F15;&#x8D77;&#x4E25;&#x91CD;&#x7684;&#x751F;&#x6B96;&#x95EE;&#x9898;&#x548C;&#x5176;&#x4ED6;&#x5065;&#x5EB7;&#x95EE;&#x9898;&#xFF0C;&#x6025;&#x6027;&#x3001;&#x6162;&#x6027;&#x5747;&#x6709;&#x3002;</szDescription>
+		<szName>衣原体</szName>
+		<szFatName>|衣|原|体</szFatName>
+		<szDescription>衣原体感染以性传播最常见。如果不经治疗，衣原体感染
+会引起严重的生殖问题和其他健康问题，急性、慢性均有。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>300</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>600</sInfectionPtsFull>
@@ -510,10 +510,10 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>10</uiIndex>
-		<szName>&#x5F39;&#x9053;&#x521B;&#x4F24;</szName>
-		<szFatName>|&#x5F39;|&#x9053;|&#x521B;|&#x4F24;</szFatName>
-		<szDescription>&#x5F39;&#x9053;&#x521B;&#x4F24;&#xFF0C;&#x6216;&#x8005;&#x8BF4;&#x67AA;&#x4F24;&#xFF0C;&#x662F;&#x7531;&#x67AA;&#x68B0;&#x6216;&#x706B;&#x5668;&#x53D1;&#x5C04;&#x5BFC;&#x81F4;&#x7684;&#x7269;&#x7406;&#x521B;&#x4F24;&#x3002;
-&#x975E;&#x81F4;&#x547D;&#x67AA;&#x4F24;&#x7ECF;&#x5E38;&#x9020;&#x6210;&#x4E25;&#x91CD;&#x800C;&#x6301;&#x4E45;&#x7684;&#x4F24;&#x5BB3;&#xFF0C;&#x54EA;&#x6015;&#x53D7;&#x5BB3;&#x4EBA;&#x5F97;&#x5230;&#x6210;&#x529F;&#x6551;&#x6CBB;&#x3002;</szDescription>
+		<szName>弹道创伤</szName>
+		<szFatName>|弹|道|创|伤</szFatName>
+		<szDescription>弹道创伤，或者说枪伤，是由枪械或火器发射导致的物理创伤。
+非致命枪伤经常造成严重而持久的伤害，哪怕受害人得到成功救治。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>20</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>100</sInfectionPtsFull>
@@ -560,10 +560,10 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>11</uiIndex>
-		<szName>&#x521B;&#x4F24;&#x540E;&#x5E94;&#x6FC0;&#x969C;&#x788D;</szName>
-		<szFatName>|&#x521B;|&#x4F24;|&#x540E;|&#x5E94;|&#x6FC0;|&#x969C;|&#x788D;</szFatName>
-		<szDescription>&#x521B;&#x4F24;&#x540E;&#x5E94;&#x6FC0;&#x969C;&#x788D;&#x662F;&#x4EBA;&#x7ECF;&#x5386;&#x4E00;&#x6B21;&#x6216;&#x591A;&#x6B21;&#x5FC3;&#x7406;&#x521B;&#x4F24;&#x540E;&#xFF0C;&#x8B6C;&#x5982;&#x6027;&#x4FB5;&#x5BB3;&#x3001;
-&#x6218;&#x4E89;&#x3001;&#x91CD;&#x4F24;&#x3001;&#x76F4;&#x9762;&#x6B7B;&#x4EA1;&#x5A01;&#x80C1;&#xFF0C;&#x5FC3;&#x4E2D;&#x6781;&#x5EA6;&#x6050;&#x60E7;&#x3001;&#x60CA;&#x9A87;&#x548C;&#x65E0;&#x529B;&#x611F;&#x5F15;&#x8D77;&#x7684;&#x3002;</szDescription>
+		<szName>创伤后应激障碍</szName>
+		<szFatName>|创|伤|后|应|激|障|碍</szFatName>
+		<szDescription>创伤后应激障碍是人经历一次或多次心理创伤后，譬如性侵害、
+战争、重伤、直面死亡威胁，心中极度恐惧、惊骇和无力感引起的。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>20</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>100</sInfectionPtsFull>
@@ -610,9 +610,9 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>12</uiIndex>
-		<szName>&#x817F;&#x4F24;</szName>
-		<szFatName>|&#x817F;|&#x4F24;</szFatName>
-		<szDescription>&#x4EBA;&#x7C7B;&#x7684;&#x808C;&#x8089;&#x9AA8;&#x9ABC;&#x7CFB;&#x7EDF;&#x975E;&#x5E38;&#x590D;&#x6742;&#xFF0C;&#x4F60;&#x7684;&#x817F;&#x53D7;&#x91CD;&#x4F24;&#x540E;&#xFF0C;&#x5373;&#x4F7F;&#x6CBB;&#x6108;&#xFF0C;&#x4F60;&#x7684;&#x79FB;&#x52A8;&#x80FD;&#x529B;&#x4E5F;&#x4F1A;&#x53D7;&#x5F71;&#x54CD;&#x3002;</szDescription>
+		<szName>腿伤</szName>
+		<szFatName>|腿|伤</szFatName>
+		<szDescription>人类的肌肉骨骼系统非常复杂，你的腿受重伤后，即使治愈，你的移动能力也会受影响。</szDescription>
 		<sInfectionPtsInitial>200</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>100</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>200</sInfectionPtsFull>
@@ -659,9 +659,9 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>13</uiIndex>
-		<szName>&#x624B;&#x81C2;&#x53D7;&#x4F24;</szName>
-		<szFatName>|&#x624B;|&#x81C2;|&#x53D7;|&#x4F24;</szFatName>
-		<szDescription>&#x4F60;&#x7684;&#x624B;&#x81C2;&#x4E2D;&#x67AA;&#x4E86;&#xFF0C;&#x9664;&#x4E86;&#x5267;&#x75DB;&#x5916;&#xFF0C;&#x8FD0;&#x52A8;&#x80FD;&#x529B;&#x5F88;&#x53D7;&#x4E5F;&#x9650;&#x5236;&#x3002;</szDescription>
+		<szName>手臂受伤</szName>
+		<szFatName>|手|臂|受|伤</szFatName>
+		<szDescription>你的手臂中枪了，除了剧痛外，运动能力很受也限制。</szDescription>
 		<sInfectionPtsInitial>200</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>100</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>200</sInfectionPtsFull>
@@ -708,9 +708,9 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>14</uiIndex>
-		<szName>&#x4E8C;&#x5934;&#x808C;&#x53D7;&#x4F24;</szName>
-		<szFatName>|&#x4E8C;|&#x5934;|&#x808C;|&#x53D7;|&#x4F24;</szFatName>
-		<szDescription>&#x6253;&#x5728;&#x4F60;&#x8EAB;&#x4E0A;&#x7684;&#x4E00;&#x67AA;&#x8BA9;&#x4F60;&#x76F4;&#x62BD;&#x51B7;&#x6C14;&#xFF0C;&#x4F60;&#x5FC5;&#x987B;&#x88AB;&#x7D27;&#x6025;&#x9001;&#x56DE;&#x540E;&#x65B9;&#x3002;</szDescription>
+		<szName>二头肌受伤</szName>
+		<szFatName>|二|头|肌|受|伤</szFatName>
+		<szDescription>打在你身上的一枪让你直抽冷气，你必须被紧急送回后方。</szDescription>
 		<sInfectionPtsInitial>200</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>100</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>200</sInfectionPtsFull>
@@ -758,9 +758,9 @@
 	<DISEASE>
 		<!-- we receive this via drug consumption -->
 		<uiIndex>15</uiIndex>
-		<szName>&#x836F;&#x7269;&#x6210;&#x763E;</szName>
-		<szFatName>|&#x836F;|&#x7269;|&#x6210;|&#x763E;</szFatName>
-		<szDescription>&#x4F60;&#x6C89;&#x8FF7;&#x4E8E;&#x5404;&#x79CD;&#x836F;&#x7269;&#xFF0C;&#x7136;&#x540E;&#x88AB;&#x5F3A;&#x5236;&#x6212;&#x6BD2;&#xFF0C;&#x7136;&#x540E;&#x4F53;&#x4F1A;&#x65AD;&#x763E;&#x75C7;&#x72B6;&#x3002;</szDescription>
+		<szName>药物成瘾</szName>
+		<szFatName>|药|物|成|瘾</szFatName>
+		<szDescription>你沉迷于各种药物，然后被强制戒毒，然后体会断瘾症状。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>1000</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>2000</sInfectionPtsFull>
@@ -807,9 +807,9 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>16</uiIndex>
-		<szName>&#x5BBF;&#x9189;</szName>
-		<szFatName>|&#x5BBF;|&#x9189;</szFatName>
-		<szDescription>&#x6700;&#x540E;&#x4E00;&#x74F6;&#x5564;&#x9152;&#x94C1;&#x5B9A;&#x53D8;&#x8D28;&#x4E86;&#x3002;</szDescription>
+		<szName>宿醉</szName>
+		<szFatName>|宿|醉</szFatName>
+		<szDescription>最后一瓶啤酒铁定变质了。</szDescription>
 		<sInfectionPtsInitial>10</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>112</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>280</sInfectionPtsFull>
@@ -857,9 +857,9 @@
 	<DISEASE>
 		<!-- As cancer grows over a long time, it does not grow on itself ingame, only by consuming cigarettes -->
 		<uiIndex>17</uiIndex>
-		<szName>&#x80BA;&#x764C;</szName>
-		<szFatName>|&#x80BA;|&#x764C;</szFatName>
-		<szDescription>&#x80BA;&#x764C;&#x5C31;&#x662F;&#x6076;&#x6027;&#x80BA;&#x80BF;&#x7624;&#xFF0C;&#x8868;&#x73B0;&#x4E3A;&#x80BA;&#x7EC4;&#x7EC7;&#x7EC6;&#x80DE;&#x6076;&#x6027;&#x589E;&#x6B96;&#x3002;&#x5982;&#x4E0D;&#x53CA;&#x65F6;&#x6CBB;&#x7597;&#xFF0C;&#x4F1A;&#x6269;&#x6563;&#x5230;&#x5168;&#x8EAB;&#x3002;</szDescription>
+		<szName>肺癌</szName>
+		<szFatName>|肺|癌</szFatName>
+		<szDescription>肺癌就是恶性肺肿瘤，表现为肺组织细胞恶性增殖。如不及时治疗，会扩散到全身。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>1000</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>3000</sInfectionPtsFull>
@@ -907,9 +907,9 @@
 	<DISEASE>
 		<!-- Skin burns from taking fire damage -->
 		<uiIndex>18</uiIndex>
-		<szName>&#x70E7;&#x4F24;</szName>
-		<szFatName>|&#x70E7;|&#x4F24;</szFatName>
-		<szDescription>&#x88AB;&#x706B;&#x7130;&#x707C;&#x4F24;&#x4E00;&#x5927;&#x7247;&#x76AE;&#x80A4;&#xFF0C;&#x975E;&#x5E38;&#x75BC;&#x75DB;&#x5E76;&#x4E25;&#x91CD;&#x964D;&#x4F4E;&#x7075;&#x6D3B;&#x5EA6;&#x3002;</szDescription>
+		<szName>烧伤</szName>
+		<szFatName>|烧|伤</szFatName>
+		<szDescription>被火焰灼伤一大片皮肤，非常疼痛并严重降低灵活度。</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>80</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>500</sInfectionPtsFull>
@@ -957,9 +957,9 @@
 	<DISEASE>
 		<!-- Our lung is damaged after taking damage from mustard/creature gas -->
 		<uiIndex>19</uiIndex>
-		<szName>&#x5C18;&#x80BA;&#x75C5;</szName>
-		<szFatName>|&#x5C18;|&#x80BA;|&#x75C5;</szFatName>
-		<szDescription>&#x7531;&#x4E8E;&#x66B4;&#x9732;&#x5728;&#x5316;&#x5B66;&#x6C14;&#x4F53;&#x4E2D;&#xFF0C;&#x4E25;&#x91CD;&#x4F24;&#x5BB3;&#x4E86;&#x80BA;&#x90E8;&#xFF0C;&#x663E;&#x7136;&#x8FD9;&#x4F1A;&#x5F71;&#x54CD;&#x4F53;&#x529B;(&#x7CBE;&#x529B;)&#x6062;&#x590D;&#x3002;</szDescription>
+		<szName>尘肺病</szName>
+		<szFatName>|尘|肺|病</szFatName>
+		<szDescription>由于暴露在化学气体中，严重伤害了肺部，显然这会影响体力(精力)恢复。</szDescription>
 		<sInfectionPtsInitial>120</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>100</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>480</sInfectionPtsFull>
