@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0"?>
 <FACILITYTYPES>
 	<FACILITYTYPE>
 		<ubIndex>1</ubIndex>
-		<szFacilityName>医院</szFacilityName>
-		<szFacilityShortName>医院</szFacilityShortName>
+		<szFacilityName>&#x533B;&#x9662;</szFacilityName>
+		<szFacilityShortName>&#x533B;&#x9662;</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>DOCTOR</ubAssignmentType>
-			<szTooltipText>用更好的设备给你的伤兵做手术，提高医疗效果。</szTooltipText>
+			<szTooltipText>&#x7528;&#x66F4;&#x597D;&#x7684;&#x8BBE;&#x5907;&#x7ED9;&#x4F60;&#x7684;&#x4F24;&#x5175;&#x505A;&#x624B;&#x672F;&#xFF0C;&#x63D0;&#x9AD8;&#x533B;&#x7597;&#x6548;&#x679C;&#x3002;</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<usKitDegrade>40</usKitDegrade>
@@ -20,12 +20,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>2</ubIndex>
-		<szFacilityName>小破酒吧</szFacilityName>
-		<szFacilityShortName>酒吧</szFacilityShortName>
+		<szFacilityName>&#x5C0F;&#x7834;&#x9152;&#x5427;</szFacilityName>
+		<szFacilityShortName>&#x9152;&#x5427;</szFacilityShortName>
 		<ubTotalStaffLimit>5</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>在当地的酒吧灌一把！用你花的钱和灌倒的人来增加城镇的支持度。</szTooltipText>
+			<szTooltipText>&#x5728;&#x5F53;&#x5730;&#x7684;&#x9152;&#x5427;&#x704C;&#x4E00;&#x628A;&#xFF01;&#x7528;&#x4F60;&#x82B1;&#x7684;&#x94B1;&#x548C;&#x704C;&#x5012;&#x7684;&#x4EBA;&#x6765;&#x589E;&#x52A0;&#x57CE;&#x9547;&#x7684;&#x652F;&#x6301;&#x5EA6;&#x3002;</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<sCostPerHour>15</sCostPerHour>
@@ -49,7 +49,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>GATHER_RUMOURS</ubAssignmentType>
-			<szTooltipText>在哪个地方喝一杯好呢。对，跟你猜的一样！去给那些人买酒，报告他们泄密的情报。</szTooltipText>
+			<szTooltipText>&#x5728;&#x54EA;&#x4E2A;&#x5730;&#x65B9;&#x559D;&#x4E00;&#x676F;&#x597D;&#x5462;&#x3002;&#x5BF9;&#xFF0C;&#x8DDF;&#x4F60;&#x731C;&#x7684;&#x4E00;&#x6837;&#xFF01;&#x53BB;&#x7ED9;&#x90A3;&#x4E9B;&#x4EBA;&#x4E70;&#x9152;&#xFF0C;&#x62A5;&#x544A;&#x4ED6;&#x4EEC;&#x6CC4;&#x5BC6;&#x7684;&#x60C5;&#x62A5;&#x3002;</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<sCostPerHour>15</sCostPerHour>
@@ -75,12 +75,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>3</ubIndex>
-		<szFacilityName>监狱区</szFacilityName>
-		<szFacilityShortName>监狱</szFacilityShortName>
+		<szFacilityName>&#x76D1;&#x72F1;&#x533A;</szFacilityName>
+		<szFacilityShortName>&#x76D1;&#x72F1;</szFacilityShortName>
 		<ubTotalStaffLimit>8</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
-			<szTooltipText>你的佣兵可以在这审问战俘。囚犯可能加入你们，也可能给你些有用的信息。</szTooltipText>
+			<szTooltipText>&#x4F60;&#x7684;&#x4F63;&#x5175;&#x53EF;&#x4EE5;&#x5728;&#x8FD9;&#x5BA1;&#x95EE;&#x6218;&#x4FD8;&#x3002;&#x56DA;&#x72AF;&#x53EF;&#x80FD;&#x52A0;&#x5165;&#x4F60;&#x4EEC;&#xFF0C;&#x4E5F;&#x53EF;&#x80FD;&#x7ED9;&#x4F60;&#x4E9B;&#x6709;&#x7528;&#x7684;&#x4FE1;&#x606F;&#x3002;</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>120</usPerformance>
 			<usPrisonBaseLimit>60</usPrisonBaseLimit>
@@ -89,7 +89,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
-			<szTooltipText>伪装成囚犯的一员，获取他们的信任来收集情报，并防止暴动袭击。</szTooltipText>
+			<szTooltipText>&#x4F2A;&#x88C5;&#x6210;&#x56DA;&#x72AF;&#x7684;&#x4E00;&#x5458;&#xFF0C;&#x83B7;&#x53D6;&#x4ED6;&#x4EEC;&#x7684;&#x4FE1;&#x4EFB;&#x6765;&#x6536;&#x96C6;&#x60C5;&#x62A5;&#xFF0C;&#x5E76;&#x9632;&#x6B62;&#x66B4;&#x52A8;&#x88AD;&#x51FB;&#x3002;</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>120</usPerformance>
 			<CONDITIONS>
@@ -99,13 +99,13 @@
 
 	<FACILITYTYPE>
 		<ubIndex>4</ubIndex>
-		<szFacilityName>小型机场</szFacilityName>
-		<szFacilityShortName>机场</szFacilityShortName>
+		<szFacilityName>&#x5C0F;&#x578B;&#x673A;&#x573A;</szFacilityName>
+		<szFacilityShortName>&#x673A;&#x573A;</szFacilityShortName>
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>
 		<pmcentrypoint>1</pmcentrypoint>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
-			<szTooltipText>去机场搬运货物来锻炼力量。</szTooltipText>
+			<szTooltipText>&#x53BB;&#x673A;&#x573A;&#x642C;&#x8FD0;&#x8D27;&#x7269;&#x6765;&#x953B;&#x70BC;&#x529B;&#x91CF;&#x3002;</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 		</ASSIGNMENT>
@@ -113,12 +113,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>5</ubIndex>
-		<szFacilityName>兵工厂</szFacilityName>
-		<szFacilityShortName>工厂</szFacilityShortName>
+		<szFacilityName>&#x5175;&#x5DE5;&#x5382;</szFacilityName>
+		<szFacilityShortName>&#x5DE5;&#x5382;</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>这里的设备能生产各种零件，更方便你修理物品。当然你首先得懂得怎么用这些设备。</szTooltipText>
+			<szTooltipText>&#x8FD9;&#x91CC;&#x7684;&#x8BBE;&#x5907;&#x80FD;&#x751F;&#x4EA7;&#x5404;&#x79CD;&#x96F6;&#x4EF6;&#xFF0C;&#x66F4;&#x65B9;&#x4FBF;&#x4F60;&#x4FEE;&#x7406;&#x7269;&#x54C1;&#x3002;&#x5F53;&#x7136;&#x4F60;&#x9996;&#x5148;&#x5F97;&#x61C2;&#x5F97;&#x600E;&#x4E48;&#x7528;&#x8FD9;&#x4E9B;&#x8BBE;&#x5907;&#x3002;</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<usKitDegrade>30</usKitDegrade>
@@ -127,16 +127,65 @@
 				<ubMinimumDexterity>70</ubMinimumDexterity>
 			</CONDITIONS>
 		</ASSIGNMENT>
+		<PRODUCTIONLINE>
+			<!-- create 7.62x39mm Box AP -->
+			<usItemToCreate>1446</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>9972</sGridNo_Creation>
+			<sHourlyCost>70</sHourlyCost>
+			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create 7.62x39mm Box HP -->
+			<usItemToCreate>1447</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>9973</sGridNo_Creation>
+			<sHourlyCost>50</sHourlyCost>
+			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create 7.62x39mm Box Tracer -->
+			<usItemToCreate>1448</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>9974</sGridNo_Creation>
+			<sHourlyCost>100</sHourlyCost>
+			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create 7.62x39mm Box Match -->
+			<usItemToCreate>1449</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>9975</sGridNo_Creation>
+			<sHourlyCost>150</sHourlyCost>
+			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create 7.62x39mm Box Cold -->
+			<usItemToCreate>1451</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>9976</sGridNo_Creation>
+			<sHourlyCost>80</sHourlyCost>
+			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create 7.62x39mm Box HP Cold -->
+			<szProductionName>7.62x39 Box HP C</szProductionName> <!-- custom text, because the item text is very long ;-) -->
+			<usItemToCreate>1452</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>9977</sGridNo_Creation>
+			<sHourlyCost>60</sHourlyCost>
+			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>6</ubIndex>
-		<szFacilityName>军营</szFacilityName>
-		<szFacilityShortName>军营</szFacilityShortName>
+		<szFacilityName>&#x519B;&#x8425;</szFacilityName>
+		<szFacilityShortName>&#x519B;&#x8425;</szFacilityShortName>
 		<ubTotalStaffLimit>10</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>这里有很多床铺，虽然有点简陋，不过总比天当房地当床好！</szTooltipText>
+			<szTooltipText>&#x8FD9;&#x91CC;&#x6709;&#x5F88;&#x591A;&#x5E8A;&#x94FA;&#xFF0C;&#x867D;&#x7136;&#x6709;&#x70B9;&#x7B80;&#x964B;&#xFF0C;&#x4E0D;&#x8FC7;&#x603B;&#x6BD4;&#x5929;&#x5F53;&#x623F;&#x5730;&#x5F53;&#x5E8A;&#x597D;&#xFF01;</szTooltipText>
 			<ubStaffLimit>10</ubStaffLimit>
 			<usPerformance>110</usPerformance>
 			<usSleep>120</usSleep>
@@ -145,12 +194,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>7</ubIndex>
-		<szFacilityName>军事指挥中心</szFacilityName>
-		<szFacilityShortName>指挥所</szFacilityShortName>
+		<szFacilityName>&#x519B;&#x4E8B;&#x6307;&#x6325;&#x4E2D;&#x5FC3;</szFacilityName>
+		<szFacilityShortName>&#x6307;&#x6325;&#x6240;</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
-			<szTooltipText>这个指挥所里有各种电子设备，用来监控各种战术战略信息，能帮助你有效的进行防御，获取野外敌人信息。</szTooltipText>
+			<szTooltipText>&#x8FD9;&#x4E2A;&#x6307;&#x6325;&#x6240;&#x91CC;&#x6709;&#x5404;&#x79CD;&#x7535;&#x5B50;&#x8BBE;&#x5907;&#xFF0C;&#x7528;&#x6765;&#x76D1;&#x63A7;&#x5404;&#x79CD;&#x6218;&#x672F;&#x6218;&#x7565;&#x4FE1;&#x606F;&#xFF0C;&#x80FD;&#x5E2E;&#x52A9;&#x4F60;&#x6709;&#x6548;&#x7684;&#x8FDB;&#x884C;&#x9632;&#x5FA1;&#xFF0C;&#x83B7;&#x53D6;&#x91CE;&#x5916;&#x654C;&#x4EBA;&#x4FE1;&#x606F;&#x3002;</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<fCountEnemiesInWild>1</fCountEnemiesInWild>
 			<CONDITIONS>
@@ -160,7 +209,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>SPREAD_PROPAGANDA_GLOBAL</ubAssignmentType>
-			<szTooltipText>控制当地的信息渠道，掌控全部区域新闻的流通。</szTooltipText>
+			<szTooltipText>&#x63A7;&#x5236;&#x5F53;&#x5730;&#x7684;&#x4FE1;&#x606F;&#x6E20;&#x9053;&#xFF0C;&#x638C;&#x63A7;&#x5168;&#x90E8;&#x533A;&#x57DF;&#x65B0;&#x95FB;&#x7684;&#x6D41;&#x901A;&#x3002;</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
@@ -170,7 +219,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>STRATEGIC_MILITIA_MOVEMENT</ubAssignmentType>
-			<szTooltipText>这个军事设施设有一个指挥室，可以用'W'、'S'、'A'、'D'键控制你的民兵在战略界面上移动。</szTooltipText>
+			<szTooltipText>&#x8FD9;&#x4E2A;&#x519B;&#x4E8B;&#x8BBE;&#x65BD;&#x8BBE;&#x6709;&#x4E00;&#x4E2A;&#x6307;&#x6325;&#x5BA4;&#xFF0C;&#x53EF;&#x4EE5;&#x7528;'W'&#x3001;'S'&#x3001;'A'&#x3001;'D'&#x952E;&#x63A7;&#x5236;&#x4F60;&#x7684;&#x6C11;&#x5175;&#x5728;&#x6218;&#x7565;&#x754C;&#x9762;&#x4E0A;&#x79FB;&#x52A8;&#x3002;</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<CONDITIONS>
 				<ubMinimumWisdom>70</ubMinimumWisdom>
@@ -182,12 +231,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>8</ubIndex>
-		<szFacilityName>射击靶场</szFacilityName>
-		<szFacilityShortName>靶场</szFacilityShortName>
+		<szFacilityName>&#x5C04;&#x51FB;&#x9776;&#x573A;</szFacilityName>
+		<szFacilityShortName>&#x9776;&#x573A;</szFacilityShortName>
 		<ubTotalStaffLimit>5</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_MARKSMANSHIP</ubAssignmentType>
-			<szTooltipText>为啥不花点时间来练习枪法？那些愚木的靶子在渴求被射。这肯定比在荒郊野地里射石头有趣得多。</szTooltipText>
+			<szTooltipText>&#x4E3A;&#x5565;&#x4E0D;&#x82B1;&#x70B9;&#x65F6;&#x95F4;&#x6765;&#x7EC3;&#x4E60;&#x67AA;&#x6CD5;&#xFF1F;&#x90A3;&#x4E9B;&#x611A;&#x6728;&#x7684;&#x9776;&#x5B50;&#x5728;&#x6E34;&#x6C42;&#x88AB;&#x5C04;&#x3002;&#x8FD9;&#x80AF;&#x5B9A;&#x6BD4;&#x5728;&#x8352;&#x90CA;&#x91CE;&#x5730;&#x91CC;&#x5C04;&#x77F3;&#x5934;&#x6709;&#x8DA3;&#x5F97;&#x591A;&#x3002;</szTooltipText>
 			<ubStaffLimit>5</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 		</ASSIGNMENT>
@@ -195,12 +244,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>9</ubIndex>
-		<szFacilityName>A.C.A派出所</szFacilityName>
+		<szFacilityName>A.C.A&#x6D3E;&#x51FA;&#x6240;</szFacilityName>
 		<szFacilityShortName>A.C.A</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
-			<szTooltipText>当地人可能会愿意帮你侦察周边地区的动向。你可以通过他们收集更多更详细的有关这附近区域敌方的情报。</szTooltipText>
+			<szTooltipText>&#x5F53;&#x5730;&#x4EBA;&#x53EF;&#x80FD;&#x4F1A;&#x613F;&#x610F;&#x5E2E;&#x4F60;&#x4FA6;&#x5BDF;&#x5468;&#x8FB9;&#x5730;&#x533A;&#x7684;&#x52A8;&#x5411;&#x3002;&#x4F60;&#x53EF;&#x4EE5;&#x901A;&#x8FC7;&#x4ED6;&#x4EEC;&#x6536;&#x96C6;&#x66F4;&#x591A;&#x66F4;&#x8BE6;&#x7EC6;&#x7684;&#x6709;&#x5173;&#x8FD9;&#x9644;&#x8FD1;&#x533A;&#x57DF;&#x654C;&#x65B9;&#x7684;&#x60C5;&#x62A5;&#x3002;</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<fDetectEnemiesDynamic>1</fDetectEnemiesDynamic>
 			<ubDetectEnemiesImmediate>2</ubDetectEnemiesImmediate>
@@ -212,7 +261,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>SPREAD_PROPAGANDA</ubAssignmentType>
-			<szTooltipText>将这个本地的小办事处纳入疯狂运作的宣传机器中，隔离任何传播到小镇的负面消息，并且在最好的一面展示我们的行为。</szTooltipText>
+			<szTooltipText>&#x5C06;&#x8FD9;&#x4E2A;&#x672C;&#x5730;&#x7684;&#x5C0F;&#x529E;&#x4E8B;&#x5904;&#x7EB3;&#x5165;&#x75AF;&#x72C2;&#x8FD0;&#x4F5C;&#x7684;&#x5BA3;&#x4F20;&#x673A;&#x5668;&#x4E2D;&#xFF0C;&#x9694;&#x79BB;&#x4EFB;&#x4F55;&#x4F20;&#x64AD;&#x5230;&#x5C0F;&#x9547;&#x7684;&#x8D1F;&#x9762;&#x6D88;&#x606F;&#xFF0C;&#x5E76;&#x4E14;&#x5728;&#x6700;&#x597D;&#x7684;&#x4E00;&#x9762;&#x5C55;&#x793A;&#x6211;&#x4EEC;&#x7684;&#x884C;&#x4E3A;&#x3002;</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<CONDITIONS>
 				<ubMinimumWisdom>60</ubMinimumWisdom>
@@ -225,19 +274,19 @@
 
 	<FACILITYTYPE>
 		<ubIndex>10</ubIndex>
-		<szFacilityName>SAM导弹基地</szFacilityName>
-		<szFacilityShortName>SAM基地</szFacilityShortName>
+		<szFacilityName>SAM&#x5BFC;&#x5F39;&#x57FA;&#x5730;</szFacilityName>
+		<szFacilityShortName>SAM&#x57FA;&#x5730;</szFacilityShortName>
 		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>11</ubIndex>
-		<szFacilityName>矿场</szFacilityName>
-		<szFacilityShortName>矿场</szFacilityShortName>
+		<szFacilityName>&#x77FF;&#x573A;</szFacilityName>
+		<szFacilityShortName>&#x77FF;&#x573A;</szFacilityShortName>
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_EXPLOSIVES</ubAssignmentType>
-			<szTooltipText>矿场总是欢迎那些懂得爆破的人。这里可以更高的效率练习爆破。</szTooltipText>
+			<szTooltipText>&#x77FF;&#x573A;&#x603B;&#x662F;&#x6B22;&#x8FCE;&#x90A3;&#x4E9B;&#x61C2;&#x5F97;&#x7206;&#x7834;&#x7684;&#x4EBA;&#x3002;&#x8FD9;&#x91CC;&#x53EF;&#x4EE5;&#x66F4;&#x9AD8;&#x7684;&#x6548;&#x7387;&#x7EC3;&#x4E60;&#x7206;&#x7834;&#x3002;</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<CONDITIONS>
@@ -249,12 +298,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>12</ubIndex>
-		<szFacilityName>小教堂</szFacilityName>
-		<szFacilityShortName>教堂</szFacilityShortName>
+		<szFacilityName>&#x5C0F;&#x6559;&#x5802;</szFacilityName>
+		<szFacilityShortName>&#x6559;&#x5802;</szFacilityShortName>
 		<ubTotalStaffLimit>1</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>花点时间来祈祷可以提高大家的士气。这也在向当地人表达你尊重他们的生活方式。</szTooltipText>
+			<szTooltipText>&#x82B1;&#x70B9;&#x65F6;&#x95F4;&#x6765;&#x7948;&#x7977;&#x53EF;&#x4EE5;&#x63D0;&#x9AD8;&#x5927;&#x5BB6;&#x7684;&#x58EB;&#x6C14;&#x3002;&#x8FD9;&#x4E5F;&#x5728;&#x5411;&#x5F53;&#x5730;&#x4EBA;&#x8868;&#x8FBE;&#x4F60;&#x5C0A;&#x91CD;&#x4ED6;&#x4EEC;&#x7684;&#x751F;&#x6D3B;&#x65B9;&#x5F0F;&#x3002;</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>110</usPerformance>
 			<CONDITIONS>
@@ -274,12 +323,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>13</ubIndex>
-		<szFacilityName>拳击俱乐部</szFacilityName>
-		<szFacilityShortName>俱乐部</szFacilityShortName>
+		<szFacilityName>&#x62F3;&#x51FB;&#x4FF1;&#x4E50;&#x90E8;</szFacilityName>
+		<szFacilityShortName>&#x4FF1;&#x4E50;&#x90E8;</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_HEALTH</ubAssignmentType>
-			<szTooltipText>大量的健身器材在等着你去使用，想保持好身材一定要坚持锻炼。这里可以更高效的提高生命值。</szTooltipText>
+			<szTooltipText>&#x5927;&#x91CF;&#x7684;&#x5065;&#x8EAB;&#x5668;&#x6750;&#x5728;&#x7B49;&#x7740;&#x4F60;&#x53BB;&#x4F7F;&#x7528;&#xFF0C;&#x60F3;&#x4FDD;&#x6301;&#x597D;&#x8EAB;&#x6750;&#x4E00;&#x5B9A;&#x8981;&#x575A;&#x6301;&#x953B;&#x70BC;&#x3002;&#x8FD9;&#x91CC;&#x53EF;&#x4EE5;&#x66F4;&#x9AD8;&#x6548;&#x7684;&#x63D0;&#x9AD8;&#x751F;&#x547D;&#x503C;&#x3002;</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<CONDITIONS>
@@ -292,26 +341,69 @@
 
 	<FACILITYTYPE>
 		<ubIndex>14</ubIndex>
-		<szFacilityName>国家博物馆</szFacilityName>
-		<szFacilityShortName>博物馆</szFacilityShortName>
+		<szFacilityName>&#x56FD;&#x5BB6;&#x535A;&#x7269;&#x9986;</szFacilityName>
+		<szFacilityShortName>&#x535A;&#x7269;&#x9986;</szFacilityShortName>
 		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>15</ubIndex>
-		<szFacilityName>实验室</szFacilityName>
-		<szFacilityShortName>实验室</szFacilityShortName>
+		<szFacilityName>&#x5B9E;&#x9A8C;&#x5BA4;</szFacilityName>
+		<szFacilityShortName>&#x5B9E;&#x9A8C;&#x5BA4;</szFacilityShortName>
 		<ubTotalStaffLimit>0</ubTotalStaffLimit>
+		<PRODUCTIONLINE>
+			<!-- Rocket Rifle -->
+			<szAdditionalRequirementTips> - Requires storage access</szAdditionalRequirementTips>
+			<usItemToCreate>55</usItemToCreate>
+			<sMinutesRequired>600</sMinutesRequired>
+			<sGridNo_Creation>17023</sGridNo_Creation>
+			<sHourlyCost>700</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- Auto Rocket Rifle -->
+			<usItemToCreate>65</usItemToCreate>
+			<sMinutesRequired>720</sMinutesRequired>
+			<sGridNo_Creation>17023</sGridNo_Creation>
+			<sHourlyCost>700</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- Minirockets, AP -->
+			<usItemToCreate>111</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>17026</sGridNo_Creation>
+			<sHourlyCost>350</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- Minirockets, HE -->
+			<usItemToCreate>112</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>17027</sGridNo_Creation>
+			<sHourlyCost>350</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- Minirockets, HEAP -->
+			<usItemToCreate>113</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>17028</sGridNo_Creation>
+			<sHourlyCost>350</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- Minirockets, Cryo -->
+			<usItemToCreate>1738</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>17029</sGridNo_Creation>
+			<sHourlyCost>1000</sHourlyCost>
+		</PRODUCTIONLINE>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>16</ubIndex>
-		<szFacilityName>垃圾场</szFacilityName>
-		<szFacilityShortName>垃圾场</szFacilityShortName>
+		<szFacilityName>&#x5783;&#x573E;&#x573A;</szFacilityName>
+		<szFacilityShortName>&#x5783;&#x573E;&#x573A;</szFacilityShortName>
 		<ubTotalStaffLimit>6</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>这里到处丢弃着废弃的零件，别人手里的垃圾也许是你手中的宝贝？可以提高修理的效率。</szTooltipText>
+			<szTooltipText>&#x8FD9;&#x91CC;&#x5230;&#x5904;&#x4E22;&#x5F03;&#x7740;&#x5E9F;&#x5F03;&#x7684;&#x96F6;&#x4EF6;&#xFF0C;&#x522B;&#x4EBA;&#x624B;&#x91CC;&#x7684;&#x5783;&#x573E;&#x4E5F;&#x8BB8;&#x662F;&#x4F60;&#x624B;&#x4E2D;&#x7684;&#x5B9D;&#x8D1D;&#xFF1F;&#x53EF;&#x4EE5;&#x63D0;&#x9AD8;&#x4FEE;&#x7406;&#x7684;&#x6548;&#x7387;&#x3002;</szTooltipText>
 			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>120</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -319,7 +411,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>垃圾也能派上大用场，说不定能找到些小玩意来修补你的爱车。可以以高修理汽车的效率。</szTooltipText>
+			<szTooltipText>&#x5783;&#x573E;&#x4E5F;&#x80FD;&#x6D3E;&#x4E0A;&#x5927;&#x7528;&#x573A;&#xFF0C;&#x8BF4;&#x4E0D;&#x5B9A;&#x80FD;&#x627E;&#x5230;&#x4E9B;&#x5C0F;&#x73A9;&#x610F;&#x6765;&#x4FEE;&#x8865;&#x4F60;&#x7684;&#x7231;&#x8F66;&#x3002;&#x53EF;&#x4EE5;&#x4EE5;&#x9AD8;&#x4FEE;&#x7406;&#x6C7D;&#x8F66;&#x7684;&#x6548;&#x7387;&#x3002;</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>110</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -327,7 +419,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>用垃圾来造机器人也许不太容易，但是这里比其它地方更容易找到些东西来修理它。可以提高修理机器人的效率。</szTooltipText>
+			<szTooltipText>&#x7528;&#x5783;&#x573E;&#x6765;&#x9020;&#x673A;&#x5668;&#x4EBA;&#x4E5F;&#x8BB8;&#x4E0D;&#x592A;&#x5BB9;&#x6613;&#xFF0C;&#x4F46;&#x662F;&#x8FD9;&#x91CC;&#x6BD4;&#x5176;&#x5B83;&#x5730;&#x65B9;&#x66F4;&#x5BB9;&#x6613;&#x627E;&#x5230;&#x4E9B;&#x4E1C;&#x897F;&#x6765;&#x4FEE;&#x7406;&#x5B83;&#x3002;&#x53EF;&#x4EE5;&#x63D0;&#x9AD8;&#x4FEE;&#x7406;&#x673A;&#x5668;&#x4EBA;&#x7684;&#x6548;&#x7387;&#x3002;</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>175</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -337,12 +429,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>17</ubIndex>
-		<szFacilityName>度假海滩</szFacilityName>
-		<szFacilityShortName>海滩</szFacilityShortName>
+		<szFacilityName>&#x5EA6;&#x5047;&#x6D77;&#x6EE9;</szFacilityName>
+		<szFacilityShortName>&#x6D77;&#x6EE9;</szFacilityShortName>
 		<ubTotalStaffLimit>32</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>阳光、沙滩、冲浪，暂时忘记一下战争的硝烟来享受一下生活吧！</szTooltipText>
+			<szTooltipText>&#x9633;&#x5149;&#x3001;&#x6C99;&#x6EE9;&#x3001;&#x51B2;&#x6D6A;&#xFF0C;&#x6682;&#x65F6;&#x5FD8;&#x8BB0;&#x4E00;&#x4E0B;&#x6218;&#x4E89;&#x7684;&#x785D;&#x70DF;&#x6765;&#x4EAB;&#x53D7;&#x4E00;&#x4E0B;&#x751F;&#x6D3B;&#x5427;&#xFF01;</szTooltipText>
 			<ubStaffLimit>32</ubStaffLimit>
 			<sCostPerHour>15</sCostPerHour>
 			<usPerformance>160</usPerformance>
@@ -357,19 +449,19 @@
 
 	<FACILITYTYPE>
 		<ubIndex>18</ubIndex>
-		<szFacilityName>军用训练场遗迹</szFacilityName>
-		<szFacilityShortName>遗迹</szFacilityShortName>
+		<szFacilityName>&#x519B;&#x7528;&#x8BAD;&#x7EC3;&#x573A;&#x9057;&#x8FF9;</szFacilityName>
+		<szFacilityShortName>&#x9057;&#x8FF9;</szFacilityShortName>
 		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
 	</FACILITYTYPE>
 	
 	<FACILITYTYPE> 
 		<ubIndex>19</ubIndex>  
-		<szFacilityName>战地医院</szFacilityName>  
-		<szFacilityShortName>战地医院</szFacilityShortName>  
+		<szFacilityName>&#x6218;&#x5730;&#x533B;&#x9662;</szFacilityName>  
+		<szFacilityShortName>&#x6218;&#x5730;&#x533B;&#x9662;</szFacilityShortName>  
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>  
 		<ASSIGNMENT> 
 			<ubAssignmentType>DOCTOR</ubAssignmentType>  
-			<szTooltipText>在战地对伤员进行抢救。提高医疗效果。</szTooltipText>  
+			<szTooltipText>&#x5728;&#x6218;&#x5730;&#x5BF9;&#x4F24;&#x5458;&#x8FDB;&#x884C;&#x62A2;&#x6551;&#x3002;&#x63D0;&#x9AD8;&#x533B;&#x7597;&#x6548;&#x679C;&#x3002;</szTooltipText>  
 			<ubStaffLimit>2</ubStaffLimit>  
 			<usPerformance>150</usPerformance>  
 			<usKitDegrade>40</usKitDegrade>  
@@ -382,12 +474,12 @@
 	
 	<FACILITYTYPE>
 		<ubIndex>20</ubIndex>
-		<szFacilityName>军营酒吧</szFacilityName>
-		<szFacilityShortName>酒吧</szFacilityShortName>
+		<szFacilityName>&#x519B;&#x8425;&#x9152;&#x5427;</szFacilityName>
+		<szFacilityShortName>&#x9152;&#x5427;</szFacilityShortName>
 		<ubTotalStaffLimit>10</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
-			<szTooltipText>占领了敌军军营的同时，你也占领了他们的酒吧。你的佣兵们可以进去大吃大喝一番了。</szTooltipText>
+			<szTooltipText>&#x5360;&#x9886;&#x4E86;&#x654C;&#x519B;&#x519B;&#x8425;&#x7684;&#x540C;&#x65F6;&#xFF0C;&#x4F60;&#x4E5F;&#x5360;&#x9886;&#x4E86;&#x4ED6;&#x4EEC;&#x7684;&#x9152;&#x5427;&#x3002;&#x4F60;&#x7684;&#x4F63;&#x5175;&#x4EEC;&#x53EF;&#x4EE5;&#x8FDB;&#x53BB;&#x5927;&#x5403;&#x5927;&#x559D;&#x4E00;&#x756A;&#x4E86;&#x3002;</szTooltipText>
 			<ubStaffLimit>10</ubStaffLimit>
 			<sCostPerHour>10</sCostPerHour>
 			<sCantinaFoodModifier>500</sCantinaFoodModifier>
@@ -408,12 +500,12 @@
 	
 	<FACILITYTYPE>
 		<ubIndex>21</ubIndex>
-		<szFacilityName>军事监狱</szFacilityName>
-		<szFacilityShortName>监狱</szFacilityShortName>
+		<szFacilityName>&#x519B;&#x4E8B;&#x76D1;&#x72F1;</szFacilityName>
+		<szFacilityShortName>&#x76D1;&#x72F1;</szFacilityShortName>
 		<ubTotalStaffLimit>3</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
-			<szTooltipText>你的佣兵可以在这审问战俘。囚犯可能加入你们，也可能给你些有用的信息。</szTooltipText>
+			<szTooltipText>&#x4F60;&#x7684;&#x4F63;&#x5175;&#x53EF;&#x4EE5;&#x5728;&#x8FD9;&#x5BA1;&#x95EE;&#x6218;&#x4FD8;&#x3002;&#x56DA;&#x72AF;&#x53EF;&#x80FD;&#x52A0;&#x5165;&#x4F60;&#x4EEC;&#xFF0C;&#x4E5F;&#x53EF;&#x80FD;&#x7ED9;&#x4F60;&#x4E9B;&#x6709;&#x7528;&#x7684;&#x4FE1;&#x606F;&#x3002;</szTooltipText>
 			<ubStaffLimit>3</ubStaffLimit>
 			<usPerformance>100</usPerformance>
 			<usPrisonBaseLimit>20</usPrisonBaseLimit>
@@ -422,7 +514,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
-			<szTooltipText>伪装成囚犯的一员，获取他们的信任来收集情报，并防止暴动袭击。</szTooltipText>
+			<szTooltipText>&#x4F2A;&#x88C5;&#x6210;&#x56DA;&#x72AF;&#x7684;&#x4E00;&#x5458;&#xFF0C;&#x83B7;&#x53D6;&#x4ED6;&#x4EEC;&#x7684;&#x4FE1;&#x4EFB;&#x6765;&#x6536;&#x96C6;&#x60C5;&#x62A5;&#xFF0C;&#x5E76;&#x9632;&#x6B62;&#x66B4;&#x52A8;&#x88AD;&#x51FB;&#x3002;</szTooltipText>
 			<ubStaffLimit>3</ubStaffLimit>
 			<usPerformance>90</usPerformance>
 			<CONDITIONS>
@@ -432,12 +524,12 @@
 	
 	<FACILITYTYPE>
 		<ubIndex>22</ubIndex>
-		<szFacilityName>城镇监狱</szFacilityName>
-		<szFacilityShortName>监狱</szFacilityShortName>
+		<szFacilityName>&#x57CE;&#x9547;&#x76D1;&#x72F1;</szFacilityName>
+		<szFacilityShortName>&#x76D1;&#x72F1;</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
-			<szTooltipText>你的佣兵可以在这审问战俘。囚犯可能加入你们，也可能给你些有用的信息。</szTooltipText>
+			<szTooltipText>&#x4F60;&#x7684;&#x4F63;&#x5175;&#x53EF;&#x4EE5;&#x5728;&#x8FD9;&#x5BA1;&#x95EE;&#x6218;&#x4FD8;&#x3002;&#x56DA;&#x72AF;&#x53EF;&#x80FD;&#x52A0;&#x5165;&#x4F60;&#x4EEC;&#xFF0C;&#x4E5F;&#x53EF;&#x80FD;&#x7ED9;&#x4F60;&#x4E9B;&#x6709;&#x7528;&#x7684;&#x4FE1;&#x606F;&#x3002;</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>90</usPerformance>
 			<usPrisonBaseLimit>5</usPrisonBaseLimit>
@@ -446,12 +538,234 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
-			<szTooltipText>伪装成囚犯的一员，获取他们的信任来收集情报，并防止暴动袭击。</szTooltipText>
+			<szTooltipText>&#x4F2A;&#x88C5;&#x6210;&#x56DA;&#x72AF;&#x7684;&#x4E00;&#x5458;&#xFF0C;&#x83B7;&#x53D6;&#x4ED6;&#x4EEC;&#x7684;&#x4FE1;&#x4EFB;&#x6765;&#x6536;&#x96C6;&#x60C5;&#x62A5;&#xFF0C;&#x5E76;&#x9632;&#x6B62;&#x66B4;&#x52A8;&#x88AD;&#x51FB;&#x3002;</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>70</usPerformance>
 			<CONDITIONS>
 			</CONDITIONS>
 		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>23</ubIndex>
+		<szFacilityName>T-Shirt Factory</szFacilityName>
+		<szFacilityShortName>Factory</szFacilityShortName>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
+		<PRODUCTIONLINE>
+			<!-- create string -->
+			<szAdditionalRequirementTips> - Requires: Doreen quest</szAdditionalRequirementTips>
+			<usItemToCreate>311</usItemToCreate>
+			<sMinutesRequired>10</sMinutesRequired>
+			<sGridNo_Creation>11306</sGridNo_Creation>
+			<requires_staff>0</requires_staff>
+			<sHourlyCost>2</sHourlyCost>
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create rag -->
+			<usItemToCreate>1022</usItemToCreate>
+			<sMinutesRequired>25</sMinutesRequired>
+			<sGridNo_Creation>11307</sGridNo_Creation>
+			<sHourlyCost>6</sHourlyCost>
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create Surgical mask from string + rag -->
+			<usItemToCreate>1710</usItemToCreate>
+			<sMinutesRequired>35</sMinutesRequired>
+			<sGridNo_Creation>11309</sGridNo_Creation>
+			<sHourlyCost>4</sHourlyCost>			
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create Arulco T-Shirt from string + rag (2x) -->
+			<usItemToCreate>194</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>12758</sGridNo_Creation>
+			<sHourlyCost>7</sHourlyCost>			
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create Deidranna T-Shirt from string + rag (2x) -->
+			<usItemToCreate>195</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>12759</sGridNo_Creation>
+			<sHourlyCost>7</sHourlyCost>			
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create green T-Shirt from string + rag (2x) -->
+			<usItemToCreate>1609</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>12917</sGridNo_Creation>
+			<sHourlyCost>7</sHourlyCost>			
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- we have to build an upgrade before we can create uniforms -->
+			<szProductionName>Upgrade</szProductionName>
+			<sMinutesRequired>181</sMinutesRequired>
+			<sHourlyCost>100</sHourlyCost>			
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create Field uniform from string (3x) + rag (3x) -->
+			<szAdditionalRequirementTips> - Uniform requires upgrade</szAdditionalRequirementTips>
+			<usItemToCreate>284</usItemToCreate>
+			<sMinutesRequired>300</sMinutesRequired>
+			<sGridNo_Creation>11316</sGridNo_Creation>
+			<sHourlyCost>25</sHourlyCost>			
+			<usOptional_LoyaltyRequired>30</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create Field uniform from green T-Shirt, string (2x) + rag -->
+			<usItemToCreate>284</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>11316</sGridNo_Creation>
+			<sHourlyCost>37</sHourlyCost>			
+			<usOptional_LoyaltyRequired>30</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1609</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>24</ubIndex>
+		<szFacilityName>Hicks Farm</szFacilityName>
+		<szFacilityShortName>Farm</szFacilityShortName>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
+		<PRODUCTIONLINE>
+			<!-- cow meat -->
+			<szAdditionalRequirementTips> - Requires: Hicks dead</szAdditionalRequirementTips>
+			<usItemToCreate>1565</usItemToCreate>
+			<sMinutesRequired>300</sMinutesRequired>
+			<sGridNo_Creation>15432</sGridNo_Creation>
+			<sHourlyCost>2</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- bread -->
+			<usItemToCreate>1567</usItemToCreate>
+			<sMinutesRequired>100</sMinutesRequired>
+			<sGridNo_Creation>15592</sGridNo_Creation>
+			<sHourlyCost>2</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- apple pie -->
+			<usItemToCreate>1568</usItemToCreate>
+			<sMinutesRequired>90</sMinutesRequired>
+			<sGridNo_Creation>15272</sGridNo_Creation>
+			<sHourlyCost>3</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- milk -->
+			<usItemToCreate>1572</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>15112</sGridNo_Creation>
+			<sHourlyCost>2</sHourlyCost>
+		</PRODUCTIONLINE>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>25</ubIndex>
+		<szFacilityName>Bomb Workshop</szFacilityName>
+		<szFacilityShortName>Workshop</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_EXPLOSIVES</ubAssignmentType>
+			<szTooltipText>This well-equipped workshop has the tools you need to create some makeshift bombs. Very dangerous, but it just might be worth it.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<CONDITIONS>
+				<ubMinimumExplosives>70</ubMinimumExplosives>
+				<ubMinimumMechanical>50</ubMinimumMechanical>
+			</CONDITIONS>
+			<INJURY>
+				<ubChance>50</ubChance>
+				<bBaseEffect>-5</bBaseEffect>
+				<ubRange>4</ubRange>
+			</INJURY>
+		</ASSIGNMENT>
+		<PRODUCTIONLINE>
+			<!-- 60mm Mortar Shell from TNT -->
+			<usItemToCreate>140</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>19101</sGridNo_Creation>
+			<requires_staff>1</requires_staff>
+			<usOptional_ItemUsedUp>137</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>137</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- 60mm Mortar Shell from Mk2 Grenades -->
+			<usItemToCreate>140</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>18941</sGridNo_Creation>
+			<requires_staff>1</requires_staff>
+			<usOptional_ItemUsedUp>135</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>135</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>135</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>135</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>135</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>135</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- 60mm Illumination Shell from Chemical Break Light -->
+			<usItemToCreate>940</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>18781</sGridNo_Creation>
+			<requires_staff>1</requires_staff>
+			<usOptional_ItemUsedUp>146</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>146</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>146</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>146</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>146</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>146</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- 60mm Smoke Shell from Smoke Grenade -->
+			<usItemToCreate>941</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>18461</sGridNo_Creation>
+			<requires_staff>1</requires_staff>
+			<usOptional_ItemUsedUp>151</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>151</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>151</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>151</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>151</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>151</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- 60mm Mustard Gas Shell from Mustard Gas Grenade -->
+			<usItemToCreate>951</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>18141</sGridNo_Creation>
+			<requires_staff>1</requires_staff>
+			<usOptional_ItemUsedUp>133</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>133</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>133</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>133</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>133</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>133</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
 	</FACILITYTYPE>
 	
 </FACILITYTYPES>
