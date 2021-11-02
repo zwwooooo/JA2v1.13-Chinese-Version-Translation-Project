@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0"?>
 <!--
 
 uiIndex:			The profile index from BinaryData\prof.dat or from TableData\MercProfiles.xml
@@ -1110,9 +1110,9 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	<!-- this record is used by all combat jeeps -->
 	<VEHICLE>
 		<uiIndex>71</uiIndex>
-		<Name>None</Name>	
-		<LongName>Combat Jeep</LongName>
-		<ShortName>Jeep</ShortName>	
+		<Name>&#x6218;&#x6597;&#x5409;&#x666E;&#x8F66;</Name>	
+		<LongName>&#x6218;&#x6597;&#x5409;&#x666E;&#x8F66;</LongName>
+		<ShortName>&#x6218;&#x6597;&#x5409;&#x666E;&#x8F66;</ShortName>	
 		<MvtTypes>2</MvtTypes>
 		<StiFaceIcon/>
 		<SeatingCapacities>0</SeatingCapacities>
@@ -2446,9 +2446,9 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	<!-- Hummer -->
 	<VEHICLE>
 		<uiIndex>160</uiIndex>
-		<Name>Hummer</Name>
-		<LongName>悍马</LongName>
-		<ShortName>悍马</ShortName>
+		<Name>&#x608D;&#x9A6C;</Name>
+		<LongName>&#x608D;&#x9A6C;</LongName>
+		<ShortName>&#x608D;&#x9A6C;</ShortName>
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\Hummer.sti</StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
@@ -2533,9 +2533,9 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	<!-- El Dorado -->
 	<VEHICLE>
 		<uiIndex>161</uiIndex>
-		<Name>Eldorado</Name>
-		<LongName>凯迪拉克</LongName>
-		<ShortName>凯迪拉克</ShortName>
+		<Name>&#x51EF;&#x8FEA;&#x62C9;&#x514B;</Name>
+		<LongName>&#x51EF;&#x8FEA;&#x62C9;&#x514B;</LongName>
+		<ShortName>&#x51EF;&#x8FEA;&#x62C9;&#x514B;</ShortName>
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\eldorado.sti</StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
@@ -2630,9 +2630,9 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	<!-- Ice cream truck -->
 	<VEHICLE>
 		<uiIndex>162</uiIndex>
-		<Name>Truck</Name>	
-		<LongName>冰激凌卡车</LongName>
-		<ShortName>卡车</ShortName>		
+		<Name>&#x5361;&#x8F66;</Name>	
+		<LongName>&#x51B0;&#x6FC0;&#x51CC;&#x5361;&#x8F66;</LongName>
+		<ShortName>&#x5361;&#x8F66;</ShortName>		
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\ice Cream Truck.sti</StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
@@ -2720,9 +2720,9 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	<!-- Helicopter -->
 	<VEHICLE>
 		<uiIndex>163</uiIndex>
-		<Name>Heli</Name>	
-		<LongName>直升机</LongName>
-		<ShortName>直升机</ShortName>	
+		<Name>&#x76F4;&#x5347;&#x673A;</Name>	
+		<LongName>&#x76F4;&#x5347;&#x673A;</LongName>
+		<ShortName>&#x76F4;&#x5347;&#x673A;</ShortName>	
 		<MvtTypes>4</MvtTypes>
 		<StiFaceIcon/>
 		<SeatingCapacities>6</SeatingCapacities>
@@ -2737,9 +2737,9 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	<!-- this record used all enemy tanks ?? -->
 	<VEHICLE>
 		<uiIndex>164</uiIndex>
-		<Name>Tank</Name>	
-		<LongName>坦克</LongName>
-		<ShortName>坦克</ShortName>	
+		<Name>&#x5766;&#x514B;</Name>	
+		<LongName>&#x5766;&#x514B;</LongName>
+		<ShortName>&#x5766;&#x514B;</ShortName>	
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon/>
 		<SeatingCapacities>6</SeatingCapacities>
@@ -3262,9 +3262,9 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>199</uiIndex>
-		<Name>Jeep</Name>
-		<LongName>吉普车</LongName>
-		<ShortName>吉普车</ShortName>
+		<Name>&#x5409;&#x666E;&#x8F66;</Name>
+		<LongName>&#x5409;&#x666E;&#x8F66;</LongName>
+		<ShortName>&#x5409;&#x666E;&#x8F66;</ShortName>
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\Jeep.sti</StiFaceIcon>
 		<SeatingCapacities>4</SeatingCapacities>

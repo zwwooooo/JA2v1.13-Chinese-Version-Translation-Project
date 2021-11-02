@@ -98,6 +98,7 @@
 		<hackerskill>0</hackerskill>					  <!-- hacker skill, 0 to 100. Value > 0 means we can hack computers -->
 		<burial_assignment>0</burial_assignment>		  <!-- effectiveness at burying corpses, -50 to 1000. Value > 0 means we bury corpses faster -->
 		<administration_assignment>0</administration_assignment>	<!-- +- % effectiveness at administration assignment, -50 to 1000. Value > 0 means we work better -->
+		<exploration_assignment>0</exploration_assignment>	<!-- +- % effectiveness at exploration assignment, -100 to 1000. Value > 0 means we work better -->
 
 		<dislikebackground>0</dislikebackground>          <!-- dislike everybody with a background that has the negative of this value -->
 
@@ -105,12 +106,14 @@
 		<druguse>0</druguse>			<!-- might use drugs from inventory (the 'Larry'-behaviour) -->
 		<xenophobic>0</xenophobic>		<!-- lower opinion of everybody without this background -->
 		<level_underground>0</level_underground>  <!-- +1 effective level if underground -->
-		<scrounging>0</scrounging>		<!-- might steal items (and put them in personal inventory) -->
+		<scrounging>0</scrounging>		<!-- might steal money from the locals (chance to anger locals) -->
 		<traplevel>0</traplevel>		<!-- +1 level on bombs planted -->
 		<corruptionspread>0</corruptionspread>	<!-- unused in the trunk -->
 		<no_male>0</no_male>			<!-- IMP creation: cannot be selected by males -->
 		<no_female>0</no_female>		<!-- IMP creation: cannot be selected by females -->
-		<loyalitylossondeath>0</loyalitylossondeath>      <!-- huge loyality loss in entire country on death -->
+		<loyalitylossondeath>0</loyalitylossondeath>	<!-- huge loyality loss in entire country on death -->
+		<animal_friend>0</animal_friend>	<!-- refuses to attack animals-->
+		<civgroup_loyal>0</civgroup_loyal>	<!-- refuses to attack members of the same civilian group -->
 	</BACKGROUND>
 	<!-- Note that Barry's background had to be moved to slot 255 due to index number 0 already being taken -->
 	<!-- Blood -->
@@ -1001,7 +1004,6 @@
 		<szName>精神病人</szName>
 		<szShortName>精神病人</szShortName>
 		<szDescription>没有人知道你是怎么逃出来的，不过大家一致认为，你应该回去。</szDescription>
-		<leadership>-5</leadership>
 		<strength>3</strength>
 		<dexterity>6</dexterity>
 		<agility>6</agility>
@@ -1529,9 +1531,6 @@
 		<szName>精神病人</szName>
 		<szShortName>精神病人</szShortName>
 		<szDescription>半清醒，半疯狂，Maddog的性格和思维方式总是混乱无序的。</szDescription>
-		<leadership>-3</leadership>
-		<strength>5</strength>
-		<mechanical>5</mechanical>
 		<stealth>-5</stealth>
 		<ap_urban>-5</ap_urban>
 		<ap_swamp>5</ap_swamp>
@@ -1562,9 +1561,6 @@
 		<szName>乡巴佬</szName>
 		<szShortName>乡巴佬</szShortName>
 		<szDescription>头发插着枯稻草，张嘴一笑缺颗牙，好吧，农场的生活也不是那么容易。</szDescription>
-		<mechanical>3</mechanical>
-		<medical>3</medical>
-		<wisdom>-7</wisdom>
 		<ap_urban>-5</ap_urban>
 		<ap_swamp>5</ap_swamp>
 		<ap_river>5</ap_river>
@@ -1572,7 +1568,6 @@
 		<ap_fortify>-5</ap_fortify>
 		<meleedamage>5</meleedamage>
 		<speed_run>5</speed_run>
-		<approach_recruit>-5</approach_recruit>
 		<carrystrength>10</carrystrength>
 		<resistance_fear>7</resistance_fear>
 		<resistance_alcohol>10</resistance_alcohol>
@@ -1589,8 +1584,6 @@
 		<szName>机械师</szName>
 		<szShortName>机械师</szShortName>
 		<szDescription>在物资缺乏的战场上，能维修装备太重要了！</szDescription>
-		<dexterity>8</dexterity>
-		<mechanical>8</mechanical>
 		<ap_urban>3</ap_urban>
 		<betterprices_guns>3</betterprices_guns>
 		<betterprices>10</betterprices>
@@ -1604,17 +1597,12 @@
 		<szName>邪恶女王</szName>
 		<szShortName>邪恶女王</szShortName>
 		<szDescription>冷酷无情统治这个国家多年之后，女王精擅控制与生存之道。</szDescription>
-		<leadership>10</leadership>
 		<resistance_physical>10</resistance_physical>
 		<resistance_fear>20</resistance_fear>
 		<interrogation>300</interrogation>
 		<betterprices_guns>10</betterprices_guns>
 		<betterprices>20</betterprices>
 		<capitulation>100</capitulation>
-		<approach_friendly>20</approach_friendly>
-		<approach_direct>20</approach_direct>
-		<approach_threaten>20</approach_threaten>
-		<approach_recruit>20</approach_recruit>
 		<hearing_night>1</hearing_night>
 		<hearing_day>1</hearing_day>
 		<carrystrength>-10</carrystrength>
@@ -1750,7 +1738,6 @@
 		<dexterity>3</dexterity>
 		<agility>3</agility>
 		<leadership>-2</leadership>
-		<cth_blades>6</cth_blades>
 		<meleedamage>3</meleedamage>
 		<ap_assault>6</ap_assault>
 		<stealth>10</stealth>
@@ -1799,15 +1786,12 @@
 		<szName>匪帮</szName>
 		<szShortName>匪帮</szShortName>
 		<szDescription>有组织的犯罪网络随处可见，没有例外。</szDescription>
-		<leadership>10</leadership>
 		<ap_assault>2</ap_assault>
 		<cth_blades>3</cth_blades>
 		<meleedamage>3</meleedamage>
 		<betterprices_guns>5</betterprices_guns>
 		<betterprices>10</betterprices>
 		<capitulation>50</capitulation>
-		<approach_threaten>5</approach_threaten>
-		<approach_recruit>8</approach_recruit>
 		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -1823,8 +1807,6 @@
 		<meleedamage>3</meleedamage>
 		<betterprices_guns>3</betterprices_guns>
 		<capitulation>4</capitulation>
-		<approach_threaten>5</approach_threaten>
-		<approach_recruit>8</approach_recruit>
 		<scrounging>1</scrounging> 
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -1835,7 +1817,6 @@
 		<szName>性奴</szName>
 		<szShortName>性奴</szShortName>
 		<szDescription>你不会想知道她身上发生了什么，你想？那你就用力想吧！</szDescription>
-		<leadership>-2</leadership>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-10</ap_inventory>
 		<ap_assault>-5</ap_assault>
@@ -1850,7 +1831,6 @@
 		<szName>店主</szName>
 		<szShortName>店主</szShortName>
 		<szDescription>对很多来说，店主？就是一直流着口水数钱的那个？</szDescription>
-		<dexterity>5</dexterity>
 		<ap_polar>-2</ap_polar>
 		<ap_desert>-2</ap_desert>
 		<ap_swamp>-2</ap_swamp>
@@ -1864,7 +1844,6 @@
 		<ap_assault>-5</ap_assault>
 		<betterprices_guns>5</betterprices_guns>
 		<betterprices>15</betterprices>
-		<approach_recruit>5</approach_recruit>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -1874,7 +1853,6 @@
 		<szName>青少年</szName>
 		<szShortName>青少年</szShortName>
 		<szDescription>少年维特之烦恼，居然会这么多！</szDescription>
-		<leadership>-8</leadership>
 		<ap_urban>2</ap_urban>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -1897,12 +1875,8 @@
 		<szName>军火商</szName>
 		<szShortName>军火商</szShortName>
 		<szDescription>向交战双方同时出售军火风险巨大，收益同样巨大。</szDescription>
-		<wisdom>1</wisdom>
-		<dexterity>1</dexterity>
-		<marksmanship>5</marksmanship>
 		<resistance_fear>10</resistance_fear>
 		<approach_direct>10</approach_direct>
-		<approach_threaten>10</approach_threaten>
 		<betterprices_guns>10</betterprices_guns>
 		<betterprices>10</betterprices>
 		<no_male>1</no_male>
@@ -1916,8 +1890,6 @@
 		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
 		<resistance_alcohol>10</resistance_alcohol>
 		<betterprices>4</betterprices>
-		<approach_friendly>15</approach_friendly>
-		<approach_recruit>5</approach_recruit>
 		<meleedamage>3</meleedamage>
 		<cth_blades>5</cth_blades> 
 		<no_male>1</no_male>
@@ -1930,7 +1902,6 @@
 		<szShortName>保安</szShortName>
 		<szDescription>保安有打架的经验，不过杀人这一块可能略有生疏。</szDescription>
 		<meleedamage>4</meleedamage>
-		<dexterity>2</dexterity>
 		<resistance_fear>10</resistance_fear>
 		<spotter>3</spotter>
 		<no_male>1</no_male>
@@ -1942,7 +1913,6 @@
 		<szName>保镖</szName>
 		<szShortName>保镖</szShortName>
 		<szDescription>精良训练，无比忠诚，不惧牺牲，不愧为雇主的最佳选择。</szDescription>
-		<strength>4</strength>
 		<resistance_physical>10</resistance_physical>
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
@@ -1958,7 +1928,6 @@
 		<szName>店主</szName>
 		<szShortName>店主</szShortName>
 		<szDescription>对很多来说，店主？就是一直流着口水数钱的那个？</szDescription>
-		<dexterity>5</dexterity>
 		<ap_polar>-2</ap_polar>
 		<ap_desert>-2</ap_desert>
 		<ap_swamp>-2</ap_swamp>
@@ -2007,7 +1976,6 @@
 		<szName>飞行员</szName>
 		<szShortName>飞行员</szShortName>
 		<szDescription>接受过严格的军事训练，地面作战对他们而言可能不是很难。</szDescription>
-		<mechanical>3</mechanical>
 		<ap_airdrop>1</ap_airdrop>
 		<travel_air>10</travel_air>
 		<resistance_suppression>10</resistance_suppression>
@@ -2023,8 +1991,6 @@
 		<szName>机场货运经理</szName>
 		<szShortName>机场货运经理</szShortName>
 		<szDescription>Pablo“妥善地”保管着Drassen机场的进出口货物。</szDescription>
-		<agility>5</agility>
-		<dexterity>5</dexterity>
 		<ap_urban>1</ap_urban>
 		<ap_inventory>-15</ap_inventory>
 		<resistance_fear>3</resistance_fear>
@@ -2043,7 +2009,6 @@
 		<szName>机场货运经理</szName>
 		<szShortName>机场货运经理</szShortName>
 		<szDescription>Sal正试着掌握货运经理的工作。</szDescription>
-		<strength>3</strength>
 		<ap_artillery>10</ap_artillery>
 		<ap_assault>-5</ap_assault>
 		<no_male>1</no_male>
@@ -2055,9 +2020,6 @@
 		<szName>神父</szName>
 		<szShortName>神父</szShortName>
 		<szDescription>宗教的力量是恐怖而巨大的，用好它可以改写历史。</szDescription>
-		<medical>3</medical>
-		<leadership>10</leadership>
-		<wisdom>5</wisdom>
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-5</ap_airdrop>
 		<ap_assault>-5</ap_assault>
@@ -2071,9 +2033,6 @@
 		<cth_blades>-5</cth_blades>
 		<betterprices_guns>-5</betterprices_guns>
 		<betterprices>10</betterprices>
-		<approach_friendly>10</approach_friendly>
-		<approach_threaten>-10</approach_threaten>
-		<approach_recruit>10</approach_recruit>
 		<scrounging>1</scrounging>
 		<druguse>1</druguse>
 		<no_male>1</no_male>
@@ -2112,7 +2071,6 @@
 		<szName>执法队</szName>
 		<szShortName>执法队</szShortName>
 		<szDescription>城管出身的佼佼者们更乐意在杀手的世界谋求一职，他们当然最擅长审讯犯人。</szDescription>
-		<leadership>5</leadership>
 		<resistance_fear>10</resistance_fear>
 		<capitulation>25</capitulation>
 		<interrogation>175</interrogation>
@@ -2131,7 +2089,6 @@
 		<resistance_physical>10</resistance_physical>
 		<food>-10</food>
 		<water>-10</water>
-		<sleep>-1</sleep> 
 		<hearing_night>2</hearing_night>
 		<level_underground>1</level_underground>
 		<no_male>1</no_male>
@@ -2162,9 +2119,7 @@
 		<szShortName>矿工</szShortName>
 		<szDescription>黑煤窑的工作既辛苦又危险，难怪有些人宁愿选择死在战场上。</szDescription>
 		<ap_fortify>-20</ap_fortify>
-		<strength>5</strength>
 		<level_underground>1</level_underground>
-		<explosives>5</explosives>
 		<carrystrength>3</carrystrength>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -2175,16 +2130,11 @@
 		<szName>女士</szName>
 		<szShortName>女士</szShortName>
 		<szDescription>以令人反感的方式对待顾客，还不给找零钱。</szDescription>
-		<leadership>5</leadership>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-5</ap_airdrop>
 		<ap_assault>-3</ap_assault>
 		<hearing_night>1</hearing_night>
-		<approach_friendly>10</approach_friendly>
-		<approach_direct>10</approach_direct>
-		<approach_threaten>5</approach_threaten>
-		<approach_recruit>10</approach_recruit>
 		<betterprices>10</betterprices>
 		<interrogation>100</interrogation>
 		<no_male>1</no_male>
@@ -2203,8 +2153,6 @@
 		<ap_tropical>3</ap_tropical>
 		<leadership>5</leadership>
 		<wisdom>10</wisdom>
-		<approach_friendly>10</approach_friendly>
-		<approach_recruit>10</approach_recruit>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2237,8 +2185,6 @@
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
 		<resistance_physical>10</resistance_physical>
-		<approach_threaten>10</approach_threaten>
-		<approach_recruit>8</approach_recruit>
 		<scrounging>1</scrounging> 
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -2249,7 +2195,6 @@
 		<szName>准军事人员</szName>
 		<szShortName>准军事人员</szShortName>
 		<szDescription>偏执狂、无知愚昧、法西斯主义，呵呵，这就是你。</szDescription>
-		<leadership>6</leadership>
 		<ap_assault>3</ap_assault>
 		<betterprices_guns>3</betterprices_guns>
 		<capitulation>4</capitulation>
@@ -2257,8 +2202,6 @@
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
 		<resistance_physical>10</resistance_physical>
-		<approach_threaten>5</approach_threaten>
-		<approach_recruit>8</approach_recruit>
 		<scrounging>1</scrounging> 
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -2269,7 +2212,6 @@
 		<szName>恐怖分子</szName>
 		<szShortName>恐怖分子</szShortName>
 		<szDescription>哪怕被国际刑警通缉，他也知道怎么低调杀人、低调走人。</szDescription>
-		<medical>5</medical>
 		<stealth>5</stealth>
 		<ap_inventory>-10</ap_inventory>
 		<resistance_disease>10</resistance_disease>
@@ -2285,9 +2227,6 @@
 		<szName>垃圾佬/黑市商人</szName>
 		<szShortName>垃圾佬/黑市商人</szShortName>
 		<szDescription>专捡垃圾……还有一些别的。</szDescription>
-		<mechanical>5</mechanical>
-		<dexterity>5</dexterity>
-		<explosives>5</explosives>
 		<ap_fortify>10</ap_fortify>
 		<ap_inventory>-1</ap_inventory>
 		<ap_airdrop>-5</ap_airdrop>
@@ -2304,7 +2243,6 @@
 		<szName>孩童</szName>
 		<szShortName>孩童</szShortName>
 		<szDescription>别向他射击，你忘了日内瓦公约？</szDescription>
-		<leadership>-10</leadership>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-10</ap_airdrop>
@@ -2327,8 +2265,6 @@
 		<szName>修车工</szName>
 		<szShortName>修车工</szShortName>
 		<szDescription>Dave以前经营着一个加油站……那时还有油可以加。</szDescription>
-		<dexterity>3</dexterity>
-		<mechanical>6</mechanical>
 		<ap_urban>3</ap_urban>
 		<ap_fortify>-2</ap_fortify>
 		<ap_airdrop>-3</ap_airdrop>
@@ -2359,7 +2295,6 @@
 		<szShortName>前台</szShortName>
 		<szDescription>不可描述！</szDescription>
 		<meleedamage>4</meleedamage>
-		<dexterity>2</dexterity>
 		<resistance_physical>5</resistance_physical>
 		<resistance_fear>3</resistance_fear>
 		<betterprices>10</betterprices>
@@ -2405,7 +2340,6 @@
 		<szName>将军</szName>
 		<szShortName>将军</szShortName>
 		<szDescription>这个佣兵领袖显然不是你这边的人！</szDescription>
-		<leadership>10</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-3</ap_fortify>
 		<ap_artillery>-2</ap_artillery> 
@@ -2414,9 +2348,6 @@
 		<resistance_suppression>10</resistance_suppression>
 		<carrystrength>3</carrystrength>
 		<interrogation>200</interrogation>
-		<approach_direct>20</approach_direct>
-		<approach_threaten>20</approach_threaten>
-		<approach_recruit>20</approach_recruit>
 		<drink_energyregen>15</drink_energyregen>
 		<capitulation>20</capitulation>
 		<spotter>5</spotter>
@@ -2430,7 +2361,6 @@
 		<szName>Krott中士</szName>
 		<szShortName>Krott中士</szShortName>
 		<szDescription>这名中士宁愿和他的亲人呆在家里，却被征召到Arulco军队。</szDescription>
-		<leadership>3</leadership>
 		<ap_assault>3</ap_assault>
 		<ap_fortify>-3</ap_fortify>
 		<ap_artillery>-2</ap_artillery> 
@@ -2462,7 +2392,6 @@
 		<resistance_suppression>-10</resistance_suppression>
 		<betterprices_guns>10</betterprices_guns>
 		<betterprices>20</betterprices>
-		<approach_recruit>10</approach_recruit>
 		<spotter>-15</spotter>
 		<xenophobic>1</xenophobic> 
 		<no_male>1</no_male>
@@ -2476,7 +2405,6 @@
 		<szDescription>中老年妇女的偶像，大木老师和毕姥爷毕生追求的目标，你的名声已享誉世界。</szDescription>
 		<ap_airdrop>-5</ap_airdrop>
 		<ap_assault>-5</ap_assault>
-		<approach_friendly>20</approach_friendly>
 		<capitulation>5</capitulation>
 		<betterprices>20</betterprices>
 		<xenophobic>1</xenophobic> 
@@ -2503,7 +2431,6 @@
 		<ap_assault>-5</ap_assault>
 		<betterprices_guns>5</betterprices_guns>
 		<betterprices>15</betterprices>
-		<approach_recruit>5</approach_recruit>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2513,8 +2440,6 @@
 		<szName>药剂师</szName>
 		<szShortName>药剂师</szShortName>
 		<szDescription>对很多人来说，生意就是生意。</szDescription>
-		<medical>10</medical>
-		<dexterity>2</dexterity>
 		<ap_polar>-2</ap_polar>
 		<ap_desert>-2</ap_desert>
 		<ap_swamp>-2</ap_swamp>
@@ -2527,7 +2452,6 @@
 		<ap_airdrop>-5</ap_airdrop>
 		<ap_assault>-5</ap_assault>
 		<betterprices>15</betterprices>
-		<approach_recruit>5</approach_recruit>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2537,7 +2461,6 @@
 		<szName>店主</szName>
 		<szShortName>店主</szShortName>
 		<szDescription>对很多来说，店主？就是一直流着口水数钱的那个？</szDescription>
-		<dexterity>5</dexterity>
 		<ap_polar>-2</ap_polar>
 		<ap_desert>-2</ap_desert>
 		<ap_swamp>-2</ap_swamp>
@@ -2550,7 +2473,6 @@
 		<ap_assault>-5</ap_assault>
 		<betterprices_guns>5</betterprices_guns>
 		<betterprices>15</betterprices>
-		<approach_recruit>5</approach_recruit>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2560,7 +2482,6 @@
 		<szName>二战老兵</szName>
 		<szShortName>二战老兵</szShortName>
 		<szDescription>胸前好几排荣誉勋章却只能沿街乞讨，所以他选择去做雇佣兵。</szDescription>
-		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-5</ap_fortify>
 		<ap_artillery>-2</ap_artillery> 
@@ -2586,10 +2507,9 @@
 		<ap_airdrop>-5</ap_airdrop>
 		<ap_assault>-5</ap_assault>
 		<betterprices_guns>3</betterprices_guns>
-		<betterprices>10</betterprices>
+		<betterprices>8</betterprices>
 		<dexterity>8</dexterity>
 		<mechanical>8</mechanical>
-		<betterprices>8</betterprices>
 		<ap_inventory>-10</ap_inventory> 
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -2614,7 +2534,6 @@
 		<ap_assault>-10</ap_assault>
 		<betterprices_guns>5</betterprices_guns>
 		<betterprices>15</betterprices>
-		<approach_recruit>5</approach_recruit>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2640,8 +2559,6 @@
 		<szName>科学家</szName>
 		<szShortName>科学家</szShortName>
 		<szDescription>一心工作的科学家。</szDescription>
-		<leadership>-5</leadership>
-		<wisdom>10</wisdom>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-6</ap_airdrop>
@@ -2660,8 +2577,6 @@
 		<szName>护士</szName>
 		<szShortName>护士</szShortName>
 		<szDescription>护士在战区是很吃香的，因为太危险了，专业医生往往不愿意前往。</szDescription>
-		<dexterity>3</dexterity>
-		<medical>7</medical>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-10</ap_inventory>
@@ -2669,7 +2584,6 @@
 		<ap_assault>-5</ap_assault>
 		<resistance_fear>5</resistance_fear>
 		<speed_bandaging>30</speed_bandaging>
-		<approach_friendly>10</approach_friendly>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2680,7 +2594,6 @@
 		<szShortName>保安</szShortName>
 		<szDescription>保安有打架的经验，不过杀人这一块可能略有生疏。</szDescription>
 		<meleedamage>4</meleedamage>
-		<dexterity>2</dexterity>
 		<resistance_physical>5</resistance_physical>
 		<resistance_fear>3</resistance_fear>
 		<spotter>3</spotter>
@@ -2693,7 +2606,6 @@
 		<szName>傻子</szName>
 		<szShortName>傻子</szShortName>
 		<szDescription>娶了Warden，两面派，懦弱，不忠并且间接造成了谋杀。</szDescription>
-		<leadership>-5</leadership>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-9</ap_airdrop>
@@ -2712,16 +2624,12 @@
 		<szName>受虐狂</szName>
 		<szShortName>受虐狂</szShortName>
 		<szDescription>经过了长期不间断的折辱和嘲笑谩骂之后，你慢慢开始怀疑当初的选择。</szDescription>
-		<leadership>-5</leadership>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-5</ap_airdrop>
 		<ap_assault>-5</ap_assault>
 		<resistance_physical>20</resistance_physical>
 		<resistance_fear>10</resistance_fear>
-		<leadership>-10</leadership>
-		<approach_threaten>-50</approach_threaten>
-		<approach_recruit>-50</approach_recruit>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2749,8 +2657,6 @@
 		<szName>直升飞机机械师</szName>
 		<szShortName>直升飞机机械师</szShortName>
 		<szDescription>应该是这里最好的直升飞机机械师了，也是仅存的，囧。</szDescription>
-		<dexterity>3</dexterity>
-		<mechanical>8</mechanical>
 		<ap_fortify>-2</ap_fortify>
 		<ap_airdrop>1</ap_airdrop>
 		<ap_assault>-5</ap_assault>
@@ -2790,10 +2696,6 @@
 		<resistance_physical>5</resistance_physical>
 		<increased_maxcth>3</increased_maxcth>
 		<cth_blades>3</cth_blades>
-		<approach_friendly>-10</approach_friendly>
-		<approach_direct>5</approach_direct>
-		<approach_threaten>10</approach_threaten>
-		<approach_recruit>-10</approach_recruit>
 		<interrogation>10</interrogation>
 		<capitulation>10</capitulation>
 		<insurance>20</insurance>
@@ -2807,7 +2709,6 @@
 		<szName>杀手</szName>
 		<szShortName>杀手</szShortName>
 		<szDescription>杀手总是经常杀人的，不然还叫什么杀手？</szDescription>
-		<marksmanship>3</marksmanship>
 		<stealth>5</stealth>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -2817,10 +2718,6 @@
 		<resistance_physical>5</resistance_physical>
 		<increased_maxcth>3</increased_maxcth>
 		<cth_blades>3</cth_blades>
-		<approach_friendly>-10</approach_friendly>
-		<approach_direct>5</approach_direct>
-		<approach_threaten>10</approach_threaten>
-		<approach_recruit>-10</approach_recruit>
 		<interrogation>10</interrogation>
 		<capitulation>10</capitulation>
 		<insurance>20</insurance>
@@ -2834,7 +2731,6 @@
 		<szName>杀手</szName>
 		<szShortName>杀手</szShortName>
 		<szDescription>杀手总是经常杀人的，不然还叫什么杀手？</szDescription>
-		<marksmanship>3</marksmanship>
 		<stealth>5</stealth>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -2844,10 +2740,6 @@
 		<resistance_physical>5</resistance_physical>
 		<increased_maxcth>3</increased_maxcth>
 		<cth_blades>3</cth_blades>
-		<approach_friendly>-10</approach_friendly>
-		<approach_direct>5</approach_direct>
-		<approach_threaten>10</approach_threaten>
-		<approach_recruit>-10</approach_recruit>
 		<interrogation>10</interrogation>
 		<capitulation>10</capitulation>
 		<insurance>20</insurance>
@@ -2861,7 +2753,6 @@
 		<szName>杀手</szName>
 		<szShortName>杀手</szShortName>
 		<szDescription>杀手总是经常杀人的，不然还叫什么杀手？</szDescription>
-		<marksmanship>3</marksmanship>
 		<stealth>5</stealth>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -2871,10 +2762,6 @@
 		<resistance_physical>5</resistance_physical>
 		<increased_maxcth>3</increased_maxcth>
 		<cth_blades>3</cth_blades>
-		<approach_friendly>-10</approach_friendly>
-		<approach_direct>5</approach_direct>
-		<approach_threaten>10</approach_threaten>
-		<approach_recruit>-10</approach_recruit>
 		<interrogation>10</interrogation>
 		<capitulation>10</capitulation>
 		<insurance>20</insurance>
@@ -2888,7 +2775,6 @@
 		<szName>杀手</szName>
 		<szShortName>杀手</szShortName>
 		<szDescription>杀手总是经常杀人的，不然还叫什么杀手？</szDescription>
-		<marksmanship>3</marksmanship>
 		<stealth>5</stealth>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -2898,10 +2784,6 @@
 		<resistance_physical>5</resistance_physical>
 		<increased_maxcth>3</increased_maxcth>
 		<cth_blades>3</cth_blades>
-		<approach_friendly>-10</approach_friendly>
-		<approach_direct>5</approach_direct>
-		<approach_threaten>10</approach_threaten>
-		<approach_recruit>-10</approach_recruit>
 		<interrogation>10</interrogation>
 		<capitulation>10</capitulation>
 		<insurance>20</insurance>
@@ -2915,7 +2797,6 @@
 		<szName>杀手</szName>
 		<szShortName>杀手</szShortName>
 		<szDescription>杀手总是经常杀人的，不然还叫什么杀手？</szDescription>
-		<marksmanship>3</marksmanship>
 		<stealth>5</stealth>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -2925,10 +2806,6 @@
 		<resistance_physical>5</resistance_physical>
 		<increased_maxcth>3</increased_maxcth>
 		<cth_blades>3</cth_blades>
-		<approach_friendly>-10</approach_friendly>
-		<approach_direct>5</approach_direct>
-		<approach_threaten>10</approach_threaten>
-		<approach_recruit>-10</approach_recruit>
 		<interrogation>10</interrogation>
 		<capitulation>10</capitulation>
 		<insurance>20</insurance>
@@ -2942,7 +2819,6 @@
 		<szName>学院派</szName>
 		<szShortName>学院派</szShortName>
 		<szDescription>绝大部分知识都是纸上谈兵，或许几场战斗就要了老命了。</szDescription>
-		<wisdom>10</wisdom>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-5</ap_airdrop>
@@ -2984,7 +2860,6 @@
 		<szName>矿工</szName>
 		<szShortName>矿工</szShortName>
 		<szDescription>黑煤窑的工作既辛苦又危险，难怪有些人宁愿选择死在战场上。</szDescription>
-		<strength>5</strength>
 		<ap_fortify>-20</ap_fortify>
 		<ap_airdrop>-5</ap_airdrop>
 		<level_underground>1</level_underground>
@@ -2999,7 +2874,6 @@
 		<szName>雇佣兵</szName>
 		<szShortName>雇佣兵</szShortName>
 		<szDescription>不满足于平庸而无聊的过去，你选择了枪炮主宰的世界，这才是真正的你。</szDescription>
-		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-5</ap_fortify>
 		<ap_artillery>-2</ap_artillery> 
@@ -3022,9 +2896,6 @@
 		<szName>乡巴佬</szName>
 		<szShortName>乡巴佬</szShortName>
 		<szDescription>头发插着枯稻草，张嘴一笑缺颗牙，好吧，农场的生活也不是那么容易。</szDescription>
-		<mechanical>3</mechanical>
-		<medical>3</medical>
-		<wisdom>-7</wisdom>
 		<ap_urban>-5</ap_urban>
 		<ap_swamp>5</ap_swamp>
 		<ap_river>5</ap_river>
@@ -3050,8 +2921,6 @@
 		<szShortName>酒吧老板</szShortName>
 		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
 		<betterprices>4</betterprices>
-		<approach_friendly>15</approach_friendly>
-		<approach_recruit>5</approach_recruit>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -3062,8 +2931,6 @@
 		<szShortName>酒吧老板</szShortName>
 		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
 		<betterprices>4</betterprices>
-		<approach_friendly>15</approach_friendly>
-		<approach_recruit>5</approach_recruit>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -3074,8 +2941,6 @@
 		<szShortName>酒吧老板</szShortName>
 		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
 		<betterprices>4</betterprices>
-		<approach_friendly>15</approach_friendly>
-		<approach_recruit>5</approach_recruit>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -3086,8 +2951,6 @@
 		<szShortName>酒吧老板</szShortName>
 		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
 		<betterprices>4</betterprices>
-		<approach_friendly>15</approach_friendly>
-		<approach_recruit>5</approach_recruit>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND> 
@@ -3097,14 +2960,12 @@
 		<szName>酒吧老板</szName>
 		<szShortName>酒吧老板</szShortName>
 		<szDescription>和气生财，乱世求生之不二法门。</szDescription>
-		<leadership>-9</leadership>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>10</ap_inventory>
 		<ap_airdrop>-6</ap_airdrop>
 		<ap_assault>-6</ap_assault>
 		<betterprices>-10</betterprices>
-		<approach_recruit>-20</approach_recruit>
 		<spotter>-20</spotter>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -3115,7 +2976,6 @@
 		<szName>矿工</szName>
 		<szShortName>矿工</szShortName>
 		<szDescription>黑煤窑的工作既辛苦又危险，难怪有些人宁愿选择死在战场上。</szDescription>
-		<strength>5</strength>
 		<ap_fortify>-20</ap_fortify>
 		<ap_airdrop>-5</ap_airdrop>
 		<level_underground>1</level_underground>
@@ -3130,7 +2990,6 @@
 		<szName>矿工</szName>
 		<szShortName>矿工</szShortName>
 		<szDescription>黑煤窑的工作既辛苦又危险，难怪有些人宁愿选择死在战场上。</szDescription>
-		<strength>5</strength>
 		<ap_fortify>-20</ap_fortify>
 		<ap_airdrop>-5</ap_airdrop>
 		<level_underground>1</level_underground>
@@ -3145,7 +3004,6 @@
 		<szName>矿工</szName>
 		<szShortName>矿工</szShortName>
 		<szDescription>黑煤窑的工作既辛苦又危险，难怪有些人宁愿选择死在战场上。</szDescription>
-		<strength>5</strength>
 		<ap_fortify>-20</ap_fortify>
 		<ap_airdrop>-5</ap_airdrop>
 		<level_underground>1</level_underground>
@@ -3221,16 +3079,11 @@
 		<szName>UN维和部队</szName>
 		<szShortName>UN维和部队</szShortName>
 		<szDescription>各国合作提供部队，采用非暴力方式解决区域冲突。可悲的是，这个定义是错的。</szDescription>
-		<medical>2</medical>
-		<mechanical>2</mechanical>
-		<wisdom>2</wisdom>
-		<leadership>1</leadership>
 		<ap_fortify>-5</ap_fortify>
 		<resistance_fear>14</resistance_fear>
 		<resistance_suppression>14</resistance_suppression>
 		<capitulation>14</capitulation>
 		<speed_bandaging>10</speed_bandaging>
-		<approach_friendly>4</approach_friendly>
 		<spotter>2</spotter>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
@@ -3242,7 +3095,6 @@
 		<szName>雇佣兵</szName>
 		<szShortName>雇佣兵</szShortName>
 		<szDescription>不满足于平庸而无聊的过去，你选择了枪炮主宰的世界，这才是真正的你。</szDescription>
-		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-5</ap_fortify>
 		<ap_artillery>-2</ap_artillery> 
@@ -3266,7 +3118,6 @@
 		<szName>二流演员</szName>
 		<szShortName>二流演员</szShortName>
 		<szDescription>中老年妇女的偶像，大木老师和毕姥爷毕生追求的目标，你的名声已享誉世界。</szDescription>
-		<leadership>5</leadership>
 		<ap_fortify>5</ap_fortify>
 		<ap_artillery>5</ap_artillery>
 		<ap_airdrop>-3</ap_airdrop>
@@ -3274,7 +3125,6 @@
 		<resistance_physical>3</resistance_physical>
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
-		<approach_friendly>20</approach_friendly>
 		<camo>10</camo>
 		<interrogation>5</interrogation>
 		<carrystrength>3</carrystrength>
@@ -3292,7 +3142,6 @@
 		<szName>资深雇佣兵</szName>
 		<szShortName>资深雇佣兵</szShortName>
 		<szDescription>新人还在包尿布时你已经威名远扬，没有什么任务能难住你。</szDescription>
-		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-5</ap_fortify>
 		<ap_artillery>-3</ap_artillery> 
@@ -3331,8 +3180,6 @@
 		<szName>红军</szName>
 		<szShortName>红军</szShortName>
 		<szDescription>苏联红军克服了严寒天气和物资缺乏， 最终弄死了希特勒。</szDescription>
-		<mechanical>4</mechanical>
-		<leadership>2</leadership>
 		<ap_polar>8</ap_polar>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-3</ap_fortify>
@@ -3355,8 +3202,6 @@
 		<szName>红军</szName>
 		<szShortName>红军</szShortName>
 		<szDescription>苏联红军克服了严寒天气和物资缺乏， 最终弄死了希特勒。</szDescription>
-		<mechanical>4</mechanical>
-		<leadership>2</leadership>
 		<ap_polar>8</ap_polar>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-3</ap_fortify>
@@ -3378,8 +3223,6 @@
 		<szName>红军</szName>
 		<szShortName>红军</szShortName>
 		<szDescription>苏联红军克服了严寒天气和物资缺乏， 最终弄死了希特勒。</szDescription>
-		<mechanical>4</mechanical>
-		<leadership>2</leadership>
 		<ap_polar>8</ap_polar>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-3</ap_fortify>
@@ -3401,14 +3244,11 @@
 		<szName>军事顾问</szName>
 		<szShortName>军事顾问</szShortName>
 		<szDescription>瞄准射击很容易，难得是教会别人瞄准谁射击。</szDescription>
-		<leadership>5</leadership>
 		<ap_assault>3</ap_assault>
 		<resistance_fear>3</resistance_fear>
 		<resistance_suppression>3</resistance_suppression>
 		<interrogation>5</interrogation>
 		<carrystrength>2</carrystrength>
-		<approach_direct>10</approach_direct>
-		<approach_recruit>5</approach_recruit>
 		<spotter>3</spotter>
 		<capitulation>10</capitulation>
 		<smoker>1</smoker>
@@ -3422,7 +3262,6 @@
 		<szShortName>保安</szShortName>
 		<szDescription>保安有打架的经验，不过杀人这一块可能略有生疏。</szDescription>
 		<meleedamage>4</meleedamage>
-		<dexterity>2</dexterity>
 		<resistance_physical>7</resistance_physical>
 		<resistance_fear>3</resistance_fear>
 		<spotter>3</spotter>
@@ -3436,9 +3275,6 @@
 		<szName>外科军医</szName>
 		<szShortName>外科军医</szShortName>
 		<szDescription>谁都能把人切成两半，但能不能缝上去就是另一回事。</szDescription>
-		<wisdom>3</wisdom>
-		<medical>10</medical>
-		<dexterity>8</dexterity>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-5</ap_inventory>
@@ -3455,7 +3291,6 @@
 		<resistance_suppression>3</resistance_suppression>
 		<speed_bandaging>25</speed_bandaging>
 		<speed_run>3</speed_run>
-		<ap_inventory>-5</ap_inventory>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -3521,11 +3356,6 @@
 		<szName>精神病人</szName>
 		<szShortName>精神病人</szShortName>
 		<szDescription>没有人知道你是怎么逃出来的，不过大家一致认为，你应该回去。</szDescription>
-		<dexterity>3</dexterity>
-		<mechanical>3</mechanical>
-		<wisdom>-6</wisdom>
-		<leadership>-9</leadership>
-		<explosives>9</explosives>
 		<disarm_trap>33</disarm_trap>
 		<breachingcharge>66</breachingcharge>
 		<traplevel>1</traplevel>
@@ -3534,9 +3364,6 @@
 		<resistance_suppression>20</resistance_suppression>
 		<interrogation>100</interrogation>
 		<capitulation>-50</capitulation>
-		<approach_direct>-50</approach_direct>
-		<approach_threaten>50</approach_threaten>
-		<approach_recruit>-50</approach_recruit>
 		<insurance>100</insurance>
 		<druguse>1</druguse>
 		<smoker>1</smoker>
@@ -3565,9 +3392,6 @@
 		<szName>摔跤手</szName>
 		<szShortName>摔跤手</szShortName>
 		<szDescription>与其说是搏斗不如说是表演，不过被丢来丢去而没摔断脖子也需要一定的技术。</szDescription>
-		<agility>3</agility>
-		<strength>5</strength>
-		<dexterity>2</dexterity>
 		<ap_assault>5</ap_assault>
 		<meleedamage>5</meleedamage>
 		<resistance_fear>10</resistance_fear>
@@ -3578,8 +3402,6 @@
 		<carrystrength>75</carrystrength> 
 		<speed_run>5</speed_run>
 		<stealth>-5</stealth>
-		<approach_direct>5</approach_direct>
-		<approach_threaten>10</approach_threaten>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -3589,8 +3411,6 @@
 		<szName>资深医生</szName>
 		<szShortName>资深医生</szShortName>
 		<szDescription>治人多年，自己却被廉价香烟和浓咖啡弄坏了身体，这真讽刺。</szDescription>
-		<agility>-7</agility>
-		<medical>10</medical>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-5</ap_inventory>
@@ -3598,8 +3418,6 @@
 		<ap_assault>-5</ap_assault>
 		<speed_bandaging>10</speed_bandaging>
 		<speed_run>-10</speed_run>
-		<approach_friendly>-5</approach_friendly>
-		<approach_threaten>10</approach_threaten>
 		<resistance_disease>-20</resistance_disease>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
@@ -3630,12 +3448,9 @@
 		<szName>平庸射手</szName>
 		<szShortName>平庸射手</szShortName>
 		<szDescription>由于高度近视，Wally看来是无法提升其射击水平了。</szDescription>
-		<dexterity>8</dexterity>
-		<mechanical>10</mechanical>
 		<betterprices_guns>10</betterprices_guns>
 		<betterprices>8</betterprices>
-		<ap_inventory>-10</ap_inventory> 
-		<marksmanship>-10</marksmanship>
+		<ap_inventory>-10</ap_inventory>
 		<increased_maxcth>-5</increased_maxcth>
 		<spotter>-10</spotter>
 		<no_male>1</no_male>
@@ -3647,8 +3462,6 @@
 		<szName>外科军医</szName>
 		<szShortName>外科军医</szShortName>
 		<szDescription>谁都能把人切成两半，但能不能缝上去就是另一回事。</szDescription>
-		<medical>10</medical>
-		<dexterity>8</dexterity>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-5</ap_inventory>
@@ -3664,9 +3477,6 @@
 		<szName>全科医生</szName>
 		<szShortName>全科医生</szShortName>
 		<szDescription>感染了病菌？脑子挨了一枪？全科医生能救你一命。</szDescription>
-		<wisdom>1</wisdom>
-		<dexterity>5</dexterity>
-		<medical>10</medical>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-5</ap_inventory>
@@ -3674,7 +3484,6 @@
 		<ap_assault>-2</ap_assault>
 		<resistance_fear>5</resistance_fear>
 		<speed_bandaging>20</speed_bandaging>
-		<approach_friendly>10</approach_friendly>
 		<smoker>2</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -3706,8 +3515,6 @@
 		<szName>毕业生</szName>
 		<szShortName>毕业生</szShortName>
 		<szDescription>毕业工作不好找？不想读大学？来当杀手吧！</szDescription>
-		<wisdom>3</wisdom>
-		<leadership>-6</leadership>
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-9</ap_airdrop>
 		<ap_assault>-9</ap_assault>
@@ -3728,7 +3535,6 @@
 		<szName>冒牌货</szName>
 		<szShortName>冒牌货</szShortName>
 		<szDescription>假装会各种事，其实啥也干不好，谁也不知道他究竟能干啥。</szDescription>
-		<leadership>-5</leadership>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-6</ap_airdrop>
@@ -3738,9 +3544,6 @@
 		<resistance_physical>-10</resistance_physical>
 		<interrogation>3</interrogation>
 		<betterprices>3</betterprices>
-		<approach_friendly>6</approach_friendly>
-		<approach_threaten>-3</approach_threaten>
-		<approach_recruit>3</approach_recruit>
 		<meleedamage>-3</meleedamage>
 		<xenophobic>1</xenophobic>
 		<smoker>1</smoker>
@@ -3753,9 +3556,6 @@
 		<szName>棒球选手</szName>
 		<szShortName>棒球选手</szShortName>
 		<szDescription>如果你的队伍需要一个能把手雷扔得又远又准的人，那就是他了！</szDescription>
-		<agility>6</agility>
-		<strength>3</strength>
-		<dexterity>3</dexterity>
 		<ap_fortify>-3</ap_fortify>
 		<ap_airdrop>3</ap_airdrop>
 		<ap_assault>3</ap_assault>
@@ -3858,7 +3658,6 @@
 		<ap_coastal>3</ap_coastal>
 		<ap_tropical>3</ap_tropical>
 		<ap_swamp>3</ap_swamp>
-		<ap_tropical>3</ap_tropical>
 		<ap_swimming>-10</ap_swimming>
 		<travel_boat>5</travel_boat>
 		<speed_run>10</speed_run>
@@ -4049,9 +3848,9 @@
 	<!-- chaotic Buns -->
 	<BACKGROUND>
 		<uiIndex>215</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>人格分裂</szName>
+		<szShortName>人格分裂</szShortName>
+		<szDescription>由于患上了创伤后应激障碍，Buns在高压下会转换成她的第二种人格，这个人格非常好斗。</szDescription>
 		<ap_assault>6</ap_assault>
 		<resistance_fear>20</resistance_fear>
 		<resistance_physical>10</resistance_physical>
@@ -4209,16 +4008,12 @@
 		<szName>厂妹技师</szName>
 		<szShortName>厂妹技师</szShortName>
 		<szDescription>修修修，和Gary和Larry相比，她应该是家里的好孩子。</szDescription>
-		<dexterity>5</dexterity>
-		<mechanical>5</mechanical>
 		<ap_artillery>10</ap_artillery>
 		<resistance_fear>-5</resistance_fear>
 		<resistance_suppression>-5</resistance_suppression>
 		<resistance_physical>-5</resistance_physical>
 		<ap_inventory>-10</ap_inventory>
 		<betterprices>10</betterprices>
-		<approach_friendly>20</approach_friendly>
-		<approach_threaten>-20</approach_threaten>
 		<disarm_trap>10</disarm_trap>
 		<hackerskill>20</hackerskill>
 		<smoker>1</smoker>
@@ -4231,8 +4026,6 @@
 		<szName>护士</szName>
 		<szShortName>护士</szShortName>
 		<szDescription>护士在战区是很吃香的，因为太危险了，专业医生往往不愿意前往。</szDescription>
-		<dexterity>3</dexterity>
-		<medical>7</medical>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-10</ap_inventory>
@@ -4240,7 +4033,6 @@
 		<ap_assault>-5</ap_assault>
 		<resistance_fear>5</resistance_fear>
 		<speed_bandaging>30</speed_bandaging>
-		<approach_friendly>10</approach_friendly>
 		<interrogation>50</interrogation>
 		<stealth>10</stealth>
 		<hearing_night>1</hearing_night>
@@ -4256,8 +4048,6 @@
 		<szName>资深雇佣兵</szName>
 		<szShortName>资深雇佣兵</szShortName>
 		<szDescription>新人还在包尿布时你已经威名远扬，没有什么任务能难住你。</szDescription>
-		<leadership>5</leadership>
-		<ap_assault>5</ap_assault>
 		<ap_fortify>-5</ap_fortify>
 		<ap_artillery>-2</ap_artillery> 
 		<resistance_physical>3</resistance_physical>
@@ -4279,8 +4069,6 @@
 		<szName>疑病症患者</szName>
 		<szShortName>疑病症患者</szShortName>
 		<szDescription>哪怕走进医院或学校，也会觉得他们会偷偷暗害你！</szDescription>
-		<wisdom>-3</wisdom>
-		<medical>3</medical>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_height>-8</ap_height>
@@ -4308,8 +4096,6 @@
 		<szName>战地医师</szName>
 		<szShortName>战地医师</szShortName>
 		<szDescription>谁都能把人切成两半，但能不能缝上去就是另一回事。</szDescription>
-		<medical>5</medical>
-		<dexterity>5</dexterity>
 		<stealth>1</stealth>
 		<resistance_physical>7</resistance_physical>
 		<resistance_fear>7</resistance_fear>
@@ -4336,7 +4122,6 @@
 		<speed_bandaging>7</speed_bandaging>
 		<food>-10</food>
 		<water>-10</water>
-		<approach_direct>5</approach_direct>
 		<spotter>6</spotter>
 		<ambush_radius>5</ambush_radius>
 		<no_male>1</no_male>
@@ -4348,10 +4133,6 @@
 		<szName>修车工</szName>
 		<szShortName>修车工</szShortName>
 		<szDescription>非常有用，当然如果你有车的话。</szDescription>
-		<dexterity>3</dexterity>
-		<mechanical>6</mechanical>
-		<leadership>5</leadership>
-		<ap_fortify>-5</ap_fortify>
 		<ap_assault>8</ap_assault>
 		<ap_urban>3</ap_urban>
 		<ap_fortify>-2</ap_fortify>
@@ -4359,7 +4140,6 @@
 		<resistance_physical>6</resistance_physical>
 		<resistance_fear>12</resistance_fear>
 		<resistance_suppression>12</resistance_suppression>
-		<approach_threaten>10</approach_threaten>
 		<disarm_trap>5</disarm_trap>
 		<interrogation>5</interrogation>
 		<carrystrength>3</carrystrength>
@@ -4377,7 +4157,6 @@
 		<szName>杀手</szName>
 		<szShortName>杀手</szShortName>
 		<szDescription>杀手是危险而又高度专业的职业，其实他们有些并不太冷。</szDescription>
-		<marksmanship>3</marksmanship>
 		<stealth>5</stealth>
 		<ap_urban>3</ap_urban>
 		<ap_assault>5</ap_assault>
@@ -4387,10 +4166,6 @@
 		<resistance_physical>5</resistance_physical>
 		<increased_maxcth>3</increased_maxcth>
 		<cth_blades>3</cth_blades>
-		<approach_friendly>-10</approach_friendly>
-		<approach_direct>5</approach_direct>
-		<approach_threaten>10</approach_threaten>
-		<approach_recruit>-10</approach_recruit>
 		<interrogation>10</interrogation>
 		<capitulation>10</capitulation>
 		<insurance>20</insurance>
@@ -4405,16 +4180,11 @@
 		<szName>UN维和部队</szName>
 		<szShortName>UN维和部队</szShortName>
 		<szDescription>各国合作提供部队，采用非暴力方式解决区域冲突。可悲的是，这个定义是错的。</szDescription>
-		<medical>2</medical>
-		<mechanical>2</mechanical>
-		<wisdom>2</wisdom>
-		<leadership>1</leadership>
 		<ap_fortify>-5</ap_fortify>
 		<resistance_fear>14</resistance_fear>
 		<resistance_suppression>14</resistance_suppression>
 		<capitulation>14</capitulation>
 		<speed_bandaging>10</speed_bandaging>
-		<approach_friendly>4</approach_friendly>
 		<spotter>2</spotter>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -4425,8 +4195,6 @@
 		<szName>游骑兵</szName>
 		<szShortName>游骑兵</szShortName>
 		<szDescription>来自美国陆军精英部队，沉默寡言、冷酷暴力。</szDescription>
-		<leadership>8</leadership>
-		<marksmanship>2</marksmanship>
 		<ap_assault>6</ap_assault>
 		<ap_fortify>-5</ap_fortify>
 		<ap_artillery>-2</ap_artillery> 
@@ -4450,9 +4218,6 @@
 		<szName>囚犯</szName>
 		<szShortName>囚犯</szShortName>
 		<szDescription>任何熬到刑满释放的囚犯都容易变得非常暴力：如果能熬到那一天的话。</szDescription>
-		<agility>5</agility>
-		<dexterity>5</dexterity>
-		<approach_threaten>10</approach_threaten>
 		<resistance_physical>5</resistance_physical>
 		<resistance_fear>8</resistance_fear>
 		<meleedamage>2</meleedamage>
@@ -4579,7 +4344,6 @@
 		<resistance_fear>3</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
 		<resistance_alcohol>10</resistance_alcohol>
-		<traplevel>1</traplevel>
 		<druguse>1</druguse>
 		<insurance>100</insurance>
 		<no_male>1</no_male>
@@ -5054,7 +4818,6 @@
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-10</ap_inventory>
 		<ap_airdrop>-3</ap_airdrop>
-		<ap_assault>-5</ap_assault>
 		<resistance_fear>5</resistance_fear>
 		<speed_bandaging>30</speed_bandaging>
 		<approach_friendly>10</approach_friendly>
@@ -5629,8 +5392,6 @@
 		<szDescription>拆弹专家一生只允许犯两个错误：第一个错误是选了这职业。</szDescription>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
-		<explosives>5</explosives>
-		<ap_fortify>-20</ap_fortify>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>-3</ap_artillery>
 		<ap_inventory>-5</ap_inventory>
@@ -5871,8 +5632,8 @@
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>315</uiIndex>
-		<szName>拆弹专家</szName>
-		<szShortName>拆弹专家</szShortName>
+		<szName>工程兵</szName>
+		<szShortName>工程兵</szShortName>
 		<szDescription>你精通于这门不容失败的技术，展现出钢铁般稳固的心态。</szDescription>
 		<dexterity>5</dexterity>
 		<wisdom>3</wisdom>

@@ -197,6 +197,7 @@
 		<usRiotShieldGraphic>0</usRiotShieldGraphic>
 		<bloodbag>0</bloodbag>
 		<emptybloodbag>0</emptybloodbag>
+		<medicalsplint>0</medicalsplint>
 		<sFireResistance>0</sFireResistance>
 		<STAND_MODIFIERS>
 			<FlatBase>0</FlatBase>
@@ -907,7 +908,7 @@
 		<ubWeight>55</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>8830</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -1324,9 +1325,9 @@
 		<ubGraphicNum>31</ubGraphicNum>
 		<ubWeight>34</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>822</usPrice>
+		<usPrice>700</usPrice>
 		<ubCoolness>4</ubCoolness>
-		<bReliability>2</bReliability>
+		<bReliability>4</bReliability>
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -1360,8 +1361,9 @@
 		<ubGraphicNum>32</ubGraphicNum>
 		<ubWeight>39</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>934</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<usPrice>1780</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<bReliability>1</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -1395,8 +1397,8 @@
 		<ubGraphicNum>33</ubGraphicNum>
 		<ubWeight>37</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>2513</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<usPrice>4500</usPrice>
+		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -1617,6 +1619,7 @@
 		<ItemSize>14</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Rock>1</Rock>
+		<Sinks>1</Sinks>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
@@ -1708,6 +1711,7 @@
 		<ItemSize>14</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Rock>1</Rock>
+		<Sinks>1</Sinks>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
@@ -2486,10 +2490,8 @@
 	<ITEM>
 		<uiIndex>69</uiIndex>
 		<szItemName>M-960A</szItemName>
-		<szLongItemName>卡利科M-960A</szLongItemName>
-		<szItemDesc>拥有迷你冲锋枪的称号，这把造型奇特的枪使用弹筒供弹，可以装填50发9mm子弹。这是美国版，二十世纪90年代就开始声名大噪。</szItemDesc>
-		<szBRName>Calico M-960A</szBRName>
-		<szBRDesc>拥有迷你冲锋枪的称号，这把造型奇特的枪使用弹筒供弹，可以装填50发9mm子弹。这是美国版，二十世纪90年代就开始声名大噪。</szBRDesc>
+		<szLongItemName>卡利科M-96                                                                                                                                                                                                          4d��J��ˊt
+c E ��@ �  ��������<{́P �(  <szBRDesc>拥有迷你冲锋枪的称号，这把造型奇特的枪使用弹筒供弹，可以装填50发9mm子弹。这是美国版，二十世纪90年代就开始声名大噪。</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>69</ubClassIndex>
@@ -6499,7 +6501,6 @@
 		<AimBonus>20</AimBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
 		<PercentAPReduction>-9</PercentAPReduction>
-		<DamageBonus>2</DamageBonus>
 		<NightVisionRangeBonus>45</NightVisionRangeBonus>
 		<DayVisionRangeBonus>90</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
@@ -9778,7 +9779,7 @@
 		<ubWeight>26</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>7785</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -10026,8 +10027,8 @@
 		<ubGraphicNum>139</ubGraphicNum>
 		<ubWeight>35</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>910</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<usPrice>1700</usPrice>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -10062,8 +10063,9 @@
 		<ubGraphicNum>182</ubGraphicNum>
 		<ubWeight>33</ubWeight>
 		<ItemSize>8</ItemSize>
-		<usPrice>902</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<usPrice>1300</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -12593,7 +12595,7 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>154</ubGraphicNum>
 		<ubWeight>20</ubWeight>
-		<ItemSize>24</ItemSize>
+		<ItemSize>25</ItemSize>
 		<usPrice>334</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<Metal>1</Metal>
@@ -12617,7 +12619,7 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>153</ubGraphicNum>
 		<ubWeight>20</ubWeight>
-		<ItemSize>24</ItemSize>
+		<ItemSize>25</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<Metal>1</Metal>
@@ -12641,7 +12643,7 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>55</ubGraphicNum>
 		<ubWeight>20</ubWeight>
-		<ItemSize>24</ItemSize>
+		<ItemSize>25</ItemSize>
 		<usPrice>1167</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -12664,7 +12666,7 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>241</ubGraphicNum>
 		<ubWeight>20</ubWeight>
-		<ItemSize>24</ItemSize>
+		<ItemSize>25</ItemSize>
 		<usPrice>667</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<Metal>1</Metal>
@@ -12691,7 +12693,7 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>242</ubGraphicNum>
 		<ubWeight>20</ubWeight>
-		<ItemSize>24</ItemSize>
+		<ItemSize>25</ItemSize>
 		<usPrice>1000</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -12716,7 +12718,7 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>342</ubGraphicNum>
 		<ubWeight>20</ubWeight>
-		<ItemSize>24</ItemSize>
+		<ItemSize>25</ItemSize>
 		<usPrice>300</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -12741,7 +12743,7 @@
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>341</ubGraphicNum>
 		<ubWeight>20</ubWeight>
-		<ItemSize>24</ItemSize>
+		<ItemSize>25</ItemSize>
 		<usPrice>450</usPrice>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
@@ -16797,6 +16799,7 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>24</BR_ROF>
+		<BloodiedItem>597</BloodiedItem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
@@ -17602,7 +17605,7 @@
 		<ubWeight>68</ubWeight>
 		<ItemSize>9</ItemSize>
 		<usPrice>15452</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -17674,7 +17677,7 @@
 		<ubWeight>61</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>13658</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -17708,8 +17711,8 @@
 		<ubGraphicNum>69</ubGraphicNum>
 		<ubWeight>38</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>997</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<usPrice>1350</usPrice>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>2</bReliability>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -17850,7 +17853,7 @@
 		<ubWeight>56</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>8734</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -18032,7 +18035,7 @@
 		<ubWeight>47</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>8840</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -18173,7 +18176,7 @@
 		<ubWeight>62</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>8987</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -18346,7 +18349,7 @@
 		<ubWeight>59</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>9770</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -18389,7 +18392,7 @@
 		<ubWeight>69</ubWeight>
 		<ItemSize>9</ItemSize>
 		<usPrice>11920</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -18911,7 +18914,7 @@
 		<ubWeight>53</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5640</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -19197,10 +19200,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>662</uiIndex>
-		<szItemName>HK 416 14"</szItemName>
-		<szLongItemName>黑克勒-科赫416 14"</szLongItemName>
+		<szItemName>HK 416 14'</szItemName>
+		<szLongItemName>黑克勒-科赫416 14'</szLongItemName>
 		<szItemDesc>黑克勒-科赫416结合了G36和M4的所有优点，14英寸枪管版。</szItemDesc>
-		<szBRName>HK 416 14"</szBRName>
+		<szBRName>HK 416 14'</szBRName>
 		<szBRDesc>改进了英国的SA80之后，黑克勒-科赫又着手于增强美国的M4。黑克勒-科赫416可以作为M4的升级附件购买，也可以作为使用黑克勒-科赫造的下机匣的整套武器购买。</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -19665,7 +19668,7 @@
 		<ubWeight>64</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>6030</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -19846,8 +19849,9 @@
 		<ubGraphicNum>183</ubGraphicNum>
 		<ubWeight>31</ubWeight>
 		<ItemSize>6</ItemSize>
-		<usPrice>1390</usPrice>
+		<usPrice>800</usPrice>
 		<ubCoolness>3</ubCoolness>
+		<bReliability>2</bReliability>
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -19881,8 +19885,8 @@
 		<ubGraphicNum>199</ubGraphicNum>
 		<ubWeight>46</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>1960</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<usPrice>3500</usPrice>
+		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -20036,7 +20040,7 @@
 		<ubWeight>53</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5700</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -20073,7 +20077,7 @@
 		<ubWeight>41</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5390</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -20400,9 +20404,10 @@
 		<ubGraphicNum>213</ubGraphicNum>
 		<ubWeight>33</ubWeight>
 		<ItemSize>8</ItemSize>
-		<usPrice>1980</usPrice>
-		<ubCoolness>3</ubCoolness>
-		<bRepairEase>-1</bRepairEase>
+		<usPrice>600</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<bReliability>3</bReliability>
+		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -20469,9 +20474,10 @@
 		<ubGraphicNum>91</ubGraphicNum>
 		<ubWeight>39</ubWeight>
 		<ItemSize>6</ItemSize>
-		<usPrice>1650</usPrice>
+		<usPrice>1300</usPrice>
 		<ubCoolness>5</ubCoolness>
-		<bRepairEase>-1</bRepairEase>
+		<bReliability>1</bReliability>
+		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -20543,7 +20549,7 @@
 		<ubWeight>48</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5590</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -20938,7 +20944,7 @@
 		<ubWeight>47</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5640</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -20974,7 +20980,7 @@
 		<ubWeight>53</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>10670</usPrice>
-		<ubCoolness>10</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bRepairEase>-3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -21009,9 +21015,10 @@
 		<ubGraphicNum>128</ubGraphicNum>
 		<ubWeight>15</ubWeight>
 		<ItemSize>5</ItemSize>
-		<usPrice>1230</usPrice>
+		<usPrice>700</usPrice>
 		<ubCoolness>3</ubCoolness>
-		<bRepairEase>3</bRepairEase>
+		<bReliability>5</bReliability>
+		<bRepairEase>4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -21613,7 +21620,7 @@
 		<ubWeight>33</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>4310</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -21647,7 +21654,7 @@
 		<ubWeight>39</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5590</usPrice>
-		<ubCoolness>9</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -21727,8 +21734,9 @@
 		<ubGraphicNum>198</ubGraphicNum>
 		<ubWeight>42</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>1820</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<usPrice>1100</usPrice>
+		<ubCoolness>5</ubCoolness>
+		<bReliability>2</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -21773,8 +21781,10 @@
 		<ubGraphicNum>197</ubGraphicNum>
 		<ubWeight>18</ubWeight>
 		<ItemSize>4</ItemSize>
-		<usPrice>1500</usPrice>
+		<usPrice>900</usPrice>
 		<ubCoolness>4</ubCoolness>
+		<bReliability>2</bReliability>
+		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -21818,7 +21828,7 @@
 		<ubWeight>62</ubWeight>
 		<ItemSize>9</ItemSize>
 		<usPrice>5440</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>6</ubCoolness>
 		<bReliability>-2</bReliability>
 		<bRepairEase>-2</bRepairEase>
 		<Damageable>1</Damageable>
@@ -22107,8 +22117,10 @@
 		<ubGraphicNum>119</ubGraphicNum>
 		<ubWeight>55</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>2010</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<usPrice>4000</usPrice>
+		<ubCoolness>7</ubCoolness>
+		<bReliability>1</bReliability>
+		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -22568,7 +22580,7 @@
 		<ubWeight>42</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5400</usPrice>
-		<ubCoolness>6</ubCoolness>
+		<ubCoolness>7</ubCoolness>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -22603,8 +22615,10 @@
 		<ubGraphicNum>250</ubGraphicNum>
 		<ubWeight>34</ubWeight>
 		<ItemSize>8</ItemSize>
-		<usPrice>1650</usPrice>
+		<usPrice>935</usPrice>
 		<ubCoolness>3</ubCoolness>
+		<bReliability>5</bReliability>
+		<bRepairEase>4</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -23357,8 +23371,8 @@
 		<ubGraphicNum>286</ubGraphicNum>
 		<ubWeight>44</ubWeight>
 		<ItemSize>6</ItemSize>
-		<usPrice>1547</usPrice>
-		<ubCoolness>4</ubCoolness>
+		<usPrice>1480</usPrice>
+		<ubCoolness>5</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -27797,7 +27811,7 @@
 		<ubWeight>52</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>6685</usPrice>
-		<ubCoolness>8</ubCoolness>
+		<ubCoolness>9</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -27830,9 +27844,9 @@
 		<ubGraphicNum>167</ubGraphicNum>
 		<ubWeight>29</ubWeight>
 		<ItemSize>7</ItemSize>
-		<usPrice>1400</usPrice>
-		<ubCoolness>4</ubCoolness>
-		<bReliability>1</bReliability>
+		<usPrice>900</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<bReliability>3</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -27866,9 +27880,9 @@
 		<ubGraphicNum>156</ubGraphicNum>
 		<ubWeight>30</ubWeight>
 		<ItemSize>8</ItemSize>
-		<usPrice>1460</usPrice>
-		<ubCoolness>5</ubCoolness>
-		<bReliability>1</bReliability>
+		<usPrice>1000</usPrice>
+		<ubCoolness>4</ubCoolness>
+		<bReliability>3</bReliability>
 		<bRepairEase>1</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -30363,7 +30377,6 @@
 		<Damageable>1</Damageable>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<buddyitem>1755</buddyitem>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -31033,7 +31046,6 @@
 		<ToHitBonus>-8</ToHitBonus>
 		<AimBonus>17</AimBonus>
 		<MinRangeForAimBonus>70</MinRangeForAimBonus>
-		<DamageBonus>1</DamageBonus>
 		<NightVisionRangeBonus>35</NightVisionRangeBonus>
 		<DayVisionRangeBonus>70</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
@@ -31302,7 +31314,6 @@
 		<ToHitBonus>-7</ToHitBonus>
 		<AimBonus>15</AimBonus>
 		<MinRangeForAimBonus>45</MinRangeForAimBonus>
-		<DamageBonus>1</DamageBonus>
 		<NightVisionRangeBonus>25</NightVisionRangeBonus>
 		<DayVisionRangeBonus>50</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
@@ -31622,10 +31633,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1018</uiIndex>
-		<szItemName>电池</szItemName>
-		<szLongItemName>电池</szLongItemName>
+		<szItemName>蓄电池</szItemName>
+		<szLongItemName>蓄电池</szLongItemName>
 		<szItemDesc>15V化学物电池。</szItemDesc>
-		<szBRName>电池</szBRName>
+		<szBRName>蓄电池</szBRName>
 		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -31646,11 +31657,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1019</uiIndex>
-		<szItemName>埃索汽油</szItemName>
-		<szLongItemName>埃索汽油</szLongItemName>
-		<szItemDesc>一桶埃索汽油。可笑的是，你从未在这里见过埃索的加油站。</szItemDesc>
-		<szBRName>埃索汽油</szBRName>
-		<szBRDesc>我们可以保证，这绝对是你在市场上可以找到的最好的汽油了。（一年包退，包装破损无效）</szBRDesc>
+		<szItemName>埃索机油</szItemName>
+		<szLongItemName>埃索机油</szLongItemName>
+		<szItemDesc>一罐埃索牌机油。有趣的是，你从未在这里见过埃索的加油站。</szItemDesc>
+		<szBRName>埃索机油</szBRName>
+		<szBRDesc>我们可以保证，这绝对是你在市场上可以找到的最好的机油了。（一年包退，包装破损无效）</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -33108,7 +33119,7 @@
 		<ubWeight>60</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>7240</usPrice>
-		<ubCoolness>7</ubCoolness>
+		<ubCoolness>8</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>-1</bRepairEase>
 		<Damageable>1</Damageable>
@@ -40558,11 +40569,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1322</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 923</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
+		<szItemName>2倍瞄准镜(内置)</szItemName>
+		<szLongItemName>2倍瞄准镜(内置)</szLongItemName>
+		<szItemDesc>许多现代突击步枪直接集成了这种瞄准镜，装在左轮手枪、猎枪、冲锋枪等等武器上也不错。</szItemDesc>
+		<szBRName>2倍瞄准镜(内置)</szBRName>
+		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -40596,11 +40607,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1323</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 923</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
+		<szItemName>握把(内置)</szItemName>
+		<szLongItemName>握把(内置)</szLongItemName>
+		<szItemDesc>特制的手持握把，可以安装到大部分冲锋枪和突击步枪上，可有效提高射击精度。</szItemDesc>
+		<szBRName>握把(内置)</szBRName>
+		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4096</AttachmentClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
@@ -40636,11 +40647,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1324</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 923</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
+		<szItemName>集成脚架握把(内置)</szItemName>
+		<szLongItemName>集成脚架握把(内置)</szLongItemName>
+		<szItemDesc>集成脚架握把可安装在绝大多数有皮卡汀尼下导轨的现代步枪上。不过它集成的小脚架不如单独的脚架结实。</szItemDesc>
+		<szBRName>集成脚架握把(内置)</szBRName>
+		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4097</AttachmentClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
@@ -40677,11 +40688,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1325</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Nothing</szLongItemName>
-		<szItemDesc>Index 923</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>Nothing</szBRDesc>
+		<szItemName>两脚架(内置)</szItemName>
+		<szLongItemName>两脚架(内置)</szLongItemName>
+		<szItemDesc>通用折叠两脚架，可以提高多数突击步枪，狙击步枪和轻机枪有依托射击的精确度。铝合金制造，亚光漆面。</szItemDesc>
+		<szBRName>两脚架(内置)</szBRName>
+		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>1</AttachmentClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
@@ -45791,7 +45802,7 @@
 		<ubGraphicNum>369</ubGraphicNum>
 		<ubWeight>24</ubWeight>
 		<ItemSize>5</ItemSize>
-		<usPrice>1900</usPrice>
+		<usPrice>1600</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>3</bRepairEase>
 		<Damageable>1</Damageable>
@@ -46291,11 +46302,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1539</uiIndex>
-		<szItemName>万能解药</szItemName>
-		<szLongItemName>万能解药</szLongItemName>
-		<szItemDesc>这个万能解药可以在一段时间后缓慢消除中毒影响。警告：可能导致暂时失明和重度偏头痛。</szItemDesc>
-		<szBRName>万能解药</szBRName>
-		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
+		<szItemName>无此物品</szItemName>
+		<szLongItemName>无此物品</szLongItemName>
+		<szItemDesc>不卖这个,如果你看到了说明游戏快要挂了。</szItemDesc>
+		<szBRName>无此物品</szBRName>
+		<szBRDesc>不卖这个,如果你看到了说明游戏快要挂了。</szBRDesc>
 		<usItemClass>1</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ItemSize>34</ItemSize>
@@ -47402,10 +47413,10 @@
 	<!-- Copies of the claymore item. These are purely meant for the map editor and should not be used otherwise-->
 	<ITEM>
 		<uiIndex>1584</uiIndex><!-->NORTHEAST DIRECTION (map editor only)-->
-		<szItemName>M18阔刀地雷</szItemName>
-		<szLongItemName>M18阔刀地雷</szLongItemName>
+		<szItemName>东北M18阔刀地雷</szItemName>
+		<szLongItemName>东北M18阔刀地雷</szLongItemName>
 		<szItemDesc>M18定向反步兵地雷既可以由绊线引爆，也可以远程引爆，也可以作为普通地雷被引爆。引爆后内置的700颗钢珠会从设定的60度范围内发射出去，最大高度可达2米。小贴士：正面向敌人。</szItemDesc>
-		<szBRName>M18阔刀地雷</szBRName>
+		<szBRName>东北M18阔刀地雷</szBRName>
 		<szBRDesc>用绊线网和这些可爱的小家伙们布置下天罗地网吧。可以远程引爆。设错方向导致自己人伤亡我们可不负责任。</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47434,10 +47445,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1585</uiIndex><!-->EAST DIRECTION (map editor only)-->
-		<szItemName>M18阔刀地雷</szItemName>
-		<szLongItemName>M18阔刀地雷</szLongItemName>
+		<szItemName>东M18阔刀地雷</szItemName>
+		<szLongItemName>东M18阔刀地雷</szLongItemName>
 		<szItemDesc>M18定向反步兵地雷既可以由绊线引爆，也可以远程引爆，也可以作为普通地雷被引爆。引爆后内置的700颗钢珠会从设定的60度范围内发射出去，最大高度可达2米。小贴士：正面向敌人。</szItemDesc>
-		<szBRName>M18阔刀地雷</szBRName>
+		<szBRName>东M18阔刀地雷</szBRName>
 		<szBRDesc>用绊线网和这些可爱的小家伙们布置下天罗地网吧。可以远程引爆。设错方向导致自己人伤亡我们可不负责任。</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47466,10 +47477,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1586</uiIndex><!-->SOUTHEAST DIRECTION (map editor only)-->
-		<szItemName>M18阔刀地雷</szItemName>
-		<szLongItemName>M18阔刀地雷</szLongItemName>
+		<szItemName>东南M18阔刀地雷</szItemName>
+		<szLongItemName>东南M18阔刀地雷</szLongItemName>
 		<szItemDesc>M18定向反步兵地雷既可以由绊线引爆，也可以远程引爆，也可以作为普通地雷被引爆。引爆后内置的700颗钢珠会从设定的60度范围内发射出去，最大高度可达2米。小贴士：正面向敌人。</szItemDesc>
-		<szBRName>M18阔刀地雷</szBRName>
+		<szBRName>东南M18阔刀地雷</szBRName>
 		<szBRDesc>用绊线网和这些可爱的小家伙们布置下天罗地网吧。可以远程引爆。设错方向导致自己人伤亡我们可不负责任。</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47498,10 +47509,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1587</uiIndex><!-->SOUTH DIRECTION (map editor only)-->
-		<szItemName>M18阔刀地雷</szItemName>
-		<szLongItemName>M18阔刀地雷</szLongItemName>
+		<szItemName>南M18阔刀地雷</szItemName>
+		<szLongItemName>南M18阔刀地雷</szLongItemName>
 		<szItemDesc>M18定向反步兵地雷既可以由绊线引爆，也可以远程引爆，也可以作为普通地雷被引爆。引爆后内置的700颗钢珠会从设定的60度范围内发射出去，最大高度可达2米。小贴士：正面向敌人。</szItemDesc>
-		<szBRName>M18阔刀地雷</szBRName>
+		<szBRName>南M18阔刀地雷</szBRName>
 		<szBRDesc>用绊线网和这些可爱的小家伙们布置下天罗地网吧。可以远程引爆。设错方向导致自己人伤亡我们可不负责任。</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47530,10 +47541,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1588</uiIndex><!-->SOUTHWEST DIRECTION (map editor only)-->
-		<szItemName>M18阔刀地雷</szItemName>
-		<szLongItemName>M18阔刀地雷</szLongItemName>
+		<szItemName>西南M18阔刀地雷</szItemName>
+		<szLongItemName>西南M18阔刀地雷</szLongItemName>
 		<szItemDesc>M18定向反步兵地雷既可以由绊线引爆，也可以远程引爆，也可以作为普通地雷被引爆。引爆后内置的700颗钢珠会从设定的60度范围内发射出去，最大高度可达2米。小贴士：正面向敌人。</szItemDesc>
-		<szBRName>M18阔刀地雷</szBRName>
+		<szBRName>西南M18阔刀地雷</szBRName>
 		<szBRDesc>用绊线网和这些可爱的小家伙们布置下天罗地网吧。可以远程引爆。设错方向导致自己人伤亡我们可不负责任。</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47562,10 +47573,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1589</uiIndex><!-->WEST DIRECTION (map editor only)-->
-		<szItemName>M18阔刀地雷</szItemName>
-		<szLongItemName>M18阔刀地雷</szLongItemName>
+		<szItemName>西M18阔刀地雷</szItemName>
+		<szLongItemName>西M18阔刀地雷</szLongItemName>
 		<szItemDesc>M18定向反步兵地雷既可以由绊线引爆，也可以远程引爆，也可以作为普通地雷被引爆。引爆后内置的700颗钢珠会从设定的60度范围内发射出去，最大高度可达2米。小贴士：正面向敌人。</szItemDesc>
-		<szBRName>M18阔刀地雷</szBRName>
+		<szBRName>西M18阔刀地雷</szBRName>
 		<szBRDesc>用绊线网和这些可爱的小家伙们布置下天罗地网吧。可以远程引爆。设错方向导致自己人伤亡我们可不负责任。</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47594,10 +47605,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1590</uiIndex><!-->NORTHWEST DIRECTION (map editor only)-->
-		<szItemName>M18阔刀地雷</szItemName>
-		<szLongItemName>M18阔刀地雷</szLongItemName>
+		<szItemName>西北M18阔刀地雷</szItemName>
+		<szLongItemName>西北M18阔刀地雷</szLongItemName>
 		<szItemDesc>M18定向反步兵地雷既可以由绊线引爆，也可以远程引爆，也可以作为普通地雷被引爆。引爆后内置的700颗钢珠会从设定的60度范围内发射出去，最大高度可达2米。小贴士：正面向敌人。</szItemDesc>
-		<szBRName>M18阔刀地雷</szBRName>
+		<szBRName>西北M18阔刀地雷</szBRName>
 		<szBRDesc>用绊线网和这些可爱的小家伙们布置下天罗地网吧。可以远程引爆。设错方向导致自己人伤亡我们可不负责任。</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47627,10 +47638,10 @@
 	<!-- Copies of the tripwire item. These are purely meant for the map editor and should not be used otherwise-->
 	<ITEM>
 		<uiIndex>1591</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线A</szItemName>
+		<szLongItemName>绊线A</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线A</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47657,10 +47668,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1592</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线B</szItemName>
+		<szLongItemName>绊线B</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线B</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47687,10 +47698,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1593</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线C</szItemName>
+		<szLongItemName>绊线C</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线C</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47717,10 +47728,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1594</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线D</szItemName>
+		<szLongItemName>绊线D</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线D</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47747,10 +47758,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1595</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线E</szItemName>
+		<szLongItemName>绊线E</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线E</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47777,10 +47788,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1596</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线F</szItemName>
+		<szLongItemName>绊线F</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线F</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47807,10 +47818,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1597</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线G</szItemName>
+		<szLongItemName>绊线G</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线G</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47837,10 +47848,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1598</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线H</szItemName>
+		<szLongItemName>绊线H</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线H</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47867,10 +47878,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1599</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线I</szItemName>
+		<szLongItemName>绊线I</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线I</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47897,10 +47908,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1600</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线J</szItemName>
+		<szLongItemName>绊线J</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线J</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47927,10 +47938,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1601</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线K</szItemName>
+		<szLongItemName>绊线K</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线K</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47957,10 +47968,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1602</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线L</szItemName>
+		<szLongItemName>绊线L</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线L</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -47987,10 +47998,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1603</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线M</szItemName>
+		<szLongItemName>绊线M</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线M</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -48017,10 +48028,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1604</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线N</szItemName>
+		<szLongItemName>绊线N</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>绊线</szBRName>
+		<szBRName>绊线N</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -48047,10 +48058,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1605</uiIndex>
-		<szItemName>绊线</szItemName>
-		<szLongItemName>绊线</szLongItemName>
+		<szItemName>绊线O</szItemName>
+		<szLongItemName>绊线O</szLongItemName>
 		<szItemDesc>如果你想布置一个错综复杂的地雷网，那么你需要绊线连接各种设备。你知道你该怎么做。</szItemDesc>
-		<szBRName>Tripwire</szBRName>
+		<szBRName>绊线O</szBRName>
 		<szBRDesc>引爆地雷专用绊线。每米仅售10刀，本周特价！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -48513,10 +48524,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1623</uiIndex>
-		<szItemName>random NATO AR number 1</szItemName>
-		<szLongItemName>random NATO AR 1</szLongItemName>
+		<szItemName>随机北约AR编号1</szItemName>
+		<szLongItemName>随机北约AR编号1</szLongItemName>
 		<szItemDesc>如果你看到这个信息，说明Flugente还没有做好这个道具，是他的错！</szItemDesc>
-		<szBRName>random NATO AR 1</szBRName>
+		<szBRName>随机北约AR编号1</szBRName>
 		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
 		<usItemClass>1073741824</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -48536,10 +48547,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1624</uiIndex>
-		<szItemName>random WP AR number 1</szItemName>
-		<szLongItemName>random WP AR 1</szLongItemName>
+		<szItemName>随机WP AR编号1</szItemName>
+		<szLongItemName>随机WP AR编号1</szLongItemName>
 		<szItemDesc>如果你看到这个信息，说明Flugente还没有做好这个道具，是他的错！</szItemDesc>
-		<szBRName>random WP AR 1</szBRName>
+		<szBRName>随机WP AR编号1</szBRName>
 		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
 		<usItemClass>1073741824</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -50678,7 +50689,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<ItemChoiceTimeSetting>2</ItemChoiceTimeSetting>
-		<buddyitem>1699</buddyitem>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -50717,9 +50727,9 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1702</uiIndex>
-		<szItemName>SMALL_SMOKE</szItemName>
-		<szLongItemName>SMALL_SMOKE</szLongItemName>
-		<szBRName>SMALL_SMOKE</szBRName>
+		<szItemName>小型烟雾</szItemName>
+		<szLongItemName>小型烟雾</szLongItemName>
+		<szBRName>小型烟雾</szBRName>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>96</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
@@ -50730,11 +50740,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1703</uiIndex>
-		<szItemName>GAS_EXPLOSION</szItemName>
-		<szLongItemName>GAS_EXPLOSION</szLongItemName>
-		<szItemDesc>GAS_EXPLOSION</szItemDesc>
-		<szBRName>GAS_EXPLOSION</szBRName>
-		<szBRDesc>GAS_EXPLOSION</szBRDesc>
+		<szItemName>瓦斯爆炸</szItemName>
+		<szLongItemName>瓦斯爆炸</szLongItemName>
+		<szItemDesc>内部物品，不要使用！！！</szItemDesc>
+		<szBRName>瓦斯爆炸</szBRName>
+		<szBRDesc>内部物品，不要使用！！！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>97</ubClassIndex>
 		<STAND_MODIFIERS/>
@@ -50743,11 +50753,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1704</uiIndex>
-		<szItemName>FRAG_EXPLOSION</szItemName>
-		<szLongItemName>FRAG_EXPLOSION</szLongItemName>
-		<szItemDesc>FRAG_EXPLOSION</szItemDesc>
-		<szBRName>FRAG_EXPLOSION</szBRName>
-		<szBRDesc>FRAG_EXPLOSION</szBRDesc>
+		<szItemName>手雷类爆炸</szItemName>
+		<szLongItemName>手雷类爆炸</szLongItemName>
+		<szItemDesc>内部物品，不要使用！！！</szItemDesc>
+		<szBRName>手雷类爆炸</szBRName>
+		<szBRDesc>内部物品，不要使用！！！</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>98</ubClassIndex>
 		<NotBuyable>1</NotBuyable>
@@ -51654,10 +51664,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1739</uiIndex>
-		<szItemName>Roof Collapse Smoke</szItemName>
-		<szLongItemName>Roof Collapse Smoke</szLongItemName>
+		<szItemName>屋顶塌陷烟雾</szItemName>
+		<szLongItemName>屋顶塌陷烟雾</szLongItemName>
 		<szItemDesc>内部项目，不要使用!!!</szItemDesc>
-		<szBRName>Roof Collapse Smoke</szBRName>
+		<szBRName>屋顶塌陷烟雾</szBRName>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>102</ubClassIndex>
@@ -51677,7 +51687,7 @@
 		<szLongItemName>苏打</szLongItemName>
 		<szItemDesc>对于一个混合的工业糖和化学物质，你不真的想知道，这肯定是令人耳目一新。</szItemDesc>
 		<szBRName>苏打</szBRName>
-		<szBRDesc>网店无货.</szBRDesc>
+		<szBRDesc>网店无货。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -51703,7 +51713,7 @@
 		<szLongItemName>捕兽夹</szLongItemName>
 		<szItemDesc>任何人不小心踩到，将不得不停留一段时间。</szItemDesc>
 		<szBRName>捕兽夹</szBRName>
-		<szBRDesc>强烈推介.</szBRDesc>
+		<szBRDesc>强烈推介。</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>103</ubClassIndex>
@@ -52138,10 +52148,10 @@
 	</ITEM>	
 	<ITEM>
 		<uiIndex>1755</uiIndex>
-		<szItemName>Molotov light Internal</szItemName>
-		<szLongItemName>Molotov light Internal</szLongItemName>
-		<szItemDesc>INTERNAL ITEM, DO NOT USE!!!</szItemDesc>
-		<szBRName>Flare Internal</szBRName>
+		<szItemName>燃烧弹内部</szItemName>
+		<szLongItemName>燃烧弹内部</szLongItemName>
+		<szItemDesc>内部物品，请勿使用！！！</szItemDesc>
+		<szBRName>燃烧内部</szBRName>
 		<usItemClass>256</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>104</ubClassIndex>
@@ -52162,11 +52172,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1756</uiIndex>
-		<szItemName>E. Blood bag</szItemName>
-		<szLongItemName>Empty blood bag</szLongItemName>
-		<szItemDesc>This blood bag can be filled with the blood of a (hopefully willing) donor.</szItemDesc>
-		<szBRName>Blood bag</szBRName>
-		<szBRDesc>A simple blood bag, used to store blood for medical purposes.</szBRDesc>
+		<szItemName>空血袋</szItemName>
+		<szLongItemName>空血袋</szLongItemName>
+		<szItemDesc>这个血袋可以装满（希望愿意）捐献者的血。</szItemDesc>
+		<szBRName>空血袋</szBRName>
+		<szBRDesc>一种简单的血袋，用于储存用于医疗目的的血。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -52176,6 +52186,7 @@
 		<ItemSize>16</ItemSize>
 		<usPrice>4</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<Medical>1</Medical>
 		<BR_NewInventory>6</BR_NewInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<emptybloodbag>1</emptybloodbag>
@@ -52185,11 +52196,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1757</uiIndex>
-		<szItemName>Blood bag</szItemName>
-		<szLongItemName>Blood bag</szLongItemName>
-		<szItemDesc>This package of fresh blood can be used up to boost a surgery.</szItemDesc>
-		<szBRName>Blood bag</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szItemName>血袋</szItemName>
+		<szLongItemName>血袋</szLongItemName>
+		<szItemDesc>这包新鲜血液袋可以用来进行手术。</szItemDesc>
+		<szBRName>血袋</szBRName>
+		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubCursor>5</ubCursor>
@@ -52203,6 +52214,108 @@
 		<Medical>1</Medical>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<bloodbag>1</bloodbag>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1758</uiIndex>
+		<szItemName>医用夹板</szItemName>
+		<szLongItemName>医用夹板</szLongItemName>
+		<szItemDesc>这个医用夹板可以用来固定四肢，加速愈合。</szItemDesc>
+		<szBRName>医用夹板</szBRName>
+		<szBRDesc>这种通用的医用夹板适合任何手臂和腿，会帮助你更快的痊愈。</szBRDesc>
+		<usItemClass>268435456</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>611</ubGraphicNum>
+		<ubWeight>6</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>16</ItemSize>
+		<usPrice>80</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<Medical>1</Medical>
+		<BR_NewInventory>6</BR_NewInventory>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<medicalsplint>1</medicalsplint>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1759</uiIndex>
+		<szItemName>白烟爆炸</szItemName>
+		<szLongItemName>白烟爆炸</szLongItemName>
+		<szItemDesc>内部物品，请勿使用！！！</szItemDesc>
+		<szBRName>白烟爆炸</szBRName>
+		<usItemClass>512</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>105</ubClassIndex>
+		<ubCursor>18</ubCursor>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>49</ubGraphicNum>
+		<ubWeight>6</ubWeight>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>14</ItemSize>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1760</uiIndex>
+		<szItemName>灭火器瓶</szItemName>
+		<szLongItemName>灭火器瓶</szLongItemName>
+		<szItemDesc>灭火器用的加压瓶。</szItemDesc>
+		<szBRName>灭火器瓶</szBRName>
+		<szBRDesc>BR不卖这个,如果你看到了说明这物品来自于黑市。</szBRDesc>
+		<usItemClass>1024</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>612</ubClassIndex>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>243</ubGraphicNum>
+		<ubWeight>30</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>30</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<GLGrenade>1</GLGrenade>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>	
+	<ITEM>
+		<uiIndex>1761</uiIndex>
+		<szItemName>灭火器</szItemName>
+		<szLongItemName>灭火器</szLongItemName>
+		<szItemDesc>在实际的战斗中没有人们想象的那么有用。虽然我们知道你为什么会犯这样的错误。</szItemDesc>
+		<szBRName>灭火器</szBRName>
+		<szBRDesc>标准灭火器。</szBRDesc>
+		<usItemClass>2</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>1761</ubClassIndex>
+		<ubCursor>20</ubCursor>
+		<ubGraphicNum>373</ubGraphicNum>
+		<ubWeight>5</ubWeight>
+		<ItemSize>7</ItemSize>
+		<usPrice>50</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<bRepairEase>2</bRepairEase>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Metal>1</Metal>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
+		<BR_NewInventory>4</BR_NewInventory>
+		<BR_ROF>12</BR_ROF>
+		<GrenadeLauncher>1</GrenadeLauncher>
+		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<DamageChance>10</DamageChance>
+		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
