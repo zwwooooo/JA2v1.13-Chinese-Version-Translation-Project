@@ -1,4 +1,5 @@
 
+
 ----------------------------------------------------------------------
 中英文一样的文件 TBS Chinese svn7582
 ----------------------------------------------------------------------
@@ -24,6 +25,16 @@ Data-UB\AddOns\Data-UB-Vanilla\TableData\Email\Chinese.EmailSenderNameList.xml
 Data-UB\AddOns\Data-UB-1.13\TableData\Invertory\Chinese.MercStartingGear25.xml
 Data-UB\AddOns\Data-UB-1.13\TableData\Chinese.MercProfiles25.xml
 Data-UB\AddOns\Data-UB-1.13\TableData\Email\Chinese.EmailSenderNameList.xml
+
+
+----------------------------------------------------------------------
+直接翻译的文件
+----------------------------------------------------------------------
+Data-1.13\TableData\Items\AmmoStrings.xml
+Data-1.13\TableData\Items\Item_Transformations.xml
+Data-1.13\TableData\Items\StructureConstruct.xml
+Data-1.13\TableData\Items\StructureDeconstruct.xml
+Data-1.13\TableData\Items\StructureMove.xml
 
 
 ----------------------------------------------------------------------
