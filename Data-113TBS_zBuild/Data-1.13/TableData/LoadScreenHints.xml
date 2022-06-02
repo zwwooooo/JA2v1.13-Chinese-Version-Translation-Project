@@ -716,22 +716,67 @@ The other tags determine in what category this hint falls, and will be displayed
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>138</uiIndex>
-    <szName>Out of first aid kits after a tough fight? You can use a knife on a corpse to retrieve their uniform, cut the uniform to rags and then combine those to create makeshift bandages.</szName>
+    <szName>经过一场艰苦的战斗后，急救箱用完了吗？你可以用一把刀在尸体上取得他们的衣服，把衣服切成碎布，然后把这些碎布结合起来，制成临时绷带。</szName>
     <item>1</item>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>139</uiIndex>
-    <szName>You can block enemy fire by carrying a riot shield in your hand. Better shields block more damage.</szName>
+    <szName>你可以手持防暴盾牌来阻挡敌人的火力。更好的护盾可以阻挡更多的伤害。</szName>
     <item>1</item>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>140</uiIndex>
-    <szName>If you hover with an empty hand over a map structure, you can sometimes interact with it. Sometimes it's just a sound... sometimes it's something more.</szName>
+    <szName>如果您将空手悬停在地图结构上，有时可以与之交互。有时候它只是一个声音。。。有时候，这很重要。</szName>
     <lore>1</lore>
   </LOADSCREENHINT>
   <LOADSCREENHINT>
     <uiIndex>141</uiIndex>
-    <szName>If a spy talks to unalerted enemies, they can try to secretly recruit them to their cause.</szName>
+    <szName>如果一个间谍与不忠诚的敌人交谈，可以尝试秘密招募他们。</szName>
     <covertops>1</covertops>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>142</uiIndex>
+    <szName>1.13特征功能可以打开和关闭！您可以通过特征选项访问它。</szName>
+    <lore>1</lore>
+  </LOADSCREENHINT>
+ <LOADSCREENHINT>
+    <uiIndex>143</uiIndex>
+    <szName>按 [\] 键可以用撬棍或任何双手武器打碎窗户玻璃。</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>144</uiIndex>
+    <szName>按 [A] 打开技能菜单，里面有很多有用的技能操作。</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>145</uiIndex>
+    <szName>按 [SHIFT]+[P] 快速折叠或展开武器枪托。</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>146</uiIndex>
+    <szName>当使用榴弹发射器时，按 [ALT]+[Q] 可以改变投掷角度。（有误）</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>147</uiIndex>
+    <szName>按 [ALT]+[A] 佣兵会自动包扎伤口。</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>148</uiIndex>
+    <szName>按 [Q] 更改武器瞄具模式。</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>149</uiIndex>
+    <szName>按 [ESC] 可以关闭技能菜单，停止移动，停止拖动，停止武器瞄准。</szName>
+    <keybind>1</keybind>
+  </LOADSCREENHINT>
+  <LOADSCREENHINT>
+    <uiIndex>150</uiIndex>
+    <szName>在大地图部署佣兵进入战术地图时，使用方向键移动地图非常有用。</szName>
+    <keybind>1</keybind>
   </LOADSCREENHINT>
 </LOADSCREENHINTS>
