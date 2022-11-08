@@ -6,20 +6,30 @@ Automatically exported from code.google.com/p/ja2v113-chinese-translate-project
 #### 源码部分
 
   * ja2.exe源码  
-    熊窝svn 【https://ja2svn.mooo.com/source/ja2/trunk/GameSource/ja2_v1.13/Build】
+    熊窝svn【https://ja2svn.mooo.com/source/ja2/trunk/GameSource/ja2_v1.13/Build】（2022.xx.xx.xx svn服务器已挂）
+    新的【https://github.com/1dot13/source】
   * TBS 1.13 lang zh_CN ja2.exe源码部分汉化文件托管所在目录：./source
 
 #### GameData 部分
   * 熊窝叫 1.13_GameData_Chinese  
-    svn 【https://ja2svn.mooo.com/source/ja2/trunk/GameData/Chinese_Version】
+    svn【https://ja2svn.mooo.com/source/ja2/trunk/GameData/Chinese_Version】（2022.xx.xx.xx svn服务器已挂）
   * 汉化文件托管所在目录：./gamedata  
     * 汉化相关说明文档所在目录：./gamedata/0_Docs
     * 汉化相关工具所在目录：./gamedata/0_Tools
 
 ### 各分支（跟主分支完全分开的）
 
-  * 分支一：UC1.13汉化   
+  * 分支：1.13 开发版 GameDir Chinese Version
+    原熊窝【https://ja2svn.mooo.com/source/ja2/trunk/GameData/Chinese_Version】（2022.xx.xx.xx svn服务器已挂）
+    https://github.com/zwwooooo/ja2v113-chinese-translate-project/tree/113TBS
+
+  * 分支：1.13 2014稳定版 GameDir Chinese Version
+    原熊窝【https://ja2svn.mooo.com/source/ja2/branches/ja2_data_language_official_2014/Chinese_Version】（2022.xx.xx.xx svn服务器已挂）
+    https://github.com/zwwooooo/ja2v113-chinese-translate-project/tree/113TBS_2014
+
+  * 分支：UC1.13汉化   
     https://github.com/zwwooooo/ja2v113-chinese-translate-project/tree/UC113_TBS
 
-  * 分支二：WF6.06MERC汉化  
+  * 分支：WF6.06MERC汉化  
     https://github.com/zwwooooo/ja2v113-chinese-translate-project/tree/WF606MERC_TBS
+    
