@@ -5,15 +5,10 @@
 ----------------------------------------------------------------------
 Data\TableData\Chinese.MercProfiles.xml
 Data\TableData\Chinese.Vehicles.xml
-Data\TableData\Email\Chinese.EmailSenderNameList.xml
-Data\TableData\EnemyTaunts\Chinese.EnemyTaunts.xml
-Data\TableData\Items\Chinese.AmmoStrings.xml
 Data\TableData\Map\Chinese.Cities.xml
 
 Data-1.13\TableData\Chinese.MercProfiles.xml
 Data-1.13\TableData\Chinese.Vehicles.xml
-Data-1.13\TableData\Email\Chinese.EmailSenderNameList.xml
-Data-1.13\TableData\Items\Chinese.AmmoStrings.xml
 Data-1.13\TableData\Map\Chinese.Cities.xml
 
 
@@ -22,8 +17,8 @@ Data-UB\TableData\Map\Chinese.Cities.xml
 Data-UB\AddOns\Data-UB-Vanilla\TableData\Chinese.MercProfiles25.xml
 Data-UB\AddOns\Data-UB-Vanilla\TableData\Email\Chinese.EmailSenderNameList.xml
 
-Data-UB\AddOns\Data-UB-1.13\TableData\Invertory\Chinese.MercStartingGear25.xml
 Data-UB\AddOns\Data-UB-1.13\TableData\Chinese.MercProfiles25.xml
+Data-UB\AddOns\Data-UB-1.13\TableData\Invertory\Chinese.MercStartingGear25.xml
 Data-UB\AddOns\Data-UB-1.13\TableData\Email\Chinese.EmailSenderNameList.xml
 
 
