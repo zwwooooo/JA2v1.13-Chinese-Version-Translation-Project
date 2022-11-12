@@ -3,4 +3,4 @@
 AIMNAS 需要中文化的文件
 ----------------------------------------------------------------------
 
-转移至 https://github.com/zwwooooo/JA2v1.13-Gamedata-Chinese/tree/AIMNAS_CN
+转移至 https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/AIMNAS_CN
