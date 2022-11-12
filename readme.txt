@@ -30,5 +30,3 @@ ry1808、darkguitar 、sadspark 、ry1808 、sharp198602、cresforce、浮云6生、1942、
 2015.05.19
 
 - 前段时间已从 Google Code（关闭） 转移到 GitHub，最近稍微有时间重玩，发现有些问题，重新整理汉化工作夹
-
-后续：https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/UC113CN
